@@ -1,4 +1,4 @@
-# Vlada Republike Hrvatske – tijela u sastavu (dijagrami)
+# Vlada Republike Hrvatske – tijela u sastavu
 
 ---
 
@@ -22,16 +22,6 @@ flowchart TB
     NOTE1[[Ministri nisu članovi Užeg kabineta]]
 ```
 
-## Uži kabinet Vlade
-
-```mermaid
-flowchart TB
-    UZK[Uži kabinet Vlade]
-    UZK --> PRED[Predsjednik Vlade]
-    UZK --> POTP[Potpredsjednici Vlade]
-
-    NOTE1[[Ministri nisu članovi Užeg kabineta]]
-```
 
 ## Ured predsjednika Vlade
 
