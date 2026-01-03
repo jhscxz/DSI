@@ -205,8 +205,8 @@
 ---
 
 ### 26. Kome je predsjednik gradskog vijeća dužan dostaviti opći akt u roku od 15 dana od dana donošenja?
-- [x] nadležnom upravnom tijelu u čijem je djelokrugu opći akt  
-- [ ] nadležnom tijelu državne uprave u čijem je djelokrugu opći akt  
+- [ ] nadležnom upravnom tijelu u čijem je djelokrugu opći akt  
+- [x] nadležnom tijelu državne uprave u čijem je djelokrugu opći akt  
 - [ ] Ustavnom sudu Republike Hrvatske  
 - [ ] Vrhovnom sudu Republike Hrvatske  
 
@@ -231,13 +231,13 @@
 ### 29. Što je od navedenog oblik neposrednog sudjelovanja građana u odlučivanju o lokalnim poslovima?
 - [ ] građanska inicijativa  
 - [ ] lokalni izbori  
-- [x] predstavničko tijelo  
-- [ ] zbor građana  
+- [ ] predstavničko tijelo  
+- [x] zbor građana  
 
 ---
 
 ### 30. Tko raspisuje izbore za članove vijeća gradskih kotareva?
 - [ ] gradonačelnik  
-- [ ] gradsko vijeće  
+- [x] gradsko vijeće  
 - [ ] pročelnik upravnog tijela  
-- [x] upravno tijelo za mjesnu samoupravu  
+- [ ] upravno tijelo za mjesnu samoupravu  
