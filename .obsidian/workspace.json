@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Troškovi i nagrade u upravnom postupku"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Troškovi i nagrade u upravnom postupku"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Troškovi i nagrade u upravnom postupku"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Troškovi i nagrade u upravnom postupku"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "33a558369f6dde66",
   "lastOpenFiles": [
+    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/2. Osnovni ustrojstveni oblici tijela državne uprave i akti kojima se ustrojavaju.md",
+    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/1. Uvod u sustav državne uprave.md",
+    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/0. RAZNO/_OGLEDNA PITANJA.md",
+    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
     "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/1. Upravni ugovor.md",
     "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/2. Prvostupanjski upravni spor i žalba protiv presude/1. Postupanje prvostupanjskog suda prilikom zaprimanja tužbe i ocjenjivanja pretpostavki za vođenje upravnog spora.md",
     "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/1. Temeljne odredbe i osnovni pojmovi upravnog spora/3. Temeljna načela upravnog spora i njihove karakteristike.md",
@@ -211,11 +215,7 @@
     "2. Sustav državne uprave II/0. RAZNO",
     "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/0. RAZNO",
     "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/6. Izdavanje potvrde za glasovanje i brisanje bilješki u registru birača.md",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/1. Uvod u sustav državne uprave.md",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/2. Osnovni ustrojstveni oblici tijela državne uprave i akti kojima se ustrojavaju.md",
     "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/3. Vrste državnih upravnih organizacija i upravnih organizacija u sastavu ministarstava te njihovo razlikovanje i osnovne vrste područnih jedinica tijela državne uprave.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/1. Temeljna ustavna određenja, Ustavni sud Republike Hrvatske i međunarodni odnosi/3. Međunarodni odnosi/1. Međunarodni ugovori.md",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/4. Akti kojima se uređuje i utvrđuje unutarnje ustrojstvo i unutarnji red tijela državne uprave te njihovi donositelji.md",
-    "3. Sustav lokalne i područne (regionalne) samouprave II/1. Sustav lokalne i područne (regionalne) samouprave/1. Ustrojstvo lokalne i područne (regionalne) samouprave/1. Temeljna načela lokalne samouprave prema Europskoj povelji o lokalnoj samoupravi.md"
+    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/1. Temeljna ustavna određenja, Ustavni sud Republike Hrvatske i međunarodni odnosi/3. Međunarodni odnosi/1. Međunarodni ugovori.md"
   ]
 }
