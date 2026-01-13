@@ -29,3 +29,6 @@ Ovaj repozitorij sadrzi biljeske napravljene prema slajdovima iz sustava e-ucenj
 ## Napomena
 
 Ove biljeske su materijal nastao iz sluzbenih slajdova e-ucenja.
+
+
+
