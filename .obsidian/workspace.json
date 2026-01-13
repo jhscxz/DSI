@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "0fb851ac5f423fc5",
+    "id": "10b4b641d83a8b83",
     "type": "split",
     "children": [
       {
-        "id": "cbfcc876874b4738",
+        "id": "3d791b9857ae5008",
         "type": "tabs",
         "children": [
           {
-            "id": "33a558369f6dde66",
+            "id": "2066749f7265021e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dcd8526a69f0fa0e",
+    "id": "b683e4d28268257d",
     "type": "split",
     "children": [
       {
-        "id": "924f9fa6bb54598a",
+        "id": "c698d20e5e3a6ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "d25921324785a304",
+            "id": "2096eff3446b3470",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "4e5378921b053106",
+            "id": "77338b1cc8c69017",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "9e2852bb497a153f",
+            "id": "61aaf25790a7f292",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "1b30f8d7f0eef903",
+    "id": "f321f7e4d7642a09",
     "type": "split",
     "children": [
       {
-        "id": "cbce684b1cd7d280",
+        "id": "7b2bdf45269430f9",
         "type": "tabs",
         "children": [
           {
-            "id": "5e762280c029c53f",
+            "id": "7c6a031d25f7dd8a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "16c1ae3109144424",
+            "id": "5edd247226b554f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c6f24bf3bc7c1666",
+            "id": "05959fef5713a46d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "515e757fa41e669d",
+            "id": "358370653bc55ccb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "3397403b14b61715",
+            "id": "9fc9c78fe6a19808",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -183,39 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "33a558369f6dde66",
-  "lastOpenFiles": [
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/2. Osnovni ustrojstveni oblici tijela državne uprave i akti kojima se ustrojavaju.md",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/1. Uvod u sustav državne uprave.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/0. RAZNO/_OGLEDNA PITANJA.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/2. Troškovi i nagrade u upravnom postupku.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/1. Upravni postupak/5. Upravni ugovor i troškovi upravnog postupka/1. Upravni ugovor.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/2. Prvostupanjski upravni spor i žalba protiv presude/1. Postupanje prvostupanjskog suda prilikom zaprimanja tužbe i ocjenjivanja pretpostavki za vođenje upravnog spora.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/1. Temeljne odredbe i osnovni pojmovi upravnog spora/3. Temeljna načela upravnog spora i njihove karakteristike.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/1. Temeljne odredbe i osnovni pojmovi upravnog spora/2. Predmet upravnog spora i iznimke od vođenja upravnog spora.md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/1. Temeljne odredbe i osnovni pojmovi upravnog spora/1. Predmet i cilj Zakona o upravnim sporovima te javnopravna tijela na koje se Zakon primjenjuje.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/1. Izbor zastupnika u Hrvatski sabor, Predsjednika RH i članova EP (RH).md",
-    "5. Osnove upravnog postupka, upravnog spora i uredskoga poslovanja II/2. Upravni spor/2. Prvostupanjski upravni spor i žalba protiv presude/3. Sadržaj žalbe u upravnom sporu, način i rok podnošenja žalbe te tijela nadležna za odlučivanje o žalbi.md",
-    "INDEX.base",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/2. Mandat zastupnika u Hrvatskom saboru, Predsjednika Republike Hrvatske i članova Europskog parlamenta iz Republike Hrvatske.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/3. Izborne jedinice na izborima za zastupnika Hrvatskom saboru, Predsjednika Republike Hrvatske i članova Europskog parlamenta iz Republike Hrvatske.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/4. Pravo sudjelovanja u diobi zastupničkih mjesta u Hrvatskom saboru odnosno za člana Europskog parlamenta iz RH i prava pripadnika nacionalnih manjima i hrvatskih državljana koji nemaju prebivalište u RH na zastupljenost u Hrvatskom saboru.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/5. Zaštita izbornog prava.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/6. Izborna promidžba.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/1. Izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom saboru i članova Europskog parlamenta iz Republike Hrvatske/7. Osiguranje i raspolaganje sredstvima za pokriće troškova izbora.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/2. Političke stranke/1. Pojam političkih stranaka te način njihova djelovanja i upravljanja.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/1. Registar birača.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/2. Vođenje registra birača.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/3. Prava stranaka u odnosu na registar birača.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/4. Zatvaranje registra birača te zaključivanje popisa za glasovanje u diplomatsko – konzularnim predstavništvima RH.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/5. Aktivna registracija, prethodna registracija i privremeni upis u registar birača.md",
-    "2. Sustav državne uprave II/3. Ustrojstvo i rad Vlade Republike Hrvatske/0. RAZNO",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/0. RAZNO",
-    "3. Sustav lokalne i područne (regionalne) samouprave II/0. RAZNO",
-    "2. Sustav državne uprave II/0. RAZNO",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/0. RAZNO",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/4. Izborni  sustav – izbor Predsjednika Republike Hrvatske, zastupnika u Hrvatskom  saboru i članova Europskog parlamenta iz Republike Hrvatske, političke  stranke i registar birača/3. Registar birača/6. Izdavanje potvrde za glasovanje i brisanje bilješki u registru birača.md",
-    "2. Sustav državne uprave II/1. Ustrojstvo državne uprave/1. Sustav državne uprave/3. Vrste državnih upravnih organizacija i upravnih organizacija u sastavu ministarstava te njihovo razlikovanje i osnovne vrste područnih jedinica tijela državne uprave.md",
-    "1. Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije II/1. Temeljna ustavna određenja, Ustavni sud Republike Hrvatske i međunarodni odnosi/3. Međunarodni odnosi/1. Međunarodni ugovori.md"
-  ]
+  "active": "2066749f7265021e",
+  "lastOpenFiles": []
 }
