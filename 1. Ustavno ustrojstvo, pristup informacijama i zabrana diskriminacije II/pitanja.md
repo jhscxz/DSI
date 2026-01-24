@@ -991,3 +991,415 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 
 **Tko vodi vanjsku politiku Republike Hrvatske?**  
 - Vlada Republike Hrvatske, uz suradnju s Predsjednikom Republike Hrvatske.
+
+---
+# Državni ispit – I. razina  
+## Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije  
+### Ogledna pitanja – ponuđeni odgovori
+
+---
+
+### 1. Kojim se aktom uređuju položaj, djelokrug i ustroj grada Zagreba kao glavnog grada Republike Hrvatske?
+- statutom  
+- **zakonom** ✅  
+- uredbom  
+- ustavom  
+
+---
+
+### 2. O kojoj fazi u postupku promjene Ustava Republike Hrvatske Hrvatski sabor ne glasuje?
+- o pristupanju promjeni Ustava  
+- **o nacrtu promjene Ustava** ✅  
+- o promjeni Ustava  
+- o proglašenju promjene Ustava  
+
+---
+
+### 3. Koliko se štitova s povijesnim hrvatskim grbovima nalazi u kruni grba Republike Hrvatske?
+- 4  
+- **5** ✅  
+- 6  
+- 7  
+
+---
+
+### 4. Tko provodi postupak kandidiranja sudaca Ustavnog suda Republike Hrvatske?
+- Vlada Republike Hrvatske  
+- Predsjednik Republike Hrvatske  
+- **odbor Hrvatskog sabora nadležan za Ustav** ✅  
+- odbor Hrvatskog sabora nadležan za imenovanja  
+
+---
+
+### 5. Tko potvrđuje međunarodne ugovore vojne naravi?
+- Predsjednik Republike Hrvatske  
+- **Hrvatski sabor** ✅  
+- ministar obrane  
+- ministar hrvatskih branitelja  
+
+---
+
+### 6. Kojim se brojem glasova zastupnika u Hrvatskom saboru donosi prethodna odluka o udruživanju Republike Hrvatske u saveze s drugim državama?
+- 1/2 glasova svih zastupnika  
+- 1/3 glasova svih zastupnika  
+- 1/4 glasova svih zastupnika  
+- **2/3 glasova svih zastupnika** ✅  
+
+---
+
+### 7. Što od navedenog nije pravo zastupnika u Hrvatskome saboru?
+- predlagati zakone  
+- podnijeti interpelaciju o radu Vlade Republike Hrvatske  
+- postavljati zastupnička pitanja pojedinim ministrima  
+- **sazvati sjednicu Vlade Republike Hrvatske za vrijeme trajanja ratnog stanja** ✅  
+
+---
+
+### 8. Koji je od navedenih poslova u nadležnosti Hrvatskoga sabora?
+- davanje pomilovanja  
+- **odlučivanje o ratu i miru** ✅  
+- raspisivanje izbora za predsjednika Republike Hrvatske  
+- odlučivanje o suglasnosti zakona s Ustavom Republike Hrvatske  
+
+---
+
+### 9. Bez odobrenja kojeg se tijela protiv Predsjednika Republike Hrvatske ne može pokrenuti kazneni postupak?
+- Hrvatskoga sabora  
+- **Ustavnog suda Republike Hrvatske** ✅  
+- Vrhovnog suda Republike Hrvatske  
+- Državnog odvjetništva Republike Hrvatske  
+
+---
+
+### 10. Koja od navedenih ovlasti nije ovlast Vlade Republike Hrvatske?
+- **donošenje državnog proračuna** ✅  
+- usmjeravanje rada državne uprave  
+- usmjeravanje razvitka javnih službi  
+- vođenje vanjske i unutarnje politike  
+
+---
+
+### 11. Koliko se članova Državnog sudbenog vijeća bira iz redova sudaca?
+- 2  
+- 5  
+- **7** ✅  
+- 11  
+
+---
+
+### 12. Koje tijelo na prijedlog Vlade Republike Hrvatske imenuje Glavnog državnog odvjetnika?
+- **Hrvatski sabor** ✅  
+- Državno sudbeno vijeće  
+- Državno odvjetničko vijeće  
+- Ustavni sud Republike Hrvatske  
+
+---
+
+### 13. Kojim se aktom određuju područja jedinica lokalne i područne (regionalne) samouprave?
+- ustavom  
+- **zakonom** ✅  
+- statutom  
+- uredbom  
+
+---
+
+### 14. Tko od navedenih obavlja poslove iz lokalnog djelokruga kojima se neposredno ostvaruju potrebe građana?
+- županije  
+- **općine** ✅  
+- ministarstva  
+- državne upravne organizacije  
+
+---
+
+### 15. Koja se od navedenih sloboda prema Ustavu Republike Hrvatske ne može ograničiti u slučaju neposredne opasnosti za opstanak države?
+- sloboda dopisivanja  
+- sloboda rada  
+- **sloboda savjesti** ✅  
+- sloboda znanstvenog stvaralaštva  
+
+---
+
+### 16. Koje od navedenih prava pripada kategoriji gospodarskih, socijalnih i kulturnih prava prema Ustavu Republike Hrvatske?
+- pravo na pristup informacijama koje posjeduju tijela državne vlasti  
+- pravo na slobodno udruživanje radi zaštite vlastitih probitaka  
+- **pravo na zaradu** ✅  
+- pravo na javno okupljanje  
+
+---
+
+### 17. Koje od navedenih kaznenih djela ne zastarijeva?
+- silovanje  
+- protupravno oduzimanje slobode  
+- širenje i prenošenje zaraznih bolesti  
+- **ratno profiterstvo počinjeno u vrijeme Domovinskog rata** ✅  
+
+---
+
+### 18. Koliko traje mandat Povjerenika za informiranje?
+- četiri godine  
+- **pet godina** ✅  
+- šest godina  
+- sedam godina  
+
+---
+
+### 19. Koje tijelo obavlja nadzor nad provedbom Zakona o provedbi Opće uredbe o zaštiti podataka?
+- pučki pravobranitelj  
+- Hrvatski sabor  
+- Ured povjerenika za informiranje  
+- **Agencija za zaštitu osobnih podataka** ✅  
+
+---
+
+### 20. Što od navedenog nije osnova za zaštitu od diskriminacije prema Zakonu o suzbijanju diskriminacije?
+- rasa  
+- dob  
+- članstvo u sindikatu  
+- **regionalna pripadnost** ✅  
+
+---
+# Državni ispit – II. razina  
+## Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije  
+### Ogledna pitanja – ponuđeni odgovori
+
+---
+
+### 1. Tko, u skladu s Ustavom i zakonom, odlučuje o uređivanju gospodarskih, pravnih i političkih odnosa u Republici Hrvatskoj?
+- **Hrvatski sabor** ✅  
+- Vlada Republike Hrvatske  
+- Ustavni sud Republike Hrvatske  
+- Predsjednik Republike Hrvatske  
+
+---
+
+### 2. Koliko je glasova zastupnika u Hrvatskom saboru potrebno za utvrđivanje Nacrta promjene Ustava Republike Hrvatske?
+- **većina glasova svih zastupnika** ✅  
+- jedna trećina glasova svih zastupnika  
+- jedna trećina glasova zastupnika prisutnih na sjednici Hrvatskog sabora  
+- jedna petina glasova zastupnika prisutnih na sjednici Hrvatskog sabora  
+
+---
+
+### 3. Za koliko se najdulje, nakon isteka mandata, mandat suca Ustavnog suda RH može produžiti ako novi sudac nije stupio na dužnost?
+- 3 mjeseca  
+- **6 mjeseci** ✅  
+- 9 mjeseci  
+- 12 mjeseci  
+
+---
+
+### 4. Na koji način građani Republike Hrvatske odlučuju o stvarima iz nadležnosti Europskog parlamenta?
+- putem zastupnika u Hrvatskom saboru  
+- putem povjerenika u Europskom parlamentu  
+- **putem izabranih predstavnika u Europskom parlamentu** ✅  
+- putem Ministarstva vanjskih i europskih poslova  
+
+---
+
+### 5. Koji od navedenih akata zastupnici u Hrvatskom saboru nemaju pravo predlagati?
+- ustav  
+- ustavni zakon  
+- zakon  
+- **državni proračun** ✅  
+
+---
+
+### 6. Tko od navedenih nema ovlast zahtijevati sazivanje izvanredne sjednice Hrvatskog sabora?
+- Predsjednik Republike Hrvatske  
+- predsjednik Vlade Republike Hrvatske  
+- **većina članova Vlade Republike Hrvatske** ✅  
+- većina zastupnika u Hrvatskom saboru  
+
+---
+
+### 7. Koliko traje mandat pučkog pravobranitelja?
+- 5 godina  
+- **6 godina** ✅  
+- 7 godina  
+- 8 godina  
+
+---
+
+### 8. Koje tijelo Predsjednik Republike Hrvatske, nakon izbora, obavještava o podnošenju ostavke na članstvo u političkoj stranci?
+- **Hrvatski sabor** ✅  
+- Ustavni sud Republike Hrvatske  
+- Vladu Republike Hrvatske  
+- Državno izborno povjerenstvo Republike Hrvatske  
+
+---
+
+### 9. Kojim se aktom utvrđuje tekst svečane prisege predsjednika i članova Vlade RH?
+- zakonom  
+- Ustavom Republike Hrvatske  
+- **Poslovnikom Hrvatskog sabora** ✅  
+- Poslovnikom Vlade Republike Hrvatske  
+
+---
+
+### 10. Tko od navedenih ne može pokrenuti pitanje povjerenja Vladi Republike Hrvatske?
+- predsjednik Hrvatskog sabora  
+- predsjednik Vlade Republike Hrvatske  
+- 1/2 zastupnika u Hrvatskom saboru  
+- **1/3 zastupnika u Hrvatskom saboru** ✅  
+
+---
+
+### 11. Koji je od navedenih poslova u djelokrugu Vrhovnog suda RH?
+- **osiguravanje ravnopravnosti svih u primjeni prava** ✅  
+- nadzor zakonitosti izbora za zastupnike u Hrvatski sabor  
+- nadzor financiranja izborne promidžbe  
+- rješavanje sukoba nadležnosti između tijela zakonodavne, izvršne i sudbene vlasti  
+
+---
+
+### 12. Uz čije odobrenje sudac može biti pritvoren zbog kaznenog djela učinjenog u obavljanju sudačke dužnosti?
+- **uz odobrenje Državnog sudbenog vijeća** ✅  
+- uz odobrenje Ustavnog suda  
+- uz odobrenje Hrvatskog sabora  
+- uz odobrenje Vlade Republike Hrvatske  
+
+---
+
+### 13. Koliko puta osoba može biti izabrana za člana Državnoodvjetničkog vijeća?
+- najviše jedanput  
+- **najviše dva puta** ✅  
+- najviše tri puta  
+- najviše četiri puta  
+
+---
+
+### 14. Kako se ostvaruje pravo na lokalnu samoupravu?
+- **preko lokalnih predstavničkih tijela** ✅  
+- preko zborova građana  
+- preko referenduma  
+- preko gradonačelnika  
+
+---
+
+### 15. Koji su od navedenih poslova u djelokrugu županija?
+- **poslovi koji se odnose na urbanističko planiranje** ✅  
+- poslovi koji se odnose na primarnu zdravstvenu zaštitu  
+- poslovi koji se odnose na zaštitu potrošača  
+- poslovi koji se odnose na protupožarnu zaštitu  
+
+---
+
+### 16. Kojim se aktom većim gradovima mogu dati ovlasti županije?
+- **zakonom** ✅  
+- statutom  
+- pravilnikom  
+- poslovnikom  
+
+---
+
+### 17. Uz koji se uvjet pritvorenik može pustiti da se brani sa slobode?
+- ako prizna krivnju  
+- ako do sada nije bio osuđivan  
+- uz oduzimanje putovnice  
+- **uz zakonsko jamstvo** ✅  
+
+---
+
+### 18. Koje od navedenih prava pripada gospodarskim, socijalnim i kulturnim pravima?
+- **pravo na rad** ✅  
+- pravo na javno okupljanje  
+- pravo na sudjelovanje u obavljanju javnih poslova  
+- pravo na pristup informacijama  
+
+---
+
+### 19. Koje od navedenih prava nema Savjet za nacionalne manjine?
+- pravo davati mišljenja i prijedloge o tretiranju manjinskih pitanja u programima javnih radiopostaja  
+- pravo predlagati tijelima državne vlasti raspravu o pitanjima važnima za manjinu  
+- pravo tražiti podatke i izvješća od tijela JLP(R)S  
+- **pravo biti obaviješten o svakom pitanju o kojem raspravljaju radna tijela predstavničkog tijela** ✅  
+
+---
+
+### 20. Koliko često Vlada RH podnosi Hrvatskom saboru izvješće o provođenju Ustavnog zakona o pravima nacionalnih manjina?
+- najmanje jednom u tri godine  
+- najmanje jednom u dvije godine  
+- **najmanje jednom godišnje** ✅  
+- najmanje dvaput godišnje  
+
+---
+
+### 21. Koji je od navedenih poslova u nadležnosti Povjerenika za informiranje?
+- informiranje javnosti o aktivnostima tijela državne uprave  
+- priprema priopćenja za javnost sa zatvorenih sjednica Vlade  
+- **provođenje inspekcijskog nadzora nad provedbom ZPPI** ✅  
+- obavljanje stručnih poslova za odbore Hrvatskoga sabora  
+
+---
+
+### 22. Koje tijelo donosi odluku o upravnoj novčanoj kazni za povrede GDPR-a?
+- visoki prekršajni sud  
+- ministarstvo nadležno za pravosuđe  
+- **Agencija za zaštitu osobnih podataka** ✅  
+- nadležni porezni ured Ministarstva financija  
+
+---
+
+### 23. Kako se naziva stavljanje u nepovoljniji položaj osobe po osnovi boje kože, vjere ili uvjerenja?
+- restrikcija  
+- demoralizacija  
+- diskreditacija  
+- **diskriminacija** ✅  
+
+---
+
+### 24. Koje tijelo koordinira rad županijskih povjerenstava za ravnopravnost spolova?
+- Pravobranitelj za ravnopravnost spolova  
+- **Ured za ravnopravnost spolova Vlade RH** ✅  
+- Odbor za ravnopravnost spolova Hrvatskoga sabora  
+- Odbor za ljudska prava i prava nacionalnih manjina Hrvatskoga sabora  
+
+---
+
+### 25. Na koliko se izbornih jedinica dijeli područje RH na izborima za Hrvatski sabor?
+- 5  
+- **10** ✅  
+- 15  
+- 20  
+
+---
+
+### 26. Kada počinje izborna promidžba na izborima za Predsjednika RH?
+- **danom stupanja na snagu odluke o raspisivanju izbora** ✅  
+- u roku od 12 dana od dana raspisivanja izbora  
+- danom objave liste kandidata  
+- 24 sata prije dana održavanja izbora  
+
+---
+
+### 27. Što je politička stranka?
+- državno tijelo koje politički djeluje  
+- **pravna osoba koja politički djeluje prema programu i statutu** ✅  
+- pravna osoba koja provodi politiku Vlade RH  
+- državno tijelo koje provodi politiku Vlade RH  
+
+---
+
+### 28. S koliko najmanje godina državljanin RH može postati član političke stranke?
+- s 15 godina  
+- sa 16 godina  
+- **s 18 godina** ✅  
+- s 21 godinom  
+
+---
+
+### 29. Koje tijelo vodi evidenciju birača koji nemaju prebivalište u RH?
+- nadležno upravno tijelo Grada Zagreba  
+- **Ministarstvo nadležno za poslove uprave** ✅  
+- nadležno upravno tijelo Zagrebačke županije  
+- Državno izborno povjerenstvo RH  
+
+---
+
+### 30. Kada građanin ima pravo pregledati svoj upis u registar birača tijekom izbora?
+- **od dana raspisivanja izbora do 24 sata prije dana održavanja izbora** ✅  
+- najkasnije 10 dana prije izbora  
+- najkasnije do 10. dana nakon raspisivanja izbora  
+- na dan izborne šutnje  
+
+---
