@@ -794,20 +794,20 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 * Razmjerni izborni sustav.
 
 **Koliki je izborni prag za izbore za Europski parlament?**  
-* ***5 %**.
+* **5 %**.
 
 ---
 
 ## Zastupnici nacionalnih manjina i dijaspore
 
 **Koliko zastupnika u Hrvatskom saboru biraju pripadnici srpske nacionalne manjine?**  
-* ***Tri** zastupnika.
+* **Tri** zastupnika.
 
 **Koliko zastupnika u Hrvatskom saboru biraju pripadnici mađarske nacionalne manjine?**  
-* ***Jednog** zastupnika.
+* **Jednog** zastupnika.
 
 **Koliko zastupnika u Hrvatski sabor mogu izabrati birači bez prebivališta u Republici Hrvatskoj?**  
-* ***Tri** zastupnika.
+* **Tri** zastupnika.
 
 ---
 
@@ -993,6 +993,89 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 - Vlada Republike Hrvatske, uz suradnju s Predsjednikom Republike Hrvatske.
 
 ---
+
+## Dodatna pitanja – rokovi
+
+### Ustavni sud
+
+**Koliko dugo Ustavni sud može ocjenjivati ustavnost zakona ili drugih propisa koji su prestali važiti?**  
+➡️ Ako od prestanka važenja do podnošenja zahtjeva nije prošlo više od **jedne godine**.
+
+**Koliko traje mandat suca Ustavnog suda Republike Hrvatske?**  
+➡️ **8 godina.**
+
+**Koliko se najdulje može produžiti mandat suca Ustavnog suda ako novi sudac nije stupio na dužnost?**  
+➡️ Iznimno najdulje **6 mjeseci**.
+
+**U kojem roku Ustavni sud mora donijeti odluku o odgovornosti Predsjednika Republike za povredu Ustava?**  
+➡️ U roku od **30 dana** od zaprimanja prijedloga.
+
+---
+
+### Hrvatski sabor
+
+**U kojem roku se održava prvo zasjedanje Hrvatskoga sabora nakon izbora?**  
+➡️ Najkasnije **20 dana** nakon provedenih izbora.
+
+**U kojem roku se moraju održati izbori za zastupnike u Hrvatski sabor nakon isteka mandata ili raspuštanja Sabora?**  
+➡️ Najkasnije **60 dana**.
+
+**U kojem slučaju Predsjednik Republike može raspustiti Hrvatski sabor zbog državnog proračuna?**  
+➡️ Ako Sabor u roku od **120 dana** od dana predlaganja ne donese državni proračun.
+
+**Kada zakon u pravilu stupa na snagu?**  
+➡️ Najranije **osmog dana od dana objave**, osim ako je zakonom drukčije određeno.
+
+---
+
+### Predsjednik Republike Hrvatske
+
+**Što se događa ako nijedan kandidat u prvom krugu izbora za Predsjednika RH ne dobije većinu glasova?**  
+➡️ Održava se **drugi krug nakon 14 dana**.
+
+**Kada se raspisuju izbori za Predsjednika Republike Hrvatske?**  
+➡️ **30 do 60 dana prije isteka mandata**.
+
+**U kojem roku se moraju održati izbori za novog Predsjednika Republike ako dužnost preuzme privremeni predsjednik?**  
+➡️ U roku od **60 dana**.
+
+**Kada novoizabrani Predsjednik Republike stupa na dužnost?**  
+➡️ **Posljednjeg dana mandata** prethodnog predsjednika.
+
+---
+
+### Vlada Republike Hrvatske
+
+**U kojem roku je mandatar dužan predstaviti Vladu i program Hrvatskom saboru?**  
+➡️ Odmah po sastavljanju Vlade, a najkasnije u roku od **30 dana** od prihvaćanja mandata.
+
+**Može li se mandataru produžiti rok za sastavljanje Vlade?**  
+➡️ Da, Predsjednik Republike može produžiti rok **za najviše još 30 dana**.
+
+**U kojem roku se mora provesti rasprava i glasovanje o povjerenju Vladi?**  
+➡️ Najkasnije u roku od **30 dana** od dana dostave prijedloga Saboru.
+
+**Kada se ne može raspravljati i glasovati o povjerenju Vladi?**  
+➡️ Prije isteka **7 dana** od dana dostave prijedloga Hrvatskom saboru.
+
+---
+
+### Pristup informacijama (ključni rokovi)
+
+**U kojem roku tijelo javne vlasti mora odlučiti o zahtjevu za pristup informaciji?**  
+➡️ Najkasnije u roku od **15 dana** od dana podnošenja urednog zahtjeva.
+
+**U kojem roku se može izjaviti žalba Povjereniku za informiranje protiv rješenja tijela javne vlasti?**  
+➡️ U roku od **15 dana** od dana dostave rješenja.
+
+**U kojem roku se može podnijeti prigovor na zapisnik inspektora?**  
+➡️ U roku od **8 dana** od dana primitka zapisnika.
+
+**U kojem roku Povjerenik za informiranje odlučuje o prigovoru na zapisnik inspektora?**  
+➡️ U roku od **30 dana** od primitka prigovora.
+
+---
+
 # Državni ispit – I. razina  
 ## Ustavno ustrojstvo, pristup informacijama i zabrana diskriminacije  
 ### Ogledna pitanja – ponuđeni odgovori
@@ -1009,9 +1092,9 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 
 ### 2. O kojoj fazi u postupku promjene Ustava Republike Hrvatske Hrvatski sabor ne glasuje?
 - o pristupanju promjeni Ustava  
-- **o nacrtu promjene Ustava** ✅  
+- o nacrtu promjene Ustava  
 - o promjeni Ustava  
-- o proglašenju promjene Ustava  
+- **o proglašenju promjene Ustava**  ✅ 
 
 ---
 
@@ -1214,9 +1297,9 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 
 ### 7. Koliko traje mandat pučkog pravobranitelja?
 - 5 godina  
-- **6 godina** ✅  
+- 6 godina 
 - 7 godina  
-- 8 godina  
+- 8 godina  ✅  
 
 ---
 
@@ -1229,18 +1312,18 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 ---
 
 ### 9. Kojim se aktom utvrđuje tekst svečane prisege predsjednika i članova Vlade RH?
-- zakonom  
+- zakonom  ✅  
 - Ustavom Republike Hrvatske  
-- **Poslovnikom Hrvatskog sabora** ✅  
+- Poslovnikom Hrvatskog sabora 
 - Poslovnikom Vlade Republike Hrvatske  
 
 ---
 
 ### 10. Tko od navedenih ne može pokrenuti pitanje povjerenja Vladi Republike Hrvatske?
-- predsjednik Hrvatskog sabora  
+- **predsjednik Hrvatskog sabora**  ✅ 
 - predsjednik Vlade Republike Hrvatske  
 - 1/2 zastupnika u Hrvatskom saboru  
-- **1/3 zastupnika u Hrvatskom saboru** ✅  
+- 1/3 zastupnika u Hrvatskom saboru
 
 ---
 
@@ -1365,9 +1448,9 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 ---
 
 ### 26. Kada počinje izborna promidžba na izborima za Predsjednika RH?
-- **danom stupanja na snagu odluke o raspisivanju izbora** ✅  
+- danom stupanja na snagu odluke o raspisivanju izbora  
 - u roku od 12 dana od dana raspisivanja izbora  
-- danom objave liste kandidata  
+- **danom objave liste kandidata**  ✅ 
 - 24 sata prije dana održavanja izbora  
 
 ---
@@ -1389,16 +1472,16 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 ---
 
 ### 29. Koje tijelo vodi evidenciju birača koji nemaju prebivalište u RH?
-- nadležno upravno tijelo Grada Zagreba  
-- **Ministarstvo nadležno za poslove uprave** ✅  
+- **nadležno upravno tijelo Grada Zagreba**  ✅ 
+- Ministarstvo nadležno za poslove uprave  
 - nadležno upravno tijelo Zagrebačke županije  
 - Državno izborno povjerenstvo RH  
 
 ---
 
 ### 30. Kada građanin ima pravo pregledati svoj upis u registar birača tijekom izbora?
-- **od dana raspisivanja izbora do 24 sata prije dana održavanja izbora** ✅  
-- najkasnije 10 dana prije izbora  
+- od dana raspisivanja izbora do 24 sata prije dana održavanja izbora 
+- **najkasnije 10 dana prije izbora** ✅    
 - najkasnije do 10. dana nakon raspisivanja izbora  
 - na dan izborne šutnje  
 
