@@ -1,6 +1,7 @@
 # DSI – Bilješke (razina II)
 
 Ovaj repozitorij sadrži **bilješke za pripremu ispita državnog stručnog ispita – razina II**, izrađene prema službenim **slajdovima iz sustava e-Učenje**.
+Uz bilješke, izrađeni su i **sažeci (cheatsheets) prema priručnicima** te su **dodana pitanja za svaki predmet** radi lakšeg ponavljanja i samoprovjere znanja.
 
 Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhije mapa i pojedinačnih Markdown (`.md`) datoteka, s ciljem:
 - lakšeg učenja
@@ -26,6 +27,9 @@ Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhi
 - Unutar mapa nalaze se:
   - teme i podteme
   - strukturirane prema logici službenih nastavnih materijala.
+- Repozitorij uključuje i:
+  - sažetke (`CHEATSHEETS/`) izrađene prema priručnicima
+  - pitanja za svaki predmet, za ponavljanje i provjeru znanja
 - Sve datoteke su u **Markdown formatu**, prilagođene:
   - učenju
   - ponavljanju
@@ -57,7 +61,7 @@ Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhi
 
 ## Napomena
 
-Bilješke su izrađene **na temelju službenih materijala e-Učenja**, ali su:
+Bilješke i sažeci izrađeni su **na temelju službenih materijala e-Učenja i priručnika**, ali su:
 - proširene
 - pojašnjene
 - strukturirane u svrhu učinkovitijeg učenja i ponavljanja.
