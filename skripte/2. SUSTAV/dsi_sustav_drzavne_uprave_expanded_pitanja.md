@@ -1,10 +1,10 @@
-# DSI Sustav Državne Uprave Expanded + 150 Pitanja
+# DSI Sustav Državne Uprave Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_sustav_drzavne_uprave_cheat_sheet.md`.
 
-Namjena:
+## Namjena
 - dodatno širenje gradiva
-- 150 mogućih pitanja s kratkim odgovorima
+- 190 mogućih pitanja s kratkim odgovorima
 - fine formulacije i klasične zamke
 
 ## Što dodatno učiti
@@ -26,10 +26,12 @@ Posebno razlikuj:
 - `pravilnik o unutarnjem redu` nije provedbeni propis
 - `naredba` je podzakonski propis, ali nije provedbeni propis
 - `provedba državne politike` i `upravni nadzor` ne povjeravaju se
-- podruzne jedinice ne mogu biti u sjedistu tijela
+- područne jedinice ne mogu biti u sjedištu tijela
 - o sukobu nadležnosti tijela državne uprave odlučuje `Vlada`
+- `načelnik` vodi sektor, a `voditelj` gotovo sve druge niže jedinice
+- posebne ustrojstvene jedinice nisu isto što i redovna hijerarhija `sektor / služba / odjel`
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Koja su dva temeljna zakona sustava državne uprave?  
    `Zakon o ustrojstvu i djelokrugu tijela državne uprave i Zakon o sustavu državne uprave.`
@@ -49,11 +51,11 @@ Posebno razlikuj:
 6. Jesu li tijela državne uprave dužna pribavljati podatke iz službenih evidencija po službenoj dužnosti?  
    `Da.`
 
-7. Tko nadoknaduje štetu fizickoj ili pravnoj osobi zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave?  
+7. Tko nadoknađuje štetu fizičkoj ili pravnoj osobi zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave?  
    `Republika Hrvatska.`
 
 8. Kako se ustrojava ministarstvo?  
-   `Iskljucivo zakonom.`
+   `Isključivo zakonom.`
 
 9. Tko je čelnik ministarstva?  
    `Ministar.`
@@ -74,10 +76,10 @@ Posebno razlikuj:
    `Najmanje dvije.`
 
 15. Što su državne upravne organizacije?  
-   `Tijela državne uprave ustrojena za jedno ili vise upravnih područja koja traže osobitu samostalnost ili posebne uvjete rada.`
+   `Tijela državne uprave ustrojena za jedno ili više upravnih područja koja traže osobitu samostalnost ili posebne uvjete rada.`
 
 16. Navedi vrste državnih upravnih organizacija koje se tipično pitaju.  
-   `Sredisnji državni ured, državna uprava, državni zavod, državni inspektorat, državno ravnateljstvo.`
+   `Središnji državni ured, državna uprava, državni zavod, državni inspektorat, državno ravnateljstvo.`
 
 17. Tko je čelnik središnjeg državnog ureda?  
    `Državni tajnik središnjeg državnog ureda.`
@@ -88,7 +90,7 @@ Posebno razlikuj:
 19. Tko je u pravilu čelnik državnog zavoda ili državne uprave?  
    `Glavni ravnatelj.`
 
-20. Jesu li celnici državnih upravnih organizacija u pravilu državni dužnosnici?  
+20. Jesu li čelnici državnih upravnih organizacija u pravilu državni dužnosnici?  
    `Da.`
 
 21. Što su upravne organizacije u sastavu ministarstava?  
@@ -110,9 +112,9 @@ Posebno razlikuj:
    `Ne, u pravilu rukovodeći državni službenici.`
 
 27. Koje su osnovne vrste područnih jedinica?  
-   `Podrucni ured i ispostava.`
+   `Područni uredi, područne službe, područni odjeli, ispostave i samostalni izvršitelji.`
 
-28. Mogu li podruzne jedinice biti ustrojene u sjedistu tijela državne uprave?  
+28. Mogu li područne jedinice biti ustrojene u sjedištu tijela državne uprave?  
    `Ne.`
 
 29. Čime se uređuje unutarnje ustrojstvo tijela državne uprave?  
@@ -136,7 +138,7 @@ Posebno razlikuj:
 35. Tko može donijeti naredbu?  
    `Čelnik tijela državne uprave kada je za to izrijekom ovlašten zakonom.`
 
-36. Koje se vrste poslova državne uprave ne povjeravaju ni u kojem slucaju?  
+36. Koje se vrste poslova državne uprave ne povjeravaju ni u kojem slučaju?  
    `Provedba državne politike i upravni nadzor.`
 
 37. Kome se pojedini poslovi državne uprave mogu povjeriti?  
@@ -148,7 +150,7 @@ Posebno razlikuj:
 39. Tko usmjerava i nadzire rad državne uprave?  
    `Vlada RH.`
 
-40. Što cini Uži kabinet Vlade?  
+40. Što čini Uži kabinet Vlade?  
    `Predsjednik Vlade i potpredsjednici Vlade.`
 
 41. Tko vodi Ured predsjednika Vlade?  
@@ -187,7 +189,7 @@ Posebno razlikuj:
    `Da, kao pravilo.`
 
 52. Kada se javnost rada može isključiti?  
-   `Samo iznimno kada je to propisano zakonom ili pravnom stecevinom EU.`
+   `Samo iznimno kada je to propisano zakonom ili pravnom stečevinom EU.`
 
 53. Tko pribavlja podatke iz službenih evidencija za stranku?  
    `Tijelo državne uprave po službenoj dužnosti.`
@@ -213,11 +215,11 @@ Posebno razlikuj:
 60. Kako se u pravilu zove čelnik središnjeg državnog ureda?  
    `Državni tajnik središnjeg državnog ureda.`
 
-61. Jesu li državne upravne organizacije u pravilu ustrojene za jedno ili vise upravnih područja?  
+61. Jesu li državne upravne organizacije u pravilu ustrojene za jedno ili više upravnih područja?  
    `Da.`
 
 62. Zasto se osnivaju državne upravne organizacije?  
-   `Kad posao traži osobitu samostalnost, posebne uvjete rada ili je to nuzno radi EU obveza.`
+   `Kad posao traži osobitu samostalnost, posebne uvjete rada ili je to nužno radi EU obveza.`
 
 63. Koje su tipične upravne organizacije u sastavu ministarstva?  
    `Uprava, zavod, inspektorat, ravnateljstvo i ured.`
@@ -258,7 +260,7 @@ Posebno razlikuj:
 75. Jesu li uredovni dani obvezni?  
    `Ne.`
 
-76. Što sadrzi odluka o uredovnim danima?  
+76. Što sadrži odluka o uredovnim danima?  
    `Poslove koji se obavljaju te mjesto i vrijeme uredovnih dana.`
 
 77. Kada se donosi godisnji plan rada?  
@@ -300,13 +302,13 @@ Posebno razlikuj:
 89. Što je uredovno vrijeme tijela državne uprave?  
    `Vrijeme određeno za rad sa strankama i obavljanje uredovnih poslova prema pravilima organizacije rada.`
 
-90. Jesu li podruzni uredi i ispostave podruzne jedinice?  
+90. Jesu li područni uredi i ispostave područne jedinice?  
    `Da.`
 
-91. Mogu li podruzne jedinice biti u sjedistu tijela?  
+91. Mogu li područne jedinice biti u sjedištu tijela?  
    `Ne.`
 
-92. Tko nadoknaduje štetu zbog nezakonitog rada uprave prema gradaninu?  
+92. Tko nadoknađuje štetu zbog nezakonitog rada uprave prema građaninu?  
    `Republika Hrvatska.`
 
 93. Koje poslove u pravilu obavljaju namještenici?  
@@ -315,7 +317,7 @@ Posebno razlikuj:
 94. Jesu li državni dužnosnici službene osobe?  
    `Da.`
 
-95. Tko može zamijeniti ministra u slucaju odsutnosti ili spriječenosti?  
+95. Tko može zamijeniti ministra u slučaju odsutnosti ili spriječenosti?  
    `Samo državni tajnik.`
 
 96. Odgovara li čelnik državne upravne organizacije Vladi?  
@@ -418,7 +420,7 @@ Posebno razlikuj:
    `Trajno pripremati prijedloge i razmatrati pitanja iz djelokruga Vlade.`
 
 129. Koja je svrha povremenih radnih tijela Vlade?  
-   `Razmatrati pojedina posebna ili privremena pitanja prema odluci Vlade.`
+   `Razmatrati pojedina posebna ili privremena pitanja prema odluči Vlade.`
 
 130. Koje akte Vlada najčešće donosi?  
    `Uredbe, odluke, rješenja i zaključke.`
@@ -482,3 +484,123 @@ Posebno razlikuj:
 
 150. Što je najčešća zamka kod djelokruga tijela državne uprave?  
    `Pogrešna tvrdnja da ga uređuje Vlada uredbom, a ne zakon.`
+
+151. Čime se uređuje djelokrug tijela državne uprave?  
+   `Zakonom.`
+
+152. Tko donosi uredbu o unutarnjem ustrojstvu tijela državne uprave?  
+   `Vlada Republike Hrvatske.`
+
+153. Tko donosi pravilnik o unutarnjem redu ministarstva?  
+   `Ministar.`
+
+154. Jesu li područne jedinice samostalna tijela državne uprave?  
+   `Ne.`
+
+155. Što je područna jedinica najkraće rečeno?  
+   `Organizacijski oblik rada tijela državne uprave na terenu.`
+
+156. Jesu li upravne organizacije u sastavu ministarstva samostalna tijela državne uprave?  
+   `Ne.`
+
+157. Kada se u pravilu ustrojava državna upravna organizacija?  
+   `Kad upravno područje traži osobitu samostalnost ili posebne uvjete rada.`
+
+158. Tko upravlja ministarstvom?  
+   `Ministar.`
+
+159. Tko može zamjenjivati ministra u slučaju odsutnosti ili spriječenosti?  
+   `Državni tajnik, ako je tako određeno.`
+
+160. Što je osnovna razlika između dužnosnika i državnog službenika?  
+   `Dužnosnik obnaša političku ili javnu dužnost, a državni službenik obavlja stručne poslove u državnoj upravi.`
+
+161. Jesu li namještenici službene osobe?  
+   `Ne.`
+
+162. Koja je osnovna razlika između upravnog i inspekcijskog nadzora?  
+   `Upravni nadzor prati zakonitost rada i akata, a inspekcijski nadzor neposredno provjerava provedbu propisa kod nadziranih subjekata.`
+
+163. Što je javna ustanova?  
+   `Ustanova osnovana za trajno obavljanje javne službe.`
+
+164. Je li javna ustanova tijelo državne uprave?  
+   `Ne.`
+
+165. Tko vodi unutarnju i vanjsku politiku RH?  
+   `Vlada Republike Hrvatske.`
+
+166. Kada Vlada može odlučivati na sjednici?  
+   `Kad je sjednici nazočna većina članova Vlade.`
+
+167. Koji se akti Vlade RH najčešće pitaju na ispitu?  
+   `Uredbe, odluke, rješenja i zaključci.`
+
+168. Što je Uži kabinet Vlade?  
+   `Uži radni sastav Vlade za usklađivanje i pripremu njezina rada.`
+
+169. Što je najčešća pogreška kod pitanja o unutarnjem ustrojstvu?  
+   `Miješanje uredbe o unutarnjem ustrojstvu s pravilnikom o unutarnjem redu.`
+
+170. Što je najčešća pogreška kod pitanja o područnoj organizaciji?  
+   `Pretpostavka da je područna jedinica zasebno tijelo državne uprave.`
+
+171. Što su posebne ustrojstvene jedinice u tijelima državne uprave?  
+   `Glavno tajništvo, kabinet čelnika tijela državne uprave, samostalna ustrojstvena jedinica za unutarnju reviziju, samostalna ustrojstvena jedinica za drugostupanjski postupak i ured rukovoditelja upravne organizacije u sastavu ministarstva.`
+
+172. Jesu li odsjek i zavod posebne ustrojstvene jedinice?  
+   `Ne.`
+
+173. Kako se u ministarstvu ustrojava glavno tajništvo?  
+   `Prema pravilima za upravu.`
+
+174. Kako se u državnoj upravnoj organizaciji ustrojava glavno tajništvo?  
+   `Prema pravilima za sektor.`
+
+175. Kako se u pravilu ustrojava kabinet čelnika tijela državne uprave?  
+   `Prema pravilima za odjel.`
+
+176. Kada se kabinet može ustrojiti kao služba?  
+   `Ako tijelo ima 1.000 i više izvršitelja.`
+
+177. Kada se kabinet može ustrojiti kao sektor?  
+   `Ako tijelo ima 10.000 i više izvršitelja.`
+
+178. Tko rukovodi kabinetom čelnika tijela?  
+   `Tajnik kabineta.`
+
+179. Koje poslove obavlja kabinet čelnika tijela?  
+   `Stručnu i administrativnu potporu čelniku, protokol, odnose s javnošću, pristup informacijama, predstavke i pritužbe te druge stručne i administrativne poslove.`
+
+180. Obavlja li kabinet zaprimanje žalbi na pojedinačne akte?  
+   `Ne.`
+
+181. Kada se može ustrojiti ured rukovoditelja upravne organizacije u sastavu ministarstva?  
+   `Ako je to predviđeno posebnim zakonom ili ako organizacija ima 500 i više izvršitelja.`
+
+182. Kako se ustrojava ured rukovoditelja upravne organizacije?  
+   `Prema pravilima za odjel.`
+
+183. Koliko službi mora imati sektor?  
+   `Najmanje dvije službe.`
+
+184. Koliko odjela mora imati služba?  
+   `Najmanje dva odjela.`
+
+185. Koliko izvršitelja mora imati odjel?  
+   `Najmanje pet izvršitelja, uključujući voditelja.`
+
+186. Kada se služba ili samostalna služba može ustrojiti bez odjela?  
+   `Ako ima najmanje sedam izvršitelja.`
+
+187. Koliko izvršitelja traži odsjek, a koliko pododsjek?  
+   `Odsjek četiri, a pododsjek tri izvršitelja.`
+
+188. Tko rukovodi sektorom i samostalnim sektorom?  
+   `Načelnik.`
+
+189. Tko rukovodi službom, samostalnom službom, odjelom, odsjekom i pododsjekom?  
+   `Voditelj.`
+
+190. Što rukovoditelji ustrojstvenih jedinica predlažu i što supotpisuju?  
+   `Predlažu raspored i plan rada te supotpisuju nacrte akata iz svog djelokruga.`

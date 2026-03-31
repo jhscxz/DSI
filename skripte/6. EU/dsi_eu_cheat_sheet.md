@@ -675,7 +675,7 @@ Podjela nadležnosti:
 
 `Isključiva nadležnost EU`
 - carinska unija
-- pravila tržišnog natjecanja potrebna za unutarnje tržište
+- pravila tržišnog natječanja potrebna za unutarnje tržište
 - monetarna politika za države europodručja
 - očuvanje morskih bioloških resursa u okviru zajedničke ribarstvene politike
 - zajednička trgovinska politika
@@ -942,6 +942,32 @@ Ako se traže primjeri, prepoznaj:
 
 ---
 
+## Dodatna matrica za ponavljanje
+
+### Tko što radi u institucionalnoj jezgri
+
+- `Europsko vijeće` daje političke smjernice i poticaje razvoja EU
+- `Europska komisija` predlaže propise, nadzire primjenu prava EU i zastupa opći interes Unije
+- `Vijeće Europske unije` predstavlja države članice i zajedno s Parlamentom donosi zakonodavne akte
+- `Europski parlament` predstavlja građane EU i zajedno s Vijećem sudjeluje u zakonodavstvu i proračunu
+- `Sud Europske unije` osigurava poštivanje prava u tumačenju i primjeni Ugovora
+
+### Akt i pravni učinak
+
+- `uredba` se izravno primjenjuje u svim državama članicama
+- `direktiva` obvezuje glede rezultata koji treba postići, ali državama ostavlja izbor oblika i metoda
+- `odluka` je obvezujuća u cijelosti za one kojima je upućena
+- `preporuke` i `mišljenja` nisu obvezujući
+
+### Hrvatska i EU u šest točaka
+
+- zahtjev za članstvo: `2003.`
+- status kandidata: `2004.`
+- otvaranje pregovora: `2005.`
+- Ugovor o pristupanju: `2011.`
+- referendum o pristupanju: `2012.`
+- članstvo u EU: `1. srpnja 2013.`
+
 ## Najopasnije zamjene na ispitu
 
 - `Europsko vijeće` = šefovi država/vlada, strateški smjer, ne donosi zakone
@@ -1126,3 +1152,23 @@ Ako se traže primjeri, prepoznaj:
 - `8 tjedana`: supsidijarnost, nacionalni parlamenti
 - `12 tjedana`: javna savjetovanja Komisije
 - `2 godine`: stabilnost tečaja za euro
+
+### Koordinacija europskih poslova u RH
+
+- koordinacija se odvija između `Hrvatskog sabora` i `Vlade RH`
+- temeljni nacionalni propis je `Zakon o suradnji Hrvatskoga sabora i Vlade RH u europskim poslovima` iz `2013.`
+- središnju ulogu u Saboru ima `Odbor za europske poslove`
+- Sabor nadzire rad Vlade RH u europskim poslovima i primjenu načela `supsidijarnosti`
+
+### Proračun EU u tri koraka
+
+- `Komisija` predlaže proračun
+- `Europski parlament` i `Vijeće EU` donose proračun
+- `Revizorski sud` nadzire zakonitost i pravilnost trošenja
+
+### Što RH dobiva i što mora dati
+
+- RH ima pravo koristiti sredstva iz `fondova EU`
+- RH sudjeluje u radu `institucija EU`
+- RH mora poštovati `pravnu stečevinu EU`
+- RH ima obvezu `financijskog doprinosa proračunu EU-a`

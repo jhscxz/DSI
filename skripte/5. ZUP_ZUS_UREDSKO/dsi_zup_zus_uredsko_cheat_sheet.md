@@ -244,7 +244,7 @@ Bitno:
 Stranci se mora omogućiti izjašnjavanje o:
 - svim činjenicama
 - okolnostima
-- pravnim pitanjima vaznim za rješavanje stvari
+- pravnim pitanjima važnim za rješavanje stvari
 
 Bez izjasnjavanja stranke postupak se može provesti samo:
 - ako se usvaja njezin zahtjev
@@ -291,8 +291,8 @@ Trik pitanja:
 Zapisnik se sastavlja o:
 - usmenoj raspravi
 - očevidu
-- drugoj vaznijoj radnji
-- vaznijim usmenim izjavama
+- drugoj važnijoj radnji
+- važnijim usmenim izjavama
 
 Ako je pravilno sastavljen:
 - ima karakter `javne isprave`
@@ -376,7 +376,7 @@ Moguća pitanja:
 
 ## 3. ZUP: Rokovi, odluke i pravni lijekovi
 
-### 3.1. Rokovi i obavjescivanje
+### 3.1. Rokovi i obavješćivanje
 
 Vrste rokova:
 - `zakonski`
@@ -471,7 +471,7 @@ Bez vremenskog ograničenja:
 Moguća pitanja:
 - Koji su rokovi za obnovu postupka?
 
-### 3.6. Zastita od postupanja javnopravnih tijela i pružatelja javnih usluga
+### 3.6. Zaštita od postupanja javnopravnih tijela i pružatelja javnih usluga
 
 Ako zainteresirana osoba smatra da je postupanjem javnopravnog tijela povrijedeno njezino pravo:
 - tijelo mora odgovoriti u roku od `15 dana`
@@ -817,7 +817,43 @@ Moguća pitanja:
 
 ---
 
-## 7. Najćesće zamke
+## 7. Dodatna matrica za ponavljanje
+
+### Pravni lijek i protiv čega ide
+
+- `žalba` ide protiv `prvostupanjskog rješenja` u upravnom postupku
+- `prigovor` ide protiv `drugog postupanja` javnopravnog tijela ili pružatelja javnih usluga, kad je to propisano
+- `tužba` pokreće `upravni spor`
+- `žalba protiv presude` ide na `Visoki upravni sud RH`
+
+### Tri para koja se lako miješaju
+
+- `rješenje` odlučuje o upravnoj stvari, `zaključak` uređuje pitanja postupka
+- `klasifikacijska oznaka` označava sadržaj predmeta, `urudžbeni broj` stvaratelja i evidencijski slijed akta
+- `pismohrana` služi odlaganju dovršenih predmeta, `rokovnik` praćenju rokova u radu s aktivnim predmetima
+
+### Uredsko poslovanje u jednoj minuti
+
+- `a.a.` znači da je predmet odložen u pismohranu
+- `pečat` i `žig` s grbom RH imaju poseban režim uporabe i evidencije
+- nestanak pečata oglašava se u `Narodnim novinama` u roku od `8 dana od saznanja`
+- pečat ili žig koji se više ne smije rabiti dostavlja se radi uništenja u roku od `7 dana`
+
+### Rokovi se računaju ovako
+
+- kod roka na `dane` dan dostave ili događaja se `ne računa`, nego rok teče od prvog sljedećeg dana
+- kod roka na `mjesec` ili `godinu` rok istječe onog dana koji po broju odgovara danu od kojeg teče
+- ako takvog dana nema u zadnjem mjesecu, rok istječe `posljednjeg dana tog mjeseca`
+- ako zadnji dan pada na nedjelju, blagdan ili neradni dan, rok istječe `prvog sljedećeg radnog dana`
+
+### Uredsko poslovanje i natpisna ploča
+
+- `rokovnik` služi za praćenje rokova postupanja po predmetima
+- predmet u fizičkom obliku ostaje kod službene osobe do isteka roka
+- natpisna ploča je prema bilješkama `staklena` i `četverokutna`
+- za natpisnu ploču na zgradi koja je kulturno dobro treba prethodno odobrenje nadležnog tijela zaštite kulturnih dobara
+
+## 7. Najčešće zamke
 
 - `žalba` i `prigovor` nisu isto
 - `tužba` u upravnom sporu ide sudu, ne drugostupanjskom upravnom tijelu
@@ -1003,15 +1039,15 @@ Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog 
 - `čelnik tijela`: odlučuje o prigovoru u propisanim slučajevima
 - `upravni sud`: odlučuje u upravnom sporu
 - `Visoki upravni sud RH`: odlučuje o žalbi protiv presude upravnog suda
-- `službena osoba`: vodi postupak, određuje rokove, poduzima proćesne radnje
+- `službena osoba`: vodi postupak, određuje rokove, poduzima procesne radnje
 
 ### Brojke koje se miješaju
 
-- `8 dana`: prigovor, pojedine proćesne reakcije, nestanak pečata
+- `8 dana`: prigovor, pojedine procesne reakcije, nestanak pečata
 - `15 dana`: žalba u ZUP-u, žalba protiv presude u ZUS-u
-- `30 dana`: neposredno rješavanje, opća tužba u ZUS-u, mnogi drugi proćesni rokovi
+- `30 dana`: neposredno rješavanje, opća tužba u ZUS-u, mnogi drugi procesni rokovi
 - `60 dana`: ispitni postupak
 - `90 dana`: posebni slučajevi tužbe i povrat pristojbe
 - `3 godine`: objektivni rok za obnovu
 - `5 godina`: opći rok izvršenja rješenja
-- `7 dana` i `8 dana`: uništenje pečata nasuprot oglasavanju nestanka
+- `7 dana` i `8 dana`: uništenje pečata nasuprot oglašavanju nestanka

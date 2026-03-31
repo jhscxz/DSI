@@ -10,7 +10,7 @@ Namjena:
 
 Važno:
 - cilj nije prepričati cijeli priručnik nego svesti gradivo na ono što se stvarno pita
-- naglasak je na razlikama: `natjecaj / prijam / raspored`, `probni rad / Vježbenik / određeno vrijeme`, `laka / teška povreda`, `prava / dužnosti / etika`
+- naglasak je na razlikama: `natječaj / prijam / raspored`, `probni rad / Vježbenik / određeno vrijeme`, `laka / teška povreda`, `prava / dužnosti / etika`
 
 ---
 
@@ -23,13 +23,13 @@ Za svaku temu nauči:
 4. koja je posljedica ako se obveza ne ispuni
 
 Ako znaš bez greške:
-- pretpostavke za zapošljavanje i javni natjecaj
+- pretpostavke za zapošljavanje i javni natječaj
 - uvjete i zapreke za prijam u državnu službu
 - probni rad i državni ispit
 - premještaj, napredovanje i raspolaganje
 - temeljna prava i dužnosti državnih službenika
 - ocjenjivanje
-- laku i tesku povredu službene dužnosti
+- laku i tešku povredu službene dužnosti
 - udaljenje, štetu, prestanak službe i etiku
 
 onda imaš jezgru predmeta.
@@ -38,7 +38,7 @@ onda imaš jezgru predmeta.
 
 ## 1. Popunjavanje radnih mjesta u državnim tijelima
 
-### 1.1. Nacini popunjavanja
+### 1.1. Načini popunjavanja
 
 Slobodna radna mjesta popunjavaju se:
 - `zapošljavanjem`
@@ -47,7 +47,7 @@ Slobodna radna mjesta popunjavaju se:
 - `rasporedom državnog službenika u skladu sa zakonom`
 
 Bitno:
-- prijam Vježbenika ide putem `javnog natjecaja`
+- prijam Vježbenika ide putem `javnog natječaja`
 - ugovor o djelu nije način popunjavanja radnog mjesta u državnoj službi
 
 Moguća pitanja:
@@ -60,14 +60,14 @@ Trik pitanja:
 
 Bitno:
 - zapošljavanje se provodi u `Centraliziranom sustavu za zapošljavanje`
-- u njemu se planira zapošljavanje, objavljuju natjecaji, podnose prijave, provodi elektronično testiranje i objavljuju rješenja
+- u njemu se planira zapošljavanje, objavljuju natječaji, podnose prijave, provodi elektronično testiranje i objavljuju rješenja
 
 Posebno pamti:
-- do `1. siječnja 2026.` zapošljavanje se provodi isključivo putem `javnog natjecaja`
+- do `1. siječnja 2026.` zapošljavanje se provodi isključivo putem `javnog natječaja`
 
 Moguća pitanja:
-- Putem cega se do 1. siječnja 2026. provodi zapošljavanje u državnoj službi?  
-  `Iskljucivo putem javnog natjecaja.`
+- Putem čega se do 1. siječnja 2026. provodi zapošljavanje u državnoj službi?  
+  `Isključivo putem javnog natječaja.`
 
 ### 1.3. Pretpostavke za zapošljavanje
 
@@ -104,10 +104,10 @@ Moguća pitanja:
 Trik pitanja:
 - plan ne donosi svako državno tijelo samostalno kao konacni akt
 
-### 1.5. Javni natjecaj
+### 1.5. Javni natječaj
 
 Bitno:
-- javni natjecaj raspisuje tijelo državne uprave nadležno za službeničke odnose
+- javni natječaj raspisuje tijelo državne uprave nadležno za službeničke odnose
 - prijave se podnose elektroničnim putem
 - rok za prijavu je `15 dana` od objave u Centraliziranom sustavu
 
@@ -121,7 +121,7 @@ Postupak:
 - rješenje o rasporedu na radno mjesto
 
 Moguća pitanja:
-- Tko raspisuje javni natjecaj za prijam u državnu službu?
+- Tko raspisuje javni natječaj za prijam u državnu službu?
 - Koliki je rok za prijavu?  
   `15 dana.`
 
@@ -135,7 +135,7 @@ Bitno:
 - rezultati testiranja vrijede `tri godine`
 - mogu se koristiti i u drugim postupcima
 - kandidat može traziti ponovno testiranje, a uzima se posljednji rezultat
-- izbor kandidata obavlja se najkasnije u roku od `tri mjeseca` od objave javnog natjecaja
+- izbor kandidata obavlja se najkasnije u roku od `tri mjeseca` od objave javnog natječaja
 
 Intervju:
 - provodi komisija koju imenuje čelnik državnog tijela koje zapošljava
@@ -144,7 +144,7 @@ Moguća pitanja:
 - Koliko vrijede rezultati testiranja?  
   `Tri godine.`
 - U kojem roku se obavlja izbor kandidata?  
-  `Najkasnije u roku od tri mjeseca od objave javnog natjecaja.`
+  `Najkasnije u roku od tri mjeseca od objave javnog natječaja.`
 
 ### 1.7. Rješenje o prijmu i pravna zaštita
 
@@ -211,7 +211,7 @@ Prijam u državnu službu je u pravilu:
 - uz obvezni probni rad od `3 mjeseca`
 
 Za Vježbenike:
-- vježbenički staz traje `12 mjeseci`
+- vježbenički staž traje `12 mjeseci`
 
 Za prijam na određeno vrijeme:
 - ako se može predvidjeti da će služba trajati najmanje `6 mjeseci`, probni rad je `2 mjeseca`
@@ -281,7 +281,7 @@ Iznimka:
 Broj izlazaka:
 - najviše `3 puta` za svaku razinu
 
-Troskovi:
+Troškovi:
 - prvo polaganje plaća državno tijelo
 - drugo i treće polaganje plaća službenik
 
@@ -390,7 +390,7 @@ Redovito:
 
 Izvanredno:
 - službenik ne ispunjava uvjet potrebnog iskustva za višu razinu obrazovanja, ali ispunjava ostale uvjete
-- mora imati `dvostruko vise` radnog iskustva od propisanog
+- mora imati `dvostruko više` radnog iskustva od propisanog
 - mora u istom tijelu raditi neprekidno `dvije godine`
 - ne može izvanredno napredovati na `rukovodeće radno mjesto`
 
@@ -473,7 +473,7 @@ Trik pitanja:
 ### 6.2. Plaće i radni uvjeti
 
 Bitno:
-- plaće i druga materijalna prava uredjuju se posebnim zakonom
+- plaće i druga materijalna prava uređuju se posebnim zakonom
 - kolektivnim ugovorom mogu se urediti materijalna i druga prava
 - puno radno vrijeme je u pravilu `40 sati tjedno`
 - državni službenik ima pravo na dnevni odmor, tjedni odmor i godišnji odmor prema zakonu i kolektivnom ugovoru
@@ -541,7 +541,7 @@ Bitno:
 ### 7.3. Postupak
 
 Bitni rokovi:
-- protiv rješenja za laku povredu službenik može izjaviti žalbu Sluzbenickom sudu u roku od `15 dana`
+- protiv rješenja za laku povredu službenik može izjaviti žalbu Službenickom sudu u roku od `15 dana`
 - Službenički sud odlučuje o žalbi najkasnije u roku od `15 dana`
 
 ### 7.4. Udaljenje iz službe
@@ -557,7 +557,7 @@ Moguća pitanja:
 
 ## 8. Odgovornost za štetu i prestanak državne službe
 
-### 8.1. Steta
+### 8.1. Šteta
 
 Bitno:
 - državni službenik je dužan naknaditi štetu koju u službi ili u vezi sa službom namjerno ili krajnjom nepaznjom nanese državnom tijelu
@@ -612,7 +612,7 @@ Bitno:
 Trik pitanja:
 - pitanja često miješaju `etičnost`, `efikasnost`, `zakonitost` i `odgovornost za rezultate`
 
-### 9.3. Prituzbe i tijela za postupanje
+### 9.3. Pritužbe i tijela za postupanje
 
 Po pritužbama u pravilu postupa:
 - `povjerenik za etiku`
@@ -636,11 +636,50 @@ Moguća pitanja:
 
 ---
 
+## 10. Dodatna matrica za ponavljanje
+
+### Statusne situacije koje se lako pomiješaju
+
+- `javni natječaj` je pravilo za prijam u državnu službu
+- `probni rad` nije isto što i `vježbenički staž`
+- `premještaj` nije isto što i `napredovanje`
+- `raspolaganje` nije kazna nego statusna posljedica reorganizacije ili ukidanja poslova
+
+### Tko odlučuje i tko štiti pravo
+
+- o prijmu, rasporedu i većini statusnih pitanja odlučuje `čelnik tijela`, ako zakonom nije drukčije propisano
+- o žalbama u službeničkim odnosima odlučuje `Odbor za državnu službu`
+- u etičkim pitanjima prvo postupa `povjerenik za etiku`
+- na razini sustava provedbu Etičkog kodeksa prati `Etičko povjerenstvo`
+
+### Rokovi koji se zajedno pamte
+
+- prijava na javni natječaj: `15 dana`
+- izbor kandidata: najkasnije `3 mjeseca`
+- opći rok za polaganje državnog ispita: `1 godina`
+- viša razina državnog ispita nakon rasporeda ili premještaja: `6 mjeseci`
+- godišnje ocjenjivanje: najkasnije do `28. veljače`
+
+### Državni ispit u jednoj minuti
+
+- `I. razina` veže se uz radna mjesta za koja je uvjet srednja stručna sprema
+- `II. razina` veže se uz radna mjesta za koja je uvjet viša ili visoka razina obrazovanja prema priručniku
+- službenik s položenim `pravosudnim ispitom` nema obvezu polaganja državnog ispita
+- državni ispit može se polagati najviše `3 puta za svaku razinu`
+- prvo polaganje plaća `državno tijelo`, a drugo i treće `službenik`
+
+### Etički postupak
+
+- svako državno tijelo ima `povjerenika za etiku`
+- po pritužbi u pravilu prvo postupa `povjerenik za etiku`
+- `Etičko povjerenstvo` prati primjenu Etičkog kodeksa i daje mišljenja o njegovoj provedbi
+- članove `Etičkog povjerenstva` imenuje `Vlada RH` na `4 godine`
+
 ## 10. Najčešće zamke
 
 - `položen državni ispit` nije opći uvjet za prijam u državnu službu
-- do `1. siječnja 2026.` zapošljavanje ide isključivo putem `javnog natjecaja`
-- rok za prijavu na javni natjecaj je `15 dana`
+- do `1. siječnja 2026.` zapošljavanje ide isključivo putem `javnog natječaja`
+- rok za prijavu na javni natječaj je `15 dana`
 - rezultati testiranja vrijede `3 godine`
 - probni rad je `3 mjeseca`, a za Vježbenika `12 mjeseci`
 - za prijam na određeno vrijeme od najmanje `6 mjeseci` probni rad je `2 mjeseca`
@@ -664,7 +703,7 @@ Moguća pitanja:
 2. Koliko traje probni rad osobe s radnim iskustvom?  
    `3 mjeseca.`
 
-3. Koliko traje vježbenički staz?  
+3. Koliko traje vježbenički staž?  
    `12 mjeseci.`
 
 4. U kojem roku se u pravilu mora položiti državni ispit?  
@@ -690,7 +729,7 @@ Moguća pitanja:
 
 ---
 
-## 12. Što naučiti vecer prije ispita
+## 12. Što naučiti večer prije ispita
 
 Ako imaš malo vremena, nauči napamet:
 - pretpostavke za zapošljavanje i rok od `15 dana` za prijavu
@@ -711,9 +750,9 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 
 ### Najbitniji rokovi i trajanja
 
-- do `1. siječnja 2026.` zapošljavanje se provodi isključivo putem javnog natjecaja
+- do `1. siječnja 2026.` zapošljavanje se provodi isključivo putem javnog natječaja
   Logika: prijelazno razdoblje zadržava punu formalizaciju i transparentnost prijma.
-- rok za prijavu na javni natjecaj je `15 dana`
+- rok za prijavu na javni natječaj je `15 dana`
   Logika: kandidatima se mora ostaviti realno vrijeme za prijavu, ali i zadržati učinkovitost postupka.
 - rezultati testiranja vrijede `3 godine`
   Logika: time se izbjegava nepotrebno ponavljanje istih provjera sposobnosti.
@@ -727,7 +766,7 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
   Logika: teže povrede i tezi načini prestanka službe povlaće dulju zabranu novog prijma.
 - probni rad je `3 mjeseca`
   Logika: u tom razdoblju tijelo provjerava odgovara li službenik stvarnim zahtjevima radnog mjesta.
-- vježbenički staz traje `12 mjeseci`
+- vježbenički staž traje `12 mjeseci`
   Logika: Vježbenik tek stjeće prakticno iskustvo pa treba dulje uvodno razdoblje.
 - za prijam na određeno vrijeme od najmanje `6 mjeseci`, probni rad je `2 mjeseca`
   Logika: kod kraceg radnog odnosa provjera mora biti kraca i prilagodena trajanju službe.
@@ -785,16 +824,16 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 
 ### Mini-zamke
 
-- `natjecaj` nije isto što i `prijam`
+- `natječaj` nije isto što i `prijam`
 - `prijam` nije isto što i `raspored`
-- `probni rad` nije isto što i `vježbenički staz`
+- `probni rad` nije isto što i `vježbenički staž`
 - `laka povreda` nije isto što i `teška povreda`
 - `raspolaganje` nije isto što i `premještaj`
 - `služba na određeno` ne prelazi automatski u `neodređenu`
 
 ### Pravilo / iznimka
 
-- Pravilo: prijam ide kroz plan zapošljavanja i javni natjecaj.  
+- Pravilo: prijam ide kroz plan zapošljavanja i javni natječaj.  
   Iznimka: postoje zakonske iznimke od plana i prijelazna posebna pravila.
 - Pravilo: prijam je na neodređeno vrijeme uz probni rad.  
   Iznimka: određeno vrijeme, vježbenici i druge posebne situacije imaju drukčija pravila.
@@ -807,7 +846,7 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 
 ### Rok + posljedica
 
-- `15 dana` prijava na natjecaj.  
+- `15 dana` prijava na natječaj.  
   Posljedica: po isteku roka više nema uredne prijave u tom postupku.
 - `3 mjeseca` za izbor kandidata.  
   Posljedica: postupak mora biti dovršen ili zakonito produljen gdje je to dopušteno.
@@ -826,7 +865,7 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 
 ### Tko odlučuje
 
-- `tijelo državne uprave nadležno za službeničke odnose`: raspisuje javni natjecaj, vodi centralizirani sustav
+- `tijelo državne uprave nadležno za službeničke odnose`: raspisuje javni natječaj, vodi centralizirani sustav
 - `čelnik tijela`: donosi rješenje o prijmu, rasporedu, premještaju i drugim statusnim stvarima ako je nadležan
 - `Odbor za državnu službu`: odlučuje o žalbama u službeničkim stvarima
 - `Službenički sud`: odlučuje o teškim povredama službene dužnosti i o žalbama u propisanim slučajevima
@@ -835,13 +874,13 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 
 ### Brojke koje se miješaju
 
-- `15 dana`: prijava na natjecaj, žalba, više drugih pravnih lijekova
+- `15 dana`: prijava na natječaj, žalba, više drugih pravnih lijekova
 - `8. dan`: fikcija dostave javno objavljenog rješenja
 - `3 godine`: valjanost testiranja
 - `3 mjeseca`: probni rad
-- `12 mjeseci`: vježbenički staz
+- `12 mjeseci`: vježbenički staž
 - `2 mjeseca`: probni rad kod određenog vremena od najmanje 6 mjeseci
 - `1 godina`: opći rok za državni ispit
-- `6 mjeseci`: visa razina ispita / pojedine statusne situacije
+- `6 mjeseci`: viša razina ispita / pojedine statusne situacije
 - `2 godine` i `4 godine`: zapreke za novi prijam
 - `5 godina`: čuvanje tajne nakon službe, mandat Odbora za državnu službu

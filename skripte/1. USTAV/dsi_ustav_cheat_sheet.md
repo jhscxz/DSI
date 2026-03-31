@@ -161,6 +161,7 @@ Bitno:
 - grb RH je povijesni hrvatski grb
 - zastava RH: `crvena, bijela, plava` s grbom u sredini
 - himna RH: `Lijepa naša domovino`
+- tekst himne i glazba te način izvođenja i čuvanja uređuju se `zakonom`, a izvornik se čuva prema pravilima propisanim tim režimom
 - u službenoj uporabi su `hrvatski jezik` i `latinično pismo`
 - glavni grad RH je `Zagreb`
 
@@ -479,6 +480,13 @@ Trik pitanja:
 - predsjednik ne vodi Vladu
 - predsjednik ne donosi zakone
 
+Najčešći odnosi `prijedlog / supotpis`:
+- raspuštanje Sabora u ustavnim slučajevima: `prijedlog Vlade + supotpis predsjednika Vlade`
+- uredbe sa zakonskom snagom u izvanrednim okolnostima: `prijedlog Vlade + supotpis predsjednika Vlade`
+- uporaba oružanih snaga kod neposredne ugroženosti: `supotpis predsjednika Vlade`
+- osnivanje diplomatskih misija i konzularnih ureda: `prijedlog Vlade + supotpis predsjednika Vlade`
+- postavljanje i opoziv šefova diplomatskih misija: `supotpis predsjednika Vlade`, uz prethodno mišljenje nadležnog saborskog odbora
+
 ### 3.7. Vlada Republike Hrvatske
 
 Bitno:
@@ -487,8 +495,11 @@ Bitno:
 
 Ključno za ispit:
 - predsjednik Republike daje mandat
+- mandatar `predlaže članove Vlade`
 - Vlada mora uživati povjerenje većine svih zastupnika
 - Sabor nadzire rad Vlade
+- rješenje o imenovanju predsjednika Vlade donosi `Predsjednik Republike uz supotpis predsjednika Hrvatskog sabora`
+- rješenja o imenovanju članova Vlade donosi `predsjednik Vlade uz supotpis predsjednika Hrvatskog sabora`
 
 Trik pitanja:
 - Vlada ne odgovara predsjedniku Republike, nego Saboru
@@ -1093,6 +1104,37 @@ Trik pitanja:
 
 ---
 
+## Dodatna matrica za ponavljanje
+
+### Tko štiti koje pravo
+
+- `pravo na pristup informacijama` u žalbenom postupku štiti `Povjerenik za informiranje`
+- `zaštitu osobnih podataka` nadzire `Agencija za zaštitu osobnih podataka`
+- `opću zaštitu od diskriminacije` koordinira `pučki pravobranitelj`
+- `ravnopravnost spolova` posebno prati `pravobraniteljica za ravnopravnost spolova`
+- `ustavnost i zakonitost izbora i državnog referenduma` nadzire `Ustavni sud RH`
+
+### Tko raspisuje što
+
+- izbore za `Hrvatski sabor` raspisuje `Predsjednik Republike`
+- izbore za `Predsjednika Republike` raspisuje `Vlada RH`
+- `državni referendum` u pravilu raspisuje `Hrvatski sabor`
+- kod izbornih pitanja često se miješaju `raspisivanje`, `provedba` i `nadzor`, a to nisu iste ovlasti
+
+### Tko kome predlaže i tko supotpisuje
+
+- `Predsjednik Republike` povjerava mandat, ali `mandatar` predlaže članove Vlade
+- `Vlada RH` predlaže zakone, druge akte, državni proračun i završni račun Hrvatskom saboru
+- rješenje o imenovanju `predsjednika Vlade` donosi `Predsjednik Republike`, uz `supotpis predsjednika Hrvatskog sabora`
+- rješenja o imenovanju `članova Vlade` donosi `predsjednik Vlade`, uz `supotpis predsjednika Hrvatskog sabora`
+- više predsjedničkih akata u izvanrednim i vanjskopolitičkim poslovima traži `prijedlog Vlade` ili `supotpis predsjednika Vlade`
+
+### Tri prava koja se lako pomiješaju
+
+- `pristup informacijama` štiti transparentnost rada tijela javne vlasti
+- `zaštita osobnih podataka` štiti privatnost i zakonitu obradu podataka o pojedincu
+- `zabrana diskriminacije` štiti jednakost i zabranu neopravdano nepovoljnog postupanja
+
 ## Najopasnije zamjene na ispitu
 
 - `Ustavni sud` = najviše ustavno tijelo, nije dio sudbene vlasti
@@ -1320,7 +1362,7 @@ Trik pitanja:
 
 - `4 godine`: Sabor, predsjednik Ustavnog suda, DSV/DOV
 - `5 godina`: Predsjednik RH, Povjerenik za informiranje
-- `8 godina`: suci Ustavnog suda, pučki pravobranitelj u priručniku, pravobranitelj za ravnopravnost spolova
+- `8 godina`: suci Ustavnog suda, pučki pravobranitelj u priručniku, pravobraniteljica za ravnopravnost spolova
 - `7 dana`: minimalni razmak prije glasovanja o nepovjerenju
 - `15 dana`: pristup informacijama, žalba Povjereniku
 - `20 dana`: prvo zasjedanje Sabora

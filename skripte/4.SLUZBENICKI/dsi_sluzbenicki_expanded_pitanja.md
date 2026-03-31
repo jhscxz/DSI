@@ -1,10 +1,10 @@
-# DSI Službenički Expanded + 150 Pitanja
+# DSI Službenički Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_sluzbenicki_cheat_sheet.md`.
 
-Namjena:
+## Namjena
 - dodatno širenje gradiva
-- 150 mogućih pitanja s kratkim odgovorima
+- 190 mogućih pitanja s kratkim odgovorima
 - fine formulacije i klasične zamke
 
 ## Što dodatno učiti
@@ -19,9 +19,9 @@ Posebno razlikuj:
 ## Fina pitanja i zamke
 
 - položen državni ispit nije opći uvjet za prijam
-- do 1. siječnja 2026. zapošljavanje ide isključivo putem javnog natjecaja
+- do 1. siječnja 2026. zapošljavanje ide isključivo putem javnog natječaja
 - probni rad za vježbenika traje 12 mjeseci, a ne 3
-- služba na određeno vrijeme ne prelazi automatski u neodredenu
+- služba na određeno vrijeme ne prelazi automatski u neodređenu
 - rezultate testiranja vrijede 3 godine
 - državni ispit može se polagati najviše 3 puta za svaku razinu
 - `ne zadovoljava` na ocjenjivanju vodi prestanku službe
@@ -29,13 +29,13 @@ Posebno razlikuj:
 - Etički kodeks donosi Vlada
 - po pritužbi u pravilu postupa povjerenik za etiku
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Kako se popunjavaju slobodna radna mjesta u državnim tijelima?  
-   `Zaposljavanjem, napredovanjem, premještajem ili rasporedom u skladu sa zakonom.`
+   `Zapošljavanjem, napredovanjem, premještajem ili rasporedom u skladu sa zakonom.`
 
-2. Putem cega se do 1. siječnja 2026. provodi zapošljavanje u državnoj službi?  
-   `Iskljucivo putem javnog natjecaja.`
+2. Putem čega se do 1. siječnja 2026. provodi zapošljavanje u državnoj službi?  
+   `Isključivo putem javnog natječaja.`
 
 3. U kojem se sustavu provodi zapošljavanje u državnoj službi?  
    `U Centraliziranom sustavu za zapošljavanje.`
@@ -49,17 +49,17 @@ Posebno razlikuj:
 6. Za koje se razdoblje plan zapošljavanja u pravilu donosi?  
    `Za kalendarsku godinu.`
 
-7. Tko raspisuje javni natjecaj za prijam u državnu službu?  
+7. Tko raspisuje javni natječaj za prijam u državnu službu?  
    `Tijelo državne uprave nadležno za službenicke odnose.`
 
-8. Koliki je rok za prijavu na javni natjecaj?  
+8. Koliki je rok za prijavu na javni natječaj?  
    `15 dana od objave.`
 
-9. Kako se podnose prijave na javni natjecaj?  
+9. Kako se podnose prijave na javni natječaj?  
    `Elektronicnim putem u Centralizirani sustav za zapošljavanje.`
 
 10. Koji su opći uvjeti za prijam u državnu službu?  
-   `Odgovarajuca razina obrazovanja, radno iskustvo osim kod vježbenika, zdravstvena sposobnost i državljanstvo pod zakonskim uvjetima.`
+   `Odgovarajuća razina obrazovanja, radno iskustvo osim kod vježbenika, zdravstvena sposobnost i državljanstvo pod zakonskim uvjetima.`
 
 11. Je li položen državni ispit opći uvjet za prijam?  
    `Ne.`
@@ -67,7 +67,7 @@ Posebno razlikuj:
 12. Koliko vrijede rezultati testiranja kandidata?  
    `Tri godine.`
 
-13. U kojem roku se obavlja izbor kandidata nakon objave natjecaja?  
+13. U kojem roku se obavlja izbor kandidata nakon objave natječaja?  
    `Najkasnije u roku od tri mjeseca.`
 
 14. Tko donosi rješenje o prijmu u državnu službu?  
@@ -88,29 +88,29 @@ Posebno razlikuj:
 19. Koliko traje probni rad osobe s radnim iskustvom?  
    `3 mjeseca.`
 
-20. Koliko traje vježbenicki staz?  
+20. Koliko traje vježbenički staž?  
    `12 mjeseci.`
 
-21. Koliko traje probni rad u službi na određeno vrijeme ako se predvida trajanje od najmanje 6 mjeseci?  
+21. Koliko traje probni rad u službi na određeno vrijeme ako se predviđa trajanje od najmanje 6 mjeseci?  
    `2 mjeseca.`
 
 22. Koje su ocjene na kraju probnog rada?  
    `Zadovoljava i ne zadovoljava.`
 
-23. Što se dogada ako službenik ne zadovolji na probnom radu?  
-   `Drzavna služba mu se otkazuje rješenjem.`
+23. Što se događa ako službenik ne zadovolji na probnom radu?  
+   `Državna služba mu se otkazuje rješenjem.`
 
 24. U kojem roku se mora donijeti rješenje o otkazu zbog nezadovoljavanja na probnom radu?  
    `Najkasnije 15 dana od isteka probnog rada.`
 
 25. Tko je vježbenik?  
-   `Osoba bez radnog iskustva na odgovarajucim poslovima ili s iskustvom kracim od 12 mjeseci.`
+   `Osoba bez radnog iskustva na odgovarajućim poslovima ili s iskustvom kraćim od 12 mjeseci.`
 
 26. Kada vježbenik najranije može pristupiti državnom ispitu?  
    `Tri mjeseca prije isteka probnog rada.`
 
 27. U kojem roku se u pravilu mora položiti državni ispit?  
-   `U roku od godine dana od pocetka rada.`
+   `U roku od godine dana od početka rada.`
 
 28. Koje su dvije razine državnog ispita?  
    `I. i II. razina.`
@@ -136,23 +136,23 @@ Posebno razlikuj:
 35. Može li služba na određeno vrijeme postati služba na neodređeno vrijeme?  
    `Ne.`
 
-36. Može li službenik biti premjesten bez svoje suglasnosti u drugo mjesto rada vise od 50 km udaljeno od mjesta stanovanja ako bi mu se time bitno pogorsale obiteljske prilike?  
+36. Može li službenik biti premješten bez svoje suglasnosti u drugo mjesto rada više od 50 km udaljeno od mjesta stanovanja ako bi mu se time bitno pogoršale obiteljske prilike?  
    `Ne.`
 
 37. Ima li žalba protiv rješenja o premještaju odgodni učinak?  
    `Nema.`
 
-38. Kada se osigurava smjestaj službeniku pri premještaju?  
-   `Kad se premjesta na mjesto rada udaljeno vise od 100 km od mjesta stanovanja.`
+38. Kada se osigurava smještaj službeniku pri premještaju?  
+   `Kad se premješta na mjesto rada udaljeno više od 100 km od mjesta stanovanja.`
 
 39. Što je raspolaganje Vladi RH?  
-   `Status službenika koji se nije mogao rasporediti nakon organizacijskih promjena i drugih zakonskih slucajeva.`
+   `Status službenika koji se nije mogao rasporediti nakon organizacijskih promjena i drugih zakonskih slučajeva.`
 
-40. Što se dogada istekom roka raspolaganja?  
-   `Drzavna služba prestaje po sili zakona i službenik ima pravo na otpremninu.`
+40. Što se događa istekom roka raspolaganja?  
+   `Državna služba prestaje po sili zakona i službenik ima pravo na otpremninu.`
 
 41. Pod kojim uvjetom službenik može redovito napredovati?  
-   `Ako ima ocjenu uspjesan ili visu za prethodnu godinu, postoji slobodno mjesto i ispunjava uvjete.`
+   `Ako ima ocjenu uspješan ili višu za prethodnu godinu, postoji slobodno mjesto i ispunjava uvjete.`
 
 42. Može li službenik izvanredno napredovati na rukovodeće radno mjesto?  
    `Ne.`
@@ -189,7 +189,7 @@ Posebno razlikuj:
 52. Donosi li se plan zapošljavanja samo za jednu godinu?  
    `Ne, može i za dvije ili tri godine.`
 
-53. Je li prijava na javni natjecaj papirnata kao pravilo?  
+53. Je li prijava na javni natječaj papirnata kao pravilo?  
    `Ne, podnosi se elektronički.`
 
 54. Tko provodi intervju s kandidatom?  
@@ -202,46 +202,46 @@ Posebno razlikuj:
    `Kandidat koji je pristupio testiranju.`
 
 57. Kada osoba primljena u državnu službu postaje državni službenik?  
-   `Danom pocetka rada.`
+   `Danom početka rada.`
 
-58. Može li se pocetak rada odgoditi?  
-   `Da, iz opravdanih razloga, najduze tri mjeseca.`
+58. Može li se početak rada odgoditi?  
+   `Da, iz opravdanih razloga, najdulje tri mjeseca.`
 
 59. Što ako primljena osoba ne počne raditi na određeni dan bez opravdanja?  
    `Smatra se da je odustala od prijma.`
 
 60. Koliko puta se državni ispit može polagati za istu razinu?  
-   `Najvise tri puta.`
+   `Najviše tri puta.`
 
 61. Navedi primjer osobe koja u propisanim slučajevima nema obvezu polaganja državnog ispita.  
    `Primjerice službenik s položenim pravosudnim ispitom kada zakon to priznaje.`
 
-62. Što se dogada ako službenik na neodređeno ne položi državni ispit u roku?  
-   `Drzavna služba mu prestaje istekom posljednjeg dana roka.`
+62. Što se događa ako službenik na neodređeno ne položi državni ispit u roku?  
+   `Državna služba mu prestaje istekom posljednjeg dana roka.`
 
-63. Što se dogada ako službenik ne položi visu razinu ispita u roku od 6 mjeseci?  
-   `Rasporeduje se na odgovarajuce mjesto za koje ispunjava uvjete ili ide na raspolaganje.`
+63. Što se događa ako službenik ne položi višu razinu ispita u roku od 6 mjeseci?  
+   `Raspoređuje se na odgovarajuće mjesto za koje ispunjava uvjete ili ide na raspolaganje.`
 
-64. Može li se rok za državni ispit produziti?  
+64. Može li se rok za državni ispit produljiti?  
    `Da, na zahtjev i iz opravdanih razloga.`
 
-65. Do kada se podnosi zahtjev za produzenje roka za državni ispit?  
+65. Do kada se podnosi zahtjev za produljenje roka za državni ispit?  
    `Najkasnije do isteka roka za polaganje.`
 
-66. Koliko najduze može trajati služba na određeno vrijeme zbog privremenih poslova ili povećanog opsega posla?  
-   `Najvise godinu dana.`
+66. Koliko najdulje može trajati služba na određeno vrijeme zbog privremenih poslova ili povećanog opsega posla?  
+   `Najviše godinu dana.`
 
 67. Može li se službenik premjestati po potrebi službe?  
    `Da, pod zakonskim uvjetima.`
 
 68. Što je privremeni premještaj?  
-   `Premjestaj do povratka odsutnog službenika ili dok traju privremeni poslovi, najduze godinu dana.`
+   `Premještaj do povratka odsutnog službenika ili dok traju privremeni poslovi, najdulje godinu dana.`
 
 69. Kada se službenik stavlja na raspolaganje Vladi RH?  
    `Kad se nakon organizacijskih promjena ili u drugim zakonskim slučajevima ne može rasporediti na odgovarajuće radno mjesto.`
 
 70. Na što službenik ima pravo za vrijeme raspolaganja?  
-   `Na placu u višini place iz mjeseca prije stavljanja na raspolaganje.`
+   `Na plaću u visini plaće iz mjeseca prije stavljanja na raspolaganje.`
 
 71. Što slijedi istekom roka raspolaganja?  
    `Prestaje služba po sili zakona i postoji pravo na otpremninu.`
@@ -252,32 +252,32 @@ Posebno razlikuj:
 73. Je li službenik dužan čuvati poslovnu ili profesionalnu tajnu i nakon prestanka službe?  
    `Da, najduže pet godina ako posebnim zakonom nije drukčije.`
 
-74. U kojem roku službenik mora obavijestiti nadredenu osobu o spriječenosti dolaska na posao?  
+74. U kojem roku službenik mora obavijestiti nadređenu osobu o spriječenosti dolaska na posao?  
    `Najkasnije u roku od 24 sata od nastanka razloga, ako je to moguće.`
 
 75. Smije li službenik izvršiti nezakonit nalog?  
    `Ne.`
 
 76. Što mora učiniti službenik ako dobije nalog za koji smatra da je nezakonit?  
-   `Upozoriti nadredenog, a ako je nalog ponovljen postupiti prema zakonskim pravilima.`
+   `Upozoriti nadređenog, a ako je nalog ponovljen postupiti prema zakonskim pravilima.`
 
-77. Tko odlučuje o zahtjevu za zaštitu povrijedenog prava iz radnog odnosa u prvom koraku?  
+77. Tko odlučuje o zahtjevu za zaštitu povrijeđenog prava iz radnog odnosa u prvom koraku?  
    `Poslodavac odnosno državno tijelo.`
 
-78. Koji je rok za zahtjev za zaštitu povrijedenog prava?  
+78. Koji je rok za zahtjev za zaštitu povrijeđenog prava?  
    `15 dana.`
 
 79. U kojem roku poslodavac treba odgovoriti na taj zahtjev?  
    `U roku od 15 dana.`
 
 80. Tko može pokrenuti upravni spor protiv rješenja Odbora za državnu službu?  
-   `Drzavno tijelo i državni službenik.`
+   `Državno tijelo i državni službenik.`
 
 81. Ocjenjuju li se svi službenici svake godine bez iznimke?  
    `Ne.`
 
 82. Tko se ne ocjenjuje redovito prema priručniku?  
-   `Sluzbenici koji su radili manje od sest mjeseci i drugi zakonom predviđeni slučajevi.`
+   `Službenici koji su radili manje od šest mjeseci i drugi zakonom predviđeni slučajevi.`
 
 83. Koja ocjena vodi prestanku službe?  
    `Ne zadovoljava.`
@@ -297,16 +297,16 @@ Posebno razlikuj:
 88. Kada se službenik može udaljiti iz službe?  
    `Kad je pokrenut određeni postupak ili postoje zakonski razlozi zbog kojih bi ostanak u službi štetio interesima službe.`
 
-89. Kolika placa pripada udaljenom službeniku koji uzdrzava obitelj?  
-   `80% place isplacene u mjesecu koji je prethodio udaljenju.`
+89. Kolika plaća pripada udaljenom službeniku koji uzdržava obitelj?  
+   `80% plaće isplaćene u mjesecu koji je prethodio udaljenju.`
 
 90. Što uređuje Etički kodeks državnih službenika i namještenika?  
    `Etička načela, pravila ponašanja i postupanje po pritužbama zbog neetičnog ponašanja.`
 
-91. U kojem roku se podnosi eticka pritužba od saznanja?  
+91. U kojem roku se podnosi etička pritužba od saznanja?  
    `U roku od 60 dana od saznanja.`
 
-92. Koji je krajnji rok za eticku pritužbu od samog dogadaja?  
+92. Koji je krajnji rok za etičku pritužbu od samog događaja?  
    `Najkasnije u roku od 6 mjeseci.`
 
 93. Tko može iznimno postupati po etičkoj pritužbi umjesto povjerenika za etiku?  
@@ -319,16 +319,16 @@ Posebno razlikuj:
    `Na 4 godine.`
 
 96. Što je najčešća zamka kod probnog rada?  
-   `Miješanje redovnog probnog rada od 3 mjeseca s vježbenickim stazom od 12 mjeseci.`
+   `Miješanje redovnog probnog rada od 3 mjeseca s vježbeničkim stažem od 12 mjeseci.`
 
 97. Što je najčešća zamka kod državnog ispita?  
    `Pogrešna tvrdnja da je položen ispit opći uvjet za sam prijam.`
 
 98. Što je najčešća zamka kod službe na određeno vrijeme?  
-   `Pretpostavka da automatski prelazi u neodredenu.`
+   `Pretpostavka da automatski prelazi u neodređenu.`
 
 99. Što je najčešća zamka kod povreda službene dužnosti?  
-   `Miješanje nadležnosti čelnika tijela i službenickog suda.`
+   `Miješanje nadležnosti čelnika tijela i službeničkog suda.`
 
 100. Što je najčešća zamka kod etike?  
    `Miješanje Etičkog kodeksa, povjerenika za etiku i Etičkog povjerenstva.`
@@ -482,3 +482,123 @@ Posebno razlikuj:
 
 150. Što je najčešća zamka kod zaštite dostojanstva na radu?  
    `Miješanje zaštite dostojanstva s disciplinskim postupkom i zanemarivanje obveze poslodavca da osigura zaštitu od uznemiravanja.`
+
+151. Na koji se način u pravilu podnose prijave na javni natječaj?  
+   `Elektroničkim putem u Centralizirani sustav za zapošljavanje.`
+
+152. Koliki je rok za prijavu na javni natječaj?  
+   `15 dana od dana objave javnog natječaja.`
+
+153. U kojem roku se obavlja izbor kandidata nakon objave javnog natječaja?  
+   `Najkasnije u roku od tri mjeseca, uz mogućnost produljenja u zakonom predviđenim slučajevima.`
+
+154. Kada se smatra obavljenom dostava javno objavljenog rješenja kandidatima?  
+   `Istekom osmoga dana od dana javne objave.`
+
+155. Koliko dugo se javno objavljeno rješenje zadržava na mrežnim stranicama?  
+   `Šest mjeseci od dana objave.`
+
+156. Koliko vrijede rezultati testiranja kandidata?  
+   `Tri godine.`
+
+157. Koliko traje probni rad državnog službenika u pravilu?  
+   `Tri mjeseca.`
+
+158. Koliko traje vježbenički staž?  
+   `Dvanaest mjeseci.`
+
+159. Koliko traje probni rad kod prijma na određeno vrijeme od najmanje šest mjeseci?  
+   `Dva mjeseca.`
+
+160. U kojem roku se mora donijeti rješenje o prestanku državne službe zbog nezadovoljavanja na probnom radu?  
+   `Najkasnije u roku od 15 dana od isteka probnog rada.`
+
+161. Koji je opći rok za polaganje državnog ispita?  
+   `Najkasnije u roku od godine dana od dana početka rada.`
+
+162. Koji je rok za polaganje više razine državnog ispita nakon rasporeda ili premještaja na radno mjesto te razine?  
+   `Šest mjeseci.`
+
+163. Do kada se provodi godišnje ocjenjivanje državnih službenika?  
+   `Najkasnije do 28. veljače tekuće godine za prethodnu kalendarsku godinu.`
+
+164. Tko odlučuje o žalbama u službeničkim odnosima?  
+   `Odbor za državnu službu.`
+
+165. Tko u pravilu prvi postupa po etičkoj pritužbi?  
+   `Povjerenik za etiku.`
+
+166. U kojem roku povjerenik za etiku postupa po pritužbi?  
+   `U roku od 15 dana od primitka pritužbe.`
+
+167. Na koliko godina se imenuju članovi Etičkog povjerenstva?  
+   `Na četiri godine.`
+
+168. Što je najčešća pogreška kod pitanja o probnom radu i vježbenicima?  
+   `Miješanje probnog rada s vježbeničkim stažem.`
+
+169. Što je najčešća pogreška kod pitanja o državnom ispitu?  
+   `Miješanje općeg roka od jedne godine s posebnim rokovima za pojedine statusne situacije.`
+
+170. Što je najčešća pogreška kod pitanja o etici?  
+   `Miješanje povjerenika za etiku, Etičkog povjerenstva i disciplinskih tijela.`
+
+171. Kada vježbenik može pristupiti polaganju državnog ispita?  
+   `Najranije tri mjeseca prije isteka vježbeničkog staža.`
+
+172. Tko se imenuje vježbeniku radi praćenja i usmjeravanja rada?  
+   `Mentor.`
+
+173. Koji je opći rok za polaganje državnog ispita propisane razine?  
+   `Godinu dana od dana početka rada.`
+
+174. Koji službenik nema obvezu polaganja državnog ispita?  
+   `Službenik s položenim pravosudnim ispitom.`
+
+175. Koliko se puta može polagati državni ispit za svaku razinu?  
+   `Najviše tri puta.`
+
+176. Tko snosi trošak prvog polaganja državnog ispita?  
+   `Državno tijelo.`
+
+177. Tko snosi trošak drugog i trećeg polaganja državnog ispita?  
+   `Službenik.`
+
+178. Što se događa ako službenik na neodređeno vrijeme ne položi državni ispit u roku?  
+   `Državna služba prestaje istekom posljednjeg dana roka za polaganje, ako nema osnove za produljenje.`
+
+179. Što se događa ako službenik ne položi višu razinu državnog ispita u roku od šest mjeseci nakon rasporeda ili premještaja?  
+   `Raspoređuje se na odgovarajuće mjesto za koje ispunjava uvjete, a ako takvog mjesta nema, mogu nastupiti daljnje zakonske posljedice.`
+
+180. Kada se može produljiti rok za polaganje državnog ispita?  
+   `Zbog privremene nesposobnosti za rad, rodiljnog, očinskog ili roditeljskog dopusta te drugih opravdanih razloga.`
+
+181. Tko donosi Etički kodeks državnih službenika i namještenika?  
+   `Vlada Republike Hrvatske.`
+
+182. Ima li svako državno tijelo povjerenika za etiku?  
+   `Da.`
+
+183. Tko prati primjenu Etičkog kodeksa na razini sustava?  
+   `Etičko povjerenstvo.`
+
+184. Tko imenuje članove Etičkog povjerenstva?  
+   `Vlada Republike Hrvatske.`
+
+185. Koji je mandat članova Etičkog povjerenstva?  
+   `Četiri godine.`
+
+186. Što je sukob interesa državnog službenika najkraće rečeno?  
+   `Situacija u kojoj privatni interes može utjecati ili izgledati kao da utječe na nepristrano obavljanje službene dužnosti.`
+
+187. Što je najčešća pogreška kod pitanja o državnom ispitu?  
+   `Miješanje općeg roka, posebnih rokova i iznimke za pravosudni ispit.`
+
+188. Što je najčešća pogreška kod pitanja o vježbeniku?  
+   `Miješanje vježbeničkog staža, probnog rada i prava pristupa državnom ispitu prije isteka staža.`
+
+189. Što je najčešća pogreška kod pitanja o etičkoj pritužbi?  
+   `Pretpostavka da odmah postupa Etičko povjerenstvo, iako u pravilu prvo postupa povjerenik za etiku.`
+
+190. Što je najčešća pogreška kod pitanja o službi na određeno vrijeme?  
+   `Pretpostavka da po proteku vremena automatski prerasta u službu na neodređeno vrijeme.`

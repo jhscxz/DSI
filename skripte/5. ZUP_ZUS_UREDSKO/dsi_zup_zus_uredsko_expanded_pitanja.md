@@ -1,10 +1,10 @@
-# DSI ZUP ZUS Uredsko Expanded + 150 Pitanja
+# DSI ZUP ZUS Uredsko Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_zup_zus_uredsko_cheat_sheet.md`.
 
-Namjena:
+## Namjena
 - dodatno širenje gradiva
-- 150 mogućih pitanja s kratkim odgovorima
+- 190 mogućih pitanja s kratkim odgovorima
 - fine formulacije i tipične zamke
 
 ## Što dodatno učiti
@@ -14,7 +14,7 @@ Posebno razlikuj:
 - `rješenje / zaključak / presuda`
 - `ZUP / ZUS`
 - `klasifikacijska oznaka / urudžbeni broj`
-- `pečat / žig / kvalificirani elektronski pečat`
+- `pečat / žig / kvalificirani elektronički pečat`
 
 ## Fina pitanja i zamke
 
@@ -26,13 +26,13 @@ Posebno razlikuj:
 - rješenje se u neposrednom postupku donosi u 30 dana, u ispitnom u 60
 - protiv odluke o sukobu nadležnosti nema ni žalbe ni upravnog spora
 - `a.a.` je oznaka pri upućivanju u pismohranu
-- klasifikacijska oznaka označava sadrzaj predmeta, a urudžbeni broj stvaratelja akta
+- klasifikacijska oznaka označava sadržaj predmeta, a urudžbeni broj stvaratelja akta
 - nestanak pečata ima svoj poseban rok od 8 dana
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Što je ZUP?  
-   `Opci propis upravnog postupka.`
+   `Opći propis upravnog postupka.`
 
 2. Tko postupa po ZUP-u?  
    `Javnopravna tijela i u određenom opsegu pružatelji javnih usluga.`
@@ -73,14 +73,14 @@ Posebno razlikuj:
 14. U kojem roku treba obavijestiti podnositelja predstavke da nema uvjeta za pokretanje postupka po službenoj dužnosti?  
    `Najkasnije u roku od 30 dana.`
 
-15. Koji je rok za prigovor protiv takve obavijesti ili sutnje?  
+15. Koji je rok za prigovor protiv takve obavijesti ili šutnje?  
    `8 dana.`
 
 16. Koliki je najmanji rok za odaziv na javnu objavu?  
    `Najmanje 30 dana.`
 
 17. Što je podnesak u smislu ZUP-a?  
-   `Opci naziv za sva obraćanja stranke tijelu u vezi upravne stvari.`
+   `Opći naziv za sva obraćanja stranke tijelu u vezi upravne stvari.`
 
 18. Što se dogada s nerazumljivim ili nepotpunim podneskom?  
    `Stranka se zaključkom poziva da ga dopuni ili ispravi.`
@@ -92,7 +92,7 @@ Posebno razlikuj:
    `Karakter javne isprave.`
 
 21. Kada se provodi ispitni postupak?  
-   `Kad je to nuzno radi utvrđivanja činjenica ili kad sudjeluje vise stranaka s protivnim interesima.`
+   `Kad je to nužno radi utvrđivanja činjenica ili kad sudjeluje više stranaka s protivnim interesima.`
 
 22. Kada se stvar može riješiti neposredno?  
    `Kad se činjenice mogu utvrditi iz zahtjeva, dostavljenih dokaza, općepoznatih činjenica ili službenih podataka.`
@@ -107,10 +107,10 @@ Posebno razlikuj:
    `Kad se ono odnosi na postojanje kaznenog djela, braka, očinstva ili majčinstva i u drugim zakonom propisanim slučajevima.`
 
 26. Koji je rok za donošenje rješenja u postupku neposrednog rješavanja?  
-   `30 dana od podnosenja urednog zahtjeva.`
+   `30 dana od podnošenja urednog zahtjeva.`
 
 27. Koji je rok za donošenje rješenja u ispitnom postupku?  
-   `60 dana od podnosenja urednog zahtjeva.`
+   `60 dana od podnošenja urednog zahtjeva.`
 
 28. Koji je redovni pravni lijek protiv prvostupanjskog rješenja?  
    `Žalba.`
@@ -127,7 +127,7 @@ Posebno razlikuj:
 32. U kojem roku čelnik odlučuje o prigovoru?  
    `U roku od 8 dana od izjavljivanja.`
 
-33. Koji je najvazniji izvanredni pravni lijek koji se tipično pita?  
+33. Koji je najvažniji izvanredni pravni lijek koji se tipično pita?  
    `Obnova postupka.`
 
 34. Koji je subjektivni rok za obnovu postupka?  
@@ -142,10 +142,10 @@ Posebno razlikuj:
 37. Kako se pokreće upravni spor?  
    `Tužbom.`
 
-38. Koji je opći rok za podnosenje tužbe u upravnom sporu?  
+38. Koji je opći rok za podnošenje tužbe u upravnom sporu?  
    `30 dana od dostave osporene odluke ili odluke o prigovoru.`
 
-39. Kada se podnosi tužba zbog sutnje uprave?  
+39. Kada se podnosi tužba zbog šutnje uprave?  
    `Najranije osam dana nakon proteka propisanog roka.`
 
 40. Koji sudovi odlučuju u upravnim sporovima?  
@@ -158,7 +158,7 @@ Posebno razlikuj:
    `15 dana od dostave presude.`
 
 43. Što je klasifikacijska oznaka?  
-   `Oznaka koja označava sadrzaj i predmet.`
+   `Oznaka koja označava sadržaj i predmet.`
 
 44. Što je urudžbeni broj?  
    `Oznaka koja određuje stvaratelja akta.`
@@ -298,7 +298,7 @@ Posebno razlikuj:
    `Evidencija ili funkcionalnost za praćenje rokova u predmetima.`
 
 89. Tko upisuje rokove u rokovnik?  
-   `Sluzbena osoba zaduzena za rješavanje predmeta ili informacijski sustav automatski.`
+   `Službena osoba zaduzena za rješavanje predmeta ili informacijski sustav automatski.`
 
 90. U kojem roku se traži povrat pristojbe?  
    `U roku od 90 dana.`
@@ -482,3 +482,123 @@ Posebno razlikuj:
 
 150. Što je najčešća zamka kod elektroničke ovjere akta?  
    `Pretpostavka da su elektronički potpis i elektronički pečat uvijek ista stvar i da se uvijek koriste zajedno na isti način.`
+
+151. Koji je redovni pravni lijek protiv prvostupanjskog rješenja u upravnom postupku?  
+   `Žalba.`
+
+152. Protiv čega se u pravilu izjavljuje prigovor u ZUP-u?  
+   `Protiv drugog postupanja javnopravnog tijela ili pružatelja javnih usluga, kad je to propisano.`
+
+153. Čime se pokreće upravni spor?  
+   `Tužbom.`
+
+154. Tko odlučuje o žalbi protiv presude upravnog suda?  
+   `Visoki upravni sud Republike Hrvatske.`
+
+155. Koji je rok za žalbu protiv presude upravnog suda?  
+   `15 dana od dostave presude.`
+
+156. Što je zaključak u upravnom postupku?  
+   `Akt kojim se odlučuje o pitanjima postupka.`
+
+157. Što je rješenje u upravnom postupku?  
+   `Akt kojim se odlučuje o upravnoj stvari o pravima, obvezama ili pravnim interesima stranke.`
+
+158. Što označava klasifikacijska oznaka?  
+   `Sadržaj i predmet upravne stvari ili pismena.`
+
+159. Što označava urudžbeni broj?  
+   `Stvaratelja akta i njegov evidencijski slijed.`
+
+160. Što znači oznaka `a.a.`?  
+   `Da je predmet odložen u pismohranu.`
+
+161. U kojem roku javnopravno tijelo odgovara na zahtjev za zaštitu od drugog postupanja?  
+   `U roku od 15 dana, kada je riječ o zaštiti prema pravilima iz ZUP-a.`
+
+162. U kojem roku čelnik odlučuje o prigovoru u tim slučajevima?  
+   `U roku od 8 dana od izjavljivanja prigovora.`
+
+163. U kojem roku pružatelj javnih usluga obavještava korisnika o poduzetim mjerama?  
+   `Najkasnije u roku od 30 dana.`
+
+164. Koji je opći rok za povrat upravne pristojbe?  
+   `90 dana.`
+
+165. Koji je opći rok izvršenja rješenja?  
+   `Pet godina.`
+
+166. U kojem se roku oglašava nestanak pečata i žiga?  
+   `U roku od 8 dana od saznanja za nestanak.`
+
+167. U kojem se roku pečat ili žig dostavljaju radi uništenja?  
+   `U roku od 7 dana od nastupanja razloga.`
+
+168. Što je najčešća pogreška kod pitanja o pravnim lijekovima?  
+   `Miješanje žalbe, prigovora, tužbe i žalbe protiv presude.`
+
+169. Što je najčešća pogreška kod pitanja o uredskom poslovanju?  
+   `Miješanje klasifikacijske oznake s urudžbenim brojem.`
+
+170. Što je najčešća pogreška kod pitanja o pečatu i žigu?  
+   `Miješanje roka za oglašavanje nestanka s rokom za dostavu radi uništenja.`
+
+171. Računa li se dan dostave u rok izražen u danima?  
+   `Ne, rok počinje teći prvog sljedećeg dana.`
+
+172. Kako istječe rok izražen u mjesecima?  
+   `Onog dana u posljednjem mjesecu koji po broju odgovara danu od kojeg rok teče.`
+
+173. Što ako u posljednjem mjesecu nema dana koji po broju odgovara danu od kojeg rok teče?  
+   `Rok istječe posljednjeg dana toga mjeseca.`
+
+174. Što ako zadnji dan roka pada na nedjelju, blagdan ili drugi neradni dan?  
+   `Rok istječe prvog sljedećeg radnog dana.`
+
+175. Što je rokovnik predmeta?  
+   `Evidencija za praćenje rokova postupanja po predmetima.`
+
+176. Ostaje li fizički predmet u rokovniku ili kod službene osobe do isteka roka?  
+   `Kod službene osobe do isteka roka.`
+
+177. Kakva je natpisna ploča javnopravnog tijela prema pravilima iz bilješki?  
+   `Staklena i četverokutna.`
+
+178. Što treba pribaviti prije isticanja natpisne ploče na zgradi koja je kulturno dobro?  
+   `Prethodno odobrenje nadležnog tijela zaštite kulturnih dobara.`
+
+179. Što obično sadrži zaglavlje akta?  
+   `Naziv tijela, klasifikacijsku oznaku, urudžbeni broj te mjesto i datum izrade akta.`
+
+180. Što mora sadržavati omotnica kod fizičke otpreme?  
+   `Naziv i adresu pošiljatelja, klasifikacijsku oznaku i urudžbeni broj akta.`
+
+181. Tko određuje kojem se djelatniku povjerava pečat i žig?  
+   `Čelnik odnosno odgovorna osoba korisnika pečata i žiga.`
+
+182. Kako se označavaju pečati istog promjera kada ih ima više?  
+   `Rednim brojem.`
+
+183. Koji je u pravilu promjer pečata s grbom RH?  
+   `38 mm.`
+
+184. Mogu li pečati biti i drugih promjera?  
+   `Da, 25 mm ili 18 mm u propisanim slučajevima.`
+
+185. Je li protiv rješenja o povratu pristojbe dopuštena žalba?  
+   `Ne, ali se može pokrenuti upravni spor.`
+
+186. Koja je najčešća pogreška kod pitanja o rokovima?  
+   `Pogrešno računanje početka i isteka roka, posebno kad zadnji dan pada na neradni dan.`
+
+187. Koja je najčešća pogreška kod pitanja o rokovniku i pismohrani?  
+   `Miješanje praćenja aktivnog roka s odlaganjem dovršenog predmeta.`
+
+188. Koja je najčešća pogreška kod pitanja o natpisnoj ploči?  
+   `Zaboraviti oblik ploče i potrebu posebnog odobrenja za kulturno dobro.`
+
+189. Koja je najčešća pogreška kod pitanja o pečatu?  
+   `Miješanje evidencije i uporabe pečata s pravilima o elektroničkom pečatu.`
+
+190. Koja je najčešća pogreška kod pitanja o pravnim lijekovima u ZUS-u?  
+   `Miješanje tužbe kao sredstva pokretanja spora sa žalbom protiv presude upravnog suda.`

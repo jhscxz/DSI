@@ -1,11 +1,11 @@
-# DSI EU Expanded + 150 Pitanja
+# DSI EU Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_eu_cheat_sheet.md`.
 
-Namjena:
+## Namjena
 - širenje osnovnog cheat sheeta
 - dodatne fine formulacije koje se lako miješaju
-- 150 mogućih pitanja s kratkim odgovorima
+- 190 mogućih pitanja s kratkim odgovorima
 
 ## Što dodatno učiti
 
@@ -32,9 +32,9 @@ Posebno pazi na ove razlike:
 - Kad pitanje glasi `tko predstavlja interese EU u cjelini`, odgovor je `Komisija`
 - Kad pitanje glasi `tko predstavlja države članice`, odgovor je `Vijeće EU` ili `Europsko vijeće`, ovisno o razini
 - Kad pitanje glasi `gdje sjede šefovi država ili vlada`, odgovor je `Europsko vijeće`
-- Kad pitanje glasi `koji sud stiti poštivanje prava EU`, odgovor je `Sud Europske unije`
+- Kad pitanje glasi `koji sud štiti poštivanje prava EU`, odgovor je `Sud Europske unije`
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Koji je glavni povijesni motiv europske integracije nakon Drugog svjetskog rata?  
    `Ocuvanje mira i sprjecavanje novih ratova.`
@@ -60,7 +60,7 @@ Posebno pazi na ove razlike:
 8. Je li Vijeće Europe institucija Europske unije?  
    `Ne.`
 
-9. Koje su glavne institucije EU koje se najcesce pitaju na ispitu?  
+9. Koje su glavne institucije EU koje se najčešce pitaju na ispitu?  
    `Europsko vijeće, Vijeće EU, Europska komisija, Europski parlament, Sud EU, Europska središnja banka, Revizorski sud.`
 
 10. Tko daje opće političke smjernice i prioritete razvoja EU?  
@@ -69,7 +69,7 @@ Posebno pazi na ove razlike:
 11. Donosi li Europsko vijeće zakonodavne akte?  
    `Ne.`
 
-12. Tko cini Europsko vijeće?  
+12. Tko čini Europsko vijeće?  
    `Sefovi država ili vlada država članica, njegov predsjednik i predsjednik Komisije.`
 
 13. Tko zajedno s Europskim parlamentom donosi zakonodavne akte?  
@@ -168,7 +168,7 @@ Posebno pazi na ove razlike:
 44. Koji se kriteriji za članstvo tipično navode uz pristupanje?  
    `Kopenhaski kriteriji.`
 
-45. Što obuhvacaju Kopenhaski kriteriji?  
+45. Što obuhvaćaju Kopenhaski kriteriji?  
    `Politicke, gospodarske i pravne uvjete za članstvo.`
 
 46. Tko odlučuje o otvaranju i zatvaranju pregovarackih poglavlja u pristupnom procesu?  
@@ -180,8 +180,8 @@ Posebno pazi na ove razlike:
 48. Jesu li građani država članica istodobno i građani EU?  
    `Da.`
 
-49. Što je Europska gradanska inicijativa?  
-   `Mehanizam kojim građani mogu pozvati Komisiju da predlozi pravni akt EU pod propisanim uvjetima.`
+49. Što je Europska građanska inicijativa?  
+   `Mehanizam kojim građani mogu pozvati Komisiju da predloži pravni akt EU pod propisanim uvjetima.`
 
 50. Kad pitanje glasi `tko predlaže, a tko donosi`, koji je najčešći odgovor za zakonodavstvo EU?  
    `Komisija predlaže, a Parlament i Vijeće u pravilu donose.`
@@ -270,10 +270,10 @@ Posebno pazi na ove razlike:
    `Zajednicka poljoprivredna politika.`
 
 78. Što je acquis communautaire odnosno acquis EU?  
-   `Pravna stecevina Europske unije.`
+   `Pravna stečevina Europske unije.`
 
 79. Što je screening?  
-   `Analiticki pregled uskladenosti nacionalnog zakonodavstva s pravnom stecevinom EU.`
+   `Analitički pregled usklađenosti nacionalnog zakonodavstva s pravnom stečevinom EU.`
 
 80. Tko salje upitnik državi podnositeljici zahtjeva za članstvo?  
    `Europska komisija.`
@@ -487,3 +487,123 @@ Posebno pazi na ove razlike:
 
 150. Što je najčešća zamka kod pravne stečevine EU?  
    `Shvaćanje acquisa samo kao popisa propisa, a ne kao šire cjeline prava, obveza i sudske prakse EU.`
+
+151. Što radi Europsko vijeće?  
+   `Daje Uniji političke smjernice i poticaje za razvoj.`
+
+152. Što radi Europska komisija?  
+   `Predlaže propise, nadzire primjenu prava EU i zastupa opći interes Unije.`
+
+153. Što radi Vijeće Europske unije?  
+   `Predstavlja države članice i zajedno s Europskim parlamentom donosi zakonodavne akte.`
+
+154. Što radi Europski parlament?  
+   `Predstavlja građane EU i zajedno s Vijećem sudjeluje u zakonodavstvu i proračunu.`
+
+155. Koja je temeljna zadaća Suda Europske unije?  
+   `Osigurati poštivanje prava u tumačenju i primjeni Ugovora.`
+
+156. Što je uredba u pravu EU?  
+   `Opći obvezujući akt koji se izravno primjenjuje u svim državama članicama.`
+
+157. Što je direktiva u pravu EU?  
+   `Obvezujući akt glede rezultata koji treba postići, uz slobodu izbora oblika i metoda za države članice.`
+
+158. Što je odluka u pravu EU?  
+   `Obvezujući akt u cijelosti za one kojima je upućen.`
+
+159. Jesu li preporuke i mišljenja obvezujući akti EU?  
+   `Ne.`
+
+160. Što je acquis communautaire?  
+   `Pravna stečevina EU, odnosno skup prava, obveza, načela i sudske prakse koje članice prihvaćaju.`
+
+161. Koliki je mandat predsjednika Europskog vijeća?  
+   `Dvije i pol godine, uz mogućnost jednog ponovnog izbora.`
+
+162. Koliko traje mandat Europske komisije?  
+   `Pet godina.`
+
+163. Koliko traje mandat zastupnika u Europskom parlamentu?  
+   `Pet godina.`
+
+164. Koliko traje rotirajuće predsjedanje Vijećem Europske unije?  
+   `Šest mjeseci.`
+
+165. Koliko vremena imaju nacionalni parlamenti za prigovor zbog supsidijarnosti?  
+   `Osam tjedana.`
+
+166. Kada je Hrvatska podnijela zahtjev za članstvo u EU?  
+   `2003. godine.`
+
+167. Kada je Hrvatska stekla status države kandidatkinje?  
+   `2004. godine.`
+
+168. Kada su otvoreni pristupni pregovori Hrvatske s EU?  
+   `2005. godine.`
+
+169. Kada je potpisan Ugovor o pristupanju Republike Hrvatske Europskoj uniji?  
+   `2011. godine.`
+
+170. Što je najčešća pogreška kod pitanja o institucijama EU?  
+   `Miješanje Europskog vijeća, Vijeća Europske unije i Vijeća Europe, koje nije institucija EU.`
+
+171. Koji je temeljni nacionalni propis za suradnju Sabora i Vlade RH u europskim poslovima?  
+   `Zakon o suradnji Hrvatskoga sabora i Vlade Republike Hrvatske u europskim poslovima iz 2013.`
+
+172. Koji je ključni saborski akter za europske poslove?  
+   `Odbor za europske poslove.`
+
+173. Tko predlaže proračun Europske unije?  
+   `Europska komisija.`
+
+174. Tko donosi proračun Europske unije?  
+   `Europski parlament i Vijeće Europske unije.`
+
+175. Tko nadzire zakonitost trošenja proračuna EU-a?  
+   `Europski revizorski sud.`
+
+176. Što je višegodišnji financijski okvir?  
+   `Okvir planiranja rashoda EU koji traje sedam godina.`
+
+177. Koliko traje višegodišnji financijski okvir prema priručniku?  
+   `Sedam godina.`
+
+178. Što je NextGenerationEU?  
+   `Instrument EU za oporavak nakon pandemije bolesti COVID-19.`
+
+179. Tko ima jednog povjerenika u Europskoj komisiji?  
+   `Svaka država članica, pa tako i Republika Hrvatska.`
+
+180. Što je europska građanska inicijativa?  
+   `Mehanizam kojim najmanje milijun građana iz znatnog broja država članica može pozvati Komisiju da predloži pravni akt EU.`
+
+181. Koliko građana najmanje treba za europsku građansku inicijativu?  
+   `Najmanje milijun građana.`
+
+182. Što je screening u pristupnom procesu?  
+   `Analitički pregled usklađenosti nacionalnog zakonodavstva s pravnom stečevinom EU.`
+
+183. Što je acquis communautaire?  
+   `Pravna stečevina Europske unije.`
+
+184. Kada je Hrvatska ušla u Schengen?  
+   `1. siječnja 2023.`
+
+185. Kada je Hrvatska uvela euro?  
+   `1. siječnja 2023.`
+
+186. Što je najčešća pogreška kod pitanja o proračunu EU?  
+   `Miješanje institucije koja predlaže proračun s institucijama koje ga donose i tijelom koje nadzire trošenje.`
+
+187. Što je najčešća pogreška kod pitanja o koordinaciji europskih poslova u RH?  
+   `Podcjenjivanje uloge Odbora za europske poslove i odnosa Sabora i Vlade u europskim poslovima.`
+
+188. Što je najčešća pogreška kod pitanja o eurozoni i Schengenu?  
+   `Pretpostavka da su to isti integracijski krugovi, iako se odnose na različita područja.`
+
+189. Što je najčešća pogreška kod pitanja o acquisu i screeningu?  
+   `Miješanje pravne stečevine kao sadržaja s screeningom kao postupkom provjere usklađenosti.`
+
+190. Što je najčešća pogreška kod pitanja o građanstvu EU?  
+   `Pretpostavka da građanstvo EU zamjenjuje nacionalno državljanstvo, a ne da ga nadopunjuje.`

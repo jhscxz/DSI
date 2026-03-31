@@ -1,10 +1,10 @@
-# DSI LPRS Expanded + 150 Pitanja
+# DSI LPRS Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_lprs_cheat_sheet.md`.
 
-Namjena:
+## Namjena
 - dodatno širenje po poglavljima
-- 150 ispitnih pitanja s kratkim odgovorima
+- 190 ispitnih pitanja s kratkim odgovorima
 - fine formulacije i zamke koje se lako miješaju
 
 ## Što dodatno učiti
@@ -22,14 +22,14 @@ Posebno razlikuj:
 - `Grad Zagreb` je i grad i županija
 - `statut` je temeljni opći akt jedinice
 - `poslovnik` uređuje rad predstavničkog tijela
-- `grad` nije samo naselje s vise od 10.000 stanovnika, postoje zakonske iznimke
+- `grad` nije samo naselje s više od 10.000 stanovnika, postoje zakonske iznimke
 - `župan` nije predsjednik predstavničkog tijela, nego izvršno tijelo županije
 - `općinski načelnik`, `gradonačelnik` i `župan` su izvršna tijela
 - `upravna tijela` nisu politicka tijela nego stručna i upravna
 - nadzor je prvenstveno `nadzor zakonitosti`
 - mjesna samouprava nije posebna jedinica lokalne samouprave
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Koji je ustavni temelj lokalne i područne samouprave u RH?  
    `Ustav Republike Hrvatske.`
@@ -53,13 +53,13 @@ Posebno razlikuj:
    `Ima položaj grada i županije.`
 
 8. Kada se mjesto u pravilu smatra gradom?  
-   `Ako je sjedište županije ili ima vise od 10.000 stanovnika.`
+   `Ako je sjedište županije ili ima više od 10.000 stanovnika.`
 
-9. Može li naselje biti grad i bez vise od 10.000 stanovnika?  
+9. Može li naselje biti grad i bez više od 10.000 stanovnika?  
    `Da, ako postoje zakonom propisani povijesni, gospodarski ili geoprometni razlozi.`
 
 10. Što je veliki grad?  
-   `Grad s vise od 35.000 stanovnika koji je gospodarsko i drustveno sredisce sireg okruzenja.`
+   `Grad s više od 35.000 stanovnika koji je gospodarsko i društveno središte sireg okruženja.`
 
 11. Jesu li sve jedinice lokalne i područne samouprave pravne osobe?  
    `Da.`
@@ -104,7 +104,7 @@ Posebno razlikuj:
    `Županije.`
 
 25. Tko izdaje građevinske i lokacijske dozvole kao pravilo na županijskoj razini?  
-   `Zupanija, a veliki gradovi i gradovi sjedista županije za svoje područje.`
+   `Županija, a veliki gradovi i gradovi sjedišta županije za svoje područje.`
 
 26. Tko ima pravo na lokalni referendum pod zakonskim uvjetima?  
    `Gradani jedinice.`
@@ -482,3 +482,123 @@ Posebno razlikuj:
 
 150. Što je najčešća zamka kod proračuna jedinice?  
    `Miješanje predlaganja, donošenja i izvršavanja proračuna.`
+
+151. Koji je temeljni opći akt jedinice lokalne i područne (regionalne) samouprave?  
+   `Statut.`
+
+152. Čime se uređuje način rada predstavničkog tijela?  
+   `Poslovnikom.`
+
+153. Do kada izvršno tijelo podnosi prijedlog proračuna predstavničkom tijelu?  
+   `Do 15. studenoga tekuće godine.`
+
+154. Do kada predstavničko tijelo mora donijeti proračun?  
+   `Do kraja tekuće godine za iduću proračunsku godinu.`
+
+155. Koliko najdulje može trajati privremeno financiranje?  
+   `Za prva tri mjeseca proračunske godine.`
+
+156. U kojem roku predsjednik predstavničkog tijela mora sazvati sjednicu na zahtjev jedne trećine članova?  
+   `U roku od 15 dana.`
+
+157. Tko saziva sjednicu ako je predsjednik predstavničkog tijela ne sazove u tom roku?  
+   `Općinski načelnik, gradonačelnik ili župan u roku od 8 dana.`
+
+158. Koliko često se mora održati sjednica predstavničkog tijela?  
+   `Najmanje jednom u tri mjeseca.`
+
+159. U kojem roku predsjednik predstavničkog tijela dostavlja opći akt nadležnom tijelu?  
+   `U roku od 15 dana od donošenja.`
+
+160. U kojem roku izvršno tijelo može obustaviti od primjene opći akt predstavničkog tijela?  
+   `U roku od 8 dana od donošenja akta.`
+
+161. U kojem se roku održavaju prijevremeni lokalni izbori?  
+   `U roku od 90 dana.`
+
+162. Koliko vremena mora proteći od raspisivanja do održavanja lokalnih izbora?  
+   `Od 30 do 60 dana.`
+
+163. Kada se održava drugi krug izbora za izvršno tijelo?  
+   `Za 14 dana.`
+
+164. Koliko traje mandat vijeća mjesnog odbora?  
+   `Četiri godine.`
+
+165. Tko upravlja upravnim tijelom jedinice?  
+   `Pročelnik.`
+
+166. Je li pročelnik izvršno tijelo jedinice?  
+   `Ne.`
+
+167. Je li mjesni odbor jedinica lokalne samouprave?  
+   `Ne.`
+
+168. Što je najčešća pogreška kod pitanja o statutu?  
+   `Miješanje statuta kao temeljnog općeg akta s poslovnikom predstavničkog tijela.`
+
+169. Što je najčešća pogreška kod pitanja o proračunu?  
+   `Miješanje roka za prijedlog proračuna s rokom za njegovo donošenje.`
+
+170. Što je najčešća pogreška kod pitanja o pročelniku?  
+   `Pogrešno svrstavanje pročelnika među politička tijela jedinice.`
+
+171. Tko je jedini ovlašteni predlagatelj proračuna jedinice?  
+   `Općinski načelnik, gradonačelnik odnosno župan.`
+
+172. Tko donosi proračun jedinice?  
+   `Predstavničko tijelo.`
+
+173. Što proračun jedinice sadrži osim plana za proračunsku godinu?  
+   `Projekcije za sljedeće dvije godine.`
+
+174. U kojem se roku proračun i njegove izmjene dostavljaju Ministarstvu financija?  
+   `U roku od 15 dana od stupanja na snagu.`
+
+175. Koliko često se mora održati sjednica predstavničkog tijela?  
+   `Najmanje jednom u tri mjeseca.`
+
+176. Tko može sazvati sjednicu ako je predsjednik predstavničkog tijela ne sazove na zahtjev trećine članova?  
+   `Općinski načelnik, gradonačelnik ili župan u roku od 8 dana.`
+
+177. Kojom se većinom donose statut, proračun i godišnji izvještaj o izvršenju proračuna?  
+   `Većinom glasova svih članova predstavničkog tijela.`
+
+178. Tko raspisuje lokalne izbore?  
+   `Vlada Republike Hrvatske.`
+
+179. Kada se održavaju redovni lokalni izbori?  
+   `Treće nedjelje u svibnju svake četvrte godine.`
+
+180. Koliki je izborni prag za raspodjelu mandata u predstavničkom tijelu?  
+   `5 %.`
+
+181. Po kojem se sustavu bira predstavničko tijelo jedinice?  
+   `Po razmjernom izbornom sustavu.`
+
+182. Po kojem se sustavu bira općinski načelnik, gradonačelnik i župan?  
+   `Po većinskom izbornom sustavu.`
+
+183. Tko obnaša dužnost izvršnog tijela do prijevremenih izbora ako mandat prestane opozivom?  
+   `Povjerenik Vlade Republike Hrvatske.`
+
+184. Kada se referendum za opoziv ne može raspisati?  
+   `Prije isteka 6 mjeseci od održanih izbora ni prije isteka 6 mjeseci od ranije održanog referenduma za opoziv.`
+
+185. Tko upravlja upravnim tijelom jedinice?  
+   `Pročelnik.`
+
+186. Je li pročelnik tijelo jedinice lokalne ili područne samouprave?  
+   `Ne.`
+
+187. Tko dodjeljuje javna priznanja jedinice?  
+   `Predstavničko tijelo.`
+
+188. Što je najčešća pogreška kod pitanja o proračunu i financiranju?  
+   `Miješanje predlaganja proračuna, njegova donošenja i privremenog financiranja.`
+
+189. Što je najčešća pogreška kod pitanja o lokalnim izborima?  
+   `Miješanje razmjernog sustava za predstavničko tijelo s većinskim sustavom za izvršno tijelo.`
+
+190. Što je najčešća pogreška kod pitanja o povjereniku Vlade?  
+   `Pretpostavka da povjerenik ima puni politički mandat, iako samo privremeno obavlja nužne poslove do izbora.`

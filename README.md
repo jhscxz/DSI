@@ -67,3 +67,26 @@ Bilješke i sažeci izrađeni su **na temelju službenih materijala e-Učenja i 
 - strukturirane u svrhu učinkovitijeg učenja i ponavljanja.
 
 Repozitorij je namijenjen **osobnom učenju i sistematizaciji gradiva**.
+
+---
+
+## Kako čitati `CHEATSHEETS`
+
+U mapi `CHEATSHEETS/` nalaze se dvije vrste pomoćnih datoteka:
+
+- `*_cheat_sheet.md`
+  - sažeti pregled cjeline
+  - fokus na razlike koje se lako miješaju
+  - rokove, mandate, većine, pragove i tipične ispitne zamke
+
+- `*_expanded_pitanja.md`
+  - prošireni skup pitanja i kratkih odgovora za ponavljanje
+  - služi za aktivno preslišavanje nakon učenja iz bilješki i sažetka
+
+Preporučeni redoslijed:
+1. prvo proći izvornu temu iz odgovarajuće mape s bilješkama iz sustava e-Učenje
+2. zatim ponoviti cjelinu kroz pripadni `cheat_sheet`
+3. na kraju provjeriti znanje kroz `expanded_pitanja`
+
+Napomena o izvorima:
+- `cheat_sheet` i `expanded_pitanja` usklađuju se s priručnicima, ali se po potrebi dopunjuju bitnim detaljima iz bilješki iz sustava e-Učenje kada oni pomažu boljem razumijevanju ili ističu česte ispitne zamke

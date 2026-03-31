@@ -1,11 +1,11 @@
-# DSI USTAV Expanded + 150 Pitanja
+# DSI USTAV Expanded + 190 Pitanja
 
 Proširena radna verzija uz `dsi_ustav_cheat_sheet.md`.
 
 ## Namjena
 
 - dodatno širenje po temama
-- 150 mogućih pitanja s kratkim odgovorima
+- 190 mogućih pitanja s kratkim odgovorima
 - fine formulacije koje ruše bodove
 
 ## Što dodatno učiti
@@ -28,9 +28,9 @@ Posebno razlikuj:
 - `najviše vrednote` služe kao temelj za tumačenje Ustava
 - `referendum` i `izbori` nisu isto
 - `pravo na pristup informacijama` nije apsolutno
-- `zabrana diskriminacije` obuhvaca vise zabranjenih osnova
+- `zabrana diskriminacije` obuhvaća više zabranjenih osnova
 
-## 150 mogućih pitanja
+## 190 mogućih pitanja
 
 1. Što je Ustav Republike Hrvatske?  
    `Najviši pravni i politički akt Republike Hrvatske.`
@@ -38,8 +38,8 @@ Posebno razlikuj:
 2. Kada je Ustav RH stupio na snagu?  
    `22. prosinca 1990.`
 
-3. Što su Izvorisne osnove Ustava?  
-   `Preambula Ustava s povijesnim i državotvornim uporistima.`
+3. Što su Izvorišne osnove Ustava?  
+   `Preambula Ustava s povijesnim i državotvornim uporištima.`
 
 4. Kakva je RH prema temeljnim odredbama Ustava?  
    `Jedinstvena, nedjeljiva, demokratska i socijalna država.`
@@ -65,11 +65,11 @@ Posebno razlikuj:
 11. Je li Ustavni sud dio jedne od te tri grane vlasti?  
    `Ne.`
 
-12. Tko može predloziti promjenu Ustava?  
+12. Tko može predložiti promjenu Ustava?  
    `Najmanje petina zastupnika, Predsjednik Republike i Vlada RH.`
 
 13. Kojom većinom Sabor odlučuje o promjeni Ustava?  
-   `Dvotrecinskom većinom svih zastupnika.`
+   `Dvotrećinskom većinom svih zastupnika.`
 
 14. Koliko sudaca ima Ustavni sud RH?  
    `13.`
@@ -81,10 +81,10 @@ Posebno razlikuj:
    `Hrvatski sabor.`
 
 17. Kojom većinom Sabor bira suce Ustavnog suda?  
-   `Dvotrecinskom većinom svih zastupnika.`
+   `Dvotrećinskom većinom svih zastupnika.`
 
 18. Što je Ustavni sud RH?  
-   `Najvise ustavno tijelo koje jamci poštivanje i primjenu Ustava.`
+   `Najviše ustavno tijelo koje jamči poštivanje i primjenu Ustava.`
 
 19. Odlucuje li Ustavni sud o suglasnosti zakona s Ustavom?  
    `Da.`
@@ -165,9 +165,9 @@ Posebno razlikuj:
    `Spol, rasa ili etnička pripadnost, vjera, dob, invaliditet, spolna orijentacija i druge.`
 
 45. Tko je pravobranitelj u sustavu zaštite prava građana?  
-   `Neovisno tijelo koje stiti i promice ljudska prava i slobode u skladu sa zakonom.`
+   `Neovisno tijelo koje štiti i promiče ljudska prava i slobode u skladu sa zakonom.`
 
-46. Mogu li međunarodni ugovori biti iznad zakona ako su sklopljeni, potvrdeni i objavljeni u skladu s Ustavom?  
+46. Mogu li međunarodni ugovori biti iznad zakona ako su sklopljeni, potvrđeni i objavljeni u skladu s Ustavom?  
    `Da.`
 
 47. Tko je nositelj suvereniteta u RH?  
@@ -191,13 +191,13 @@ Posebno razlikuj:
    `10% ukupnog broja birača u RH.`
 
 53. Što su organski zakoni?  
-   `Zakoni koji uredjuju posebno vazna područja i donose se strozim većinama kada je to Ustavom propisano.`
+   `Zakoni koji uređuju posebno važna područja i donose se strožim većinama kada je to Ustavom propisano.`
 
 54. Tko raspisuje izbore za Predsjednika Republike?  
    `Hrvatski sabor, prema pravilima iz izbornog zakonodavstva.`
 
 55. Koliko najviše puta ista osoba može biti birana za Predsjednika RH?  
-   `Najvise dva puta.`
+   `Najviše dva puta.`
 
 56. Tko daje ostavku ako Sabor izglasa nepovjerenje Vladi?  
    `Predsjednik Vlade i cijela Vlada.`
@@ -223,7 +223,7 @@ Posebno razlikuj:
 63. Na koliko se godina biraju članovi DSV-a?  
    `Na 4 godine.`
 
-64. Tko stiti ustavnost i zakonitost izbora i državnog referenduma?  
+64. Tko štiti ustavnost i zakonitost izbora i državnog referenduma?  
    `Ustavni sud RH.`
 
 65. Je li zastupnički mandat opoziv?  
@@ -325,7 +325,7 @@ Posebno razlikuj:
 97. Tko donosi odluku o promjeni Ustava u zavrsnoj fazi?  
    `Hrvatski sabor dvotrećinskom većinom svih zastupnika.`
 
-98. Jesu li potvrdeni i objavljeni međunarodni ugovori dio unutarnjeg pravnog poretka RH?  
+98. Jesu li potvrđeni i objavljeni međunarodni ugovori dio unutarnjeg pravnog poretka RH?  
    `Da.`
 
 99. Što je najčešća zamka kod pitanja o Vladi i Predsjedniku RH?  
@@ -483,3 +483,123 @@ Posebno razlikuj:
 
 150. Što je najčešća zamka kod prava na pristup informacijama i zaštite osobnih podataka?  
    `Pretpostavka da jedno pravo automatski potpuno isključuje drugo bez zakonskog vaganja.`
+
+151. Tko raspisuje izbore za Hrvatski sabor?  
+   `Predsjednik Republike Hrvatske.`
+
+152. Tko raspisuje izbore za Predsjednika Republike Hrvatske?  
+   `Vlada Republike Hrvatske.`
+
+153. Tko u pravilu raspisuje državni referendum?  
+   `Hrvatski sabor.`
+
+154. Kako se donosi odluka na državnom referendumu?  
+   `Većinom glasova birača koji su pristupili referendumu.`
+
+155. Koliko traje mandat Povjerenika za informiranje?  
+   `Pet godina.`
+
+156. U kojem roku tijelo javne vlasti odlučuje o zahtjevu za pristup informacijama?  
+   `U roku od 15 dana.`
+
+157. Tko je nadzorno tijelo za zaštitu osobnih podataka u RH?  
+   `Agencija za zaštitu osobnih podataka.`
+
+158. Što je osobni podatak?  
+   `Svaka informacija koja se odnosi na osobu čiji je identitet utvrđen ili se može utvrditi.`
+
+159. Što su posebne kategorije osobnih podataka?  
+   `Osjetljivi podaci za koje vrijedi stroži režim obrade, poput podataka o zdravlju, rasnom ili etničkom podrijetlu, političkim stajalištima ili vjerskim uvjerenjima.`
+
+160. Što je svrha prava na pristup informacijama?  
+   `Osigurati otvorenost i javnost rada tijela javne vlasti.`
+
+161. Što je svrha zaštite osobnih podataka?  
+   `Zaštititi privatnost i zakonitu obradu podataka o pojedincu.`
+
+162. Što je svrha zabrane diskriminacije?  
+   `Osigurati jednakost i zaštitu od neopravdano nepovoljnog postupanja.`
+
+163. Tko je poseban pravobraniteljski mehanizam za ravnopravnost spolova?  
+   `Pravobranitelj za ravnopravnost spolova.`
+
+164. Tko štiti ustavnost i zakonitost izbora i državnog referenduma?  
+   `Ustavni sud Republike Hrvatske.`
+
+165. Jesu li potvrđeni i objavljeni međunarodni ugovori dio unutarnjeg pravnog poretka RH?  
+   `Da.`
+
+166. Jesu li međunarodni ugovori iznad Ustava RH?  
+   `Ne.`
+
+167. Što se najčešće traži kod pitanja o najvišim vrednotama ustavnog poretka?  
+   `Njihovo navođenje i činjenica da služe kao temelj za tumačenje Ustava.`
+
+168. Što je najčešća pogreška kod pitanja o državnim tijelima?  
+   `Miješanje nadležnosti Sabora, Predsjednika Republike, Vlade, Ustavnog suda i DORH-a.`
+
+169. Što je najčešća pogreška kod pitanja o izborima?  
+   `Miješanje tijela koje raspisuje izbore s tijelom koje ih provodi ili nadzire.`
+
+170. Što je najčešća pogreška kod pitanja o temeljnim pravima?  
+   `Pretpostavka da sva prava vrijede bez zakonskih ograničenja i bez potrebe za vaganjem.`
+
+171. Tko predlaže članove Vlade Republike Hrvatske?  
+   `Mandatar, odnosno osoba kojoj je Predsjednik Republike povjerio mandat za sastavljanje Vlade.`
+
+172. Tko donosi rješenje o imenovanju predsjednika Vlade?  
+   `Predsjednik Republike, uz supotpis predsjednika Hrvatskog sabora.`
+
+173. Tko donosi rješenja o imenovanju članova Vlade?  
+   `Predsjednik Vlade, uz supotpis predsjednika Hrvatskog sabora.`
+
+174. Tko predlaže zakone i druge akte Hrvatskom saboru?  
+   `Vlada Republike Hrvatske.`
+
+175. Tko predlaže državni proračun i završni račun?  
+   `Vlada Republike Hrvatske.`
+
+176. Kada Predsjednik Republike može raspustiti Hrvatski sabor?  
+   `U Ustavom propisanim slučajevima, na prijedlog Vlade i uz supotpis predsjednika Vlade.`
+
+177. Kada Predsjednik Republike donosi uredbe sa zakonskom snagom na prijedlog Vlade i uz supotpis predsjednika Vlade?  
+   `U slučaju neposredne ugroženosti države ili onemogućenog redovitog rada tijela državne vlasti, pod uvjetima iz Ustava.`
+
+178. Tko supotpisuje pojedine akte Predsjednika Republike u vanjskoj politici i sigurnosti?  
+   `Predsjednik Vlade Republike Hrvatske, kada je to Ustavom propisano.`
+
+179. Kako se osnivaju diplomatske misije i konzularni uredi RH?  
+   `O tome odlučuje Predsjednik Republike na prijedlog Vlade i uz supotpis predsjednika Vlade.`
+
+180. Kako se postavljaju i opozivaju šefovi diplomatskih misija i konzularnih ureda RH?  
+   `Predsjednik Republike ih postavlja i opoziva uz prethodno mišljenje nadležnog odbora Hrvatskog sabora i uz supotpis predsjednika Vlade.`
+
+181. Gdje se obavljaju savjetodavni, stručni i drugi poslovi za Predsjednika Republike?  
+   `U Uredu predsjednika Republike.`
+
+182. Tko uređuje ustrojstvo i djelokrug Ureda predsjednika Republike?  
+   `Predsjednik Republike svojom odlukom.`
+
+183. Gdje se osiguravaju sredstva za rad Ureda predsjednika Republike?  
+   `U državnom proračunu Republike Hrvatske.`
+
+184. Što su državna znamenja Republike Hrvatske?  
+   `Grb, zastava i himna.`
+
+185. Koja je himna Republike Hrvatske?  
+   `Lijepa naša domovino.`
+
+186. Čime se uređuju pitanja teksta, glazbe, izvođenja i čuvanja himne?  
+   `Zakonom.`
+
+187. Što je najčešća pogreška kod pitanja o Predsjedniku Republike i Vladi?  
+   `Miješanje povjeravanja mandata s predlaganjem članova Vlade i miješanje samostalnih predsjedničkih ovlasti s ovlastima koje traže prijedlog ili supotpis Vlade.`
+
+188. Što je najčešća pogreška kod pitanja o Vladi RH?  
+   `Miješanje tijela koje daje mandat, tijela koje iskazuje povjerenje i tijela koje donosi rješenja o imenovanju.`
+
+189. Što je najčešća pogreška kod pitanja o državnim znamenjima?  
+   `Zaboraviti da su znamenja grb, zastava i himna, a ne svi državni simboli općenito.`
+
+190. Što je najčešća pogreška kod pitanja o supotpisu?  
+   `Pretpostavka da Predsjednik Republike sve akte donosi samostalno, iako Ustav za dio akata traži prijedlog Vlade ili supotpis predsjednika Vlade.`

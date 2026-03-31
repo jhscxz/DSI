@@ -63,7 +63,7 @@ Moguća pitanja:
 Trik pitanja:
 - djelokrug tijela državne uprave ne utvrđuje Vlada nego `zakon`
 
-### 1.2. Što cini sustav
+### 1.2. Što čini sustav
 
 Tijela državne uprave ustrojavaju se kao:
 - `ministarstva`
@@ -99,20 +99,20 @@ Trik pitanja:
 
 Bitno:
 - rad tijela državne uprave je `javan`
-- javnost se može isključiti samo iznimno, kada je to propisano zakonom ili pravnom stecevinom EU
-- građani trebaju moci jednostavno i djelotvorno ostvarivati prava i interese
+- javnost se može isključiti samo iznimno, kada je to propisano zakonom ili pravnom stečevinom EU
+- građani trebaju moći jednostavno i djelotvorno ostvarivati prava i interese
 - podaci iz službenih evidencija pribavljaju se `po službenoj dužnosti`
 - pravna zaštita protiv pojedinačnih akata propisuje se zakonom za pojedino upravno područje
-- štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave nadoknaduje `Republika Hrvatska`
+- štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave nadoknađuje `Republika Hrvatska`
 
 Moguća pitanja:
 - Kako se pribavljaju podaci iz službenih evidencija?  
   `Po službenoj dužnosti.`
-- Tko odgovara za štetu prema gradanima?  
+- Tko odgovara za štetu prema građanima?  
   `Republika Hrvatska.`
 
 Trik pitanja:
-- ne odgovara osobno odmah službenik prema gradaninu, nego primarno `RH`
+- ne odgovara osobno odmah službenik prema građaninu, nego primarno `RH`
 
 ---
 
@@ -223,20 +223,25 @@ Trik pitanja:
 - `Državni zavod` i `zavod u ministarstvu` nisu isto
 - državnom upravnom organizacijom upravlja dužnosnik, a upravnom organizacijom u ministarstvu rukovodi službenik
 
-### 2.4. Podrucne jedinice
+### 2.4. Područne jedinice
 
-Podrucne jedinice:
-- ustrojavaju se isključivo `izvan sjedista` tijela državne uprave
+Područne jedinice:
+- ustrojavaju se isključivo `izvan sjedišta` tijela državne uprave
 - mogu postojati i u ministarstvima i u državnim upravnim organizacijama
 
 Vrste:
 - `područni ured`
+- `područna služba`
+- `područni odjel`
 - `ispostava`
+- `samostalni izvršitelj`
 
 Ustrojavanje:
 - `uredbom o unutarnjem ustrojstvu`
+- područni ured u pravilu se ustrojava prema pravilima za `sektor`
+- područna služba i područni odjel prema pravilima za `službu`, odnosno `odjel`
 
-Podrucje rada:
+Područje rada:
 - područni ured: jedna ili više jedinica područne (regionalne) samouprave
 - ispostava: jedna ili više jedinica lokalne samouprave
 
@@ -314,18 +319,38 @@ Osnovna hijerarhija:
 Posebne ustrojstvene jedinice:
 - `glavno tajništvo`
 - `kabinet`
-- `jedinica za unutarnju reviziju`
+- `samostalna ustrojstvena jedinica za unutarnju reviziju`
+- `samostalna ustrojstvena jedinica za drugostupanjski postupak`
+- `ured rukovoditelja upravne organizacije u sastavu ministarstva`
 
 Bitno:
 - glavno tajništvo vodi `glavni tajnik`
+- kabinet čelnika se u pravilu ustrojava kao `odjel`
+- kabinet se može ustrojiti kao `služba` ako tijelo ima `1.000 i više izvršitelja`
+- kabinet se može ustrojiti kao `sektor` ako tijelo ima `10.000 i više izvršitelja`
+- ured rukovoditelja upravne organizacije može se ustrojiti ako poseban zakon to predviđa ili ako organizacija ima `500 i više izvršitelja`
 - samostalni sektor i samostalna služba su iznimke
 - u sastavu upravne organizacije u ministarstvu ne može se ustrojiti `samostalni sektor` ni `samostalna služba`
+- glavno tajništvo u ministarstvu ustrojava se prema pravilima za `upravu`, a u državnoj upravnoj organizaciji prema pravilima za `sektor`
+- `odsjek` i `zavod` nisu posebne ustrojstvene jedinice
 
 Moguća pitanja:
 - Tko rukovodi glavnim tajništvom?  
   `Glavni tajnik.`
 - Što su posebne ustrojstvene jedinice?  
   `Npr. glavno tajništvo, kabinet, unutarnja revizija.`
+
+Najbitniji brojevi:
+- `sektor` mora imati najmanje `2 službe`
+- `služba` mora imati najmanje `2 odjela`
+- `odjel` mora imati najmanje `5 izvršitelja`
+- `služba` ili `samostalna služba` može biti bez odjela ako ima najmanje `7 izvršitelja`
+- `odsjek` traži `4`, a `pododsjek` `3 izvršitelja`
+
+Trik pitanja:
+- `samostalni sektor` postoji u ministarstvu, a `samostalna služba` u državnoj upravnoj organizaciji
+- `načelnik` rukovodi sektorom i samostalnim sektorom
+- `voditelj` rukovodi službom, samostalnom službom, odjelom, odsjekom i pododsjekom
 
 ### 3.4. Planiranje poslova, radno i uredovno vrijeme
 
@@ -418,14 +443,14 @@ Ne povjeravaju se:
 - `upravni nadzor`
 
 Bitno:
-- za obavljanje povjerenih poslova sredstva se osiguravaju u državnom proračunu, ako zakonom nije drukcije propisano
+- za obavljanje povjerenih poslova sredstva se osiguravaju u državnom proračunu, ako zakonom nije drukčije propisano
 
 Moguća pitanja:
-- Koji se poslovi ne povjeravaju ni u kojem slucaju?  
+- Koji se poslovi ne povjeravaju ni u kojem slučaju?  
   `Provedba državne politike i upravni nadzor.`
 
 Trik pitanja:
-- upravo se ovdje lako ubaci lazna općija da se može povjeriti upravni nadzor
+- upravo se ovdje lako ubaci lažna tvrdnja da se može povjeriti upravni nadzor
 
 ### 4.6. Razlika između inspekcijskog i upravnog nadzora
 
@@ -502,7 +527,7 @@ Moguća pitanja:
 - Jesu li namještenici službene osobe?  
   `Ne.`
 
-### 6.2. Duznosnici i službenici
+### 6.2. Dužnosnici i službenici
 
 U ministarstvu su državni dužnosnici:
 - `ministar`
@@ -603,12 +628,12 @@ Bitno:
 ### 8.3. Uži kabinet Vlade
 
 Uži kabinet:
-- cine predsjednik Vlade i potpredsjednici Vlade
+- čine predsjednik Vlade i potpredsjednici Vlade
 - u radu može sudjelovati i drugi član kada je to potrebno prema pravilima rada
 - odlučuje o pitanjima iz djelokruga Vlade, a takve odluke potvrduje Vlada
 
 Moguća pitanja:
-- Tko cini Uži kabinet Vlade?
+- Tko čini Uži kabinet Vlade?
 
 Trik pitanja:
 - Uži kabinet nije isto što i Vlada u punom sastavu
@@ -678,6 +703,45 @@ Trik pitanja:
 
 ---
 
+## 9. Dodatna matrica za ponavljanje
+
+### Akt i donositelj
+
+- `zakon` uređuje `djelokrug` tijela državne uprave
+- `uredba` uređuje `unutarnje ustrojstvo` tijela državne uprave
+- `pravilnik o unutarnjem redu` donosi `čelnik tijela`
+- `provedbeni propisi` donose se samo uz izričitu zakonsku ovlast
+
+### Ustrojavanje po pravilima
+
+- `glavno tajništvo` u ministarstvu ustrojava se prema pravilima za `upravu`
+- `glavno tajništvo` u državnoj upravnoj organizaciji ustrojava se prema pravilima za `sektor`
+- `kabinet čelnika` u pravilu se ustrojava prema pravilima za `odjel`
+- `područni ured` u pravilu se ustrojava prema pravilima za `sektor`
+- `područna služba` i `područni odjel` ustrojavaju se prema pravilima za `službu`, odnosno `odjel`
+- `ispostava` traži najmanje `3 izvršitelja i voditelja`
+
+### Tko predlaže i tko supotpisuje
+
+- rukovoditelji ustrojstvenih jedinica `predlažu raspored` službenika i `predlažu plan rada`
+- rukovoditelji ustrojstvenih jedinica `supotpisuju nacrte akata` iz svog djelokruga
+- Vlada `predlaže` zakone, druge akte, državni proračun i završni račun Hrvatskom saboru
+
+### Što nije isto
+
+- `ministarstvo` je osnovni oblik tijela državne uprave
+- `državna upravna organizacija` ustrojava se za područja koja traže veću samostalnost ili posebne uvjete rada
+- `upravna organizacija u sastavu ministarstva` nije samostalno tijelo državne uprave
+- `područna jedinica` nije zasebno tijelo državne uprave nego oblik rada na terenu
+- `javna ustanova` nije tijelo državne uprave, iako obavlja javnu službu
+- `kabinet`, `glavno tajništvo` i `unutarnja revizija` nisu isto što i redovni niz `sektor - služba - odjel`
+
+### Vlada RH u tri točke
+
+- `Vlada` vodi unutarnju i vanjsku politiku RH
+- `Vlada` odlučuje ako je nazočna većina članova
+- `Uži kabinet` nije zasebno ustavno tijelo nego uži radni sastav Vlade
+
 ## 9. Najčešće zamke
 
 - `ministarstvo` se ustrojava zakonom, ne uredbom
@@ -719,18 +783,18 @@ Trik pitanja:
 7. Jesu li upravne organizacije u sastavu ministarstva tijela državne uprave?  
    `Ne.`
 
-8. Tko vodi glavno tajnistvo ministarstva?  
+8. Tko vodi glavno tajništvo ministarstva?  
    `Glavni tajnik.`
 
-9. Što se ne može povjeriti ni u kojem slucaju?  
+9. Što se ne može povjeriti ni u kojem slučaju?  
    `Provedba državne politike i upravni nadzor.`
 
-10. Tko nadoknaduje štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave?  
+10. Tko nadoknađuje štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave?  
    `Republika Hrvatska.`
 
 ---
 
-## 11. Što naučiti vecer prije ispita
+## 11. Što naučiti večer prije ispita
 
 Ako imaš malo vremena, nauči napamet:
 - temeljne zakone i što koji uređuje
@@ -764,7 +828,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 ### Navedene iznimke
 
-- javnost rada tijela državne uprave može se isključiti samo `iznimno`, kada je to propisano zakonom ili pravnom stecevinom EU
+- javnost rada tijela državne uprave može se isključiti samo `iznimno`, kada je to propisano zakonom ili pravnom stečevinom EU
   Logika: javnost je pravilo, a ograničenje mora imati pravnu osnovu zbog zaštite jacih interesa.
 - državnom upravnom organizacijom u pravilu upravlja `državni dužnosnik`, ali `iznimno` poseban zakon može odrediti rukovodećeg državnog službenika
   Logika: pravilo prati političku odgovornost prema Vladi, a iznimka se dopušta kad posao traži izraženu stručnost i kontinuitet.
@@ -804,7 +868,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 ### Rok + posljedica
 
-- `30 dana` za prosljedivanje podneska stvarno nadležnom tijelu.  
+- `30 dana` za prosljeđivanje podneska stvarno nadležnom tijelu.  
   Posljedica: štiti se stranka od štete zbog pogrešnog zaprimanja podneska.
 - `do kraja tekuće godine` za godišnji plan rada za iduću godinu.  
   Posljedica: tijelo mora u novu godinu uci s planom poslova.
@@ -823,7 +887,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 - `najmanje 2 upravne organizacije` u svakom ministarstvu
 - `najmanje 2 sektora` kao opće pravilo u više ustrojstvenih situacija
-- `30 dana`: prosljedivanje podneska
+- `30 dana`: prosljeđivanje podneska
 - `8. dan`: tipično stupanje na snagu propisa
 - `1. dan od objave`: iznimno stupanje na snagu
 - `8 sati`: dnevno radno vrijeme

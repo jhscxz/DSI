@@ -990,6 +990,43 @@ Trik pitanja:
 
 ---
 
+## Dodatna matrica za ponavljanje
+
+### Proračunski slijed
+
+- izvršno tijelo utvrđuje prijedlog proračuna i podnosi ga predstavničkom tijelu do `15. studenoga`
+- predstavničko tijelo donosi proračun `do kraja tekuće godine`
+- ako proračun nije donesen, moguće je `privremeno financiranje`, najdulje za `prva 3 mjeseca proračunske godine`
+
+### Akt, tijelo i nadzor
+
+- `statut` je temeljni opći akt jedinice
+- `poslovnik` uređuje način rada predstavničkog tijela
+- predsjednik predstavničkog tijela dostavlja opći akt nadležnom tijelu u roku od `15 dana`
+- izvršno tijelo može obustaviti od primjene opći akt predstavničkog tijela u roku od `8 dana`
+
+### Tko što radi u jedinici
+
+- `predstavničko tijelo` donosi statut, proračun i druge opće akte
+- `izvršno tijelo` izvršava opće akte i upravlja imovinom u okviru zakona i statuta
+- `pročelnik` upravlja upravnim tijelom, ali nije političko izvršno tijelo
+- `mjesna samouprava` nije nova jedinica lokalne samouprave, nego oblik sudjelovanja građana u okviru postojeće jedinice
+
+### Tko predlaže i tko dostavlja
+
+- `općinski načelnik / gradonačelnik / župan` jedini su ovlašteni predlagatelji proračuna
+- `predsjednik predstavničkog tijela` saziva sjednicu i dostavlja opći akt nadležnom tijelu
+- `izvršno tijelo` obustavlja od primjene opći akt ako ocijeni da je nezakonit
+- proračun, odluka o izvršavanju proračuna i njihove izmjene dostavljaju se `Ministarstvu financija` u roku od `15 dana` od stupanja na snagu
+
+### Brojke koje se lako miješaju
+
+- sjednica predstavničkog tijela: najmanje jednom u `3 mjeseca`
+- sazivanje na zahtjev `1/3 članova`: `15 dana`
+- rok izvršnog tijela nakon propuštanja predsjednika: `8 dana`
+- privremeno financiranje: najdulje `3 mjeseca`
+- redovni lokalni izbori: `treća nedjelja u svibnju svake četvrte godine`
+
 ## Najopasnije zamjene na ispitu
 
 - `općina i grad` = lokalna samouprava
@@ -1146,7 +1183,7 @@ Trik pitanja:
 - statut novoustrojene jedinice mora se donijeti u roku od `60 dana`
   Logika: bez statuta jedinica nema osnovni okvir svojeg ustrojstva i rada.
 - ako predstavničko tijelo ne može donositi odluke dulje od `3 mjeseca`, slijedi zakonska posljedica
-  Logika: dugotrajna blokada predstavničkog tijela znači da jedinica vise ne može normalno obavljati samoupravne poslove.
+  Logika: dugotrajna blokada predstavničkog tijela znači da jedinica više ne može normalno obavljati samoupravne poslove.
 - zahtjev za ocjenu zakonitosti općeg akta i više srodnih tužbi ide u roku od `30 dana`
   Logika: zakonitost akta mora se osporavati brzo radi pravne sigurnosti.
 - tužba protiv raspuštanja ili razrješenja podnosi se u roku od `8 dana`, a Visoki upravni sud odlučuje u `30 dana`
