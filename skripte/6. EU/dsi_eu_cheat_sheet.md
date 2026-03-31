@@ -583,7 +583,7 @@ Bit:
 Za ispit:
 - dovoljno je znati da postoje i da nisu isto što i zakonodavni akti
 - delegiranim aktom dopunjuju se ili mijenjaju nebitni elementi zakonodavnog akta
-- provedbenim aktom osiguravaju se ujednaceni uvjeti provedbe obvezujucih akata EU
+- provedbenim aktom osiguravaju se ujednačeni uvjeti provedbe obvezujućih akata EU
 
 ---
 

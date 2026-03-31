@@ -28,7 +28,7 @@ Ako znaš bez greške:
 - što se utvrđuje zakonom, što uredbom, a što pravilnikom
 - razliku `provedbeni propisi / naredbe / interni opći akti`
 - tko je državni dužnosnik, a tko rukovodeći državni službenik
-- kako su uredeni Vlada, Uži kabinet, radna tijela i stručne službe
+- kako su uređeni Vlada, Uži kabinet, radna tijela i stručne službe
 - unutarnje ustrojstvo, područne jedinice i odgovornost za štetu
 
 onda imaš jezgru predmeta.
@@ -58,7 +58,7 @@ Prvi zakon:
 - utvrđuje njihove nazive i djelokrug
 
 Drugi zakon:
-- uredjuje vrste poslova državne uprave
+- uređuje vrste poslova državne uprave
 - načela rada
 - vrste tijela i način njihova ustrojavanja
 - službene osobe
@@ -94,7 +94,7 @@ Moguća pitanja:
 ### 1.3. Nadležnost
 
 Bitno:
-- stvarna nadležnost utvrđuje se `zakonom kojim se uredjuje pojedino upravno područje`
+- stvarna nadležnost utvrđuje se `zakonom kojim se uređuje pojedino upravno područje`
 - mjesna nadležnost utvrđuje se u pravilu propisima o upravno-teritorijalnoj podjeli ili unutarnjem ustrojstvu
 - o sukobu nadležnosti između tijela državne uprave odlučuje `Vlada`
 
@@ -146,6 +146,25 @@ Bitno:
 - ministra u upravljanju ministarstvom može zamijeniti samo `državni tajnik`
 - u sastavu svakog ministarstva ustrojavaju se glavno tajništvo i najmanje `dvije upravne organizacije`
 
+Grananje za pamćenje:
+```text
+MINISTARSTVO
++-- čelnik: ministar
+|   +-- status: državni dužnosnik
+|   +-- može ga zamijeniti: samo državni tajnik
++-- uz ministra
+|   +-- državni tajnik
+|       +-- status: državni dužnosnik
++-- posebna jedinica
+|   +-- glavno tajništvo
+|       +-- vodi: glavni tajnik
+|       +-- status: rukovodeći državni službenik
++-- u sastavu ministarstva
+    +-- najmanje 2 upravne organizacije
+        +-- npr. uprava / zavod / inspektorat / ravnateljstvo / ured
+        +-- rukovoditelj: službenik, ne dužnosnik
+```
+
 Moguća pitanja:
 - Tko je čelnik ministarstva?  
   `Ministar.`
@@ -174,7 +193,7 @@ Ustrojavanje:
 - `zakonom`
 - za neke i `posebnim zakonom`
 
-Celnici:
+Čelnici:
 - središnji državni ured: `državni tajnik središnjeg državnog ureda`
 - državna uprava: `glavni ravnatelj`
 - državni zavod: `glavni ravnatelj`
@@ -184,6 +203,30 @@ Celnici:
 Bitno:
 - čelnik državne upravne organizacije je u pravilu `državni dužnosnik`
 - za svoj rad odgovara `Vladi`
+
+Grananje za pamćenje:
+```text
+DRŽAVNA UPRAVNA ORGANIZACIJA
++-- vrste
+|   +-- središnji državni ured
+|   +-- državna uprava
+|   +-- državni zavod
+|   +-- državni inspektorat
+|   +-- državno ravnateljstvo
++-- čelnik
+|   +-- državni tajnik središnjeg državnog ureda / glavni ravnatelj / glavni državni inspektor
+|       +-- status: u pravilu državni dužnosnik
++-- posebne jedinice
+|   +-- glavno tajništvo
+|       +-- vodi: glavni tajnik
+|       +-- status: rukovodeći državni službenik
+|   +-- kabinet čelnika
+|       +-- vodi: tajnik kabineta
+|       +-- status: rukovodeći državni službenik
++-- unutarnje jedinice
+    +-- sektor / služba / odjel / odsjek / pododsjek
+        +-- rukovode ih službenici
+```
 
 Moguća pitanja:
 - Koje su vrste državnih upravnih organizacija?
@@ -219,6 +262,28 @@ Status:
 - rukovoditelj je `rukovodeći državni službenik`
 - odgovara nadležnom državnom tajniku, ministru i Vladi
 
+Grananje za pamćenje:
+```text
+UPRAVNA ORGANIZACIJA U SASTAVU MINISTARSTVA
++-- nije tijelo državne uprave
++-- ustrojava se
+|   +-- uredbom o unutarnjem ustrojstvu ministarstva
++-- vrste
+|   +-- uprava
+|   +-- zavod
+|   +-- inspektorat
+|   +-- ravnateljstvo
+|   +-- ured
++-- rukovoditelj
+|   +-- ravnatelj / glavni inspektor
+|       +-- status: rukovodeći državni službenik
+|       +-- nije državni dužnosnik
++-- odgovornost
+    +-- nadležni državni tajnik
+    +-- ministar
+    +-- Vlada
+```
+
 Bitno:
 - u sastavu svakog ministarstva ustrojavaju se najmanje `dvije upravne organizacije`
 - upravne organizacije u sastavu ministarstva `nisu` tijela državne uprave
@@ -226,12 +291,13 @@ Bitno:
 Moguća pitanja:
 - Jesi li upravna organizacija u sastavu ministarstva tijelo državne uprave?  
   `Ne.`
-- Cime se ustrojava uprava u sastavu ministarstva?  
+- Čime se ustrojava uprava u sastavu ministarstva?  
   `Uredbom o unutarnjem ustrojstvu ministarstva.`
 
 Trik pitanja:
 - `Državni zavod` i `zavod u ministarstvu` nisu isto
 - državnom upravnom organizacijom upravlja dužnosnik, a upravnom organizacijom u ministarstvu rukovodi službenik
+- `glavni tajnik` i `tajnik kabineta` su službenici, a ne dužnosnici
 
 ### 2.4. Područne jedinice
 
@@ -641,7 +707,7 @@ Bitno:
 Pazi:
 - županije, gradovi i općine osnivaju javne ustanove samo u okviru svog samoupravnog djelokruga
 
-Osnivacki akt u pravilu uredjuje:
+Osnivački akt u pravilu uređuje:
 - naziv i sjedište
 - djelatnost
 - tijela ustanove i njihove ovlasti
@@ -903,7 +969,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 - `ministarstvo` nije isto što i `državna upravna organizacija`
 - `upravna organizacija u sastavu ministarstva` nije tijelo državne uprave
-- `zakon` ustrojava tijela, `uredba` uredjuje unutarnje ustrojstvo, `pravilnik` unutarnji red
+- `zakon` ustrojava tijela, `uredba` uređuje unutarnje ustrojstvo, `pravilnik` unutarnji red
 - `naredba` nije isto što i `pravilnik`
 - `dužnosnik` nije isto što i `rukovodeći državni službenik`
 
@@ -931,7 +997,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 ### Tko odlučuje
 
-- `Sabor`: donosi zakone kojima se ustrojavaju tijela i uredjuje njihov djelokrug
+- `Sabor`: donosi zakone kojima se ustrojavaju tijela i uređuje njihov djelokrug
 - `Vlada`: donosi uredbe, osniva radna tijela, vodi i usmjerava državnu upravu
 - `ministar`: upravlja ministarstvom, donosi pravilnik o unutarnjem redu kada je za to nadležan
 - `državni tajnik`: jedini može zamijeniti ministra

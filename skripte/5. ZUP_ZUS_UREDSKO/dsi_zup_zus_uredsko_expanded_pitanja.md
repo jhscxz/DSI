@@ -82,7 +82,7 @@ Posebno razlikuj:
 17. Što je podnesak u smislu ZUP-a?  
    `Opći naziv za sva obraćanja stranke tijelu u vezi upravne stvari.`
 
-18. Što se dogada s nerazumljivim ili nepotpunim podneskom?  
+18. Što se događa s nerazumljivim ili nepotpunim podneskom?  
    `Stranka se zaključkom poziva da ga dopuni ili ispravi.`
 
 19. Što ako stranka ne otkloni nedostatke podneska, a po njemu se ne može postupiti?  
@@ -213,7 +213,7 @@ Posebno razlikuj:
 60. Tko može zastupati stranku?  
    `Zakonski zastupnik, opunomocenik i druge osobe predviđene ZUP-om.`
 
-61. Što se dogada ako je zahtjev neuredan?  
+61. Što se događa ako je zahtjev neuredan?  
    `Stranka se poziva da ga dopuni ili ispravi.`
 
 62. Što ako stranka ne dopuni nerazumljiv ili nepotpun podnesak?  

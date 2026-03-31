@@ -136,7 +136,7 @@ Posebno razlikuj:
 35. Koja je osnovna vrsta nadzora nad jedinicama lokalne samouprave?  
    `Nadzor zakonitosti.`
 
-36. Znaci li nadzor zakonitosti da država redovno upravlja jedinicom?  
+36. Znači li nadzor zakonitosti da država redovno upravlja jedinicom?  
    `Ne.`
 
 37. Tko može raspustiti predstavničko tijelo u zakonom propisanim slučajevima?  
@@ -225,7 +225,7 @@ Posebno razlikuj:
 64. Može li član predstavničkog tijela svoj mandat staviti u mirovanje iz osobnih razloga?  
    `Da.`
 
-65. Koliko najkrace može trajati mirovanje mandata iz osobnih razloga?  
+65. Koliko najkraće može trajati mirovanje mandata iz osobnih razloga?  
    `Najmanje 6 mjeseci.`
 
 66. Kada članu predstavničkog tijela prestaje mandat zbog kaznene osude?  
