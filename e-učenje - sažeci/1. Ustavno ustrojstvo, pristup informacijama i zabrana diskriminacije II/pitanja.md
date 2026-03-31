@@ -30,7 +30,7 @@
 - Savjetodavni referendum, mjesni zborovi građana i predstavke građana.
 
 **Kako se donosi odluka na državnom referendumu?**  
-- Većinom glasova birača koji su pristupili referendumu.
+- Većinom glasova birača koji su glasovali.
 
 ---
 
@@ -188,15 +188,6 @@
 **Tko provodi nadzor zakonitosti nad općim aktima jedinica lokalne samouprave?**  
 - Tijela državne uprave u skladu sa zakonom.
 
-## Referendum i neposredno odlučivanje
-
-**Kako se donosi odluka na državnom referendumu?**  
-- Većinom glasova birača koji su glasovali.
-
-**Koji su drugi oblici neposrednog odlučivanja građana osim referenduma?**  
-- Savjetodavni referendum, mjesni zborovi građana i predstavke građana.
-
----
 # Predsjednik Republike Hrvatske
 
 ## Položaj i izbor
@@ -318,13 +309,6 @@
 
 ---
 
-## Odnos s Predsjednikom Republike
-
-**Tko provodi vanjsku politiku Republike Hrvatske?**  
-- Vlada Republike Hrvatske i Predsjednik Republike Hrvatske surađuju u oblikovanju i provođenju vanjske politike.
-
----
-
 ## Posebna ovlast u izvanrednim okolnostima
 
 **Na temelju čijeg prijedloga predsjednik Republike može donositi uredbe sa zakonskom snagom?**  
@@ -332,13 +316,6 @@
 
 ---
 # Ustavni sud Republike Hrvatske
-
-## Položaj i temelj
-
-**Na kojim aktima se temelji Ustavni sud Republike Hrvatske?**  
-- Na Ustavu Republike Hrvatske i Ustavnom zakonu o Ustavnom sudu Republike Hrvatske.
-
----
 
 ## Sastav i izbor sudaca
 
@@ -391,12 +368,6 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 
 **Tko pokreće postupak za utvrđivanje posebne odgovornosti predsjednika Republike Hrvatske?**  
 - Hrvatski sabor dvotrećinskom većinom svih zastupnika.
-
-**Tko odlučuje o odgovornosti predsjednika Republike Hrvatske?**  
-- Ustavni sud Republike Hrvatske dvotrećinskom većinom svih sudaca.
-
-**U kojem roku Ustavni sud mora odlučiti o odgovornosti predsjednika RH?**  
-- U roku od **30 dana** od dana zaprimanja prijedloga.
 
 ---
 
@@ -526,15 +497,6 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 
 ---
 
-## Referendum
-
-**Kako se donosi odluka na državnom referendumu?**  
-- Većinom glasova birača koji su glasovali.
-
-**Koji su drugi oblici neposrednog odlučivanja i izjašnjavanja birača?**  
-- Savjetodavni referendum, mjesni zborovi građana i predstavke građana.
-
----
 # Ljudska prava, jednakost i zabrana diskriminacije
 
 ## Opća načela
@@ -574,41 +536,7 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 - iznimke u području osiguranja  
 - iznimke vezane uz dob u radnim odnosima
 
----
-## Diskriminacija
-
-**Što se ne smatra diskriminacijom?**  
-- Predrasude.
-
-**Koji su oblici diskriminacije zabranjeni zakonom?**  
-- Zabranjeni su:
-  - izravna diskriminacija
-  - neizravna diskriminacija
-  - uznemiravanje i spolno uznemiravanje
-  - segregacija
-  - zabrana propuštanja razumne prilagodbe
-  - poticanje na diskriminaciju
-
----
-
-## Iznimke od zabrane diskriminacije
-
-**Koje su iznimke od zabrane diskriminacije?**  
-- Iznimke su:
-  - mjere radi zaštite zdravlja i javne sigurnosti
-  - mjere pozitivne akcije
-  - mjere zaštite socijalno osjetljivih skupina
-  - iznimka autentičnog radnog svojstva
-  - iznimke radi zaštite vjerskog etosa vjerskih zajednica
-  - iznimke u području osiguranja
-  - iznimke vezane uz dob u radnim odnosima
-
----
-
 ## Ravnopravnost spolova
-
-**Što su posebne mjere za ostvarivanje ravnopravnosti spolova?**  
-- Posebne mjere su privremene mjere kojima se otklanjaju postojeće nejednakosti i omogućuje stvarna ravnopravnost žena i muškaraca te se ne smatraju diskriminacijom.
 
 **Tko koordinira rad županijskih povjerenstava za ravnopravnost spolova?**  
 - Ured za ravnopravnost spolova koji osniva Vlada Republike Hrvatske.
@@ -812,9 +740,6 @@ Ustavnim zakonom o Ustavnom sudu Republike Hrvatske.
 ---
 
 ## Kandidiranje i promidžba
-
-**Tko može predlagati kandidate za zastupnike u Hrvatski sabor?**  
-- Političke stranke (samostalno ili u koaliciji) i birači uz najmanje **500 potpisa**.
 
 **Na temelju čijih podataka Državno izborno povjerenstvo utvrđuje broj potpisa potreban za kandidiranje?**  
 - Na temelju podataka iz registra birača.

@@ -1,6 +1,6 @@
-# DSI Sustav Državne Uprave Expanded + 196 Pitanja
+# DSI Sustav Državne Uprave Proširena pitanja + 196 Pitanja
 
-Proširena radna verzija uz `dsi_sustav_drzavne_uprave_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_sustav_drzavne_uprave_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva

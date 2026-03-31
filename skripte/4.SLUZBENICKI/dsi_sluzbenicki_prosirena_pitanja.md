@@ -1,6 +1,6 @@
-# DSI Službenički Expanded + 190 Pitanja
+# DSI Službenički Proširena pitanja + 190 Pitanja
 
-Proširena radna verzija uz `dsi_sluzbenicki_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_sluzbenicki_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva

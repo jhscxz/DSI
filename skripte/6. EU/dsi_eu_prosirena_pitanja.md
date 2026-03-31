@@ -1,9 +1,9 @@
-# DSI EU Expanded + 196 Pitanja
+# DSI EU Proširena pitanja + 196 Pitanja
 
-Proširena radna verzija uz `dsi_eu_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_eu_sazetak.md`.
 
 ## Namjena
-- širenje osnovnog cheat sheeta
+- širenje osnovnog sažetka
 - dodatne fine formulacije koje se lako miješaju
 - 196 mogućih pitanja s kratkim odgovorima
 

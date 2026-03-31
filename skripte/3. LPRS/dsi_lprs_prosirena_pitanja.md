@@ -1,6 +1,6 @@
-# DSI LPRS Expanded + 195 Pitanja
+# DSI LPRS Proširena pitanja + 195 Pitanja
 
-Proširena radna verzija uz `dsi_lprs_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_lprs_sazetak.md`.
 
 ## Namjena
 - dodatno širenje po poglavljima

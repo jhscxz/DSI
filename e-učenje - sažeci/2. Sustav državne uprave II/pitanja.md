@@ -502,28 +502,6 @@
 
 ---
 
-## Javne ovlasti
-
-**Što su javne ovlasti?**  
-- Ovlasti za obavljanje poslova državne uprave koje su posebnim zakonom povjerene pravnim osobama.
-
-**Kako se povjeravaju javne ovlasti?**  
-- Isključivo zakonom.
-
-**Koji se poslovi državne uprave mogu povjeriti pravnim osobama s javnim ovlastima?**  
-- Neposredna provedba zakona u prvom stupnju  
-- Drugi upravni i stručni poslovi  
-- Iznimno, inspekcijski nadzor radi provedbe pravno obvezujućih akata Europske unije  
-
-**Koji se poslovi ne mogu povjeriti pravnim osobama s javnim ovlastima?**  
-- Provedba državne politike  
-- Upravni nadzor  
-
-**Jesu li svi poslovi koje obavlja javna ustanova poslovi državne uprave?**  
-- Ne.
-
----
-
 ## Nadzor nad javnim ustanovama i javnim ovlastima
 
 **Tko nadzire zakonitost rada javnih ustanova i pravnih osoba s javnim ovlastima?**  
@@ -660,9 +638,6 @@
 
 **Koja tijela neposredno obavljaju poslove državne uprave?**  
 - Tijela državne uprave putem državnih službenika.
-
-**Koja upravna organizacija u sastavu ministarstva provodi neposrednu provedbu zakona?**  
-- Uprava.
 
 **Može li Vlada povjeriti poslove državne uprave pravnim osobama s javnim ovlastima?**  
 - Da, ako je to propisano zakonom.

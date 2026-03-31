@@ -1,6 +1,6 @@
-# DSI ZUP ZUS Uredsko Expanded + 196 Pitanja
+# DSI ZUP ZUS Uredsko Proširena pitanja + 196 Pitanja
 
-Proširena radna verzija uz `dsi_zup_zus_uredsko_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_zup_zus_uredsko_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva

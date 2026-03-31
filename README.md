@@ -67,22 +67,22 @@ Repozitorij je namijenjen **osobnom učenju i sistematizaciji gradiva**.
 
 U mapi `skripte/` nalaze se dvije glavne vrste pomoćnih datoteka:
 
-- `*_cheat_sheet.md`
+- `*_sazetak.md`
   - sažeti pregled cjeline
   - fokus na razlike koje se lako miješaju
   - rokove, mandate, većine, pragove i tipične ispitne zamke
   - kratka lokalna ASCII grananja unutar tema, tamo gdje pomažu razlikovati nadležnosti, rokove ili tijek postupka
 
-- `*_expanded_pitanja.md`
+- `*_prosirena_pitanja.md`
   - prošireni skup pitanja i kratkih odgovora za ponavljanje
   - služi za aktivno preslišavanje nakon učenja iz bilješki i sažetka
   - dopunjuje se i prema oglednim pitanjima kada ona otkrivaju tipične rupe ili zamke
 
 Preporučeni redoslijed:
 1. prvo proći izvornu temu iz odgovarajuće mape s bilješkama iz sustava e-Učenje
-2. zatim ponoviti cjelinu kroz pripadni `cheat_sheet`
-3. na kraju provjeriti znanje kroz `expanded_pitanja`
+2. zatim ponoviti cjelinu kroz pripadni `sazetak`
+3. na kraju provjeriti znanje kroz `prosirena_pitanja`
 
 Napomena o izvorima:
-- `cheat_sheet` i `expanded_pitanja` usklađuju se s priručnicima, ali se po potrebi dopunjuju bitnim detaljima iz bilješki iz sustava e-Učenje kada oni pomažu boljem razumijevanju ili ističu česte ispitne zamke
+- `sazetak` i `prosirena_pitanja` usklađuju se s priručnicima, ali se po potrebi dopunjuju bitnim detaljima iz bilješki iz sustava e-Učenje kada oni pomažu boljem razumijevanju ili ističu česte ispitne zamke
 - gdje postoje ogledna pitanja, skripte i proširena pitanja dodatno se prilagođavaju i njihovoj logici formulacije

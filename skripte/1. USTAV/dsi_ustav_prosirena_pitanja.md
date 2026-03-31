@@ -1,6 +1,6 @@
-# DSI USTAV Expanded + 215 Pitanja
+# DSI USTAV Proširena pitanja + 215 Pitanja
 
-Proširena radna verzija uz `dsi_ustav_cheat_sheet.md`.
+Proširena radna verzija uz `dsi_ustav_sazetak.md`.
 
 ## Namjena
 
