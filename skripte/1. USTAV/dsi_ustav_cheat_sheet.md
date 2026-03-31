@@ -35,6 +35,16 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Što ogledna pitanja posebno gađaju
+
+- tko što predlaže, a tko konačno odlučuje
+- točne nadležnosti `Sabora / Predsjednika RH / Vlade RH`
+- posebne većine i rokove kod Ustava, proračuna, izbora i odgovornosti
+- nacionalne manjine: vijeća, predstavnik, Savjet i zastupnici u `XII.` jedinici
+- iznimke: supotpis, uredbe sa zakonskom snagom, kraća i duža spriječenost predsjednika RH
+
+---
+
 ## 1. Temeljna ustavna određenja
 
 ### 1.1. Što je Ustav
@@ -92,6 +102,14 @@ Vlast:
 - proizlazi iz naroda
 - pripada narodu kao zajednici slobodnih i ravnopravnih državljana
 - ostvaruje se izborom predstavnika i neposrednim odlučivanjem
+
+Temeljna ustavna načela koja moraš znati zajedno:
+- `narodni suverenitet`
+- `dioba vlasti`
+- `ustavnost i zakonitost`
+- `poštivanje prava čovjeka`
+- `ravnopravnost i zabrana diskriminacije`
+- `lokalna i područna samouprava`
 
 Moguća pitanja:
 - Kakva je RH prema Ustavu?  
@@ -159,6 +177,8 @@ Načelo:
 
 Bitno:
 - grb RH je povijesni hrvatski grb
+- sastoji se od `štita` s `25` crvenih i bijelih polja i `krune` s `5` povijesnih hrvatskih grbova
+- redom u kruni: `najstariji hrvatski grb`, `grb Dubrovačke Republike`, `grb Dalmacije`, `grb Istre`, `grb Slavonije`
 - zastava RH: `crvena, bijela, plava` s grbom u sredini
 - himna RH: `Lijepa naša domovino`
 - tekst himne i glazba te način izvođenja i čuvanja uređuju se `zakonom`, a izvornik se čuva u HR Saboru
@@ -322,12 +342,15 @@ Nadležnost:
 - odlučuje o donošenju i promjeni Ustava
 - donosi zakone
 - donosi državni proračun
+- donosi strategiju nacionalne sigurnosti i strategiju obrane Republike Hrvatske
 - odlučuje o ratu i miru
+- nadzire civilne i sigurnosne službe
 - odlučuje o promjeni granica RH (`2/3` većinom)
 - raspisuje referendum
 - obavlja izbore, imenovanja i razrješenja
 - nadzire rad Vlade i drugih nositelja javnih dužnosti odgovornih Saboru
 - daje amnestiju za kaznena djela
+- potvrđuje međunarodne ugovore kada je to propisano Ustavom
 
 Sastav:
 - ima najmanje `100`, a najviše `160` zastupnika
@@ -339,7 +362,7 @@ Sabor se konstituira:
 Zasjedanje:
 - redovito dva puta godišnje
 - `15. siječnja - 15. srpnja`
-- `15. rujna - 15. prosinca
+- `15. rujna - 15. prosinca`
 - izvanredno zasjeda na zahtjev Predsjednika RH, Vlade, većine zastupnika, ili Predsjednik Hrvatskog Sabora uz prethodno pribavljeno mišljenje klubova zastupnika
 
 Raspuštanje:
@@ -357,6 +380,7 @@ Moguća pitanja:
 Trik pitanja:
 - zastupnički mandat nije obvezujući
 - zastupnici nisu opozivi
+- zastupnici ne mogu sazvati sjednicu Vlade, ali mogu postavljati zastupnička pitanja Vladi i ministrima
 
 ### 3.2. Prava, obveze i odgovornosti zastupnika
 
@@ -400,6 +424,22 @@ Moguća pitanja:
   `Samo pojedine odredbe zakona, iz posebno opravdanih razloga.`
 
 ### 3.4. Referendum
+
+```text
+REFERENDUM
+|
++-- raspisuje Sabor
+|   +-- promjena Ustava
+|   +-- zakon
+|   +-- drugo pitanje iz djelokruga
+|
++-- raspisuje Predsjednik RH
+|   +-- prijedlog Vlade
+|   +-- supotpis predsjednika Vlade
+|
++-- mora raspisati Sabor
+    +-- ako traži 10 % birača
+```
 
 Državni referendum mogu raspisati:
 - Hrvatski sabor
@@ -449,6 +489,25 @@ Trik pitanja:
 
 ### 3.6. Predsjednik Republike Hrvatske
 
+```text
+PREDSJEDNIK RH
+|
++-- samostalno
+|   +-- mandat za sastavljanje Vlade
+|   +-- pomilovanja
+|   +-- odlikovanja i priznanja
+|
++-- uz prijedlog / supotpis
+|   +-- referendum
+|   +-- raspuštanje Sabora
+|   +-- uredbe sa zakonskom snagom
+|   +-- diplomatske misije i šefovi misija
+|
++-- spriječenost
+    +-- kraća -> predsjednik Sabora po povjeri
+    +-- duža -> predsjednik Sabora po odluci Ustavnog suda
+```
+
 Položaj:
 - predstavlja i zastupa RH u zemlji i inozemstvu
 - brine se za redovito i usklađeno djelovanje i stabilnost državne vlasti
@@ -462,6 +521,18 @@ Ovlasti:
 - dodjeljuje odlikovanja i priznanja
 - vrhovni je zapovjednik oružanih snaga
 - imenuje i razrješuje vojne zapovjednike u skladu sa zakonom
+- može donositi `uredbe sa zakonskom snagom` u ratnom stanju ili kad su tijela državne vlasti onemogućena, `na prijedlog predsjednika Vlade i uz njegov supotpis`
+- zajedno s Vladom surađuje u oblikovanju i provođenju vanjske politike
+
+Spriječenost predsjednika RH:
+- `kraća spriječenost`: predsjednika može zamjenjivati predsjednik Hrvatskog sabora, ako mu predsjednik Republike povjeri tu dužnost
+- `duža spriječenost`: dužnost preuzima predsjednik Hrvatskog sabora na temelju odluke Ustavnog suda, na prijedlog Vlade RH
+- `smrt / ostavka / prestanak mandata`: predsjednik Hrvatskog sabora obnaša dužnost po sili Ustava
+
+Za rad predsjednika RH:
+- savjetodavni, stručni i drugi poslovi obavljaju se u `Uredu predsjednika Republike`
+- ustrojstvo i djelokrug Ureda predsjednika Republike uređuje predsjednik Republike odlukom
+- sredstva za rad osiguravaju se u državnom proračunu
 
 Mandat:
 - `5 godina`
@@ -501,6 +572,17 @@ Najčešći odnosi `prijedlog / supotpis`:
 Bitno:
 - nositelj izvršne vlasti zajedno s predsjednikom u smislu ustavne diobe izvršne vlasti, ali Vlada vodi unutarnju i vanjsku politiku u skladu s Ustavom i zakonima
 - odgovorna je Hrvatskom saboru
+
+Ovlasti Vlade RH:
+- predlaže zakone i druge akte Hrvatskom saboru
+- predlaže državni proračun i završni račun
+- provodi zakone i druge odluke Hrvatskoga sabora
+- donosi uredbe za izvršenje zakona
+- vodi unutarnju i vanjsku politiku
+- usmjerava i nadzire rad državne uprave
+- brine o gospodarskom razvitku zemlje
+- usmjerava djelovanje i razvitak javnih službi
+- obavlja druge poslove određene Ustavom i zakonom
 
 Ključno za ispit:
 - predsjednik Republike daje mandat
@@ -730,6 +812,24 @@ Trik pitanja:
 
 ## 5. Nacionalne manjine
 
+```text
+NACIONALNE MANJINE
+|
++-- vijeće
+|   +-- 1,5 % stanovništva ili >200 u općini/gradu
+|   +-- >500 u županiji
+|
++-- predstavnik
+|   +-- ako nema uvjeta za vijeće
+|   +-- najmanje 100 pripadnika manjine
+|
++-- Sabor, XII. jedinica
+    +-- 3 srpska
+    +-- 1 mađarski
+    +-- 1 talijanski
+    +-- 3 skupna mjesta
+```
+
 Bitno:
 - RH jamči ravnopravnost pripadnicima nacionalnih manjina
 - zakoni kojima se uređuju prava nacionalnih manjina su `organski zakoni`
@@ -745,9 +845,31 @@ Posebna prava manjina obuhvaćaju osobito:
 Vijeća nacionalnih manjina:
 - neprofitne pravne osobe
 - biraju se pod zakonskim uvjetima
+- općina ili grad: ako manjina čini najmanje `1,5 %` stanovništva ili na tom području živi više od `200` pripadnika manjine
+- županija: ako na području županije živi više od `500` pripadnika manjine
+- broj članova vijeća: `10` u općini, `15` u gradu, `25` u županiji
+
+Predstavnik nacionalne manjine:
+- bira se ako na području jedinice nema uvjeta za vijeće, ali živi najmanje `100` pripadnika te manjine
+- predstavlja manjinu pred tijelima jedinice samouprave
+
+Koordinacija vijeća nacionalnih manjina:
+- usuglašava stavove vijeća nacionalnih manjina
+- uz njihovo ovlaštenje poduzima pojedine mjere iz djelokruga vijeća
 
 Savjet za nacionalne manjine:
 - osniva se radi učinkovitijeg sudjelovanja manjina u javnom životu
+- osniva se na razini RH
+- članove imenuje `Vlada RH` na `4 godine`
+- razmatra, predlaže i rješava pitanja ostvarivanja i zaštite prava nacionalnih manjina
+
+Zastupljenost nacionalnih manjina u Hrvatskom saboru:
+- `srpska` manjina: `3` zastupnika
+- `mađarska` manjina: `1` zastupnik
+- `talijanska` manjina: `1` zastupnik
+- `češka i slovačka` manjina: zajedno `1` zastupnik
+- `austrijska, bugarska, njemačka, poljska, romska, rumunjska, rusinska, ruska, turska, ukrajinska, vlaška i židovska` manjina: zajedno `1` zastupnik
+- `albanska, bošnjačka, crnogorska, makedonska i slovenska` manjina: zajedno `1` zastupnik
 
 Moguća pitanja:
 - Kojom većinom se donose organski zakoni o pravima nacionalnih manjina?  
@@ -972,6 +1094,22 @@ Moguća pitanja:
 
 ### 9.1. Izbor zastupnika u Hrvatski sabor
 
+```text
+IZBORNE JEDINICE
+|
++-- I. - X.
+|   +-- teritorijalne jedinice u RH
+|   +-- po 14 zastupnika
+|
++-- XI.
+|   +-- birači bez prebivališta u RH
+|   +-- 3 zastupnika
+|
++-- XII.
+    +-- pripadnici nacionalnih manjina
+    +-- 8 zastupnika
+```
+
 Raspisuje:
 - Predsjednik Republike Hrvatske
 
@@ -990,9 +1128,14 @@ Sustav:
 
 Izborne jedinice:
 - `12`
-- 10 teritorijalnih u RH
-- 11. za birače bez prebivališta u RH
-- 12. za pripadnike nacionalnih manjina
+- `I. - X.` teritorijalne jedinice u RH, u svakoj se bira po `14` zastupnika
+- `XI.` jedinica za birače bez prebivališta u RH, bira `3` zastupnika
+- `XII.` jedinica za pripadnike nacionalnih manjina, bira `8` zastupnika
+
+Kako to pamtiti:
+- `10 x 14` u RH
+- `XI = 3` za dijasporu
+- `XII = 8` za manjine
 
 Moguća pitanja:
 - Koliko je izbornih jedinica za izbor zastupnika u Hrvatski sabor?  

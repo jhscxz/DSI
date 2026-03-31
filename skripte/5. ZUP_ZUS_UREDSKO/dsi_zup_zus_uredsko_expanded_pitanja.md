@@ -1,10 +1,10 @@
-# DSI ZUP ZUS Uredsko Expanded + 190 Pitanja
+# DSI ZUP ZUS Uredsko Expanded + 196 Pitanja
 
 Proširena radna verzija uz `dsi_zup_zus_uredsko_cheat_sheet.md`.
 
 ## Namjena
 - dodatno širenje gradiva
-- 190 mogućih pitanja s kratkim odgovorima
+- 196 mogućih pitanja s kratkim odgovorima
 - fine formulacije i tipične zamke
 
 ## Što dodatno učiti
@@ -602,3 +602,21 @@ Posebno razlikuj:
 
 190. Koja je najčešća pogreška kod pitanja o pravnim lijekovima u ZUS-u?  
    `Miješanje tužbe kao sredstva pokretanja spora sa žalbom protiv presude upravnog suda.`
+
+191. Na temelju kojeg načela javnopravno tijelo rješava upravnu stvar na temelju zakona i drugih propisa?  
+   `Na temelju načela zakonitosti.`
+
+192. Znači li načelo učinkovitosti i ekonomičnosti da tijelo mora postupati u interesu stranke?  
+   `Ne, nego da mora postupati bez odgode i sa što manje troškova, u okviru zakona.`
+
+193. Kada se stvarna nadležnost utvrđuje po naravi upravne stvari?  
+   `Kad se ne može utvrditi na temelju zakona.`
+
+194. Tko odlučuje o sukobu nadležnosti tijela državne uprave i drugoga državnog tijela kad nema drugostupanjskog tijela?  
+   `Tijelo državne uprave nadležno za poslove opće uprave.`
+
+195. Na koji se način može pokrenuti prvostupanjski upravni postupak?  
+   `Na zahtjev stranke ili po službenoj dužnosti.`
+
+196. Kako će službena osoba postupiti ako ne postoje uvjeti za pokretanje postupka po zahtjevu stranke?  
+   `Rješenjem će odbaciti zahtjev stranke.`

@@ -35,6 +35,16 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Što ogledna pitanja posebno gađaju
+
+- 10 načela ZUP-a i njihovo prepoznavanje u opisu situacije
+- sukob nadležnosti, izuzeće službene osobe i pokretanje postupka
+- razliku `žalba / prigovor / tužba`
+- rokove `30 / 60 / 15 / 8 / 90 dana`
+- uredsko poslovanje: pečat, natpisna ploča, klasifikacijska oznaka i urudžbeni broj
+
+---
+
 ## 1. ZUP: Upravni postupak
 
 ### 1.1. Što je ZUP i kada se primjenjuje
@@ -67,6 +77,20 @@ Trik pitanja:
 
 ### 1.2. Načela upravnog postupka
 
+```text
+NAČELA
+|
++-- zakonitost
+|   +-- rješavanje na temelju zakona i propisa
+|
++-- učinkovitost i ekonomičnost
+|   +-- bez odgode
+|   +-- sa što manje troškova
+|
++-- materijalna istina
+    +-- utvrditi pravo stanje stvari
+```
+
 Deset načela:
 - načelo zakonitosti
 - načelo razmjernosti u zaštiti prava stranaka i javnog interesa
@@ -94,8 +118,21 @@ Moguća pitanja:
 Trik pitanja:
 - pomoć stranci ne znači zastupanje stranke
 - materijalna istina znači utvrditi pravo stanje stvari, ne samo ono što stranka tvrdi
+- načelo učinkovitosti i ekonomičnosti ne znači `postupanje u interesu stranke`, nego brzo i ekonomično zakonito postupanje
 
 ### 1.3. Nadležnost
+
+```text
+NADLEŽNOST
+|
++-- stvarna
+|   +-- po zakonu
+|   +-- ako ne može -> po naravi upravne stvari
+|
++-- mjesna
+    +-- po području
+    +-- po prebivalištu / boravištu / mjestu stvari
+```
 
 Vrste nadležnosti:
 - `stvarna`
@@ -103,6 +140,7 @@ Vrste nadležnosti:
 
 Stvarna nadležnost:
 - određuje se zakonom kojim se uređuje pojedino upravno područje ili nadležnost tijela
+- ako se ne može utvrditi na temelju zakona, određuje se prema `naravi upravne stvari`
 
 Mjesna nadležnost:
 - određuje se propisima o upravno-teritorijalnoj podjeli ili ustrojstvu javnopravnih tijela
@@ -133,6 +171,8 @@ Protiv odluke o sukobu nadležnosti:
 Moguća pitanja:
 - Koje su dvije vrste nadležnosti?
 - Tko rješava sukob nadležnosti?
+- Kada se stvarna nadležnost određuje prema naravi upravne stvari?  
+  `Kad se ne može utvrditi na temelju zakona.`
 
 Trik pitanja:
 - protiv odluke o sukobu nadležnosti nema ni žalbe ni upravnog spora
@@ -186,6 +226,34 @@ Moguća pitanja:
 ## 2. ZUP: Tijek postupka
 
 ### 2.1. Pokretanje postupka
+
+```text
+POKRETANJE POSTUPKA
+|
++-- na zahtjev stranke
+|
++-- po službenoj dužnosti
+    +-- po zakonu
+    +-- po predstavci
+    +-- po saznanju tijela
+```
+
+Bitno:
+- prvostupanjski upravni postupak pokreće se `na zahtjev stranke` ili `po službenoj dužnosti`
+- ako nema uvjeta za pokretanje postupka po zahtjevu stranke, zahtjev se `rješenjem odbacuje`
+
+```text
+POKRETANJE
+|
++-- zahtjev stranke
+|   +-- uredan -> postupak ide dalje
+|   +-- nema uvjeta -> odbacivanje rješenjem
+|
++-- po službenoj dužnosti
+    +-- po zakonu
+    +-- po predstavci
+    +-- po saznanju tijela
+```
 
 Postupak se pokreće:
 - `na zahtjev stranke`
@@ -448,7 +516,7 @@ Moguća pitanja:
 
 Trik pitanja:
 - prigovor nije isto što i žalba
-- prigovor ide protiv `postupanja`, ne klasicno samo protiv prvostupanjskog rješenja
+- prigovor ide protiv `postupanja`, ne klasično samo protiv prvostupanjskog rješenja
 
 ### 3.5. Izvanredni pravni lijekovi
 

@@ -36,6 +36,16 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Što dodatno ponavljati kao ogledni tip pitanja
+
+- rokove za natječaj, izbor kandidata, probni rad i državni ispit
+- tko odlučuje o prijmu, žalbi, zaštiti prava i službeničkoj odgovornosti
+- razliku `probni rad / vježbenički staž / prijam na određeno`
+- posljedice nepoloženog državnog ispita
+- etičku pritužbu, povjerenika za etiku i Etičko povjerenstvo
+
+---
+
 ## 1. Popunjavanje radnih mjesta u državnim tijelima
 
 ### 1.1. Načini popunjavanja
@@ -91,7 +101,7 @@ Bitno:
 - može se dopuniti tijekom godine
 - donosi ga čelnik tijela državne uprave nadležnog za službeničke odnose
 
-Sadrzi:
+Sadrži:
 - potrebe zapošljavanja na neodređeno i određeno vrijeme
 - broj službenika i radna mjesta koja se planiraju popuniti
 - broj Vježbenika
@@ -102,9 +112,21 @@ Moguća pitanja:
 - Tko donosi plan zapošljavanja u državnoj službi?
 
 Trik pitanja:
-- plan ne donosi svako državno tijelo samostalno kao konacni akt
+- plan ne donosi svako državno tijelo samostalno kao konačni akt
 
 ### 1.5. Javni natječaj
+
+```text
+NATJEČAJNI TIJEK
+|
++-- objava
++-- prijava
++-- testiranje
++-- intervju
++-- izbor kandidata
++-- rješenje o prijmu
++-- rješenje o rasporedu
+```
 
 Bitno:
 - javni natječaj raspisuje tijelo državne uprave nadležno za službeničke odnose
@@ -126,7 +148,7 @@ Moguća pitanja:
   `15 dana.`
 
 Trik pitanja:
-- prijava ide elektronično, ne klasicno papirnato kao pravilo
+- prijava ide elektronično, ne klasično papirnato kao pravilo
 
 ### 1.6. Testiranje, intervju i izbor
 
@@ -134,7 +156,7 @@ Bitno:
 - izboru prethodi `testiranje` i `intervju`
 - rezultati testiranja vrijede `tri godine`
 - mogu se koristiti i u drugim postupcima
-- kandidat može traziti ponovno testiranje, a uzima se posljednji rezultat
+- kandidat može tražiti ponovno testiranje, a uzima se posljednji rezultat
 - izbor kandidata obavlja se najkasnije u roku od `tri mjeseca` od objave javnog natječaja
 
 Intervju:
@@ -192,7 +214,7 @@ U državnu službu ne može se primiti osoba:
 - kojoj je prestala služba izvanrednim otkazom, `4 godine`
 - kojoj je prestala služba jer nije zadovoljila na probnom radu, `2 godine`
 - kojoj je prestala služba jer je ocijenjena ocjenom `ne zadovoljava`, `2 godine`
-- kojoj je odlukom službeničkog suda izrecena zabrana prijma, za vrijeme trajanja zabrane
+- kojoj je odlukom službeničkog suda izrečena zabrana prijma, za vrijeme trajanja zabrane
 
 Moguća pitanja:
 - Koje su zapreke za prijam u državnu službu?
@@ -205,6 +227,19 @@ Trik pitanja:
 ## 3. Probni rad, služba na određeno vrijeme i državni ispit
 
 ### 3.1. Probni rad
+
+```text
+PROBNI RAD / VJEŽBENIK
+|
++-- prijam na neodređeno
+|   +-- probni rad 3 mjeseca
+|
++-- vježbenik
+|   +-- staž 12 mjeseci
+|
++-- određeno >= 6 mjeseci
+    +-- probni rad 2 mjeseca
+```
 
 Prijam u državnu službu je u pravilu:
 - na `neodređeno vrijeme`
@@ -264,6 +299,19 @@ Moguća pitanja:
 
 ### 3.4. Državni ispit
 
+```text
+DRŽAVNI ISPIT
+|
++-- opće pravilo
+|   +-- 1 godina od početka rada
+|
++-- posebni rok
+|   +-- viša razina nakon rasporeda/premještaja = 6 mjeseci
+|
++-- iznimka
+    +-- pravosudni ispit -> nema obveze
+```
+
 Temeljno pravilo:
 - službenik mora položiti državni ispit propisane razine najkasnije u roku od `godine dana` od početka rada
 
@@ -296,6 +344,17 @@ Trik pitanja:
 
 ### 3.5. Neizvršenje obveze polaganja državnog ispita
 
+```text
+AKO ISPIT NIJE POLOŽEN
+|
++-- neodređeno / određeno > 1 godine
+|   +-- prestanak službe istekom roka
+|
++-- viša razina nakon rasporeda
+    +-- raspored na odgovarajuće mjesto
+    +-- ako nema mjesta -> raspolaganje
+```
+
 Ako službenik:
 - ne položi
 - ili ne pristupi ispitu u roku
@@ -317,6 +376,19 @@ Zahtjev:
 ## 4. Premještaj, napredovanje i raspolaganje
 
 ### 4.1. Premještaj
+
+```text
+PREMJEŠTAJ
+|
++-- isto tijelo / drugo mjesto
+|
++-- bez suglasnosti ne može
+|   +-- > 50 km
+|   +-- bitno pogoršanje obiteljskih prilika
+|
++-- > 100 km
+    +-- smještaj za službenika i obitelj
+```
 
 Državni službenik može po potrebi službe biti premješten:
 - na drugo radno mjesto u istom državnom tijelu
@@ -348,7 +420,7 @@ Traje:
 - odnosno dok traju poslovi, a najduže `godinu dana`
 
 Bitno:
-- za vrijeme privremenog premještaja službenik ima pravo na placu koja je za njega povoljnija
+- za vrijeme privremenog premještaja službenik ima pravo na plaću koja je za njega povoljnija
 
 ### 4.3. Raspolaganje Vladi RH
 
@@ -363,7 +435,7 @@ Bitni rokovi:
 - kod ukidanja tijela i svih poslova, rok za rješenje o stavljanju na raspolaganje je `mjesec dana od preuzimanja`
 
 Za vrijeme raspolaganja službenik:
-- ima pravo na placu u visini plaće iz mjeseca prije stavljanja na raspolaganje
+- ima pravo na plaću u visini plaće iz mjeseca prije stavljanja na raspolaganje
 - dužan je obavljati poslove po nalogu u skladu s razinom obrazovanja
 
 Po isteku roka raspolaganja:
@@ -371,10 +443,24 @@ Po isteku roka raspolaganja:
 - službenik ima pravo na `otpremninu`
 
 Moguća pitanja:
-- Što se dogada po isteku roka raspolaganja?  
+- Što se događa po isteku roka raspolaganja?  
   `Državna služba prestaje po sili zakona.`
 
 ### 4.4. Napredovanje
+
+```text
+NAPREDOVANJE
+|
++-- redovito
+|   +-- ocjena uspješan ili viša
+|   +-- slobodno mjesto
+|   +-- ispunjeni uvjeti
+|
++-- izvanredno
+    +-- dvostruko više iskustva
+    +-- 2 godine neprekidno u istom tijelu
+    +-- ne za rukovodeće mjesto
+```
 
 Napredovanje se ostvaruje:
 - rasporedom na `više radno mjesto`
@@ -384,7 +470,7 @@ Vrste:
 - `izvanredno`
 
 Redovito:
-- ocjena za prethodnu godinu mora biti `uspješan` ili visa
+- ocjena za prethodnu godinu mora biti `uspješan` ili viša
 - mora postojati slobodno radno mjesto
 - službenik mora ispunjavati uvjete
 
@@ -407,7 +493,7 @@ Moguća pitanja:
 
 Temeljna prava su:
 - pravo na rad u prikladnim uvjetima
-- pravo na placu i druga materijalna prava
+- pravo na plaću i druga materijalna prava
 - pravo na jednako postupanje i jednake mogućnosti napredovanja
 - pravo na zaštitu od neopravdanog premještaja ili udaljenja
 - pravo na kandidiranje na izborima
@@ -507,7 +593,7 @@ Bitno:
 - protiv rješenja je dopuštena pravna zaštita prema pravilima službeničkog sustava i upravnog sudovanja
 
 Za ispit pamti:
-- nije o svakom pitanju nadležan isti čelnik ili isto tijelo
+- nije o svakom pitanju nadležan isti čelnik ili isto tijelo
 - kod povrede službene dužnosti i kod drugih statusnih pitanja često su nadležna različita tijela
 
 ---
@@ -516,15 +602,27 @@ Za ispit pamti:
 
 ### 7.1. Lake i teške povrede
 
+```text
+POVREDE DUŽNOSTI
+|
++-- lake
+|   +-- odlučuje čelnik tijela
+|   +-- žalba službeničkom sudu
+|
++-- teške
+    +-- 1. stupanj službenički sud
+    +-- 2. stupanj viši službenički sud
+```
+
 `Lake povrede`
 - o njima u pravilu odlučuje `čelnik tijela`
 
-`Teske povrede`
+`Teške povrede`
 - o njima u prvom stupnju odlučuje `Službenički sud`
 - u drugom stupnju `Viši službenički sud`
 
 Bitno:
-- službeničke sudove i visi službenički sud ustrojava `Vlada RH`
+- službeničke sudove i viši službenički sud ustrojava `Vlada RH`
 
 Moguća pitanja:
 - Tko odlučuje o teškim povredama službene dužnosti?  
@@ -532,7 +630,7 @@ Moguća pitanja:
 
 ### 7.2. Kazne i posljedice
 
-Kazne oviše o težini povrede.
+Kazne ovise o težini povrede.
 
 Bitno:
 - kažnjeni službenik može imati posljedice za napredovanje
@@ -541,13 +639,13 @@ Bitno:
 ### 7.3. Postupak
 
 Bitni rokovi:
-- protiv rješenja za laku povredu službenik može izjaviti žalbu Službenickom sudu u roku od `15 dana`
+- protiv rješenja za laku povredu službenik može izjaviti žalbu Službeničkom sudu u roku od `15 dana`
 - Službenički sud odlučuje o žalbi najkasnije u roku od `15 dana`
 
 ### 7.4. Udaljenje iz službe
 
 Bitno:
-- službenik može biti udaljen kada za to postoje zakonski razlozi, tipično vezani uz sumnju na tezu povredu ili druge ozbiljne okolnosti
+- službenik može biti udaljen kada za to postoje zakonski razlozi, tipično vezani uz sumnju na tešku povredu ili druge ozbiljne okolnosti
 - za vrijeme udaljenja ima pravo na naknadu plaće prema zakonskim pravilima
 
 Moguća pitanja:
@@ -561,7 +659,7 @@ Moguća pitanja:
 
 Bitno:
 - državni službenik je dužan naknaditi štetu koju u službi ili u vezi sa službom namjerno ili krajnjom nepaznjom nanese državnom tijelu
-- kada je šteta učinjena trecoj osobi, odgovara država prema toj osobi, a potom može traziti naknadu od službenika prema pravilima regresne odgovornosti
+- kada je šteta učinjena trećoj osobi, odgovara država prema toj osobi, a potom može tražiti naknadu od službenika prema pravilima regresne odgovornosti
 
 Moguća pitanja:
 - Kada službenik odgovara za štetu državnom tijelu?
@@ -610,9 +708,19 @@ Bitno:
 - ponašanje suprotno Etičkom kodeksu može imati i posljedice u disciplinskom smislu
 
 Trik pitanja:
-- pitanja često miješaju `etičnost`, `efikasnost`, `zakonitost` i `odgovornost za rezultate`
+- pitanja često miješaju `etičnost`, `učinkovitost`, `zakonitost` i `odgovornost za rezultate`
 
 ### 9.3. Pritužbe i tijela za postupanje
+
+```text
+ETIČKA PRITUŽBA
+|
++-- prvo
+|   +-- povjerenik za etiku
+|
++-- ako treba mišljenje
+    +-- Etičko povjerenstvo
+```
 
 Po pritužbama u pravilu postupa:
 - `povjerenik za etiku`

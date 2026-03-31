@@ -35,6 +35,16 @@ onda imaš jezgru za prolaz i dobar dio pitanja koja ruše ispit.
 
 ---
 
+## Što ogledna pitanja posebno gađaju
+
+- povijesne ugovore i redoslijed razvoja integracije
+- instituciju koja što odlučuje, nadzire ili predlaže
+- razliku `primarni / sekundarni izvori prava`
+- gdje je sjedište pojedine institucije i tko sudjeluje u određenom postupku
+- pristupanje EU: zahtjev, mišljenje Komisije, status kandidatkinje, pregovori i pristanak Parlamenta
+
+---
+
 ## 1. Povijest i razvoj Europske unije
 
 ### 1.1. Nastanak i razvoj
@@ -77,6 +87,22 @@ Napomena:
 
 ### 1.2. Osnivački ugovori i temeljni izvori
 
+```text
+UGOVORI
+|
++-- Pariz 1951.
+|   +-- EZUČ
+|
++-- Rim 1957.
+|   +-- EEZ
+|   +-- Euratom
+|
++-- Lisabon
+    +-- pravna osobnost EU
+    +-- predsjednik Europskog vijeća
+    +-- visoki predstavnik
+```
+
 Obavezno znati:
 - `Pariški ugovor` = EZUČ
 - `Rimski ugovori` = EEZ i EURATOM
@@ -100,6 +126,8 @@ Moguća pitanja:
   `Lisabonskim ugovorom.`
 - Koji ugovor je bio važan za pripremu velikih proširenja?  
   `Ugovor iz Nice.`
+- Kojim je ugovorom utvrđeno da Europski parlament mora dati suglasnost na ugovore o pristupanju?  
+  `Lisabonskim ugovorom.`
 
 Trik pitanja:
 - `Europska zajednica` i `Europska unija` nisu isto kroz cijeli razvoj
@@ -139,6 +167,22 @@ Trik pitanja:
 - broj zvjezdica na zastavi nema veze s brojem članica
 
 ### 1.4. Proces pristupanja države EU-u
+
+```text
+PRISTUPANJE EU
+|
++-- zahtjev
+|   +-- država -> Vijeće EU
+|
++-- mišljenje i status
+|   +-- Komisija -> mišljenje
+|   +-- Europsko vijeće -> kandidat
+|
++-- pregovori i završetak
+    +-- screening
+    +-- pregovori po poglavljima
+    +-- EP suglasnost + Vijeće EU jednoglasno
+```
 
 Kriteriji:
 - `politički`
@@ -196,11 +240,34 @@ Trik pitanja:
 - kandidat za članstvo ne postaje član potpisom ugovora, nego tek nakon ratifikacije i stupanja na snagu
 - pregovori se vode po poglavljima, ali članstvo nastupa tek nakon završetka svih postupaka
 
+### 1.4.A. Sud Europske unije
+
+Bitno:
+- sjedište Suda Europske unije je u `Luksemburgu`
+- ne treba ga miješati s Europskim sudom za ljudska prava
+
 ---
 
 ## 2. Ustroj i funkcioniranje Europske unije
 
 ### 2.1. Institucionalna jezgra
+
+```text
+INSTITUCIJE
+|
++-- Europsko vijeće
+|   +-- politički smjer
+|
++-- Komisija
+|   +-- prijedlog akata
+|   +-- čuvar ugovora
+|
++-- Vijeće EU
+|   +-- države članice
+|
++-- Parlament
+    +-- građani EU
+```
 
 4 institucije koje moraš razlikovati bez greške:
 - `Europsko vijeće` = politički i strateški smjer
@@ -444,6 +511,22 @@ Trik pitanja:
 
 ### 2.9. Sekundarno pravo EU
 
+```text
+SEKUNDARNO PRAVO
+|
++-- uredba
+|   +-- vrijedi neposredno
+|
++-- direktiva
+|   +-- traži prenošenje
+|
++-- odluka
+|   +-- obvezuje adresata
+|
++-- preporuka / mišljenje
+    +-- nije obvezujuće
+```
+
 Vrste:
 - uredbe
 - direktive
@@ -459,6 +542,7 @@ Najvažnije razlike:
 - obvezujuća u cijelosti
 - neposredno se primjenjuje
 - ne prenosi se u nacionalno pravo
+- primjenjuje se od dana određenog u uredbi ili, ako taj dan nije određen, `dvadesetog dana od objave u Službenom listu EU`
 
 `Direktiva`
 - obvezuje glede cilja

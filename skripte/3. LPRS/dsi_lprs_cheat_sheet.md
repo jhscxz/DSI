@@ -34,6 +34,16 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Što ogledna pitanja posebno gađaju
+
+- što uređuje `Zakon o Gradu Zagrebu`, a što statut
+- razliku `općina / grad / veliki grad / županija / Grad Zagreb`
+- samoupravni djelokrug nasuprot povjerenim poslovima
+- suglasnosti i nadzor kod povjeravanja poslova
+- odnose predstavničkog i izvršnog tijela te rokove oko proračuna i sazivanja sjednica
+
+---
+
 ## 1. Sustav lokalne i područne (regionalne) samouprave
 
 ### 1.1. Ustavni i zakonski temelj
@@ -82,6 +92,8 @@ Moguća pitanja:
   `Zaštita i jačanje lokalne samouprave kroz minimalne europske standarde.`
 - Kako se javne ovlasti prema Povelji trebaju obavljati?  
   `Po mogućnosti na razini najbližoj građanima.`
+- Kakve trebaju biti ovlasti lokalnih jedinica prema Povelji?  
+  `Pune i cjelovite, odnosno jasne i u pravilu ne smiju biti osporavane ili ograničavane osim zakonom.`
 
 Trik pitanja:
 - Povelja ne uređuje detaljno hrvatski sustav, nego postavlja standarde
@@ -220,6 +232,8 @@ Obavljaju poslove područnog značaja, osobito:
 Bitno:
 - ima položaj grada i županije
 - obavlja poslove i grada i županije
+- povjerene poslove državne uprave obavljaju gradska upravna tijela Grada Zagreba
+- gradonačelnik ne obavlja sam sve povjerene poslove državne uprave
 
 Moguća pitanja:
 - Tko obavlja poslove područnog značaja?  
@@ -527,7 +541,38 @@ Moguća pitanja:
 - Koja su tijela Grada Zagreba?  
   `Gradska skupština i gradonačelnik.`
 
+### 2.9.A. Povjeravanje poslova i suglasnosti
+
+```text
+POVJERAVANJE POSLOVA
+|
++-- općina / grad / županija
+|   +-- vlastiti samoupravni poslovi
+|   +-- povjereni poslovi države
+|
++-- kad županija povjerava poslove
+    +-- treba propisana suglasnost
+    +-- nadzor ostaje po zakonu
+```
+
+Bitno:
+- ako županija povjerava obavljanje poslova iz svog samoupravnog djelokruga, potrebna je suglasnost `tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave`
+- za povjerene poslove državne uprave sredstva se osiguravaju iz državnog proračuna, ako zakonom nije drukčije propisano
+
 ### 2.10. Lokalni izbori
+
+```text
+LOKALNI IZBORI
+|
++-- predstavničko tijelo
+|   +-- razmjerni sustav
+|
++-- izvršno tijelo
+|   +-- većinski sustav
+|
++-- iznimka koju pamtiš
+    +-- Grad Zagreb = grad i županija
+```
 
 #### Raspisivanje i rokovi
 

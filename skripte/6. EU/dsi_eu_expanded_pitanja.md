@@ -1,11 +1,11 @@
-# DSI EU Expanded + 190 Pitanja
+# DSI EU Expanded + 196 Pitanja
 
 Proširena radna verzija uz `dsi_eu_cheat_sheet.md`.
 
 ## Namjena
 - širenje osnovnog cheat sheeta
 - dodatne fine formulacije koje se lako miješaju
-- 190 mogućih pitanja s kratkim odgovorima
+- 196 mogućih pitanja s kratkim odgovorima
 
 ## Što dodatno učiti
 
@@ -607,3 +607,21 @@ Posebno pazi na ove razlike:
 
 190. Što je najčešća pogreška kod pitanja o građanstvu EU?  
    `Pretpostavka da građanstvo EU zamjenjuje nacionalno državljanstvo, a ne da ga nadopunjuje.`
+
+191. Što je bio cilj osnivanja Europske ekonomske zajednice 1957. godine?  
+   `Izgradnja šireg zajedničkog tržišta.`
+
+192. Koja je zajednica osnovana Pariškim ugovorom 1951. godine?  
+   `Europska zajednica za ugljen i čelik.`
+
+193. Koja je funkcija uspostavljena Lisabonskim ugovorom u području zajedničke vanjske i sigurnosne politike?  
+   `Funkcija visokog predstavnika za vanjske poslove i sigurnosnu politiku.`
+
+194. Tko priprema mišljenje o zahtjevu države za pristupanje Europskoj uniji?  
+   `Europska komisija.`
+
+195. Gdje se nalazi sjedište Suda Europske unije?  
+   `U Luksemburgu.`
+
+196. Kada se uredba EU izravno primjenjuje ako sama ne određuje drukčiji datum početka primjene?  
+   `Dvadesetog dana od objave u Službenom listu Europske unije.`

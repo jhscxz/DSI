@@ -1,11 +1,11 @@
-# DSI USTAV Expanded + 190 Pitanja
+# DSI USTAV Expanded + 215 Pitanja
 
 Proširena radna verzija uz `dsi_ustav_cheat_sheet.md`.
 
 ## Namjena
 
 - dodatno širenje po temama
-- 190 mogućih pitanja s kratkim odgovorima
+- 215 mogućih pitanja s kratkim odgovorima
 - fine formulacije koje ruše bodove
 
 ## Što dodatno učiti
@@ -30,7 +30,7 @@ Posebno razlikuj:
 - `pravo na pristup informacijama` nije apsolutno
 - `zabrana diskriminacije` obuhvaća više zabranjenih osnova
 
-## 190 mogućih pitanja
+## 215 mogućih pitanja
 
 1. Što je Ustav Republike Hrvatske?  
    `Najviši pravni i politički akt Republike Hrvatske.`
@@ -603,3 +603,78 @@ Posebno razlikuj:
 
 190. Što je najčešća pogreška kod pitanja o supotpisu?  
    `Pretpostavka da Predsjednik Republike sve akte donosi samostalno, iako Ustav za dio akata traži prijedlog Vlade ili supotpis predsjednika Vlade.`
+
+191. Koja se temeljna načela najčešće ispituju uz temeljne odredbe Ustava RH?  
+   `Narodni suverenitet, dioba vlasti, ustavnost i zakonitost te poštivanje prava čovjeka.`
+
+192. Od čega se sastoji grb Republike Hrvatske?  
+   `Od štita s 25 crvenih i bijelih polja te krune s pet povijesnih hrvatskih grbova.`
+
+193. Kojih se pet povijesnih grbova nalazi u kruni grba RH?  
+   `Najstariji hrvatski grb, grb Dubrovačke Republike, grb Dalmacije, grb Istre i grb Slavonije.`
+
+194. Koje su najčešće ispitivane nadležnosti Hrvatskoga sabora koje studenti znaju nepotpuno?  
+   `Donošenje i promjena Ustava, donošenje zakona i proračuna, odlučivanje o ratu i miru, referendum, promjena granica, izbori i imenovanja, nadzor rada Vlade te amnestija.`
+
+195. Donosi li Hrvatski sabor strategiju nacionalne sigurnosti i strategiju obrane Republike Hrvatske?  
+   `Da.`
+
+196. Tko nadzire civilne i sigurnosne službe?  
+   `Hrvatski sabor.`
+
+197. Imaju li zastupnici pravo postavljati zastupnička pitanja Vladi RH i ministrima?  
+   `Da.`
+
+198. Mogu li zastupnici sazvati sjednicu Vlade Republike Hrvatske?  
+   `Ne.`
+
+199. U kojim slučajevima Predsjednik Republike može donositi uredbe sa zakonskom snagom?  
+   `U ratnom stanju ili kada su tijela državne vlasti onemogućena u redovitom obavljanju svojih dužnosti, na prijedlog predsjednika Vlade i uz njegov supotpis.`
+
+200. Tko zamjenjuje predsjednika RH u slučaju kraće spriječenosti?  
+   `Predsjednik Hrvatskog sabora, ako mu predsjednik Republike povjeri tu dužnost.`
+
+201. Tko preuzima dužnost predsjednika RH u slučaju duže spriječenosti?  
+   `Predsjednik Hrvatskog sabora na temelju odluke Ustavnog suda Republike Hrvatske.`
+
+202. Na čiji prijedlog Ustavni sud odlučuje o dužoj spriječenosti predsjednika RH?  
+   `Na prijedlog Vlade Republike Hrvatske.`
+
+203. Tko obnaša dužnost predsjednika RH u slučaju smrti, ostavke ili prestanka mandata?  
+   `Predsjednik Hrvatskog sabora po sili Ustava.`
+
+204. Koje su temeljne ovlasti Vlade Republike Hrvatske?  
+   `Predlaganje zakona i proračuna, provedba zakona i odluka Sabora, donošenje uredbi za izvršenje zakona, vođenje unutarnje i vanjske politike, usmjeravanje i nadzor državne uprave te razvitka javnih službi.`
+
+205. Što je koordinacija vijeća nacionalnih manjina?  
+   `Tijelo koje usuglašava stavove vijeća nacionalnih manjina te uz njihovo ovlaštenje poduzima pojedine mjere iz njihova djelokruga.`
+
+206. Kada se bira predstavnik nacionalne manjine u jedinici samouprave?  
+   `Kad nema uvjeta za vijeće, ali na području jedinice živi najmanje 100 pripadnika te manjine.`
+
+207. Kada se mogu birati vijeća nacionalnih manjina u općini ili gradu?  
+   `Ako manjina čini najmanje 1,5 % stanovnika jedinice ili ondje živi više od 200 pripadnika te manjine.`
+
+208. Kada se mogu birati vijeća nacionalnih manjina u županiji?  
+   `Ako na području županije živi više od 500 pripadnika te manjine.`
+
+209. Koliko članova imaju vijeća nacionalnih manjina u općini, gradu i županiji?  
+   `Općina 10, grad 15, županija 25 članova.`
+
+210. Tko imenuje članove Savjeta za nacionalne manjine i na koliko dugo?  
+   `Vlada Republike Hrvatske na četiri godine.`
+
+211. Koliko se zastupnika bira u I. do X. izbornoj jedinici za Hrvatski sabor?  
+   `Po 14 zastupnika u svakoj jedinici.`
+
+212. Koliko se zastupnika bira u XI. izbornoj jedinici?  
+   `3 zastupnika.`
+
+213. Koliko se zastupnika bira u XII. izbornoj jedinici?  
+   `8 zastupnika.`
+
+214. Kako su raspoređena zastupnička mjesta nacionalnih manjina u XII. izbornoj jedinici?  
+   `Srpska manjina bira 3 zastupnika, mađarska 1, talijanska 1, češka i slovačka zajedno 1, austrijska-bugarska-njemačka-poljska-romska-rumunjska-rusinska-ruska-turska-ukrajinska-vlaška-židovska zajedno 1 te albanska-bošnjačka-crnogorska-makedonska-slovenska zajedno 1.`
+
+215. Što je najčešća pogreška kod pitanja o manjinskim zastupnicima?  
+   `Miješanje svih priznatih manjina s izbornim skupinama koje u XII. jedinici zajednički biraju jednog zastupnika.`

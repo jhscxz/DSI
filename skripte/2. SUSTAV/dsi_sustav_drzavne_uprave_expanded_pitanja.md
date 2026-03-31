@@ -1,10 +1,10 @@
-# DSI Sustav Državne Uprave Expanded + 190 Pitanja
+# DSI Sustav Državne Uprave Expanded + 196 Pitanja
 
 Proširena radna verzija uz `dsi_sustav_drzavne_uprave_cheat_sheet.md`.
 
 ## Namjena
 - dodatno širenje gradiva
-- 190 mogućih pitanja s kratkim odgovorima
+- 196 mogućih pitanja s kratkim odgovorima
 - fine formulacije i klasične zamke
 
 ## Što dodatno učiti
@@ -604,3 +604,21 @@ Posebno razlikuj:
 
 190. Što rukovoditelji ustrojstvenih jedinica predlažu i što supotpisuju?  
    `Predlažu raspored i plan rada te supotpisuju nacrte akata iz svog djelokruga.`
+
+191. U kojem roku nadležno tijelo državne uprave mora odgovoriti na predstavku?  
+   `U roku od 30 dana od zaprimanja predstavke.`
+
+192. Što tijelo koje provodi upravni nadzor može narediti nadziranom tijelu?  
+   `Otklanjanje utvrđenih nedostataka, uz druge mjere propisane zakonom.`
+
+193. Tko ne može biti ovlašten za donošenje provedbenog propisa kojim se preuzima pravno obvezujući akt Europske unije?  
+   `Ravnatelj.`
+
+194. Koji podzakonski propis nije provedbeni propis?  
+   `Naredba.`
+
+195. Koji akt može najranije stupiti na snagu danom donošenja?  
+   `Naredba, u zakonom dopuštenoj iznimci.`
+
+196. Što se pravilnikom o unutarnjem redu ne uređuje?  
+   `Način upravljanja ustrojstvenim jedinicama kao klasična pogrešna tvrdnja u oglednim pitanjima.`

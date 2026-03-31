@@ -35,6 +35,16 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Što ogledna pitanja posebno gađaju
+
+- što se utvrđuje `zakonom`, što `uredbom`, a što `pravilnikom o unutarnjem redu`
+- nazive i vrste područnih jedinica izvan sjedišta
+- provedbu državne politike nasuprot neposrednoj provedbi zakona
+- rok za odgovor na predstavku i ovlasti u upravnom nadzoru
+- tko može donijeti provedbeni propis kojim se preuzima pravno obvezujući akt EU
+
+---
+
 ## 1. Ustrojstvo državne uprave
 
 ### 1.1. Temeljni propisi
@@ -414,8 +424,20 @@ Trik pitanja:
 
 ### 4.4. Inspekcijski i upravni nadzor
 
+```text
+NADZOR
+|
++-- inspekcijski
+|   +-- primjena propisa
+|   +-- mjere, zabrane, otklanjanje nezakonitosti
+|
++-- upravni
+    +-- zakonitost i pravilnost rada
+    +-- prema tijelima i nositeljima javnih ovlasti
+```
+
 `Inspekcijski nadzor`
-- poseban i strozi oblik nadzora
+- poseban i stroži oblik nadzora
 - neposredan nadzor nad primjenom propisa
 
 `Upravni nadzor`
@@ -425,14 +447,28 @@ Trik pitanja:
 Bitno:
 - nisu isto
 - oba su posebne vrste poslova državne uprave
+- tijelo koje provodi upravni nadzor može davati opće i pojedinačne upute te narediti otklanjanje utvrđenih nedostataka
+- odgovor na urednu predstavku podnositelju dostavlja se u roku od `30 dana` od zaprimanja predstavke
 
 Moguća pitanja:
 - Koja je razlika između upravnog i inspekcijskog nadzora?
 
 Trik pitanja:
-- inspekcijski nadzor se ne smije svesti samo na opceniti nadzor rada tijela
+- inspekcijski nadzor se ne smije svesti samo na općeniti nadzor rada tijela
 
 ### 4.5. Povjeravanje poslova
+
+```text
+POVJERAVANJE
+|
++-- može se povjeriti
+|   +-- JLPRS
+|   +-- pravnim osobama s javnim ovlastima
+|
++-- ne može se povjeriti
+    +-- provedba državne politike
+    +-- upravni nadzor
+```
 
 Pojedini poslovi državne uprave mogu se posebnim zakonom povjeriti:
 - jedinicama lokalne i područne samouprave
@@ -462,7 +498,7 @@ Trik pitanja:
 - nadzire zakonitost i pravilnost rada tijela i pravnih osoba s javnim ovlastima
 - usmjeren je na obavljanje upravnih poslova u skladu sa zakonom
 
-Najkraca ispitna razlika:
+Najkraća ispitna razlika:
 - inspekcija ide prema `primjeni propisa`
 - upravni nadzor ide prema `zakonitosti i pravilnosti obavljanja upravnih poslova`
 
@@ -471,6 +507,19 @@ Najkraca ispitna razlika:
 ## 5. Normativna ovlaštenja
 
 ### 5.1. Provedbeni propisi
+
+```text
+NORMATIVNI AKTI
+|
++-- provedbeni propisi
+|   +-- pravilnik
+|   +-- naputak
+|
++-- nisu provedbeni propisi
+    +-- uredba
+    +-- naredba
+    +-- pravilnik o unutarnjem redu
+```
 
 Ovlast za donošenje provedbenih propisa propisuje se `isključivo zakonom`.
 
@@ -481,6 +530,8 @@ Provedbeni propisi su:
 Bitno:
 - njima se razrađuje provedba zakona
 - donose se samo kada postoji izričita zakonska ovlast
+- provedbeni propis kojim se preuzima pravno obvezujući akt EU ne može donijeti `ravnatelj`
+- takav propis ne može donositi ni osoba koja za to nije izrijekom zakonom ovlaštena
 
 Moguća pitanja:
 - Koji su provedbeni propisi?  
@@ -502,6 +553,8 @@ Moguća pitanja:
   `Ne.`
 - Tko može donijeti naredbu?  
   `Čelnik tijela državne uprave ako je za to izrijekom ovlašten zakonom.`
+- Koji akt može najranije stupiti na snagu danom donošenja?  
+  `Naredba, ako su za to ispunjene zakonske pretpostavke.`
 
 Trik pitanja:
 - najveci klasik je zamjena `naredbe` i `pravilnika`

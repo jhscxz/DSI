@@ -1,10 +1,10 @@
-# DSI LPRS Expanded + 190 Pitanja
+# DSI LPRS Expanded + 195 Pitanja
 
 Proširena radna verzija uz `dsi_lprs_cheat_sheet.md`.
 
 ## Namjena
 - dodatno širenje po poglavljima
-- 190 ispitnih pitanja s kratkim odgovorima
+- 195 ispitnih pitanja s kratkim odgovorima
 - fine formulacije i zamke koje se lako miješaju
 
 ## Što dodatno učiti
@@ -602,3 +602,18 @@ Posebno razlikuj:
 
 190. Što je najčešća pogreška kod pitanja o povjereniku Vlade?  
    `Pretpostavka da povjerenik ima puni politički mandat, iako samo privremeno obavlja nužne poslove do izbora.`
+
+191. Kakve trebaju biti nadležnosti lokalnih jedinica prema Europskoj povelji o lokalnoj samoupravi?  
+   `Pune i cjelovite, odnosno jasne i u pravilu neograničive osim zakonom.`
+
+192. Kojim se propisom utvrđuje područje općine?  
+   `Zakonom.`
+
+193. Kakvu cjelinu predstavlja grad prema Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi?  
+   `Društvenu, prirodnu i gospodarsku cjelinu.`
+
+194. Čija je suglasnost potrebna da županija povjeri obavljanje poslova iz svoga samoupravnog djelokruga?  
+   `Tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave.`
+
+195. Tko u Gradu Zagrebu obavlja povjerene poslove državne uprave?  
+   `Gradska upravna tijela Grada Zagreba.`
