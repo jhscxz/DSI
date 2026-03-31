@@ -232,7 +232,7 @@ Obavljaju poslove područnog značaja, osobito:
 Bitno:
 - ima položaj grada i županije
 - obavlja poslove i grada i županije
-- povjerene poslove državne uprave obavljaju gradska upravna tijela Grada Zagreba
+- povjerene poslove državne uprave obavljaju nadležna upravna tijela Grada Zagreba, a za obavljanje poslova iz djelokruga Grada ustrojavaju se upravna tijela Grada Zagreba, i to gradski uredi, zavodi i službe
 - gradonačelnik ne obavlja sam sve povjerene poslove državne uprave
 
 Moguća pitanja:

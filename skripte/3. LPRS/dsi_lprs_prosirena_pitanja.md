@@ -616,4 +616,4 @@ Posebno razlikuj:
    `Tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave.`
 
 195. Tko u Gradu Zagrebu obavlja povjerene poslove državne uprave?  
-   `Gradska upravna tijela Grada Zagreba.`
+   `Nadležna upravna tijela Grada Zagreba. Za obavljanje poslova iz djelokruga Grada ustrojavaju se upravna tijela Grada Zagreba, a to su gradski uredi, zavodi i službe.`

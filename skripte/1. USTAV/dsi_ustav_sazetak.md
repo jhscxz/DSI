@@ -1188,18 +1188,68 @@ Predsjednik RH:
 Članovi EP:
 - mandat `5 godina`
 
-### 9.5. Zaštita izbornog prava
+### 9.5. Izborna tijela i izborna povjerenstva
+
+```text
+IZBORNA TIJELA
+|
++-- DIP
+|   +-- stalno i neovisno državno tijelo
+|   +-- provodi izbore i referendume
+|   +-- nadzire financiranje i promidžbu
+|   +-- odlučuje o prigovorima
+|   +-- protiv rješenja ide žalba Ustavnom sudu RH
+|
++-- izborna povjerenstva izbornih jedinica
+|   +-- brinu o zakonitoj provedbi izbora
+|   +-- određuju biračka mjesta
+|   +-- prikupljaju i zbrajaju rezultate
+|
++-- gradska i općinska izborna povjerenstva
+|   +-- obavljaju poslove koje im povjere povjerenstva izbornih jedinica
+|
++-- birački odbori
+    +-- neposredno provode glasovanje
+    +-- osiguravaju pravilnost i tajnost glasovanja
+```
+
+Bitno:
+- izbore provodi sustav izbornih tijela na čelu s `Državnim izbornim povjerenstvom Republike Hrvatske (DIP)`
+- `DIP` je `stalno i neovisno državno tijelo`
+- DIP obavlja poslove koji se odnose na `provedbu izbora i referenduma`, `nadzor financiranja političkih aktivnosti` i `nadzor izborne promidžbe`
+- sastav DIP-a: `predsjednik` (predsjednik Vrhovnog suda RH), `4 potpredsjednika` i `4 člana`
+- izborna povjerenstva izbornih jedinica imaju `stalni` i `prošireni sastav`
+- gradska i općinska izborna povjerenstva obavljaju poslove koje im povjere povjerenstva izbornih jedinica
+- birački odbori neposredno provode glasovanje i osiguravaju `pravilnost` i `tajnost glasovanja`
+- birački odbor čine `predsjednik` i `4 člana`, od kojih su `2` iz redova vladajuće, a `2` iz redova oporbene stranke ili koalicije
+
+Moguća pitanja:
+- Koje je središnje izborno tijelo u RH?  
+  `Državno izborno povjerenstvo Republike Hrvatske.`
+- Tko odlučuje o prigovorima zbog nepravilnosti u izbornom postupku?  
+  `DIP.`
+- Protiv čijeg rješenja je dopuštena žalba Ustavnom sudu RH?  
+  `Protiv rješenja DIP-a.`
+- Tko neposredno provodi glasovanje na biračkom mjestu?  
+  `Birački odbor.`
+
+Trik pitanja:
+- `raspisivanje izbora` nije isto što i `provedba izbora`
+- `DIP` nije isto što i `Ustavni sud`: DIP vodi i nadzire izborni postupak, a Ustavni sud odlučuje o žalbi protiv rješenja DIP-a
+- `izborna povjerenstva izbornih jedinica` nisu isto što i `birački odbori`
+
+### 9.6. Zaštita izbornog prava
 
 Za ispit je bitno znati:
 - postoji sudska i ustavnosudska zaštita u skladu s posebnim izbornim zakonima
 - Ustavni sud nadzire ustavnost i zakonitost izbora u opsegu svoje nadležnosti
 
-### 9.6. Izborna promidžba
+### 9.7. Izborna promidžba
 
 Bit:
 - skup radnji radi javnog predstavljanja i obrazlaganja programa biračima
 
-### 9.7. Političke stranke
+### 9.8. Političke stranke
 
 Bitno:
 - političke stranke su pravne osobe
@@ -1225,7 +1275,7 @@ Moguća pitanja:
 Trik pitanja:
 - protuustavnost programa političke stranke utvrđuje Ustavni sud
 
-### 9.8. Registar birača
+### 9.9. Registar birača
 
 Registar birača:
 - zbirka osobnih podataka o biračima
