@@ -161,7 +161,7 @@ Bitno:
 - grb RH je povijesni hrvatski grb
 - zastava RH: `crvena, bijela, plava` s grbom u sredini
 - himna RH: `Lijepa naša domovino`
-- tekst himne i glazba te način izvođenja i čuvanja uređuju se `zakonom`, a izvornik se čuva prema pravilima propisanim tim režimom
+- tekst himne i glazba te način izvođenja i čuvanja uređuju se `zakonom`, a izvornik se čuva u HR Saboru
 - u službenoj uporabi su `hrvatski jezik` i `latinično pismo`
 - glavni grad RH je `Zagreb`
 
@@ -178,8 +178,8 @@ Trik pitanja:
 
 Pravo predložiti promjenu Ustava ima:
 - najmanje `1/5 zastupnika`
-- Predsjednik Republike
-- Vlada RH
+- Predsjednik Republike (fakultativno)
+- Vlada RH (fakultativno)
 
 Postupak:
 1. predlagatelj podnese prijedlog
@@ -188,7 +188,7 @@ Postupak:
 4. odlučuje o promjeni Ustava `2/3 većinom svih zastupnika`
 
 Iznimka:
-- birači mogu neposredno izmijeniti Ustav na referendumu
+- birači mogu neposredno izmijeniti Ustav na referendumu (na zahtjev `10%` ukupnog broja birača)
 
 Moguća pitanja:
 - Tko može predložiti promjenu Ustava?
@@ -229,7 +229,7 @@ Nadležnosti:
 - odlučuje o suglasnosti drugih propisa s Ustavom i zakonom
 - odlučuje o ustavnim tužbama
 - rješava sukob nadležnosti između zakonodavne, izvršne i sudbene vlasti
-- odlučuje o odgovornosti predsjednika Republike
+- odlučuje o odgovornosti predsjednika Republike (`2/3` većinom)
 - nadzire ustavnost programa i djelovanja političkih stranaka
 - nadzire ustavnost i zakonitost izbora i državnog referenduma
 
@@ -261,6 +261,8 @@ Hrvatski sabor potvrđuje međunarodne ugovore:
 - vojne i političke naravi
 - koji financijski obvezuju RH
 
+Predsjednik Republike potpisuje akte koje je Hrvatski sabor prethodno potvrdio
+
 Pravna snaga:
 - međunarodni ugovori sklopljeni i potvrđeni u skladu s Ustavom i objavljeni čine dio unutarnjeg pravnog poretka
 - po pravnoj su snazi `iznad zakona`, a `ispod Ustava`
@@ -285,7 +287,7 @@ Hrvatski sabor:
 - prethodno odlučuje `2/3 većinom svih zastupnika`
 
 Konačna odluka:
-- donosi se na referendumu većinom birača koji su pristupili referendumu
+- donosi se na **referendumu** većinom birača koji su pristupili referendumu
 
 Ustavna zabrana:
 - ne smije se pokrenuti postupak udruživanja koji bi doveo ili mogao dovesti do obnavljanja jugoslavenskog državnog zajedništva ili neke balkanske državne sveze
@@ -303,7 +305,7 @@ Građani RH kao građani EU imaju osobito:
 - pravo na peticije EP-u i predstavke Europskom ombudsmanu
 
 Moguća pitanja:
-- Što znači građanstvo EU?  
+- Što znači **građanstvo** EU?  
   `Svaka osoba koja ima državljanstvo države članice građanin je Unije; to ne zamjenjuje nacionalno državljanstvo nego mu je dodatak.`
 
 ---
@@ -321,6 +323,7 @@ Nadležnost:
 - donosi zakone
 - donosi državni proračun
 - odlučuje o ratu i miru
+- odlučuje o promjeni granica RH (`2/3` većinom)
 - raspisuje referendum
 - obavlja izbore, imenovanja i razrješenja
 - nadzire rad Vlade i drugih nositelja javnih dužnosti odgovornih Saboru
@@ -336,7 +339,8 @@ Sabor se konstituira:
 Zasjedanje:
 - redovito dva puta godišnje
 - `15. siječnja - 15. srpnja`
-- `15. rujna - 15. prosinca`
+- `15. rujna - 15. prosinca
+- izvanredno zasjeda na zahtjev Predsjednika RH, Vlade, većine zastupnika, ili Predsjednik Hrvatskog Sabora uz prethodno pribavljeno mišljenje klubova zastupnika
 
 Raspuštanje:
 - može se raspustiti odlukom većine svih zastupnika radi prijevremenih izbora
@@ -365,6 +369,10 @@ Bitno:
 Imunitet:
 - ne mogu biti kazneno odgovorni za izraženo mišljenje ili glasovanje u Saboru
 - ne mogu biti pritvoreni niti se protiv njih može pokrenuti kazneni postupak bez odobrenja Sabora
+
+Izbori:
+* održavaju se najkasnije 60 dana nakon isteka mandata ili raspuštanja
+* prvo zasjedanje održava se najkasnije 20 dana nakon provedenih izbora
 
 Interpelacija:
 - može je podnijeti najmanje `1/10 zastupnika` o radu Vlade ili pojedinog njezina člana
@@ -460,6 +468,7 @@ Mandat:
 - nitko ne može biti biran više od `2 puta`
 
 Izbor:
+- raspisuje Vlada
 - bira se neposredno, tajnim glasovanjem
 - ako nitko ne dobije većinu svih birača koji su glasovali, izbor se ponavlja za `14 dana`
 
@@ -498,8 +507,7 @@ Ključno za ispit:
 - mandatar `predlaže članove Vlade`
 - Vlada mora uživati povjerenje većine svih zastupnika
 - Sabor nadzire rad Vlade
-- rješenje o imenovanju predsjednika Vlade donosi `Predsjednik Republike uz supotpis predsjednika Hrvatskog sabora`
-- rješenja o imenovanju članova Vlade donosi `predsjednik Vlade uz supotpis predsjednika Hrvatskog sabora`
+- rješenje o imenovanju predsjednika Vlade i članova Vlade donosi `Predsjednik Republike uz supotpis predsjednika Hrvatskog sabora`
 
 Trik pitanja:
 - Vlada ne odgovara predsjedniku Republike, nego Saboru
@@ -675,10 +683,12 @@ Biračko pravo:
 - tajnost glasovanja je zajamčena
 
 HNB:
+- upravlja novcem
 - središnja banka RH
 - samostalna i neovisna
 
 Državni ured za reviziju:
+- kontrolira kako se novac troši
 - najviša revizijska institucija RH
 - samostalan i neovisan
 
@@ -741,7 +751,7 @@ Savjet za nacionalne manjine:
 
 Moguća pitanja:
 - Kojom većinom se donose organski zakoni o pravima nacionalnih manjina?  
-  `Dvotrećinskom većinom svih zastupnika.`
+  `2/3 većinom svih zastupnika.`
 
 ---
 
@@ -973,7 +983,7 @@ Kandidature:
 - birači uz najmanje `500` pravovaljanih potpisa
 
 Sustav:
-- proporcionalna zastupljenost
+- **proporcionalna** zastupljenost
 - preferencijsko glasovanje
 - prag `5%`
 - preferirani glas se uvažava ako kandidat dobije najmanje `10%` glasova svoje liste
@@ -1085,13 +1095,13 @@ Zatvaranje registra birača:
 Popis birača zaključuje se:
 - najkasnije `8 dana` prije dana određenog za održavanje izbora odnosno referenduma
 
-Aktivna registracija:
+**Aktivna registracija**:
 - za hrvatske državljane koji nemaju prebivalište u RH, a žele glasovati na određenim izborima ili referendumu
 
-Prethodna registracija:
+**Prethodna registracija**:
 - za birače s prebivalištem u RH koji će se na dan izbora zateći u inozemstvu
 
-Privremeni upis:
+**Privremeni upis**:
 - za birače s prebivalištem u RH koji će se na dan izbora zateći izvan mjesta prebivališta
 
 Moguća pitanja:
@@ -1145,11 +1155,11 @@ Trik pitanja:
 - `Predsjednik RH` = predstavlja i zastupa RH, povjerava mandat, vrhovni zapovjednik
 - `Vlada` = odgovorna Saboru, ne predsjedniku
 
-- `organski zakon o pravima nacionalnih manjina` = 2/3 svih zastupnika
+- `organski zakon o pravima nacionalnih manjina` = `2/3` svih zastupnika
 - `organski zakoni o ljudskim pravima, izbornom sustavu i ustroju državnih tijela` = većina svih zastupnika
 
-- `državni referendum` = 10% birača može zahtijevati raspisivanje
-- `promjena Ustava` = 2/3 svih zastupnika ili referendum
+- `državni referendum` = `10%` birača može zahtijevati raspisivanje
+- `promjena Ustava` = `2/3` svih zastupnika ili referendum
 
 - `međunarodni ugovori` = iznad zakona, ispod Ustava
 
@@ -1225,7 +1235,7 @@ Trik pitanja:
 
 - RH je jedinstvena, nedjeljiva, demokratska i socijalna država
 - najviše vrednote ustavnog poretka
-- 1/5 zastupnika, Predsjednik RH, Vlada RH za promjenu Ustava
+- `1/5` zastupnika, Predsjednik RH, Vlada RH za promjenu Ustava
 - promjena Ustava: `2/3 svih zastupnika`
 - Ustavni sud: `13 sudaca`, mandat `8 godina`, ne pripada ni jednoj grani vlasti
 - Sabor: mandat zastupnika `4 godine`, slobodan mandat, nije opoziv
