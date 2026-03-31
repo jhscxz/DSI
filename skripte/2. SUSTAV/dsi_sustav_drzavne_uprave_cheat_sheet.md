@@ -335,10 +335,11 @@ Posebne ustrojstvene jedinice:
 
 Bitno:
 - glavno tajništvo vodi `glavni tajnik`
+- kabinet čelnika ustrojava se u `svim tijelima državne uprave`
 - kabinet čelnika se u pravilu ustrojava kao `odjel`
 - kabinet se može ustrojiti kao `služba` ako tijelo ima `1.000 i više izvršitelja`
 - kabinet se može ustrojiti kao `sektor` ako tijelo ima `10.000 i više izvršitelja`
-- ured rukovoditelja upravne organizacije može se ustrojiti ako poseban zakon to predviđa ili ako organizacija ima `500 i više izvršitelja`
+- ured rukovoditelja upravne organizacije može se ustrojiti u središnjem uredu upravne organizacije ustrojene `temeljem posebnog zakona` ili ako središnji ured ima `500 i više izvršitelja`
 - samostalni sektor i samostalna služba su iznimke
 - u sastavu upravne organizacije u ministarstvu ne može se ustrojiti `samostalni sektor` ni `samostalna služba`
 - glavno tajništvo u ministarstvu ustrojava se prema pravilima za `upravu`, a u državnoj upravnoj organizaciji prema pravilima za `sektor`

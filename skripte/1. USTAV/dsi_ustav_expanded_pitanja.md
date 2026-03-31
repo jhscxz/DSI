@@ -629,7 +629,7 @@ Posebno razlikuj:
    `Ne.`
 
 199. U kojim slučajevima Predsjednik Republike može donositi uredbe sa zakonskom snagom?  
-   `U ratnom stanju ili kada su tijela državne vlasti onemogućena u redovitom obavljanju svojih dužnosti, na prijedlog predsjednika Vlade i uz njegov supotpis.`
+   `Za vrijeme ratnog stanja na temelju i u okviru ovlasti Sabora, a ako Sabor nije u zasjedanju i o svim pitanjima koja zahtijeva ratno stanje; također u slučaju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države ili kad su tijela državne vlasti onemogućena redovito obavljati ustavne dužnosti, na prijedlog predsjednika Vlade i uz njegov supotpis.`
 
 200. Tko zamjenjuje predsjednika RH u slučaju kraće spriječenosti?  
    `Predsjednik Hrvatskog sabora, ako mu predsjednik Republike povjeri tu dužnost.`

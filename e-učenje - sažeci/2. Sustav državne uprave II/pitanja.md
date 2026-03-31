@@ -11,7 +11,6 @@
 - Inspekcijski nadzor  
 - Upravni nadzor  
 - Drugi upravni i stručni poslovi  
-- Poslovi povjereni posebnim zakonom pravnim osobama s javnim ovlastima  
 
 **Koji se poslovi smatraju poslovima državne uprave?**  
 - Samo oni poslovi koji su zakonom ili na temelju zakona određeni kao poslovi državne uprave.
@@ -409,7 +408,7 @@
 ## Kabinet čelnika tijela
 
 **Kada se ustrojava kabinet čelnika tijela?**  
-- Kada je to propisano uredbom o unutarnjem ustrojstvu.
+- U svim tijelima državne uprave, kao posebna ustrojstvena jedinica.
 
 **Koje poslove obavlja kabinet čelnika tijela?**  
 - Stručnu i administrativnu podršku čelniku  
@@ -419,9 +418,9 @@
 - Zaprimanje predstavki i pritužbi  
 - Druge stručne i administrativne poslove  
 
-**Kada se iznimno može ustrojiti služba u kabinetu čelnika tijela?**  
-- U tijelima državne uprave s 1.000 i više izvršitelja  
-- Uz odgovarajuću primjenu pravila o ustrojavanju sektora, u tijelima s 10.000 i više izvršitelja  
+**Kada se kabinet čelnika tijela iznimno može ustrojiti kao služba ili sektor?**  
+- Kao služba u tijelima državne uprave s 1.000 i više izvršitelja  
+- Kao sektor u tijelima državne uprave s 10.000 i više izvršitelja  
 
 ---
 
@@ -635,9 +634,10 @@
 - Potpredsjednici Vlade  
 
 **Koja je uloga užeg kabineta Vlade?**  
-- Usklađivanje rada članova Vlade  
-- Praćenje provedbe politike Vlade  
-- Prethodno razmatranje važnih pitanja  
+- Predlaže provedbu politike Vlade  
+- Prati ostvarivanje programa rada Vlade  
+- Prethodno raspravlja određena pitanja iz nadležnosti Vlade  
+- Usklađuje rad članova Vlade u obavljanju povjerenih im zadaća  
 
 ---
 
@@ -673,162 +673,162 @@
 ## Sustav državne uprave  
 
 ### 1. Što je od navedenog ured?
-* ispostava ministarstva  
-* državna upravna organizacija  
-* unutarnja ustrojstvena jedinica  
-* **upravna organizacija u sastavu ministarstva** ✅  
+- ispostava ministarstva  
+- državna upravna organizacija  
+- unutarnja ustrojstvena jedinica  
+- **upravna organizacija u sastavu ministarstva** ✅ 
 
 ---
 
 ### 2. Što od navedenog jest područna jedinica središnjeg državnog ureda?
-* sektor  
-* uprava  
-* zavod  
-* **ispostava** ✅  
+- sektor  
+- uprava  
+- zavod  
+- **ispostava** ✅ 
 
 ---
 
 ### 3. Kojim se propisom uređuje unutarnje ustrojstvo pojedinih državnih zavoda?
-* pravilnikom  
-* naredbom  
-* **uredbom** ✅  
-* naputkom  
+- pravilnikom  
+- naredbom  
+- **uredbom** ✅ 
+- naputkom  
 
 ---
 
 ### 4. Kojim je propisom utvrđen djelokrug Hrvatske vatrogasne zajednice?
-* pravilnikom  
-* naredbom  
-* **zakonom** ✅  
-* uredbom  
+- pravilnikom  
+- naredbom  
+- **zakonom** ✅ 
+- uredbom  
 
 ---
 
 ### 5. U kojoj se upravnoj organizaciji u sastavu ministarstva pretežito obavljaju poslovi provedbe upravnog nadzora iz njegova djelokruga?
-* u zavodu  
-* u ravnateljstvu  
-* u inspektoratu  
-* **u upravi** ✅  
+- u zavodu  
+- u ravnateljstvu  
+- u inspektoratu  
+- **u upravi** ✅ 
 
 ---
 
 ### 6. Tko nadoknađuje štetu koja fizičkoj osobi nastane nezakonitim obavljanjem poslova državne uprave?
-* **Republika Hrvatska** ✅  
-* državni službenik  
-* odgovorna osoba u pravnoj osobi s javnim ovlastima  
-* izvršno tijelo jedinice lokalne ili područne (regionalne) samouprave  
+- **Republika Hrvatska** ✅ 
+- državni službenik  
+- odgovorna osoba u pravnoj osobi s javnim ovlastima  
+- izvršno tijelo jedinice lokalne ili područne (regionalne) samouprave  
 
 ---
 
 ### 7. Kojim se aktom utvrđuje stvarna nadležnost za obavljanje poslova državne uprave?
-* **zakonom** ✅  
-* uredbom  
-* pravilnikom  
-* naputkom  
+- **zakonom** ✅ 
+- uredbom  
+- pravilnikom  
+- naputkom  
 
 ---
 
 ### 8. Kojim je od navedenih poslova državne uprave obuhvaćeno izdavanje potvrda i drugih javnih isprava?
-* poslovima provedbe državne politike  
-* poslovima provedbe upravnog nadzora  
-* **poslovima neposredne provedbe zakona** ✅  
-* drugim upravnim i stručnim poslovima  
+- poslovima provedbe državne politike  
+- poslovima provedbe upravnog nadzora  
+- **poslovima neposredne provedbe zakona** ✅ 
+- drugim upravnim i stručnim poslovima  
 
 ---
 
 ### 9. Koju od navedenih službenih radnji inspektor ima pravo i obvezu poduzeti ako prilikom inspekcijskog nadzora utvrdi da je povrijeđen zakon?
-* **podnijeti optužni prijedlog protiv počinitelja prekršaja** ✅  
-* neposredno obaviti poslove koji su predmet nadzora  
-* predložiti pokretanje postupka za utvrđivanje odgovornosti službenih osoba  
-* nadležnom čelniku naložiti donošenje odgovarajućih izmjena provedbenog propisa ili naredbe  
+- **podnijeti optužni prijedlog protiv počinitelja prekršaja** ✅ 
+- neposredno obaviti poslove koji su predmet nadzora  
+- predložiti pokretanje postupka za utvrđivanje odgovornosti službenih osoba  
+- nadležnom čelniku naložiti donošenje odgovarajućih izmjena provedbenog propisa ili naredbe  
 
 ---
 
 ### 10. Koji se od navedenih poslova državne uprave može povjeriti jedinicama područne (regionalne) samouprave?
-* provedba upravnog nadzora  
-* provedba inspekcijskog nadzora  
-* provedba državne politike  
-* **neposredna provedba zakona** ✅  
+- provedba upravnog nadzora  
+- provedba inspekcijskog nadzora  
+- provedba državne politike  
+- **neposredna provedba zakona** ✅ 
 
 ---
 
 ### 11. Kojom se vrstom provedbenog propisa detaljnije razrađuju pojedine odredbe zakona radi njihove primjene?
-* naredbom  
-* **pravilnikom** ✅  
-* naputkom  
-* odlukom  
+- naredbom  
+- **pravilnikom** ✅ 
+- naputkom  
+- odlukom  
 
 ---
 
 ### 12. Kojim se od navedenih akata čelnicima tijela državne uprave daje ovlast za donošenje pravilnika?
-* odlukom  
-* zaključkom  
-* uredbom  
-* **zakonom** ✅  
+- odlukom  
+- zaključkom  
+- uredbom  
+- **zakonom** ✅ 
 
 ---
 
 ### 13. Koja od navedenih službenih osoba ne upravlja tijelom državne uprave?
-* ministar  
-* **glavni inspektor** ✅  
-* glavni ravnatelj  
-* državni tajnik  
+- ministar  
+- **glavni inspektor** ✅ 
+- glavni ravnatelj  
+- državni tajnik  
 
 ---
 
 ### 14. Koja od navedenih osoba rukovodi upravnom organizacijom u sastavu ministarstva?
-* **ravnatelj** ✅  
-* glavni tajnik  
-* državni tajnik  
-* glavni ravnatelj  
+- **ravnatelj** ✅ 
+- glavni tajnik  
+- državni tajnik  
+- glavni ravnatelj  
 
 ---
 
 ### 15. Koja je od navedenih osoba državni dužnosnik u središnjem državnom uredu?
-* ravnatelj  
-* pročelnik  
-* **državni tajnik** ✅  
-* glavni tajnik  
+- ravnatelj  
+- pročelnik  
+- **državni tajnik** ✅ 
+- glavni tajnik  
 
 ---
 
 ### 16. Gdje se osiguravaju sredstva za rad Ministarstva financija?
-* u uredbi Vlade Republike Hrvatske  
-* u odluci Vlade Republike Hrvatske  
-* u naputku ministra financija  
-* **u državnom proračunu** ✅  
+- u uredbi Vlade Republike Hrvatske  
+- u odluci Vlade Republike Hrvatske  
+- u naputku ministra financija  
+- **u državnom proračunu** ✅ 
 
 ---
 
 ### 17. Koja od navedenih osoba nije član Vlade Republike Hrvatske?
-* ministar unutarnjih poslova  
-* ministar obrane  
-* potpredsjednik Vlade  
-* **glavni tajnik Vlade** ✅  
+- ministar unutarnjih poslova  
+- ministar obrane  
+- potpredsjednik Vlade  
+- **glavni tajnik Vlade** ✅ 
 
 ---
 
 ### 18. Što od navedenog Vlada Republike Hrvatske ne osniva za obavljanje stručnih poslova iz svog djelokruga?
-* ured  
-* **ravnateljstvo** ✅  
-* agenciju  
-* direkciju  
+- ured  
+- **ravnateljstvo** ✅ 
+- agenciju  
+- direkciju  
 
 ---
 
 ### 19. Tko upravlja Uredom za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske?
-* **ravnatelj** ✅  
-* predstojnik  
-* glavni tajnik  
-* državni tajnik  
+- **ravnatelj** ✅ 
+- predstojnik  
+- glavni tajnik  
+- državni tajnik  
 
 ---
 
 ### 20. Kojim propisom Vlada Republike Hrvatske uređuje ustrojstvo, način rada i odlučivanje Vlade?
-* **poslovnikom** ✅  
-* pravilnikom  
-* naredbom  
-* uredbom  
+- **poslovnikom** ✅ 
+- pravilnikom  
+- naredbom  
+- uredbom  
 
 
 ---
@@ -840,239 +840,239 @@
 ---
 
 ### 1. Kojim su propisom utvrđeni nazivi državnih zavoda?
-* naredbom  
-* naputkom  
-* uredbom  
-* **zakonom** ✅  
+- naredbom  
+- naputkom  
+- uredbom  
+- **zakonom** ✅ 
 
 ---
 
 ### 2. Što se od navedenog može ustrojiti izvan sjedišta državnog ravnateljstva za obavljanje poslova iz njegova djelokruga na području više jedinica lokalne samouprave?
-* inspektorat  
-* ured  
-* **ispostava** ✅  
-* uprava  
+- inspektorat  
+- ured  
+- **ispostava** ✅ 
+- uprava  
 
 ---
 
 ### 3. Što se od navedenog utvrđuje pravilnikom o unutarnjem redu središnjeg državnog ureda?
-* način upravljanja ustrojstvenim jedinicama  
-* nazivi unutarnjih ustrojstvenih jedinica  
-* **broj potrebnih namještenika s naznakom njihovih poslova i zadaća** ✅  
-* okvirni broj namještenika u pojedinim ustrojstvenim jedinicama  
+- način upravljanja ustrojstvenim jedinicama  
+- nazivi unutarnjih ustrojstvenih jedinica  
+- **broj potrebnih namještenika s naznakom njihovih poslova i zadaća** ✅ 
+- okvirni broj namještenika u pojedinim ustrojstvenim jedinicama  
 
 ---
 
 ### 4. Kojim se aktom utvrđuje djelokrug samostalnih službi u državnom ravnateljstvu?
-* odlukom Vlade Republike Hrvatske  
-* **uredbom o unutarnjem ustrojstvu** ✅  
-* odlukom glavnog ravnatelja  
-* pravilnikom o unutarnjem redu  
+- odlukom Vlade Republike Hrvatske  
+- **uredbom o unutarnjem ustrojstvu** ✅ 
+- odlukom glavnog ravnatelja  
+- pravilnikom o unutarnjem redu  
 
 ---
 
 ### 5. Koje od navedenih poslova pretežito ne obavljaju uprave u sastavu ministarstva?
-* poslove provedbe državne politike  
-* **poslove zaštite opće sigurnosti** ✅  
-* poslove neposredne provedbe zakona  
-* poslove upravnog nadzora  
+- poslove provedbe državne politike  
+- **poslove zaštite opće sigurnosti** ✅ 
+- poslove neposredne provedbe zakona  
+- poslove upravnog nadzora  
 
 ---
 
 ### 6. Kojim se aktom uređuju opća pravila o rasporedu radnog i uredovnog vremena u tijelima državne uprave?
-* zakonom  
-* **uredbom** ✅  
-* odlukom  
-* pravilnikom  
+- zakonom  
+- **uredbom** ✅ 
+- odlukom  
+- pravilnikom  
 
 ---
 
 ### 7. Koje od navedenih poslova tijelo državne uprave obavlja u okviru provedbe državne politike?
-* poslove provedbe inspekcijskog nadzora  
-* poslove pružanja pravne i stručne pomoći  
-* **poslove izrade nacrta strateških i planskih dokumenata** ✅  
-* poslove izdavanja potvrda i drugih službenih evidencija  
+- poslove provedbe inspekcijskog nadzora  
+- poslove pružanja pravne i stručne pomoći  
+- **poslove izrade nacrta strateških i planskih dokumenata** ✅ 
+- poslove izdavanja potvrda i drugih službenih evidencija  
 
 ---
 
 ### 8. Što je od navedenog u odnosu na nadzirano tijelo ovlašteno poduzeti ministarstvo koje provodi upravni nadzor?
-* narediti otklanjanje utvrđenih nedostataka  
-* **davati opće i pojedinačne upute** ✅  
-* podnijeti optužni prijedlog  
-* podnijeti kaznenu prijavu  
+- narediti otklanjanje utvrđenih nedostataka  
+- **davati opće i pojedinačne upute** ✅ 
+- podnijeti optužni prijedlog  
+- podnijeti kaznenu prijavu  
 
 ---
 
 ### 9. U kojem je roku nadležno tijelo državne uprave dužno podnositelju dostaviti odgovor na njegovu predstavku?
-* **u roku od 30 dana** ✅  
-* u roku od 15 dana  
-* u roku od 8 dana  
-* u roku od 7 dana  
+- **u roku od 30 dana** ✅ 
+- u roku od 15 dana  
+- u roku od 8 dana  
+- u roku od 7 dana  
 
 ---
 
 ### 10. Tko odgovara za zakonito obavljanje poslova državne uprave povjerenih jedinici područne (regionalne) samouprave?
-* nadležno tijelo državne uprave  
-* predstavničko tijelo jedinice područne (regionalne) samouprave  
-* **izvršno tijelo jedinice područne (regionalne) samouprave** ✅  
-* nadležno upravno tijelo jedinice područne (regionalne) samouprave  
+- nadležno tijelo državne uprave  
+- predstavničko tijelo jedinice područne (regionalne) samouprave  
+- **izvršno tijelo jedinice područne (regionalne) samouprave** ✅ 
+- nadležno upravno tijelo jedinice područne (regionalne) samouprave  
 
 ---
 
 ### 11. Koja od navedenih osoba ne može biti ovlaštena za donošenje provedbenog propisa kojim se preuzima pravno obvezujući akt Europske unije?
-* ministar  
-* državni tajnik središnjeg državnog ureda  
-* **ravnatelj** ✅  
-* glavni ravnatelj  
+- ministar  
+- državni tajnik središnjeg državnog ureda  
+- **ravnatelj** ✅ 
+- glavni ravnatelj  
 
 ---
 
 ### 12. Koji od navedenih akata može stupiti na snagu najranije danom donošenja?
-* uredba  
-* pravilnik  
-* naputak  
-* **naredba** ✅  
+- uredba  
+- pravilnik  
+- naputak  
+- **naredba** ✅ 
 
 ---
 
 ### 13. Tko predstavlja državni zavod?
-* **glavni ravnatelj** ✅  
-* državni tajnik  
-* glavni tajnik  
-* glavni inspektor  
+- **glavni ravnatelj** ✅ 
+- državni tajnik  
+- glavni tajnik  
+- glavni inspektor  
 
 ---
 
 ### 14. Tko rukovodi samostalnim sektorom u ministarstvu?
-* **načelnik** ✅  
-* voditelj  
-* pročelnik  
-* ravnatelj  
+- **načelnik** ✅ 
+- voditelj  
+- pročelnik  
+- ravnatelj  
 
 ---
 
 ### 15. Koja od navedenih službenih osoba nije rukovodeći državni službenik u ministarstvu?
-* načelnik  
-* pročelnik  
-* **ministar** ✅  
-* ravnatelj  
+- načelnik  
+- pročelnik  
+- **ministar** ✅ 
+- ravnatelj  
 
 ---
 
 ### 16. Gdje se osiguravaju sredstva za rad Ministarstva financija?
-* u naputku ministra financija  
-* **u državnom proračunu** ✅  
-* u odluci Vlade Republike Hrvatske  
-* u pravilniku ministra financija  
+- u naputku ministra financija  
+- **u državnom proračunu** ✅ 
+- u odluci Vlade Republike Hrvatske  
+- u pravilniku ministra financija  
 
 ---
 
 ### 17. Kojim se aktom uređuje zajedničko korištenje stvari i opreme između dva ministarstva?
-* odlukom  
-* uredbom  
-* **sporazumom** ✅  
-* pravilnikom  
+- odlukom  
+- uredbom  
+- **sporazumom** ✅ 
+- pravilnikom  
 
 ---
 
 ### 18. Kojim aktom Vlada Republike Hrvatske određuje visinu vrijednosti potraživanja o čijem otpisu odlučuju ministri?
-* uredbom  
-* **odlukom** ✅  
-* zaključkom  
-* rješenjem  
+- uredbom  
+- **odlukom** ✅ 
+- zaključkom  
+- rješenjem  
 
 ---
 
 ### 19. Kojim od navedenih akata Republika Hrvatska osniva javnu ustanovu?
-* pravilnikom  
-* **zakonom** ✅  
-* statutom  
-* naredbom  
+- pravilnikom  
+- **zakonom** ✅ 
+- statutom  
+- naredbom  
 
 ---
 
 ### 20. Koji od navedenih državnih dužnosnika nije član Vlade Republike Hrvatske?
-* potpredsjednik Vlade  
-* **glavni tajnik Vlade** ✅  
-* predsjednik Vlade  
-* ministar obrane  
+- potpredsjednik Vlade  
+- **glavni tajnik Vlade** ✅ 
+- predsjednik Vlade  
+- ministar obrane  
 
 ---
 
 ### 21. U kojem od navedenih slučajeva Vlada Republike Hrvatske ne odlučuje dvotrećinskom većinom svih članova Vlade?
-* kada predlaže promjenu Ustava Republike Hrvatske  
-* kada predlaže raspuštanje Hrvatskoga sabora  
-* kada predlaže raspisivanje državnog referenduma  
-* **kada predlaže državni proračun** ✅  
+- kada predlaže promjenu Ustava Republike Hrvatske  
+- kada predlaže raspuštanje Hrvatskoga sabora  
+- kada predlaže raspisivanje državnog referenduma  
+- **kada predlaže državni proračun** ✅ 
 
 ---
 
 ### 22. Kome za svoj rad odgovara glavni tajnik Vlade Republike Hrvatske?
-* predstojniku Ureda predsjednika Vlade  
-* potpredsjedniku Vlade  
-* savjetniku predsjednika Vlade  
-* **predsjedniku Vlade** ✅  
+- predstojniku Ureda predsjednika Vlade  
+- potpredsjedniku Vlade  
+- savjetniku predsjednika Vlade  
+- **predsjedniku Vlade** ✅ 
 
 ---
 
 ### 23. Kojim se aktom uređuje način rada Ureda za udruge?
-* poslovnikom  
-* **uredbom** ✅  
-* odlukom  
-* zaključkom  
+- poslovnikom  
+- **uredbom** ✅ 
+- odlukom  
+- zaključkom  
 
 ---
 
 ### 24. Kojim aktom Vlada Republike Hrvatske imenuje članove povjerenstava za odlučivanje o upravnim stvarima iz svoje nadležnosti?
-* zaključkom  
-* uredbom  
-* poslovnikom  
-* **odlukom** ✅  
+- zaključkom  
+- uredbom  
+- poslovnikom  
+- **odlukom** ✅ 
 
 ---
 
 ### 25. Što od navedenog mora biti ustrojeno u sastavu državne upravne organizacije?
-* najmanje jedan sektor  
-* **najmanje dva sektora** ✅  
-* najmanje jedan područni ured  
-* najmanje dva područna ureda  
+- najmanje jedan sektor  
+- **najmanje dva sektora** ✅ 
+- najmanje jedan područni ured  
+- najmanje dva područna ureda  
 
 ---
 
 ### 26. Što se od navedenog ustrojava za obavljanje međusobno povezanih poslova većeg opsega i složenosti iz djelokruga državnog zavoda?
-* odjel  
-* služba  
-* odsjek  
-* **sektor** ✅  
+- odjel  
+- služba  
+- odsjek  
+- **sektor** ✅ 
 
 ---
 
 ### 27. Koliko službi mora biti ustrojeno u sektoru koji se ustrojava u državnom ravnateljstvu?
-* najmanje jedna  
-* **najmanje dvije** ✅  
-* najmanje tri  
-* najmanje četiri  
+- najmanje jedna  
+- **najmanje dvije** ✅ 
+- najmanje tri  
+- najmanje četiri  
 
 ---
 
 ### 28. Što je kolegij državnog tajnika u središnjem državnom uredu?
-* povremeno savjetodavno tijelo  
-* **stalno stručno i savjetodavno tijelo** ✅  
-* unutarnja ustrojstvena jedinica  
-* posebna ustrojstvena jedinica  
+- povremeno savjetodavno tijelo  
+- **stalno stručno i savjetodavno tijelo** ✅ 
+- unutarnja ustrojstvena jedinica  
+- posebna ustrojstvena jedinica  
 
 ---
 
 ### 29. Koja se posebna ustrojstvena jedinica ustrojava za obavljanje poslova stručne i administrativne podrške čelniku državnog inspektorata?
-* **kabinet glavnog državnog inspektora** ✅ 
-* glavno tajništvo  
-* samostalna služba za unutarnju reviziju  
-* ured glavnog inspektora  
+- **kabinet glavnog državnog inspektora** ✅ 
+- glavno tajništvo  
+- samostalna služba za unutarnju reviziju  
+- ured glavnog inspektora  
 
 ---
 
 ### 30. Što se od navedenog može ustrojiti za obavljanje poslova iz djelokruga središnjeg državnog ureda na području više jedinica područne (regionalne) samouprave izvan njegova sjedišta?
-* samostalna služba  
-* pododsjek  
-* **područni ured** ✅  
-* ispostava  
+- samostalna služba  
+- pododsjek  
+- **područni ured** ✅ 
+- ispostava  

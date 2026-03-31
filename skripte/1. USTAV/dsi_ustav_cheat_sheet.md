@@ -521,7 +521,8 @@ Ovlasti:
 - dodjeljuje odlikovanja i priznanja
 - vrhovni je zapovjednik oružanih snaga
 - imenuje i razrješuje vojne zapovjednike u skladu sa zakonom
-- može donositi `uredbe sa zakonskom snagom` u ratnom stanju ili kad su tijela državne vlasti onemogućena, `na prijedlog predsjednika Vlade i uz njegov supotpis`
+- za vrijeme `ratnog stanja` može donositi `uredbe sa zakonskom snagom` na temelju i u okviru ovlasti koje je dobio od Hrvatskog sabora, a ako Sabor nije u zasjedanju i o svim pitanjima koja zahtijeva ratno stanje
+- u slučaju `neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države` ili kad su tijela državne vlasti onemogućena redovito obavljati ustavne dužnosti, može donositi `uredbe sa zakonskom snagom` `na prijedlog predsjednika Vlade i uz njegov supotpis`
 - zajedno s Vladom surađuje u oblikovanju i provođenju vanjske politike
 
 Spriječenost predsjednika RH:
@@ -864,6 +865,8 @@ Savjet za nacionalne manjine:
 - razmatra, predlaže i rješava pitanja ostvarivanja i zaštite prava nacionalnih manjina
 
 Zastupljenost nacionalnih manjina u Hrvatskom saboru:
+- ustavno jamstvo: pripadnici nacionalnih manjina biraju `najmanje 5`, a `najviše 8` zastupnika
+- prema važećem izbornom zakonu u `XII.` jedinici biraju se ukupno `8` zastupnika
 - `srpska` manjina: `3` zastupnika
 - `mađarska` manjina: `1` zastupnik
 - `talijanska` manjina: `1` zastupnik
