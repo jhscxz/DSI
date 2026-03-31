@@ -1,7 +1,7 @@
 # DSI – Bilješke (razina II)
 
 Ovaj repozitorij sadrži **bilješke za pripremu ispita državnog stručnog ispita – razina II**, izrađene prema službenim **slajdovima iz sustava e-Učenje**.
-Uz bilješke, izrađeni su i **sažeci (cheatsheets) prema priručnicima** te su **dodana pitanja za svaki predmet** radi lakšeg ponavljanja i samoprovjere znanja.
+Uz bilješke, izrađene su i **radne skripte prema priručnicima** te **proširena pitanja za svaki predmet** radi lakšeg ponavljanja i samoprovjere znanja.
 
 Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhije mapa i pojedinačnih Markdown (`.md`) datoteka, s ciljem:
 - lakšeg učenja
@@ -24,16 +24,9 @@ Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhi
 ## Kako je repozitorij organiziran
 
 - Svaka **mapa** predstavlja jedno ispitno područje.
-- Unutar mapa nalaze se:
-  - teme i podteme
-  - strukturirane prema logici službenih nastavnih materijala.
-- Repozitorij uključuje i:
-  - sažetke (`CHEATSHEETS/`) izrađene prema priručnicima
-  - pitanja za svaki predmet, za ponavljanje i provjeru znanja
-- Sve datoteke su u **Markdown formatu**, prilagođene:
-  - učenju
-  - ponavljanju
-  - radu u alatima poput Obsidiana ili GitHuba.
+- Unutar mapa nalaze se teme i podteme, strukturirane prema logici službenih nastavnih materijala.
+- Repozitorij uključuje i mapu `skripte/` s radnim sažecima po predmetima i pripadnim proširenim pitanjima.
+- Sve datoteke su u **Markdown formatu**, prilagođene učenju, ponavljanju i radu u alatima poput Obsidiana ili GitHuba.
 
 ---
 
@@ -61,7 +54,7 @@ Bilješke su organizirane **po ispitnim cjelinama i temama**, u obliku hijerarhi
 
 ## Napomena
 
-Bilješke i sažeci izrađeni su **na temelju službenih materijala e-Učenja i priručnika**, ali su:
+Bilješke i skripte izrađene su **na temelju službenih materijala e-Učenja i priručnika**, ali su:
 - proširene
 - pojašnjene
 - strukturirane u svrhu učinkovitijeg učenja i ponavljanja.
@@ -70,18 +63,20 @@ Repozitorij je namijenjen **osobnom učenju i sistematizaciji gradiva**.
 
 ---
 
-## Kako čitati `CHEATSHEETS`
+## Kako čitati `skripte`
 
-U mapi `CHEATSHEETS/` nalaze se dvije vrste pomoćnih datoteka:
+U mapi `skripte/` nalaze se dvije glavne vrste pomoćnih datoteka:
 
 - `*_cheat_sheet.md`
   - sažeti pregled cjeline
   - fokus na razlike koje se lako miješaju
   - rokove, mandate, većine, pragove i tipične ispitne zamke
+  - kratka lokalna ASCII grananja unutar tema, tamo gdje pomažu razlikovati nadležnosti, rokove ili tijek postupka
 
 - `*_expanded_pitanja.md`
   - prošireni skup pitanja i kratkih odgovora za ponavljanje
   - služi za aktivno preslišavanje nakon učenja iz bilješki i sažetka
+  - dopunjuje se i prema oglednim pitanjima kada ona otkrivaju tipične rupe ili zamke
 
 Preporučeni redoslijed:
 1. prvo proći izvornu temu iz odgovarajuće mape s bilješkama iz sustava e-Učenje
@@ -90,3 +85,4 @@ Preporučeni redoslijed:
 
 Napomena o izvorima:
 - `cheat_sheet` i `expanded_pitanja` usklađuju se s priručnicima, ali se po potrebi dopunjuju bitnim detaljima iz bilješki iz sustava e-Učenje kada oni pomažu boljem razumijevanju ili ističu česte ispitne zamke
+- gdje postoje ogledna pitanja, skripte i proširena pitanja dodatno se prilagođavaju i njihovoj logici formulacije
