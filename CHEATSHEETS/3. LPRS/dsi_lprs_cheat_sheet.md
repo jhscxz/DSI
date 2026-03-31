@@ -87,6 +87,24 @@ Trik pitanja:
 - Povelja ne uređuje detaljno hrvatski sustav, nego postavlja standarde
 - upravni nadzor prema Povelji mora biti razmjeran
 
+### 1.2.1. Područje, granice, obilježja i suradnja jedinica
+
+Bitno:
+- područja općina, gradova i županija utvrđuju se `zakonom`
+- svaka jedinica može imati `grb` i `zastavu` te dodjeljivati javna priznanja
+- promjena granica jedinice provodi se po zakonskom postupku
+- jedinice mogu međusobno surađivati te surađivati s jedinicama drugih država u skladu sa zakonom
+
+Moguća pitanja:
+- Čime se utvrđuju područja i granice jedinica?  
+  `Zakonom.`
+- Mogu li jedinice imati grb i zastavu?  
+  `Da, u skladu sa zakonom i statutom.`
+
+Trik pitanja:
+- grb i zastava jedinice nisu isto što i državna obilježja RH
+- suradnja jedinica ne znači prijenos cjelokupne samouprave na drugu jedinicu
+
 ### 1.3. Vrste jedinica
 
 Vrste:
@@ -361,7 +379,7 @@ Bitno:
 Mirovanje mandata:
 - kod prihvaćanja nespojive dužnosti
 - kod obavljanja dužnosti privremenog zamjenika
-- iz osobnih razloga na vlastiti zahtjev
+- iz osobnih razloga na vlaštiti zahtjev
 
 Važno:
 - promjena političke stranke ne znači prestanak mandata
@@ -708,6 +726,17 @@ Moguća pitanja:
 Trik pitanja:
 - pročelnik nije izvršno tijelo
 
+### 2.16. Zajedničko obavljanje poslova
+
+Bitno:
+- dvije ili više jedinica lokalne samouprave mogu organizirati zajedničko obavljanje pojedinih poslova iz samoupravnog djelokruga
+- to se uređuje sporazumom i odgovarajućim općim aktima jedinica
+- svrha je racionalnije, ekonomičnije i stručnije obavljanje poslova
+
+Trik pitanja:
+- zajedničko obavljanje poslova ne znači da jedinice prestaju postojati
+- ne prenosi se politička odgovornost predstavničkog i izvršnog tijela na drugu jedinicu
+
 ---
 
 ## 3. Nadzor lokalne i područne samouprave
@@ -737,6 +766,10 @@ Moguća pitanja:
   `Upravna tijela.`
 - Može li opći akt imati povratno djelovanje?  
   `Ne.`
+
+Napomena:
+- opći akt mora biti objavljen prije stupanja na snagu
+- pojedinačni upravni akt dostavlja se strankama prema pravilima postupka, ne objavljuje se kao opći akt
 
 Trik pitanja:
 - proračun je opći, a ne pojedinačni akt
@@ -789,7 +822,7 @@ Trik pitanja:
 
 ### 3.5. Raspuštanje predstavničkog tijela
 
-Vlada RH će raspustiti predstavničko tijelo ako, primjerice:
+Vlada RH će raspuštiti predstavničko tijelo ako, primjerice:
 - ugrožava suverenitet i teritorijalnu cjelovitost RH
 - ne donese statut novoustrojene jedinice u roku od `60 dana` od konstituiranja
 - učestalo donosi nezakonite opće akte
@@ -808,7 +841,7 @@ Moguća pitanja:
 ### 3.6. Istovremeno raspuštanje i razrješenje
 
 Bitno:
-- Vlada RH može istovremeno raspustiti predstavničko tijelo i razriješiti izvršno tijelo u zakonom propisanim situacijama, najčešće vezano uz proračun
+- Vlada RH može istovremeno raspuštiti predstavničko tijelo i razriješiti izvršno tijelo u zakonom propisanim situacijama, najčešće vezano uz proračun
 
 Trik pitanja:
 - ne dolazi do istovremenog raspuštanja u svakoj situaciji, nego u točno određenim slučajevima
@@ -938,9 +971,13 @@ Djelokrug vijeća mjesnog odbora:
 - poslovnik
 - financijski plan i godišnji obračun
 
+Za ispit još pamti:
+- mjesna samouprava služi neposrednijem sudjelovanju građana u odlučivanju o lokalnim poslovima
+- financiranje i način rada mjesnih odbora uređuju se statutom i općim aktima jedinice
+
 Nadzor:
 - nad zakonitošću rada tijela mjesnog odbora nadzor obavlja načelnik / gradonačelnik
-- predstavničko tijelo može raspustiti vijeće mjesnog odbora na prijedlog izvršnog tijela
+- predstavničko tijelo može raspuštiti vijeće mjesnog odbora na prijedlog izvršnog tijela
 
 Moguća pitanja:
 - Koja su tijela mjesnog odbora?  
@@ -1036,7 +1073,7 @@ Trik pitanja:
 17. Tko obavlja nadzor zakonitosti rada predstavničkog tijela?  
     `Nadležno tijelo državne uprave za lokalnu i područnu samoupravu.`
 
-18. Tko može raspustiti predstavničko tijelo?  
+18. Tko može raspuštiti predstavničko tijelo?  
     `Vlada RH.`
 
 19. Može li opći akt imati povratno djelovanje?  
@@ -1109,7 +1146,7 @@ Trik pitanja:
 - statut novoustrojene jedinice mora se donijeti u roku od `60 dana`
   Logika: bez statuta jedinica nema osnovni okvir svojeg ustrojstva i rada.
 - ako predstavničko tijelo ne može donositi odluke dulje od `3 mjeseca`, slijedi zakonska posljedica
-  Logika: dugotrajna blokada predstavničkog tijela znači da jedinica vise ne moze normalno obavljati samoupravne poslove.
+  Logika: dugotrajna blokada predstavničkog tijela znači da jedinica vise ne može normalno obavljati samoupravne poslove.
 - zahtjev za ocjenu zakonitosti općeg akta i više srodnih tužbi ide u roku od `30 dana`
   Logika: zakonitost akta mora se osporavati brzo radi pravne sigurnosti.
 - tužba protiv raspuštanja ili razrješenja podnosi se u roku od `8 dana`, a Visoki upravni sud odlučuje u `30 dana`
@@ -1130,13 +1167,13 @@ Trik pitanja:
 - zamjenik dovršava mandat izvršnog tijela samo ako mandat prestane `nakon isteka 2 godine`; prije toga idu prijevremeni izbori
   Logika: u kasnijoj fazi mandata prednost ima kontinuitet, a u ranijoj novi demokratski legitimitet.
 - referendum za opoziv se ne može raspisati prije isteka `6 mjeseci` od izbora ni `6 mjeseci` od ranijeg opoziva
-  Logika: sustav stiti stabilnost vlasti od stalnih i uzastopnih referendumskih pritisaka.
+  Logika: sustav štiti stabilnost vlasti od stalnih i uzastopnih referendumskih pritisaka.
 - prijevremeni izbori se `neće` održati ako bi pali u kalendarskoj godini redovnih izbora
   Logika: nema smisla provoditi dva izborna ciklusa gotovo istodobno.
 - članu predstavničkog tijela kojem prestane hrvatsko državljanstvo mandat `ne prestaje` ako je državljanin druge članice EU
   Logika: pravo sudjelovanja na lokalnoj razini priznaje se i građanima drugih država članica EU.
 - opći akt stupa na snagu najranije osmi dan od objave, ali `iznimno` prvog dana od objave iz osobito opravdanih razloga
-  Logika: pravilo stiti pravnu sigurnost, a iznimka pokriva hitne situacije.
+  Logika: pravilo štiti pravnu sigurnost, a iznimka pokriva hitne situacije.
 - kod dopunskih izbora za nacionalne manjine broj članova može biti `paran`, iako je pravilo neparan broj
   Logika: cilj je osigurati zastupljenost manjina, i kad to odstupa od općeg pravila o neparnom broju.
 
@@ -1171,7 +1208,7 @@ Trik pitanja:
 - `15 dana` za sazivanje sjednice na zahtjev 1/3 članova.  
   Posljedica: ako predsjednik ne sazove, sjednicu dalje saziva izvršno tijelo.
 - `8 dana` za obustavu općeg akta.  
-  Posljedica: nezakonit akt moze se brzo zaustaviti prije pune primjene.
+  Posljedica: nezakonit akt može se brzo zaustaviti prije pune primjene.
 - `60 dana` za donošenje statuta novoustrojene jedinice.  
   Posljedica: propuštanje vodi prema mjerama državnog nadzora.
 - `8 dana` tužba protiv raspuštanja ili razrješenja.  
@@ -1181,7 +1218,7 @@ Trik pitanja:
 
 - `predstavničko tijelo`: statut, poslovnik, proračun, opći akti, referendum u okviru zakona
 - `općinski načelnik / gradonačelnik / župan`: izvršavanje odluka, prijedlog proračuna, upravljanje izvršnim poslovima
-- `Vlada RH`: raspisuje lokalne izbore, može raspustiti predstavničko tijelo u zakonskim slučajevima
+- `Vlada RH`: raspisuje lokalne izbore, može raspuštiti predstavničko tijelo u zakonskim slučajevima
 - `nadležno tijelo državne uprave`: nadzor zakonitosti općih akata i rada tijela
 - `Visoki upravni sud`: sudska zaštita u sporovima oko raspuštanja, razrješenja i općih akata
 
@@ -1195,15 +1232,15 @@ Trik pitanja:
 - `90 dana`: prijevremeni izbori
 - `14 dana`: drugi krug
 - `48 sati`: izborni prigovori i žalbe
-- `2 godine`: granica nakon koje zamjenik moze dovrsiti mandat
+- `2 godine`: granica nakon koje zamjenik može dovršiti mandat
 - `6 mjeseci`: zabrana skorog opoziva nakon izbora ili ranijeg opoziva
 
 ### Brza matrica
 
 - `tko raspisuje lokalne izbore`: Vlada RH
-- `tko raspisuje referendum kad su uvjeti ispunjeni`: predstavnicko tijelo
-- `tko predlaze proracun`: opcinski nacelnik / gradonacelnik / zupan
-- `tko donosi proracun`: predstavnicko tijelo
-- `tko nadzire zakonitost opcih akata`: nadlezno tijelo drzavne uprave
-- `tko moze raspustiti predstavnicko tijelo`: Vlada RH u zakonskim slucajevima
-- `tko odlucuje o sudskoj zastiti`: Visoki upravni sud RH u propisanim sporovima
+- `tko raspisuje referendum kad su uvjeti ispunjeni`: predstavničko tijelo
+- `tko predlaže proračun`: općinski načelnik / gradonačelnik / župan
+- `tko donosi proračun`: predstavničko tijelo
+- `tko nadzire zakonitost općih akata`: nadležno tijelo državne uprave
+- `tko može raspuštiti predstavničko tijelo`: Vlada RH u zakonskim slučajevima
+- `tko odlučuje o sudskoj zaštiti`: Visoki upravni sud RH u propisanim sporovima

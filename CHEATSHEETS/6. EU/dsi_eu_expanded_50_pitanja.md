@@ -1,0 +1,489 @@
+# DSI EU Expanded + 150 Pitanja
+
+Proširena radna verzija uz `dsi_eu_cheat_sheet.md`.
+
+Namjena:
+- širenje osnovnog cheat sheeta
+- dodatne fine formulacije koje se lako miješaju
+- 150 mogućih pitanja s kratkim odgovorima
+
+## Što dodatno učiti
+
+Posebno pazi na ove razlike:
+- `Europsko vijeće` određuje političke smjernice, ali ne donosi zakone
+- `Vijeće EU` i `Europski parlament` donose zakonodavstvo
+- `Komisija` u pravilu predlaže zakonodavne akte i čuva ugovore
+- `uredba` se izravno primjenjuje, `direktiva` traži prenošenje u nacionalno pravo
+- `isključiva`, `podijeljena` i `dopunjujuća` nadležnost nisu isto
+- `preporuke` i `mišljenja` nisu pravno obvezujući akti
+- `Sud EU` nije isto što i `Europski sud za ljudska prava`
+- `Vijeće Europe` nije institucija EU
+- `eurozona` nije isto što i `Schengen`
+- `pravna osobnost EU` je pitanje za `Lisabon`
+
+## Fina pitanja i zamke
+
+- Kad pitanje glasi `tko daje opće političke smjernice`, odgovor je `Europsko vijeće`
+- Kad pitanje glasi `tko zajedno s Parlamentom donosi uredbe i direktive`, odgovor je `Vijeće EU`
+- Kad pitanje glasi `koji akt je obvezujući u cijelosti i izravno primjenjiv`, odgovor je `uredba`
+- Kad pitanje glasi `koji akt obvezuje u pogledu rezultata`, odgovor je `direktiva`
+- Kad pitanje glasi `koji ugovor daje EU pravnu osobnost`, odgovor je `Lisabonski`
+- Kad pitanje glasi `koji ugovor stvara EU`, odgovor je `Maastricht`
+- Kad pitanje glasi `tko predstavlja interese EU u cjelini`, odgovor je `Komisija`
+- Kad pitanje glasi `tko predstavlja države članice`, odgovor je `Vijeće EU` ili `Europsko vijeće`, ovisno o razini
+- Kad pitanje glasi `gdje sjede šefovi država ili vlada`, odgovor je `Europsko vijeće`
+- Kad pitanje glasi `koji sud stiti poštivanje prava EU`, odgovor je `Sud Europske unije`
+
+## 150 mogućih pitanja
+
+1. Koji je glavni povijesni motiv europske integracije nakon Drugog svjetskog rata?  
+   `Ocuvanje mira i sprjecavanje novih ratova.`
+
+2. Kojeg datuma je Schumanova deklaracija?  
+   `9. svibnja 1950.`
+
+3. Koja je prva europska zajednica?  
+   `Europska zajednica za ugljen i celik.`
+
+4. Koje su države osnivacice prvih zajednica?  
+   `Francuska, Njemačka, Italija, Belgija, Nizozemska i Luksemburg.`
+
+5. Kojim ugovorom nastaje Europska unija?  
+   `Maastrichtskim ugovorom.`
+
+6. Kojim ugovorom EU dobiva pravnu osobnost?  
+   `Lisabonskim ugovorom.`
+
+7. Koji je ugovor bio ključan za institucionalne pripreme velikog proširenja?  
+   `Ugovor iz Nice.`
+
+8. Je li Vijeće Europe institucija Europske unije?  
+   `Ne.`
+
+9. Koje su glavne institucije EU koje se najcesce pitaju na ispitu?  
+   `Europsko vijeće, Vijeće EU, Europska komisija, Europski parlament, Sud EU, Europska središnja banka, Revizorski sud.`
+
+10. Tko daje opće političke smjernice i prioritete razvoja EU?  
+   `Europsko vijeće.`
+
+11. Donosi li Europsko vijeće zakonodavne akte?  
+   `Ne.`
+
+12. Tko cini Europsko vijeće?  
+   `Sefovi država ili vlada država članica, njegov predsjednik i predsjednik Komisije.`
+
+13. Tko zajedno s Europskim parlamentom donosi zakonodavne akte?  
+   `Vijeće Europske unije.`
+
+14. Tko predstavlja interese država članica u zakonodavnom postupku?  
+   `Vijeće Europske unije.`
+
+15. Tko predstavlja opći interes Unije?  
+   `Europska komisija.`
+
+16. Tko u pravilu ima pravo zakonodavne inicijative?  
+   `Europska komisija.`
+
+17. Tko nadzire primjenu prava EU i naziva se cuvaricom ugovora?  
+   `Europska komisija.`
+
+18. Kako se biraju zastupnici u Europskom parlamentu?  
+   `Neposrednim izborima.`
+
+19. Koga biraju građani EU na europskim izborima?  
+   `Zastupnike u Europskom parlamentu.`
+
+20. Tko odlučuje o tumačenju i primjeni prava EU?  
+   `Sud Europske unije.`
+
+21. Je li Sud Europske unije isto što i Europski sud za ljudska prava?  
+   `Ne.`
+
+22. Koja institucija vodi monetarnu politiku europodručja?  
+   `Europska središnja banka.`
+
+23. Koja institucija nadzire zakonitost i pravilnost prihoda i rashoda EU?  
+   `Europski revizorski sud.`
+
+24. Koja su glavna načela prava EU koja se često pitaju?  
+   `Nadređenost, izravni učinak, supsidijarnost i proporcionalnost.`
+
+25. Što znači nadređenost prava EU?  
+   `Da pravo EU ima prednost pred suprotnim nacionalnim pravom u području primjene prava EU.`
+
+26. Što znači izravni učinak prava EU?  
+   `Da se pojedinci mogu u određenim slučajevima izravno pozvati na pravo EU.`
+
+27. Što znači načelo supsidijarnosti?  
+   `EU djeluje samo ako se ciljevi ne mogu dostatno ostvariti na razini država članica.`
+
+28. Što znači načelo proporcionalnosti?  
+   `Mjere EU ne smiju prelaziti ono što je potrebno za postizanje ciljeva ugovora.`
+
+29. Koje su tri vrste nadležnosti EU koje se tipično pitaju?  
+   `Iskljuciva, podijeljena i dopunjujuća.`
+
+30. Navedi primjer isključive nadležnosti EU.  
+   `Carinska unija ili zajednicka trgovinska politika.`
+
+31. Navedi primjer podijeljene nadležnosti EU.  
+   `Unutarnje trziste ili okolis.`
+
+32. Navedi primjer dopunjujuce nadležnosti EU.  
+   `Kultura, turizam ili obrazovanje.`
+
+33. Koje su cetiri slobode unutarnjeg trzista?  
+   `Sloboda kretanja robe, osoba, usluga i kapitala.`
+
+34. Koji je akt obvezujući u cijelosti i izravno se primjenjuje u svim državama clanicama?  
+   `Uredba.`
+
+35. Koji akt obvezuje države članice glede rezultata koji treba postici?  
+   `Direktiva.`
+
+36. Koji akt može biti obvezujući, ali samo za one kojima je upucen?  
+   `Odluka.`
+
+37. Koji akti nisu pravno obvezujući?  
+   `Preporuke i mišljenja.`
+
+38. Što je redovni zakonodavni postupak?  
+   `Postupak u kojem Parlament i Vijeće zajedno donose zakonodavne akte.`
+
+39. Koja je valuta europodručja?  
+   `Euro.`
+
+40. Što su Maastrichtski kriteriji?  
+   `Kriteriji konvergencije za uvođenje eura.`
+
+41. Je li svaka država članica EU automatski u europodručju?  
+   `Ne.`
+
+42. Je li svaka država članica EU automatski u Schengenu?  
+   `Ne.`
+
+43. Tko može podnijeti zahtjev za članstvo u EU?  
+   `Europska država koja postuje vrijednosti EU i obvezuje se promicati ih.`
+
+44. Koji se kriteriji za članstvo tipično navode uz pristupanje?  
+   `Kopenhaski kriteriji.`
+
+45. Što obuhvacaju Kopenhaski kriteriji?  
+   `Politicke, gospodarske i pravne uvjete za članstvo.`
+
+46. Tko odlučuje o otvaranju i zatvaranju pregovarackih poglavlja u pristupnom procesu?  
+   `Drzave članice kroz Vijeće, na temelju procesa proširenja EU.`
+
+47. Koji je položaj RH u odnosu na EU od 1. srpnja 2013.?  
+   `Republika Hrvatska je država članica Europske unije.`
+
+48. Jesu li građani država članica istodobno i građani EU?  
+   `Da.`
+
+49. Što je Europska gradanska inicijativa?  
+   `Mehanizam kojim građani mogu pozvati Komisiju da predlozi pravni akt EU pod propisanim uvjetima.`
+
+50. Kad pitanje glasi `tko predlaže, a tko donosi`, koji je najčešći odgovor za zakonodavstvo EU?  
+   `Komisija predlaže, a Parlament i Vijeće u pravilu donose.`
+
+
+
+51. Gdje se u pravilu održavaju sastanci Europskog vijeća?  
+   `U Bruxellesu.`
+
+52. Tko na međunarodnoj razini predstavlja Europsku uniju?  
+   `Predsjednik Europskog vijeća.`
+
+53. Tko predstavlja Uniju u vanjskim odnosima kao pravilo, osim u ZVSP-u?  
+   `Europska komisija.`
+
+54. Tko vodi i koordinira zajednicku vanjsku i sigurnosnu politiku EU?  
+   `Visoki predstavnik za vanjske poslove i sigurnosnu politiku.`
+
+55. Tko predsjeda Vijecem za vanjske poslove?  
+   `Visoki predstavnik.`
+
+56. Tko pregovara međunarodne sporazume u ime EU?  
+   `Europska komisija ili Visoki predstavnik, ovisno o području.`
+
+57. Tko sklapa međunarodne sporazume EU?  
+   `Vijeće Europske unije.`
+
+58. Tko daje suglasnost kada je potrebna za sklapanje međunarodnih sporazuma EU?  
+   `Europski parlament.`
+
+59. Gdje za ispit prvenstveno vezati Europsku komisiju?  
+   `Uz Bruxelles.`
+
+60. Gdje za ispit prvenstveno vezati Vijeće EU?  
+   `Uz Bruxelles.`
+
+61. Gdje su plenarne sjednice Europskog parlamenta?  
+   `U Strasbourgu.`
+
+62. Gdje radi velik dio odbora Europskog parlamenta?  
+   `U Bruxellesu.`
+
+63. Gdje je sjedište Suda Europske unije?  
+   `U Luxembourgu.`
+
+64. Gdje je sjedište Europskog revizorskog suda?  
+   `U Luxembourgu.`
+
+65. Gdje je sjedište Europske središnje banke?  
+   `U Frankfurtu.`
+
+66. Tko je jedina izravno izabrana institucija EU?  
+   `Europski parlament.`
+
+67. Tko bira predsjednika Europske komisije u politickom smislu odobrenja?  
+   `Europski parlament daje odobrenje u okviru postupka formiranja Komisije.`
+
+68. Tko daje politički i strateski smjer EU?  
+   `Europsko vijeće.`
+
+69. Donosi li Europsko vijeće uredbe i direktive?  
+   `Ne.`
+
+70. Tko je glas država članica u redovnom zakonodavnom postupku?  
+   `Vijeće Europske unije.`
+
+71. Tko je glas građana EU u redovnom zakonodavnom postupku?  
+   `Europski parlament.`
+
+72. Što je kvalificirana većina u Vijecu EU?  
+   `55% država članica koje predstavljaju 65% stanovnistva EU.`
+
+73. Kada se u Vijecu EU odlučuje jednoglasno?  
+   `U određenim osjetljivim područjima propisanima ugovorima.`
+
+74. Što je Europsko građanstvo?  
+   `Dodatni status koji imaju svi državljani država članica EU.`
+
+75. Jesu li građani država članica automatski i građani EU?  
+   `Da.`
+
+76. Koje se cetiri slobode unutarnjeg trzista tipično pitaju?  
+   `Sloboda kretanja robe, osoba, usluga i kapitala.`
+
+77. Koja je najstarija zajednicka politika EU?  
+   `Zajednicka poljoprivredna politika.`
+
+78. Što je acquis communautaire odnosno acquis EU?  
+   `Pravna stecevina Europske unije.`
+
+79. Što je screening?  
+   `Analiticki pregled uskladenosti nacionalnog zakonodavstva s pravnom stecevinom EU.`
+
+80. Tko salje upitnik državi podnositeljici zahtjeva za članstvo?  
+   `Europska komisija.`
+
+81. Kome država predaje zahtjev za članstvo u EU?  
+   `Vijeću EU.`
+
+82. Tko daje mišljenje o zahtjevu za članstvo?  
+   `Europska komisija.`
+
+83. Tko odlučuje o statusu kandidata?  
+   `Europsko vijeće.`
+
+84. Tko odlučuje o otvaranju pregovora?  
+   `Europsko vijeće.`
+
+85. Koliko u pravilu traje odgovor države na upitnik Komisije?  
+   `Oko 3 mjeseca.`
+
+86. Koliko otprilike traje izrada mišljenja Komisije?  
+   `Oko godinu dana, a može i dulje.`
+
+87. Koliko u pravilu traje screening?  
+   `Oko godinu dana.`
+
+88. Potpisivanjem cega država postaje država pristupnica?  
+   `Potpisivanjem Ugovora o pristupanju.`
+
+89. Postaje li država članica EU samim potpisivanjem Ugovora o pristupanju?  
+   `Ne.`
+
+90. Što jos treba nakon potpisa Ugovora o pristupanju?  
+   `Ratifikacija i stupanje ugovora na snagu.`
+
+91. Što su prijelazna razdoblja u pristupnom procesu?  
+   `Dodatno vrijeme za punu prilagodbu u pojedinim područjima.`
+
+92. Je li svaka država članica EU automatski i u Schengenu?  
+   `Ne.`
+
+93. Mora li država članica ispuniti posebne uvjete za uvođenje eura?  
+   `Da, mora ispuniti kriterije za uvođenje eura.`
+
+94. Što je najčešća zamka kod institucija EU?  
+   `Miješanje Europskog vijeća i Vijeca EU.`
+
+95. Što je najčešća zamka kod akata EU?  
+   `Miješanje uredbe i direktive.`
+
+96. Što je najčešća zamka kod vanjskih odnosa EU?  
+   `Miješanje onoga tko predstavlja, pregovara i onoga tko sklapa sporazum.`
+
+97. Što je najčešća zamka kod Schengena i eurozone?  
+   `Pretpostavka da je riječ o istom krugu država.`
+
+98. Što je najčešća zamka kod pristupanja?  
+   `Pretpostavka da članstvo nastaje vec kandidatskim statusom ili potpisom ugovora.`
+
+99. Što je najčešća zamka kod pitanja o Komisiji?  
+   `Pretpostavka da Komisija sama donosi sve zakonodavne akte.`
+
+100. Što je najčešći obrazac kod pitanja `tko predlaže, a tko donosi` u EU?  
+   `Komisija predlaže, a Parlament i Vijeće u pravilu donose.`
+
+101. Koji je prvi konkretni oblik europske integracije?  
+   `Europska zajednica za ugljen i čelik.`
+
+102. Koje su tri izvorne europske zajednice?  
+   `EZUČ, EEZ i EURATOM.`
+
+103. Kojim je ugovorom uvedeno građanstvo EU?  
+   `Maastrichtskim ugovorom.`
+
+104. Kojim je ugovorom Europsko vijeće postalo institucija EU?  
+   `Lisabonskim ugovorom.`
+
+105. Koji je glavni politički organ koji daje opće smjernice EU?  
+   `Europsko vijeće.`
+
+106. Daje li Europsko vijeće opće političke smjernice razvoja EU?  
+   `Da.`
+
+107. Tko predstavlja interese država članica u redovnom zakonodavnom postupku?  
+   `Vijeće Europske unije.`
+
+108. Tko nadzire primjenu prava EU kao čuvarica ugovora?  
+   `Europska komisija.`
+
+109. Tko predstavlja građane EU?  
+   `Europski parlament.`
+
+110. Tko ima pravo zakonodavne inicijative kao pravilo?  
+   `Europska komisija.`
+
+111. U kojem tijelu sjede ministri država članica kada odlučuju o zakonodavstvu EU?  
+   `U Vijeću Europske unije.`
+
+112. Što je kvalificirana većina u Vijeću EU?  
+   `55% država članica koje predstavljaju najmanje 65% stanovništva EU.`
+
+113. Koja su savjetodavna tijela EU koja se često pitaju?  
+   `Europski gospodarski i socijalni odbor i Odbor regija.`
+
+114. Što radi Europski ombudsman?  
+   `Postupa po pritužbama zbog nepravilnosti u radu institucija, tijela, ureda i agencija EU.`
+
+115. Što radi Europski nadzornik za zaštitu podataka?  
+   `Nadzire zaštitu osobnih podataka u institucijama i tijelima EU.`
+
+116. Što je Frontex?  
+   `Agencija EU za europsku graničnu i obalnu stražu.`
+
+117. Što je Europol?  
+   `Agencija EU za policijsku suradnju.`
+
+118. Što je Eurojust?  
+   `Tijelo EU za pravosudnu suradnju u kaznenim stvarima.`
+
+119. Što je EMA?  
+   `Europska agencija za lijekove.`
+
+120. Što je ECHA?  
+   `Europska agencija za kemikalije.`
+
+121. Što obuhvaća primarno pravo EU?  
+   `Osnivačke ugovore, opća načela prava EU i Povelju EU o temeljnim pravima.`
+
+122. Što obuhvaća sekundarno pravo EU?  
+   `Uredbe, direktive, odluke, preporuke i mišljenja.`
+
+123. Koji akt je obvezujući u cijelosti i neposredno se primjenjuje?  
+   `Uredba.`
+
+124. Koji akt obvezuje u pogledu cilja koji treba postići?  
+   `Direktiva.`
+
+125. Koji akt može biti obvezujući samo za adresata?  
+   `Odluka.`
+
+126. Jesu li preporuke i mišljenja pravno obvezujući akti?  
+   `Ne.`
+
+127. Što je delegirani akt?  
+   `Nezakonodavni akt kojim se dopunjuju ili mijenjaju nebitni elementi zakonodavnog akta.`
+
+128. Što je provedbeni akt?  
+   `Nezakonodavni akt kojim se osiguravaju ujednačeni uvjeti provedbe obvezujućih akata EU.`
+
+129. Koje su četiri slobode unutarnjeg tržišta?  
+   `Sloboda kretanja robe, osoba, usluga i kapitala.`
+
+130. Što je Schengensko područje?  
+   `Područje bez unutarnjih graničnih kontrola.`
+
+131. Je li svaka članica EU automatski u Schengenu?  
+   `Ne.`
+
+132. Što je europodručje?  
+   `Skup država članica EU čija je valuta euro.`
+
+133. Je li svaka članica EU automatski u europodručju?  
+   `Ne.`
+
+134. Što su kriteriji konvergencije za uvođenje eura?  
+   `Uvjeti stabilnosti cijena, kamatnih stopa, deficita, javnog duga i tečaja.`
+
+135. Tko vodi monetarnu politiku europodručja?  
+   `Europska središnja banka.`
+
+136. Tko predlaže proračun EU?  
+   `Europska komisija.`
+
+137. Tko donosi proračun EU?  
+   `Europski parlament i Vijeće EU.`
+
+138. Što je višegodišnji financijski okvir?  
+   `Sedmogodišnji okvir planiranja rashoda EU.`
+
+139. Koja je najstarija zajednička politika EU?  
+   `Zajednička poljoprivredna politika.`
+
+140. Koji fond podupire regionalni razvoj?  
+   `Europski fond za regionalni razvoj.`
+
+141. Kome država podnosi zahtjev za članstvo u EU?  
+   `Vijeću Europske unije.`
+
+142. Što su Kopenhaški kriteriji?  
+   `Politički, gospodarski i pravni uvjeti za članstvo u EU.`
+
+143. Što je screening u pristupnom procesu?  
+   `Analitički pregled usklađenosti nacionalnog zakonodavstva s pravnom stečevinom EU.`
+
+144. Kada je Hrvatska postala članica EU?  
+   `1. srpnja 2013.`
+
+145. Koliko zastupnika RH bira u Europski parlament?  
+   `12.`
+
+146. Tko u Hrvatskom saboru primarno obavlja europske poslove?  
+   `Odbor za europske poslove.`
+
+147. Što je najčešća zamka kod postupka proširenja EU?  
+   `Miješanje statusa kandidata, otvaranja pregovora, potpisivanja ugovora i samog članstva.`
+
+148. Što je najčešća zamka kod proračuna EU?  
+   `Miješanje institucije koja predlaže proračun s institucijama koje ga donose i tijelom koje nadzire trošenje.`
+
+149. Što je najčešća zamka kod građanstva EU?  
+   `Pretpostavka da građanstvo EU zamjenjuje nacionalno državljanstvo, a ne da ga nadopunjuje.`
+
+150. Što je najčešća zamka kod pravne stečevine EU?  
+   `Shvaćanje acquisa samo kao popisa propisa, a ne kao šire cjeline prava, obveza i sudske prakse EU.`

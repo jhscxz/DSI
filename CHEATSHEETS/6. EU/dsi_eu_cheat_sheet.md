@@ -408,6 +408,13 @@ Trik pitanja:
 - EIB financira projekte, ne vodi monetarnu politiku
 - ombudsman nije sud
 
+Za ispit vrijedi znati i tipične primjere agencija:
+- `Frontex` = europska granicna i obalna straza
+- `Europol` = policijska suradnja
+- `Eurojust` = pravosudna suradnja u kaznenim stvarima
+- `EMA` = lijekovi
+- `ECHA` = kemikalije
+
 ### 2.8. Primarno pravo EU
 
 Obuhvaća:
@@ -491,6 +498,8 @@ Bit:
 
 Za ispit:
 - dovoljno je znati da postoje i da nisu isto što i zakonodavni akti
+- delegiranim aktom dopunjuju se ili mijenjaju nebitni elementi zakonodavnog akta
+- provedbenim aktom osiguravaju se ujednaceni uvjeti provedbe obvezujucih akata EU
 
 ---
 
@@ -650,6 +659,11 @@ Moguća pitanja:
   `Europski parlament i Vijeće EU.`
 - Što je VFO?  
   `Višegodišnji financijski okvir.`
+
+Najkraca logika:
+- `Komisija` predlaže
+- `Parlament i Vijeće EU` odlučuju
+- `Revizorski sud` kontrolira
 
 Trik pitanja:
 - proračun ne donosi Europsko vijeće
@@ -853,6 +867,8 @@ Praktično za građane RH:
 
 Važno:
 - građanstvo EU ne stvara posebne osobne fiskalne obveze građana prema EU
+- građanstvo EU ne zamjenjuje hrvatsko drzavljanstvo, nego ga nadopunjuje
+- prava građana EU ostvaruju se u okviru uvjeta iz ugovora i sekundarnog prava
 
 Moguća pitanja:
 - Tko je građanin EU?  

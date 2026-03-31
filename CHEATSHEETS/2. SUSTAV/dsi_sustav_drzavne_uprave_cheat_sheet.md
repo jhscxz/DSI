@@ -1,196 +1,196 @@
-# DSI Sustav Drzavne Uprave Cheat Sheet
+# DSI Sustav Državne Uprave Cheat Sheet
 
-Sazeta verzija prirucnika `Priručnik e-učenje - SDU II_razina_rujan 2024.pdf`, slozena za pripremu ispita iz sustava drzavne uprave.
+Sažeta verzija priručnika `Priručnik e-učenje - SDU II_razina_rujan 2024.pdf`, složena za pripremu ispita iz sustava državne uprave.
 
 Namjena:
 - brzo ponavljanje po poglavljima
-- fokus na onome sto se najlakse mijesa
-- moguca pitanja, trik pitanja i kratke napomene po cjelinama
-- priblizavanje tezini samog ispita
+- fokus na onome što se najlakše miješa
+- moguća pitanja, trik pitanja i kratke napomene po cjelinama
+- približavanje težini samog ispita
 
-Vazno:
-- cilj nije prepricati cijeli prirucnik nego svesti gradivo na ispitno upotrebljivu jezgru
-- naglasak je na razlikama: `ministarstvo / drzavna upravna organizacija / upravna organizacija u sastavu ministarstva`, `zakon / uredba / pravilnik / provedbeni propis / naredba`, `duznosnik / sluzbenik / namjestenik`
+Važno:
+- cilj nije prepričati cijeli priručnik nego svesti gradivo na ispitno upotrebljivu jezgru
+- naglasak je na razlikama: `ministarstvo / državna upravna organizacija / upravna organizacija u sastavu ministarstva`, `zakon / uredba / pravilnik / provedbeni propis / naredba`, `dužnosnik / službenik / namještenik`
 
 ---
 
-## Kako uciti ovaj dokument
+## Kako učiti ovaj dokument
 
-Za svaku temu nauci:
-1. sto je to
+Za svaku temu nauči:
+1. što je to
 2. tko je osniva ili donosi
 3. tko njome upravlja ili rukovodi
-4. sto se ne smije zamijeniti s necim drugim
+4. što se ne smije zamijeniti s necim drugim
 
-Ako znas bez greske:
-- vrste tijela drzavne uprave
-- vrste poslova drzavne uprave
-- sto se utvrduje zakonom, sto uredbom, a sto pravilnikom
-- razliku `provedbeni propisi / naredbe / interni opci akti`
-- tko je drzavni duznosnik, a tko rukovodeci drzavni sluzbenik
-- kako su uredeni Vlada, Uzi kabinet, radna tijela i strucne sluzbe
-- unutarnje ustrojstvo, podruzne jedinice i odgovornost za stetu
+Ako znaš bez greške:
+- vrste tijela državne uprave
+- vrste poslova državne uprave
+- što se utvrđuje zakonom, što uredbom, a što pravilnikom
+- razliku `provedbeni propisi / naredbe / interni opći akti`
+- tko je državni dužnosnik, a tko rukovodeći državni službenik
+- kako su uredeni Vlada, Uži kabinet, radna tijela i stručne službe
+- unutarnje ustrojstvo, područne jedinice i odgovornost za štetu
 
-onda imas jezgru predmeta.
+onda imaš jezgru predmeta.
 
 ---
 
-## 1. Ustrojstvo drzavne uprave
+## 1. Ustrojstvo državne uprave
 
 ### 1.1. Temeljni propisi
 
 Bitno:
-- `Zakon o ustrojstvu i djelokrugu tijela drzavne uprave`
-- `Zakon o sustavu drzavne uprave`
+- `Zakon o ustrojstvu i djelokrugu tijela državne uprave`
+- `Zakon o sustavu državne uprave`
 
 Prvi zakon:
-- ustrojava tijela drzavne uprave
-- utvrduje njihove nazive i djelokrug
+- ustrojava tijela državne uprave
+- utvrđuje njihove nazive i djelokrug
 
 Drugi zakon:
-- uredjuje vrste poslova drzavne uprave
-- nacela rada
-- vrste tijela i nacin njihova ustrojavanja
-- sluzbene osobe
-- normativna ovlastenja
-- sredstva drzavne uprave
+- uredjuje vrste poslova državne uprave
+- načela rada
+- vrste tijela i način njihova ustrojavanja
+- službene osobe
+- normativna ovlaštenja
+- sredstva državne uprave
 
-Moguca pitanja:
-- Koja su dva temeljna zakona za sustav drzavne uprave?
-- Kojim se zakonom ustrojavaju tijela drzavne uprave?  
-  `Zakonom o ustrojstvu i djelokrugu tijela drzavne uprave.`
+Moguća pitanja:
+- Koja su dva temeljna zakona za sustav državne uprave?
+- Kojim se zakonom ustrojavaju tijela državne uprave?  
+  `Zakonom o ustrojstvu i djelokrugu tijela državne uprave.`
 
 Trik pitanja:
-- djelokrug tijela drzavne uprave ne utvrduje Vlada nego `zakon`
+- djelokrug tijela državne uprave ne utvrđuje Vlada nego `zakon`
 
-### 1.2. Sto cini sustav
+### 1.2. Što cini sustav
 
-Tijela drzavne uprave ustrojavaju se kao:
+Tijela državne uprave ustrojavaju se kao:
 - `ministarstva`
-- `drzavne upravne organizacije`
+- `državne upravne organizacije`
 
-Poslovi drzavne uprave mogu se posebnim zakonom povjeriti:
-- jedinicama lokalne i podrucne (regionalne) samouprave
+Poslovi državne uprave mogu se posebnim zakonom povjeriti:
+- jedinicama lokalne i područne (regionalne) samouprave
 - pravnim osobama s javnim ovlastima
 
 Bitno:
-- povjereni posao ostaje posao drzavne uprave
+- povjereni posao ostaje posao državne uprave
 - javna ovlast mora imati osnovu u `zakonu`
 
-Moguca pitanja:
-- Koja su tijela drzavne uprave?
-- Kome se mogu povjeriti pojedini poslovi drzavne uprave?
+Moguća pitanja:
+- Koja su tijela državne uprave?
+- Kome se mogu povjeriti pojedini poslovi državne uprave?
 
-### 1.3. Nadleznost
+### 1.3. Nadležnost
 
 Bitno:
-- stvarna nadleznost utvrduje se `zakonom kojim se uredjuje pojedino upravno podrucje`
-- mjesna nadleznost utvrduje se u pravilu propisima o upravno-teritorijalnoj podjeli ili unutarnjem ustrojstvu
-- o sukobu nadleznosti izmedu tijela drzavne uprave odlucuje `Vlada`
+- stvarna nadležnost utvrđuje se `zakonom kojim se uredjuje pojedino upravno područje`
+- mjesna nadležnost utvrđuje se u pravilu propisima o upravno-teritorijalnoj podjeli ili unutarnjem ustrojstvu
+- o sukobu nadležnosti između tijela državne uprave odlučuje `Vlada`
 
-Moguca pitanja:
-- Tko odlucuje o sukobu nadleznosti izmedu tijela drzavne uprave?  
+Moguća pitanja:
+- Tko odlučuje o sukobu nadležnosti između tijela državne uprave?  
   `Vlada Republike Hrvatske.`
 
 Trik pitanja:
-- sukob nadleznosti ne rjesava Sabor ni sud, nego `Vlada`
+- sukob nadležnosti ne rješava Sabor ni sud, nego `Vlada`
 
-### 1.4. Nacela rada
+### 1.4. Načela rada
 
 Bitno:
-- rad tijela drzavne uprave je `javan`
-- javnost se moze iskljuciti samo iznimno, kada je to propisano zakonom ili pravnom stecevinom EU
-- gradani trebaju moci jednostavno i djelotvorno ostvarivati prava i interese
-- podaci iz sluzbenih evidencija pribavljaju se `po sluzbenoj duznosti`
-- pravna zastita protiv pojedinacnih akata propisuje se zakonom za pojedino upravno podrucje
-- stetu zbog nezakonitog ili nepravilnog obavljanja poslova drzavne uprave nadoknaduje `Republika Hrvatska`
+- rad tijela državne uprave je `javan`
+- javnost se može isključiti samo iznimno, kada je to propisano zakonom ili pravnom stecevinom EU
+- građani trebaju moci jednostavno i djelotvorno ostvarivati prava i interese
+- podaci iz službenih evidencija pribavljaju se `po službenoj dužnosti`
+- pravna zaštita protiv pojedinačnih akata propisuje se zakonom za pojedino upravno područje
+- štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave nadoknaduje `Republika Hrvatska`
 
-Moguca pitanja:
-- Kako se pribavljaju podaci iz sluzbenih evidencija?  
-  `Po sluzbenoj duznosti.`
-- Tko odgovara za stetu prema gradanima?  
+Moguća pitanja:
+- Kako se pribavljaju podaci iz službenih evidencija?  
+  `Po službenoj dužnosti.`
+- Tko odgovara za štetu prema gradanima?  
   `Republika Hrvatska.`
 
 Trik pitanja:
-- ne odgovara osobno odmah sluzbenik prema gradaninu, nego primarno `RH`
+- ne odgovara osobno odmah službenik prema gradaninu, nego primarno `RH`
 
 ---
 
-## 2. Vrste tijela drzavne uprave
+## 2. Vrste tijela državne uprave
 
 ### 2.1. Ministarstva
 
 Ministarstva:
-- ustrojavaju se `iskljucivo zakonom`
-- obavljaju poslove drzavne uprave u pravilu u `vise upravnih podrucja`
-- unutarnje ustrojstvo uredjuje im se `uredbom o unutarnjem ustrojstvu`
+- ustrojavaju se `isključivo zakonom`
+- obavljaju poslove državne uprave u pravilu u `više upravnih područja`
+- unutarnje ustrojstvo uređuje im se `uredbom o unutarnjem ustrojstvu`
 
-Celnik:
+Čelnik:
 - `ministar`
 
 Uz ministra:
-- jedan ili vise `drzavnih tajnika`
-- u svakom ministarstvu ustrojava se `glavno tajnistvo`
+- jedan ili više `državnih tajnika`
+- u svakom ministarstvu ustrojava se `glavno tajništvo`
 
 Bitno:
-- ministra u upravljanju ministarstvom moze zamijeniti samo `drzavni tajnik`
-- u sastavu svakog ministarstva ustrojavaju se glavno tajnistvo i najmanje `dvije upravne organizacije`
+- ministra u upravljanju ministarstvom može zamijeniti samo `državni tajnik`
+- u sastavu svakog ministarstva ustrojavaju se glavno tajništvo i najmanje `dvije upravne organizacije`
 
-Moguca pitanja:
-- Tko je celnik ministarstva?  
+Moguća pitanja:
+- Tko je čelnik ministarstva?  
   `Ministar.`
-- Tko moze zamijeniti ministra u slucaju odsutnosti ili sprijecenosti?  
-  `Samo drzavni tajnik.`
+- Tko može zamijeniti ministra u slučaju odsutnosti ili spriječenosti?  
+  `Samo državni tajnik.`
 
 Trik pitanja:
 - glavni tajnik ministarstva ne zamjenjuje ministra
 - ministarstvo se ne ustrojava uredbom nego `zakonom`
 
-### 2.2. Drzavne upravne organizacije
+### 2.2. Državne upravne organizacije
 
-To su tijela drzavne uprave koja se ustrojavaju za jedno ili vise upravnih podrucja kada posao trazi:
+To su tijela državne uprave koja se ustrojavaju za jedno ili više upravnih područja kada posao traži:
 - osobitu samostalnost
-- posebne uvjete i nacin rada
-- ili je to nuzno za provedbu pravno obvezujucih akata EU
+- posebne uvjete i način rada
+- ili je to nužno za provedbu pravno obvezujućih akata EU
 
 Vrste:
-- `sredisnji drzavni ured`
-- `drzavna uprava`
-- `drzavni zavod`
-- `drzavni inspektorat`
-- `drzavno ravnateljstvo`
+- `središnji državni ured`
+- `državna uprava`
+- `državni zavod`
+- `državni inspektorat`
+- `državno ravnateljstvo`
 
 Ustrojavanje:
 - `zakonom`
 - za neke i `posebnim zakonom`
 
 Celnici:
-- sredisnji drzavni ured: `drzavni tajnik sredisnjeg drzavnog ureda`
-- drzavna uprava: `glavni ravnatelj`
-- drzavni zavod: `glavni ravnatelj`
-- drzavni inspektorat: `glavni drzavni inspektor`
-- drzavno ravnateljstvo: `glavni ravnatelj`
+- središnji državni ured: `državni tajnik središnjeg državnog ureda`
+- državna uprava: `glavni ravnatelj`
+- državni zavod: `glavni ravnatelj`
+- državni inspektorat: `glavni državni inspektor`
+- državno ravnateljstvo: `glavni ravnatelj`
 
 Bitno:
-- celnik drzavne upravne organizacije je u pravilu `drzavni duznosnik`
+- čelnik državne upravne organizacije je u pravilu `državni dužnosnik`
 - za svoj rad odgovara `Vladi`
 
-Moguca pitanja:
-- Koje su vrste drzavnih upravnih organizacija?
-- Tko je celnik drzavnog inspektorata?  
-  `Glavni drzavni inspektor.`
+Moguća pitanja:
+- Koje su vrste državnih upravnih organizacija?
+- Tko je čelnik državnog inspektorata?  
+  `Glavni državni inspektor.`
 
 Trik pitanja:
-- drzavne upravne organizacije jesu `tijela drzavne uprave`
-- njihovi nazivi u pravilu sadrze rijec `drzavni`
+- državne upravne organizacije jesu `tijela državne uprave`
+- njihovi nazivi u pravilu sadrže riječ `državni`
 
 ### 2.3. Upravne organizacije u sastavu ministarstava
 
-To nisu tijela drzavne uprave, nego organizacijske jedinice najviseg reda u ministarstvu.
+To nisu tijela državne uprave, nego organizacijske jedinice najvišeg reda u ministarstvu.
 
 Ustrojavaju se:
 - `uredbom o unutarnjem ustrojstvu`
-- iskljucivo u ministarstvima
+- isključivo u ministarstvima
 
 Vrste:
 - `uprava`
@@ -206,53 +206,53 @@ Rukovoditelji:
 - ravnateljstvo i ured: u pravilu `ravnatelj`
 
 Status:
-- rukovoditelj je `rukovodeci drzavni sluzbenik`
-- odgovara nadleznom drzavnom tajniku, ministru i Vladi
+- rukovoditelj je `rukovodeći državni službenik`
+- odgovara nadležnom državnom tajniku, ministru i Vladi
 
 Bitno:
 - u sastavu svakog ministarstva ustrojavaju se najmanje `dvije upravne organizacije`
-- upravne organizacije u sastavu ministarstva `nisu` tijela drzavne uprave
+- upravne organizacije u sastavu ministarstva `nisu` tijela državne uprave
 
-Moguca pitanja:
-- Jesi li upravna organizacija u sastavu ministarstva tijelo drzavne uprave?  
+Moguća pitanja:
+- Jesi li upravna organizacija u sastavu ministarstva tijelo državne uprave?  
   `Ne.`
 - Cime se ustrojava uprava u sastavu ministarstva?  
   `Uredbom o unutarnjem ustrojstvu ministarstva.`
 
 Trik pitanja:
-- `Drzavni zavod` i `zavod u ministarstvu` nisu isto
-- drzavnom upravnom organizacijom upravlja duznosnik, a upravnom organizacijom u ministarstvu rukovodi sluzbenik
+- `Državni zavod` i `zavod u ministarstvu` nisu isto
+- državnom upravnom organizacijom upravlja dužnosnik, a upravnom organizacijom u ministarstvu rukovodi službenik
 
 ### 2.4. Podrucne jedinice
 
 Podrucne jedinice:
-- ustrojavaju se iskljucivo `izvan sjedista` tijela drzavne uprave
-- mogu postojati i u ministarstvima i u drzavnim upravnim organizacijama
+- ustrojavaju se isključivo `izvan sjedista` tijela državne uprave
+- mogu postojati i u ministarstvima i u državnim upravnim organizacijama
 
 Vrste:
-- `podrucni ured`
+- `područni ured`
 - `ispostava`
 
 Ustrojavanje:
 - `uredbom o unutarnjem ustrojstvu`
 
 Podrucje rada:
-- podrucni ured: jedna ili vise jedinica podrucne (regionalne) samouprave
-- ispostava: jedna ili vise jedinica lokalne samouprave
+- područni ured: jedna ili više jedinica područne (regionalne) samouprave
+- ispostava: jedna ili više jedinica lokalne samouprave
 
 Poslovi:
 - neposredna provedba zakona
 - inspekcijski nadzor
 - upravni nadzor
-- drugi upravni i strucni poslovi
+- drugi upravni i stručni poslovi
 
-Moguca pitanja:
-- Koje su osnovne vrste podrucnih jedinica?
-- Mogu li podrucne jedinice biti ustrojene u sjedistu tijela?  
+Moguća pitanja:
+- Koje su osnovne vrste područnih jedinica?
+- Mogu li područne jedinice biti ustrojene u sjedištu tijela?  
   `Ne.`
 
 Trik pitanja:
-- podrucna jedinica nije samostalno tijelo drzavne uprave
+- područna jedinica nije samostalno tijelo državne uprave
 
 ---
 
@@ -263,20 +263,20 @@ Trik pitanja:
 Pamti trojni sloj:
 
 `ZAKON`
-- ustrojava tijela drzavne uprave
-- utvrduje naziv i djelokrug
+- ustrojava tijela državne uprave
+- utvrđuje naziv i djelokrug
 
 `UREDBA O UNUTARNJEM USTROJSTVU`
 - donosi `Vlada`
-- uredjuje unutarnje ustrojstvo pojedinog tijela
-- nazive ustrojstvenih jedinica, njihov djelokrug, nacin upravljanja, okvirni broj izvrsitelja, planiranje poslova, radno i uredovno vrijeme
+- uređuje unutarnje ustrojstvo pojedinog tijela
+- nazive ustrojstvenih jedinica, njihov djelokrug, način upravljanja, okvirni broj izvršitelja, planiranje poslova, radno i uredovno vrijeme
 
 `PRAVILNIK O UNUTARNJEM REDU`
-- donosi `celnik tijela`
-- utvrduje potreban broj sluzbenika i namjestenika, osnovne poslove i zadace, strucne uvjete, ovlasti i odgovornosti
-- to je `interni opci akt`, a ne propis
+- donosi `čelnik tijela`
+- utvrđuje potreban broj službenika i namještenika, osnovne poslove i zadaće, stručne uvjete, ovlasti i odgovornosti
+- to je `interni opći akt`, a ne propis
 
-Moguca pitanja:
+Moguća pitanja:
 - Tko donosi uredbu o unutarnjem ustrojstvu?  
   `Vlada.`
 - Tko donosi pravilnik o unutarnjem redu u ministarstvu?  
@@ -289,63 +289,80 @@ Trik pitanja:
 ### 3.2. Djelokrug
 
 Bitno:
-- svako tijelo drzavne uprave mora imati utvrden djelokrug
-- djelokrug svih tijela drzavne uprave utvrduje se `iskljucivo zakonom`
-- svaka ustrojstvena jedinica takoder mora imati svoj djelokrug
-- djelokrug unutarnjih ustrojstvenih jedinica uredjuje se `uredbom o unutarnjem ustrojstvu`
+- svako tijelo državne uprave mora imati utvrđen djelokrug
+- djelokrug svih tijela državne uprave utvrđuje se `isključivo zakonom`
+- svaka ustrojstvena jedinica također mora imati svoj djelokrug
+- djelokrug unutarnjih ustrojstvenih jedinica uređuje se `uredbom o unutarnjem ustrojstvu`
 
 Posebno pamti:
-- u djelokrugu ministarstva ne moze biti samo `jedno` upravno podrucje
+- u djelokrugu ministarstva ne može biti samo `jedno` upravno područje
 
-Moguca pitanja:
-- Cime se utvrduje djelokrug tijela drzavne uprave?  
+Moguća pitanja:
+- Čime se utvrđuje djelokrug tijela državne uprave?  
   `Zakonom.`
 
 Trik pitanja:
-- Vlada ne propisuje djelokrug tijela drzavne uprave
+- Vlada ne propisuje djelokrug tijela državne uprave
 
 ### 3.3. Unutarnje ustrojstvene jedinice
 
 Osnovna hijerarhija:
-- `uprava / zavod / inspektorat / ravnateljstvo / ured` kao najvisi red u ministarstvu
-- unutar njih: `sektor`, `sluzba`, `odjel`
+- `uprava / zavod / inspektorat / ravnateljstvo / ured` kao najviši red u ministarstvu
+- unutar njih: `sektor`, `služba`, `odjel`
 - mogu postojati i `odsjek` i `pododsjek`
 
 Posebne ustrojstvene jedinice:
-- `glavno tajnistvo`
+- `glavno tajništvo`
 - `kabinet`
 - `jedinica za unutarnju reviziju`
 
 Bitno:
-- glavno tajnistvo vodi `glavni tajnik`
-- samostalni sektor i samostalna sluzba su iznimke
-- u sastavu upravne organizacije u ministarstvu ne moze se ustrojiti `samostalni sektor` ni `samostalna sluzba`
+- glavno tajništvo vodi `glavni tajnik`
+- samostalni sektor i samostalna služba su iznimke
+- u sastavu upravne organizacije u ministarstvu ne može se ustrojiti `samostalni sektor` ni `samostalna služba`
 
-Moguca pitanja:
-- Tko rukovodi glavnim tajnistvom?  
+Moguća pitanja:
+- Tko rukovodi glavnim tajništvom?  
   `Glavni tajnik.`
-- Sto su posebne ustrojstvene jedinice?  
-  `Npr. glavno tajnistvo, kabinet, unutarnja revizija.`
+- Što su posebne ustrojstvene jedinice?  
+  `Npr. glavno tajništvo, kabinet, unutarnja revizija.`
+
+### 3.4. Planiranje poslova, radno i uredovno vrijeme
+
+Uredbom o unutarnjem ustrojstvu određuju se i:
+- planiranje poslova
+- okvirni broj izvršitelja
+- raspored radnog vremena
+- uredovno vrijeme za rad sa strankama
+- način unutarnje koordinacije
+
+Bitno:
+- svakodnevna organizacija rada ne propisuje se samo zakonom
+- `radno vrijeme` i `uredovno vrijeme` nisu isto
+
+Trik pitanja:
+- uredovno vrijeme odnosi se na rad sa strankama
+- radno vrijeme odnosi se na organizaciju rada službenika i namještenika
 
 ---
 
-## 4. Poslovi i nacin rada drzavne uprave
+## 4. Poslovi i način rada državne uprave
 
-### 4.1. Vrste poslova drzavne uprave
+### 4.1. Vrste poslova državne uprave
 
 Vrste poslova su:
-- `provedba drzavne politike`
+- `provedba državne politike`
 - `neposredna provedba zakona`
 - `inspekcijski nadzor`
 - `upravni nadzor`
-- `drugi upravni i strucni poslovi`
+- `drugi upravni i stručni poslovi`
 
-Moguca pitanja:
-- Koje su vrste poslova drzavne uprave?
+Moguća pitanja:
+- Koje su vrste poslova državne uprave?
 
-### 4.2. Provedba drzavne politike
+### 4.2. Provedba državne politike
 
-To su poslovi usmjeravanja i oblikovanja nacina provodenja zakona i javnih politika.
+To su poslovi usmjeravanja i oblikovanja načina provodenja zakona i javnih politika.
 
 Primjeri:
 - izrada strategija
@@ -353,22 +370,22 @@ Primjeri:
 - usmjeravanje rada
 
 Trik pitanja:
-- to nije isto sto i rjesavanje konkretnog upravnog predmeta
+- to nije isto što i rješavanje konkretnog upravnog predmeta
 
 ### 4.3. Neposredna provedba zakona
 
-To su konkretni poslovi primjene zakona na pojedinacne slucajeve.
+To su konkretni poslovi primjene zakona na pojedinačne slučajeve.
 
 Primjeri:
-- rjesavanje u upravnim stvarima
+- rješavanje u upravnim stvarima
 - vodenje evidencija
 - izdavanje potvrda i drugih akata
 
-Moguca pitanja:
-- Sto spada u neposrednu provedbu zakona?
+Moguća pitanja:
+- Što spada u neposrednu provedbu zakona?
 
 Trik pitanja:
-- `provedba politike` i `neposredna provedba zakona` vrlo se cesto namjerno mjesaju
+- `provedba politike` i `neposredna provedba zakona` vrlo se često namjerno miješaju
 
 ### 4.4. Inspekcijski i upravni nadzor
 
@@ -378,55 +395,69 @@ Trik pitanja:
 
 `Upravni nadzor`
 - nadzor zakonitosti i pravilnosti rada
-- provodi se po sluzbenoj duznosti prema zakonu za pojedino upravno podrucje
+- provodi se po službenoj dužnosti prema zakonu za pojedino upravno područje
 
 Bitno:
 - nisu isto
-- oba su posebne vrste poslova drzavne uprave
+- oba su posebne vrste poslova državne uprave
 
-Moguca pitanja:
-- Koja je razlika izmedu upravnog i inspekcijskog nadzora?
+Moguća pitanja:
+- Koja je razlika između upravnog i inspekcijskog nadzora?
 
 Trik pitanja:
 - inspekcijski nadzor se ne smije svesti samo na opceniti nadzor rada tijela
 
 ### 4.5. Povjeravanje poslova
 
-Pojedini poslovi drzavne uprave mogu se posebnim zakonom povjeriti:
-- jedinicama lokalne i podrucne samouprave
+Pojedini poslovi državne uprave mogu se posebnim zakonom povjeriti:
+- jedinicama lokalne i područne samouprave
 - pravnim osobama s javnim ovlastima
 
 Ne povjeravaju se:
-- `poslovi provedbe drzavne politike`
+- `poslovi provedbe državne politike`
 - `upravni nadzor`
 
 Bitno:
-- za obavljanje povjerenih poslova sredstva se osiguravaju u drzavnom proracunu, ako zakonom nije drukcije propisano
+- za obavljanje povjerenih poslova sredstva se osiguravaju u državnom proračunu, ako zakonom nije drukcije propisano
 
-Moguca pitanja:
+Moguća pitanja:
 - Koji se poslovi ne povjeravaju ni u kojem slucaju?  
-  `Provedba drzavne politike i upravni nadzor.`
+  `Provedba državne politike i upravni nadzor.`
 
 Trik pitanja:
-- upravo se ovdje lako ubaci lazna opcija da se moze povjeriti upravni nadzor
+- upravo se ovdje lako ubaci lazna općija da se može povjeriti upravni nadzor
+
+### 4.6. Razlika između inspekcijskog i upravnog nadzora
+
+`Inspekcijski nadzor`
+- neposredno nadzire primjenu propisa kod nadziranih subjekata
+- može uključivati nalaganje mjera, zabrana i otklanjanje nezakonitosti prema posebnom propisu
+
+`Upravni nadzor`
+- nadzire zakonitost i pravilnost rada tijela i pravnih osoba s javnim ovlastima
+- usmjeren je na obavljanje upravnih poslova u skladu sa zakonom
+
+Najkraca ispitna razlika:
+- inspekcija ide prema `primjeni propisa`
+- upravni nadzor ide prema `zakonitosti i pravilnosti obavljanja upravnih poslova`
 
 ---
 
-## 5. Normativna ovlastenja
+## 5. Normativna ovlaštenja
 
 ### 5.1. Provedbeni propisi
 
-Ovlast za donosenje provedbenih propisa propisuje se `iskljucivo zakonom`.
+Ovlast za donošenje provedbenih propisa propisuje se `isključivo zakonom`.
 
 Provedbeni propisi su:
 - `pravilnici`
 - `naputci`
 
 Bitno:
-- njima se razraduje provedba zakona
-- donose se samo kada postoji izricita zakonska ovlast
+- njima se razrađuje provedba zakona
+- donose se samo kada postoji izričita zakonska ovlast
 
-Moguca pitanja:
+Moguća pitanja:
 - Koji su provedbeni propisi?  
   `Pravilnici i naputci.`
 
@@ -438,86 +469,86 @@ Trik pitanja:
 Bitno:
 - naredbe su `podzakonski propisi`
 - ali `nisu provedbeni propisi`
-- ovlast za njihovo donosenje propisuje se iskljucivo zakonom
-- donose ih iskljucivo celnici tijela drzavne uprave
+- ovlast za njihovo donošenje propisuje se isključivo zakonom
+- donose ih isključivo čelnici tijela državne uprave
 
-Moguca pitanja:
+Moguća pitanja:
 - Jesu li naredbe provedbeni propisi?  
   `Ne.`
-- Tko moze donijeti naredbu?  
-  `Celnik tijela drzavne uprave ako je za to izrijekom ovlasten zakonom.`
+- Tko može donijeti naredbu?  
+  `Čelnik tijela državne uprave ako je za to izrijekom ovlašten zakonom.`
 
 Trik pitanja:
 - najveci klasik je zamjena `naredbe` i `pravilnika`
 
 ---
 
-## 6. Sluzbene osobe
+## 6. Službene osobe
 
-### 6.1. Tko su sluzbene osobe
+### 6.1. Tko su službene osobe
 
-Sluzbene osobe u tijelima drzavne uprave su:
-- `drzavni duznosnici`
-- `drzavni sluzbenici`
+Službene osobe u tijelima državne uprave su:
+- `državni dužnosnici`
+- `državni službenici`
 
-Nisu sluzbene osobe:
-- `namjestenici`
+Nisu službene osobe:
+- `namještenici`
 
 Bitno:
-- namjestenici obavljaju pomocno-tehnicke poslove
+- namještenici obavljaju pomoćno-tehničke poslove
 
-Moguca pitanja:
-- Tko su sluzbene osobe u tijelima drzavne uprave?
-- Jesu li namjestenici sluzbene osobe?  
+Moguća pitanja:
+- Tko su službene osobe u tijelima državne uprave?
+- Jesu li namještenici službene osobe?  
   `Ne.`
 
-### 6.2. Duznosnici i sluzbenici
+### 6.2. Duznosnici i službenici
 
-U ministarstvu su drzavni duznosnici:
+U ministarstvu su državni dužnosnici:
 - `ministar`
-- `drzavni tajnik`
+- `državni tajnik`
 
-U drzavnim upravnim organizacijama drzavni duznosnici su u pravilu:
-- `drzavni tajnik sredisnjeg drzavnog ureda`
+U državnim upravnim organizacijama državni dužnosnici su u pravilu:
+- `državni tajnik središnjeg državnog ureda`
 - `glavni ravnatelj`
-- `glavni drzavni inspektor`
+- `glavni državni inspektor`
 
-Rukovodeci drzavni sluzbenici su npr.:
+Rukovodeci državni službenici su npr.:
 - `glavni tajnik`
 - `ravnatelj`
 - `glavni inspektor` u sastavu ministarstva
 - rukovoditelji nizih ustrojstvenih jedinica
 
-Moguca pitanja:
-- Koja je razlika izmedu drzavnog duznosnika i rukovodeceg drzavnog sluzbenika?
+Moguća pitanja:
+- Koja je razlika između državnog dužnosnika i rukovodećeg državnog službenika?
 
 Trik pitanja:
-- glavni tajnik ministarstva je `sluzbenik`, ne duznosnik
-- ravnatelj uprave u ministarstvu je `sluzbenik`, ali glavni ravnatelj drzavne upravne organizacije je u pravilu `duznosnik`
+- glavni tajnik ministarstva je `službenik`, ne dužnosnik
+- ravnatelj uprave u ministarstvu je `službenik`, ali glavni ravnatelj državne upravne organizacije je u pravilu `dužnosnik`
 
 ### 6.3. Hijerarhijski red
 
 Pamti:
-- tijelima drzavne uprave upravljaju drzavni duznosnici
-- upravnim organizacijama u sastavu ministarstva i unutarnjim jedinicama rukovode drzavni sluzbenici
+- tijelima državne uprave upravljaju državni dužnosnici
+- upravnim organizacijama u sastavu ministarstva i unutarnjim jedinicama rukovode državni službenici
 
 Bitno:
-- ministar provodi utvrdenu politiku Vlade
-- drzavni tajnik provodi politiku Vlade u jednom ili vise upravnih podrucja prema ovlastenju ministra
+- ministar provodi utvrđenu politiku Vlade
+- državni tajnik provodi politiku Vlade u jednom ili više upravnih područja prema ovlaštenju ministra
 
 ---
 
-## 7. Sredstva drzavne uprave i javne ustanove
+## 7. Sredstva državne uprave i javne ustanove
 
-### 7.1. Sredstva drzavne uprave
+### 7.1. Sredstva državne uprave
 
 Bitno:
-- sredstva za rad tijela drzavne uprave osiguravaju se u `drzavnom proracunu`
-- sredstva za obavljanje povjerenih poslova drzavne uprave osiguravaju se u drzavnom proracunu, ako zakonom nije drukcije propisano
+- sredstva za rad tijela državne uprave osiguravaju se u `državnom proračunu`
+- sredstva za obavljanje povjerenih poslova državne uprave osiguravaju se u državnom proračunu, ako zakonom nije drukcije propisano
 
-Moguca pitanja:
-- Gdje se osiguravaju sredstva za rad tijela drzavne uprave?  
-  `U drzavnom proracunu.`
+Moguća pitanja:
+- Gdje se osiguravaju sredstva za rad tijela državne uprave?  
+  `U državnom proračunu.`
 
 ### 7.2. Javne ustanove
 
@@ -525,16 +556,24 @@ Ovo se pita kao rubna, ali opasna tema.
 
 Bitno:
 - javna ustanova je ustanova koja se osniva za trajno obavljanje djelatnosti kada se ne obavlja radi stjecanja dobiti
-- osnivaci mogu biti RH, jedinice lokalne i podrucne samouprave te druge osobe kada je to dopusteno zakonom
+- osnivači mogu biti RH, jedinice lokalne i područne samouprave te druge osobe kada je to dopušteno zakonom
+- tijela javne ustanove tipično su `upravno vijeće`, `ravnatelj` i `stručno vijeće`, ako je to predviđeno zakonom ili statutom
 
 Pazi:
-- zupanije, gradovi i opcine osnivaju javne ustanove samo u okviru svog samoupravnog djelokruga
+- županije, gradovi i općine osnivaju javne ustanove samo u okviru svog samoupravnog djelokruga
 
-Moguca pitanja:
-- Tko moze biti osnivac javne ustanove?
+Osnivacki akt u pravilu uredjuje:
+- naziv i sjedište
+- djelatnost
+- tijela ustanove i njihove ovlasti
+- sredstva za rad
+- međusobna prava i obveze osnivaca i ustanove
+
+Moguća pitanja:
+- Tko može biti osnivac javne ustanove?
 
 Trik pitanja:
-- javna ustanova nije tijelo drzavne uprave
+- javna ustanova nije tijelo državne uprave
 
 ---
 
@@ -543,55 +582,55 @@ Trik pitanja:
 ### 8.1. Osnovno
 
 Vlada:
-- usmjerava i nadzire rad drzavne uprave
-- odlucuje o sukobu nadleznosti izmedu tijela drzavne uprave
+- usmjerava i nadzire rad državne uprave
+- odlučuje o sukobu nadležnosti između tijela državne uprave
 
-Moguca pitanja:
-- Koja je osnovna uloga Vlade prema drzavnoj upravi?  
+Moguća pitanja:
+- Koja je osnovna uloga Vlade prema državnoj upravi?  
   `Usmjerava i nadzire njezin rad.`
 
-### 8.2. Sastav i odlucivanje
+### 8.2. Sastav i odlučivanje
 
 Vlada cine:
 - predsjednik Vlade
-- jedan ili vise potpredsjednika
+- jedan ili više potpredsjednika
 - ministri
 
 Bitno:
-- odlucuje na sjednicama
-- za odlucivanje su bitni kvorum i pravila iz Poslovnika Vlade
+- odlučuje na sjednicama
+- za odlučivanje su bitni kvorum i pravila iz Poslovnika Vlade
 
-### 8.3. Uzi kabinet Vlade
+### 8.3. Uži kabinet Vlade
 
-Uzi kabinet:
+Uži kabinet:
 - cine predsjednik Vlade i potpredsjednici Vlade
-- u radu moze sudjelovati i drugi clan kada je to potrebno prema pravilima rada
-- odlucuje o pitanjima iz djelokruga Vlade, a takve odluke potvrduje Vlada
+- u radu može sudjelovati i drugi član kada je to potrebno prema pravilima rada
+- odlučuje o pitanjima iz djelokruga Vlade, a takve odluke potvrduje Vlada
 
-Moguca pitanja:
-- Tko cini Uzi kabinet Vlade?
+Moguća pitanja:
+- Tko cini Uži kabinet Vlade?
 
 Trik pitanja:
-- Uzi kabinet nije isto sto i Vlada u punom sastavu
+- Uži kabinet nije isto što i Vlada u punom sastavu
 
-### 8.4. Ured predsjednika Vlade i Glavno tajnistvo Vlade
+### 8.4. Ured predsjednika Vlade i Glavno tajništvo Vlade
 
 `Ured predsjednika Vlade`
-- obavlja savjetodavne, analiticke, strucne i administrativne poslove za predsjednika Vlade
+- obavlja savjetodavne, analitičke, stručne i administrativne poslove za predsjednika Vlade
 - vodi ga `predstojnik`
 
-`Glavno tajnistvo Vlade`
-- obavlja opce, tehnicke, pomocne i informaticke poslove
+`Glavno tajništvo Vlade`
+- obavlja opće, tehničke, pomoćne i informatičke poslove
 - vodi ga `glavni tajnik Vlade`
 
 Bitno:
-- predstojnik Ureda predsjednika Vlade i glavni tajnik Vlade su drzavni duznosnici s polozajem drzavnog tajnika
+- predstojnik Ureda predsjednika Vlade i glavni tajnik Vlade su državni dužnosnici s položajem državnog tajnika
 
-Moguca pitanja:
-- Tko vodi Glavno tajnistvo Vlade?  
+Moguća pitanja:
+- Tko vodi Glavno tajništvo Vlade?  
   `Glavni tajnik Vlade.`
 
-### 8.5. Radna tijela i strucne sluzbe Vlade
+### 8.5. Radna tijela i stručne službe Vlade
 
 Radna tijela:
 - `stalna`
@@ -603,50 +642,67 @@ Stalna radna tijela:
 Povremena radna tijela:
 - osnivaju se `odlukom Vlade`
 
-Strucne sluzbe Vlade:
-- uredi, agencije, direkcije i druge strucne sluzbe
+Stručne službe Vlade:
+- uredi, agencije, direkcije i druge stručne službe
 - njima upravljaju ravnatelji
 
 Bitno:
-- ravnatelj ureda i druge strucne sluzbe Vlade `nije drzavni duznosnik` nego rukovodeci drzavni sluzbenik
+- ravnatelj ureda i druge stručne službe Vlade `nije državni dužnosnik` nego rukovodeći državni službenik
 
-Moguca pitanja:
-- Cime se osnivaju stalna radna tijela Vlade?  
+Moguća pitanja:
+- Čime se osnivaju stalna radna tijela Vlade?  
   `Poslovnikom Vlade.`
-- Cime se osnivaju povremena radna tijela Vlade?  
+- Čime se osnivaju povremena radna tijela Vlade?  
   `Odlukom Vlade.`
 
 Trik pitanja:
 - Poslovnik je podzakonski propis
 - odluka nije propis
 
+### 8.6. Propisi i drugi akti koje donosi Vlada
+
+Vlada donosi osobito:
+- `uredbe`
+- `odluke`
+- `rješenja`
+- `zaključke`
+
+Za ispit je najbitnije:
+- uredbom razrađuje provedbu zakona kada je za to ovlaštena
+- odlukom rješava pojedina pitanja iz svoje nadležnosti
+- zaključkom zauzima stajališta, prihvaća izvješća ili daje zadaće tijelima
+
+Trik pitanja:
+- Vlada ne donosi `pravilnik o unutarnjem redu` tijela državne uprave
+- uredba nije isto što i interni opći akt čelnika tijela
+
 ---
 
-## 9. Najcesce zamke
+## 9. Najčešće zamke
 
 - `ministarstvo` se ustrojava zakonom, ne uredbom
-- `drzavna upravna organizacija` jest tijelo drzavne uprave, a `upravna organizacija u sastavu ministarstva` nije
-- `glavni tajnik` ministarstva je rukovodeci drzavni sluzbenik, ne drzavni duznosnik
-- ministra moze zamijeniti samo `drzavni tajnik`
-- `uredba o unutarnjem ustrojstvu` uredjuje unutarnje ustrojstvo, a `pravilnik o unutarnjem redu` sistematizaciju i unutarnji red
+- `državna upravna organizacija` jest tijelo državne uprave, a `upravna organizacija u sastavu ministarstva` nije
+- `glavni tajnik` ministarstva je rukovodeći državni službenik, ne državni dužnosnik
+- ministra može zamijeniti samo `državni tajnik`
+- `uredba o unutarnjem ustrojstvu` uređuje unutarnje ustrojstvo, a `pravilnik o unutarnjem redu` sistematizaciju i unutarnji red
 - pravilnik o unutarnjem redu nije provedbeni propis
 - `pravilnik` i `naputak` jesu provedbeni propisi
 - `naredba` je podzakonski propis, ali nije provedbeni propis
-- `provedba drzavne politike` i `upravni nadzor` ne povjeravaju se
-- podaci iz evidencija pribavljaju se po sluzbenoj duznosti
-- stetu prema gradanima nadoknaduje RH
-- podrucne jedinice ne mogu biti u sjedistu tijela
+- `provedba državne politike` i `upravni nadzor` ne povjeravaju se
+- podaci iz evidencija pribavljaju se po službenoj dužnosti
+- štetu prema građanima nadoknađuje RH
+- područne jedinice ne mogu biti u sjedištu tijela
 - stalna radna tijela Vlade osnivaju se Poslovnikom, a povremena odlukom
 
 ---
 
 ## 10. Brzi mini-test
 
-1. Tko odlucuje o sukobu nadleznosti izmedu tijela drzavne uprave?  
+1. Tko odlučuje o sukobu nadležnosti između tijela državne uprave?  
    `Vlada RH.`
 
-2. Koje su dvije osnovne vrste tijela drzavne uprave?  
-   `Ministarstva i drzavne upravne organizacije.`
+2. Koje su dvije osnovne vrste tijela državne uprave?  
+   `Ministarstva i državne upravne organizacije.`
 
 3. Tko donosi uredbu o unutarnjem ustrojstvu?  
    `Vlada.`
@@ -657,37 +713,37 @@ Trik pitanja:
 5. Jesu li naredbe provedbeni propisi?  
    `Ne.`
 
-6. Tko moze zamijeniti ministra?  
-   `Samo drzavni tajnik.`
+6. Tko može zamijeniti ministra?  
+   `Samo državni tajnik.`
 
-7. Jesu li upravne organizacije u sastavu ministarstva tijela drzavne uprave?  
+7. Jesu li upravne organizacije u sastavu ministarstva tijela državne uprave?  
    `Ne.`
 
 8. Tko vodi glavno tajnistvo ministarstva?  
    `Glavni tajnik.`
 
-9. Sto se ne moze povjeriti ni u kojem slucaju?  
-   `Provedba drzavne politike i upravni nadzor.`
+9. Što se ne može povjeriti ni u kojem slucaju?  
+   `Provedba državne politike i upravni nadzor.`
 
-10. Tko nadoknaduje stetu zbog nezakonitog ili nepravilnog obavljanja poslova drzavne uprave?  
+10. Tko nadoknaduje štetu zbog nezakonitog ili nepravilnog obavljanja poslova državne uprave?  
    `Republika Hrvatska.`
 
 ---
 
-## 11. Sto nauciti vecer prije ispita
+## 11. Što naučiti vecer prije ispita
 
-Ako imas malo vremena, nauci napamet:
-- temeljne zakone i sto koji uredjuje
-- vrste tijela drzavne uprave i razliku izmedu njih
-- vrste poslova drzavne uprave
+Ako imaš malo vremena, nauči napamet:
+- temeljne zakone i što koji uređuje
+- vrste tijela državne uprave i razliku između njih
+- vrste poslova državne uprave
 - `zakon / uredba / pravilnik / pravilnik kao provedbeni propis / naredba`
-- tko je duznosnik, a tko sluzbenik
-- tko moze zamijeniti ministra
+- tko je dužnosnik, a tko službenik
+- tko može zamijeniti ministra
 - kako se osnivaju stalna i povremena radna tijela Vlade
-- sto je podrucni ured, a sto ispostava
-- tko odgovara za stetu i kako se pribavljaju podaci iz evidencija
+- što je područni ured, a što ispostava
+- tko odgovara za štetu i kako se pribavljaju podaci iz evidencija
 
-Ako to znas sigurno, proci ces vecinu klasicnih pitanja i zamki iz ovog predmeta.
+Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog predmeta.
 
 ---
 
@@ -695,62 +751,62 @@ Ako to znas sigurno, proci ces vecinu klasicnih pitanja i zamki iz ovog predmeta
 
 ### Najbitniji rokovi i trajanja
 
-- podnesak pogresno dostavljen nenadleznom tijelu mora se proslijediti nadleznom tijelu u roku od `30 dana`
-  Logika: stranka ne smije trpjeti stetu samo zato sto je podnesak zavrsio kod pogresnog tijela.
-- provedbeni propisi tijela drzavne uprave u pravilu stupaju na snagu `osmoga dana od objave`
-  Logika: ostavlja se vrijeme da adresati saznaju za propis prije nego pocne obvezivati.
-- godisnji plan rada donosi se najkasnije `do kraja tekuce godine` za iducu godinu
-  Logika: uprava mora planirati poslove unaprijed, a ne tek nakon pocetka godine.
+- podnesak pogrešno dostavljen nenadležnom tijelu mora se proslijediti nadležnom tijelu u roku od `30 dana`
+  Logika: stranka ne smije trpjeti štetu samo zato što je podnesak završio kod pogrešnog tijela.
+- provedbeni propisi tijela državne uprave u pravilu stupaju na snagu `osmoga dana od objave`
+  Logika: ostavlja se vrijeme da adresati saznaju za propis prije nego počne obvezivati.
+- godišnji plan rada donosi se najkasnije `do kraja tekuće godine` za iduću godinu
+  Logika: uprava mora planirati poslove unaprijed, a ne tek nakon početka godine.
 - dnevni odmor traje `30 minuta`
-  Logika: sluzi zastiti zdravlja i urednom obavljanju rada.
+  Logika: služi zaštiti zdravlja i urednom obavljanju rada.
 - dnevno radno vrijeme traje `8 sati`
-  Logika: to je standard organizacije rada drzavne uprave i dostupnosti upravnih usluga.
+  Logika: to je standard organizacije rada državne uprave i dostupnosti upravnih usluga.
 
 ### Navedene iznimke
 
-- javnost rada tijela drzavne uprave moze se iskljuciti samo `iznimno`, kada je to propisano zakonom ili pravnom stecevinom EU
-  Logika: javnost je pravilo, a ogranicenje mora imati pravnu osnovu zbog zastite jacih interesa.
-- drzavnom upravnom organizacijom u pravilu upravlja `drzavni duznosnik`, ali `iznimno` poseban zakon moze odrediti rukovodeceg drzavnog sluzbenika
-  Logika: pravilo prati politicku odgovornost prema Vladi, a iznimka se dopusta kad posao trazi izrazenu strucnost i kontinuitet.
-- upravnom organizacijom u sastavu ministarstva u pravilu rukovodi `rukovodeci drzavni sluzbenik`, ali postoje zakonske iznimke
-  Logika: jer je to unutarnja jedinica ministarstva, ne zasebno tijelo drzavne uprave.
-- provedbeni propis moze `iznimno` stupiti na snagu `prvoga dana od objave`, ali samo zbog osobito opravdanih razloga
-  Logika: iznimka postoji za hitne situacije kad bi cekanje osam dana ugrozilo javni interes.
-- `naredba` se donosi samo u `iznimnim slucajevima` propisanima zakonom
+- javnost rada tijela državne uprave može se isključiti samo `iznimno`, kada je to propisano zakonom ili pravnom stecevinom EU
+  Logika: javnost je pravilo, a ograničenje mora imati pravnu osnovu zbog zaštite jacih interesa.
+- državnom upravnom organizacijom u pravilu upravlja `državni dužnosnik`, ali `iznimno` poseban zakon može odrediti rukovodećeg državnog službenika
+  Logika: pravilo prati političku odgovornost prema Vladi, a iznimka se dopušta kad posao traži izraženu stručnost i kontinuitet.
+- upravnom organizacijom u sastavu ministarstva u pravilu rukovodi `rukovodeći državni službenik`, ali postoje zakonske iznimke
+  Logika: jer je to unutarnja jedinica ministarstva, ne zasebno tijelo državne uprave.
+- provedbeni propis može `iznimno` stupiti na snagu `prvoga dana od objave`, ali samo zbog osobito opravdanih razloga
+  Logika: iznimka postoji za hitne situacije kad bi čekanje osam dana ugrozilo javni interes.
+- `naredba` se donosi samo u `iznimnim slučajevima` propisanima zakonom
   Logika: naredba je uza i hitnija intervencija pa mora imati jasnu zakonsku osnovu.
-- pravnim osobama s javnim ovlastima mogu se `iznimno` povjeriti javne ovlasti posebnim zakonom ako je to opravdano prirodom poslova i interesom gradana
-  Logika: drzava moze decentralizirati izvrsavanje pojedinih poslova, ali samo kad to ne ugrozava javni interes i zakonitost.
-- namjestenik moze `iznimno` imati status sluzbene osobe ako je to propisano posebnim zakonom
-  Logika: status sluzbene osobe ne vezuje se samo uz naziv radnog mjesta nego uz zakonom dane ovlasti.
-- unutarnje ustrojstvo dopusta vise iznimaka od opcih pravila o broju sektora, sluzbi, odjela i izvrsitelja
-  Logika: organizacija se prilagodava stvarnom opsegu i vrsti poslova, a ne samo formalnoj shemi.
+- pravnim osobama s javnim ovlastima mogu se `iznimno` povjeriti javne ovlasti posebnim zakonom ako je to opravdano prirodom poslova i interesom građana
+  Logika: država može decentralizirati izvršavanje pojedinih poslova, ali samo kad to ne ugrozava javni interes i zakonitost.
+- namještenik može `iznimno` imati status službene osobe ako je to propisano posebnim zakonom
+  Logika: status službene osobe ne vezuje se samo uz naziv radnog mjesta nego uz zakonom dane ovlasti.
+- unutarnje ustrojstvo dopušta više iznimaka od općih pravila o broju sektora, službi, odjela i izvršitelja
+  Logika: organizacija se prilagođava stvarnom opsegu i vrsti poslova, a ne samo formalnoj shemi.
 
 ### Mini-zamke
 
-- `ministarstvo` nije isto sto i `drzavna upravna organizacija`
-- `upravna organizacija u sastavu ministarstva` nije tijelo drzavne uprave
+- `ministarstvo` nije isto što i `državna upravna organizacija`
+- `upravna organizacija u sastavu ministarstva` nije tijelo državne uprave
 - `zakon` ustrojava tijela, `uredba` uredjuje unutarnje ustrojstvo, `pravilnik` unutarnji red
-- `naredba` nije isto sto i `pravilnik`
-- `duznosnik` nije isto sto i `rukovodeci drzavni sluzbenik`
+- `naredba` nije isto što i `pravilnik`
+- `dužnosnik` nije isto što i `rukovodeći državni službenik`
 
 ### Pravilo / iznimka
 
 - Pravilo: ministarstva se ustrojavaju zakonom.  
-  Iznimka: unutarnje ustrojstvo ministarstva uredjuje se uredbom.
-- Pravilo: drzavnom upravnom organizacijom upravlja drzavni duznosnik.  
-  Iznimka: poseban zakon moze odrediti rukovodeceg drzavnog sluzbenika.
-- Pravilo: rad tijela drzavne uprave je javan.  
-  Iznimka: javnost se moze iskljuciti samo kad to dopusta zakon ili pravo EU.
+  Iznimka: unutarnje ustrojstvo ministarstva uređuje se uredbom.
+- Pravilo: državnom upravnom organizacijom upravlja državni dužnosnik.  
+  Iznimka: poseban zakon može odrediti rukovodećeg državnog službenika.
+- Pravilo: rad tijela državne uprave je javan.  
+  Iznimka: javnost se može isključiti samo kad to dopusta zakon ili pravo EU.
 - Pravilo: provedbeni propis stupa na snagu osmoga dana od objave.  
-  Iznimka: moze i prvoga dana od objave zbog osobito opravdanih razloga.
+  Iznimka: može i prvoga dana od objave zbog osobito opravdanih razloga.
 - Pravilo: javne ovlasti povjeravaju se zakonom.  
   Iznimka: samo pojedini poslovi mogu biti povjereni pravnim osobama s javnim ovlastima, ne i sve jezgrene funkcije uprave.
 
 ### Rok + posljedica
 
-- `30 dana` za prosljedivanje podneska stvarno nadleznom tijelu.  
-  Posljedica: stiti se stranka od stete zbog pogresnog zaprimanja podneska.
-- `do kraja tekuce godine` za godisnji plan rada za iducu godinu.  
+- `30 dana` za prosljedivanje podneska stvarno nadležnom tijelu.  
+  Posljedica: štiti se stranka od štete zbog pogrešnog zaprimanja podneska.
+- `do kraja tekuće godine` za godišnji plan rada za iduću godinu.  
   Posljedica: tijelo mora u novu godinu uci s planom poslova.
 - `8. dan od objave` kao pravilo stupanja na snagu provedbenih propisa.  
   Posljedica: adresati dobivaju vrijeme da se upoznaju s obvezama.
@@ -758,17 +814,17 @@ Ako to znas sigurno, proci ces vecinu klasicnih pitanja i zamki iz ovog predmeta
 ### Tko odlučuje
 
 - `Sabor`: donosi zakone kojima se ustrojavaju tijela i uredjuje njihov djelokrug
-- `Vlada`: donosi uredbe, osniva radna tijela, vodi i usmjerava drzavnu upravu
-- `ministar`: upravlja ministarstvom, donosi pravilnik o unutarnjem redu kada je za to nadlezan
-- `drzavni tajnik`: jedini moze zamijeniti ministra
-- `Vlada`: rjesava sukob nadleznosti izmedu tijela drzavne uprave
+- `Vlada`: donosi uredbe, osniva radna tijela, vodi i usmjerava državnu upravu
+- `ministar`: upravlja ministarstvom, donosi pravilnik o unutarnjem redu kada je za to nadležan
+- `državni tajnik`: jedini može zamijeniti ministra
+- `Vlada`: rješava sukob nadležnosti između tijela državne uprave
 
 ### Brojke koje se miješaju
 
 - `najmanje 2 upravne organizacije` u svakom ministarstvu
-- `najmanje 2 sektora` kao opce pravilo u vise ustrojstvenih situacija
+- `najmanje 2 sektora` kao opće pravilo u više ustrojstvenih situacija
 - `30 dana`: prosljedivanje podneska
-- `8. dan`: tipicno stupanje na snagu propisa
+- `8. dan`: tipično stupanje na snagu propisa
 - `1. dan od objave`: iznimno stupanje na snagu
 - `8 sati`: dnevno radno vrijeme
 - `30 minuta`: dnevni odmor

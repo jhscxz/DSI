@@ -1,185 +1,185 @@
 # DSI ZUP ZUS Uredsko Cheat Sheet
 
-Sazeta verzija prirucnika `Priručnik_e-učenje_ZUP_II_razina_srpanj_2024.pdf`, slozena za pripremu ispita iz osnova upravnog postupka, upravnog spora i uredskog poslovanja.
+Sažeta verzija priručnika `Priručnik_e-učenje_ZUP_II_razina_srpanj_2024.pdf`, složena za pripremu ispita iz osnova upravnog postupka, upravnog spora i uredskog poslovanja.
 
 Namjena:
 - brzo ponavljanje po poglavljima
 - fokus na najbitnijim pojmovima, rokovima i razlikama
-- moguca pitanja, trik pitanja i napomene po cjelinama
-- priblizavanje tezini samog ispita
+- moguća pitanja, trik pitanja i napomene po cjelinama
+- približavanje težini samog ispita
 
-Vazno:
-- cilj nije prepricati cijeli prirucnik nego svesti ga na ono sto se stvarno pita
-- naglasak je na razlikama: `ZUP / ZUS`, `zalba / prigovor / tuzba`, `rjesenje / presuda`, `klasifikacijska oznaka / urudzbeni broj`, `pecat / zig / elektronski pecat`
+Važno:
+- cilj nije prepričati cijeli priručnik nego svesti ga na ono što se stvarno pita
+- naglasak je na razlikama: `ZUP / ZUS`, `žalba / prigovor / tužba`, `rješenje / presuda`, `klasifikacijska oznaka / urudžbeni broj`, `pečat / žig / elektronički pečat`
 
 ---
 
-## Kako uciti ovaj dokument
+## Kako učiti ovaj dokument
 
-Za svaku temu nauci:
-1. tko odlucuje
+Za svaku temu nauči:
+1. tko odlučuje
 2. koji se pravni lijek koristi
 3. koji je rok
-4. koja je posljedica propustanja roka ili postupanja
+4. koja je posljedica propuštanja roka ili postupanja
 
-Ako znas bez greske:
-- 10 nacela upravnog postupka
-- nadleznost i sudionike postupka
-- pokretanje postupka, podneske, zapisnik i utvrdivanje cinjenica
-- rokove za rjesenje i pravne lijekove u ZUP-u
-- kada ide zalba, kada prigovor, a kada tuzba
+Ako znaš bez greške:
+- 10 načela upravnog postupka
+- nadležnost i sudionike postupka
+- pokretanje postupka, podneske, zapisnik i utvrđivanje činjenica
+- rokove za rješenje i pravne lijekove u ZUP-u
+- kada ide žalba, kada prigovor, a kada tužba
 - rokove i tijela u upravnom sporu
-- klasifikaciju, urudzbeni broj, pismohranu, pristojbe, pecat i natpisne ploce
+- klasifikaciju, urudžbeni broj, pismohranu, pristojbe, pečat i natpisne ploće
 
-onda imas jezgru predmeta.
+onda imaš jezgru predmeta.
 
 ---
 
 ## 1. ZUP: Upravni postupak
 
-### 1.1. Sto je ZUP i kada se primjenjuje
+### 1.1. Što je ZUP i kada se primjenjuje
 
 ZUP je:
-- `opci propis` upravnog postupka
+- `opći propis` upravnog postupka
 
 Primjenjuje se:
 - u svim upravnim stvarima
-- na odgovarajuci nacin i kod upravnih ugovora
-- na odgovarajuci nacin i u zastiti prava kod pruzatelja javnih usluga, ako nije propisana druga zastita
+- na odgovarajući način i kod upravnih ugovora
+- na odgovarajući način i u zaštiti prava kod pružatelja javnih usluga, ako nije propisana druga zaštita
 
 Po ZUP-u postupaju:
-- tijela drzavne uprave i druga drzavna tijela
-- tijela jedinica lokalne i podrucne samouprave
+- tijela državne uprave i druga državna tijela
+- tijela jedinica lokalne i područne samouprave
 - pravne osobe s javnim ovlastima
-- u odredenom opsegu i pruzatelji javnih usluga
+- u određenom opsegu i pružatelji javnih usluga
 
 Upravna stvar:
-- stvar u kojoj javnopravno tijelo u upravnom postupku rjesava o `pravima`, `obvezama` ili `pravnim interesima` stranke neposrednom primjenom propisa
+- stvar u kojoj javnopravno tijelo u upravnom postupku rješava o `pravima`, `obvezama` ili `pravnim interesima` stranke neposrednom primjenom propisa
 
-Moguca pitanja:
-- Sto je ZUP?  
-  `Opci propis upravnog postupka.`
+Moguća pitanja:
+- Što je ZUP?  
+  `Opći propis upravnog postupka.`
 - Tko postupa po ZUP-u?
-- Sto je upravna stvar?
+- Što je upravna stvar?
 
 Trik pitanja:
-- posebnim zakonom mogu se drukcije urediti samo pojedina pitanja, ali ne protivno temeljnim odredbama i svrsi ZUP-a
+- posebnim zakonom mogu se drukčije urediti samo pojedina pitanja, ali ne protivno temeljnim odredbama i svrsi ZUP-a
 
-### 1.2. Nacela upravnog postupka
+### 1.2. Načela upravnog postupka
 
-Deset nacela:
-- nacelo zakonitosti
-- nacelo razmjernosti u zastiti prava stranaka i javnog interesa
-- nacelo pomoci stranci
-- nacelo utvrdivanja materijalne istine
-- nacelo samostalnosti i slobodne ocjene dokaza
-- nacelo ucinkovitosti i ekonomicnosti
-- nacelo pristupa podacima i zastite podataka
+Deset načela:
+- načelo zakonitosti
+- načelo razmjernosti u zaštiti prava stranaka i javnog interesa
+- načelo pomoći stranci
+- načelo utvrđivanja materijalne istine
+- načelo samostalnosti i slobodne ocjene dokaza
+- načelo učinkovitosti i ekonomičnosti
+- načelo pristupa podacima i zaštite podataka
 - pravo stranke na pravni lijek
-- nacelo zastite stecenih prava stranaka
-- sluzbena uporaba jezika i pisma
+- načelo zaštite stečenih prava stranaka
+- službena uporaba jezika i pisma
 
 Najopasnija za ispit:
 - `zakonitost`
 - `razmjernost`
-- `pomoc stranci`
+- `pomoć stranci`
 - `materijalna istina`
 - `pravni lijek`
 
-Moguca pitanja:
-- Nabroji nacela upravnog postupka.
-- Sto znaci nacelo pomoci stranci?
-- Sto znaci nacelo razmjernosti?
+Moguća pitanja:
+- Nabroji načela upravnog postupka.
+- Što znači načelo pomoći stranci?
+- Što znači načelo razmjernosti?
 
 Trik pitanja:
-- pomoc stranci ne znaci zastupanje stranke
-- materijalna istina znaci utvrditi pravo stanje stvari, ne samo ono sto stranka tvrdi
+- pomoć stranci ne znači zastupanje stranke
+- materijalna istina znači utvrditi pravo stanje stvari, ne samo ono što stranka tvrdi
 
-### 1.3. Nadleznost
+### 1.3. Nadležnost
 
-Vrste nadleznosti:
+Vrste nadležnosti:
 - `stvarna`
 - `mjesna`
 
-Stvarna nadleznost:
-- odreduje se zakonom kojim se uredjuje pojedino upravno podrucje ili nadleznost tijela
+Stvarna nadležnost:
+- određuje se zakonom kojim se uređuje pojedino upravno područje ili nadležnost tijela
 
-Mjesna nadleznost:
-- odreduje se propisima o upravno-teritorijalnoj podjeli ili ustrojstvu javnopravnih tijela
+Mjesna nadležnost:
+- određuje se propisima o upravno-teritorijalnoj podjeli ili ustrojstvu javnopravnih tijela
 
-Ako nije odredena:
+Ako nije određena:
 - za nekretnine po mjestu nekretnine
-- za brodove i zrakoplove po maticnoj luci
-- za djelatnost po sjedistu ili mjestu obavljanja
-- u ostalim stvarima po prebivalistu, odnosno boravistu stranke
+- za brodove i zrakoplove po matičnoj luci
+- za djelatnost po sjedištu ili mjestu obavljanja
+- u ostalim stvarima po prebivalištu, odnosno boravištu stranke
 
 Bitno:
-- tijela cijelo vrijeme paze na svoju nadleznost `po sluzbenoj duznosti`
-- stvarna i mjesna nadleznost ne mogu se mijenjati dogovorom
+- tijela cijelo vrijeme paze na svoju nadležnost `po službenoj dužnosti`
+- stvarna i mjesna nadležnost ne mogu se mijenjati dogovorom
 
-Sukob nadleznosti:
-- pozitivan: vise tijela tvrdi da su nadlezna
-- negativan: vise tijela tvrdi da nisu nadlezna
+Sukob nadležnosti:
+- pozitivan: više tijela tvrdi da su nadležna
+- negativan: više tijela tvrdi da nisu nadležna
 
 Odluku o sukobu donosi:
-- drugostupanjsko tijelo u cijem je djelokrugu upravna stvar
-- tijelo drzavne uprave nadlezno za poslove opce uprave ako takvog tijela nema
-- `upravni sud` u sukobima izmedu odredenih tijela navedenih u ZUP-u
+- drugostupanjsko tijelo u čijem je djelokrugu upravna stvar
+- tijelo državne uprave nadležno za poslove opće uprave ako takvog tijela nema
+- `upravni sud` u sukobima između određenih tijela navedenih u ZUP-u
 
-Protiv odluke o sukobu nadleznosti:
-- `ne moze` se izjaviti zalba
-- `ne moze` se pokrenuti upravni spor
+Protiv odluke o sukobu nadležnosti:
+- `ne može` se izjaviti žalba
+- `ne može` se pokrenuti upravni spor
 
-Moguca pitanja:
-- Koje su dvije vrste nadleznosti?
-- Tko rjesava sukob nadleznosti?
+Moguća pitanja:
+- Koje su dvije vrste nadležnosti?
+- Tko rješava sukob nadležnosti?
 
 Trik pitanja:
-- protiv odluke o sukobu nadleznosti nema ni zalbe ni upravnog spora
+- protiv odluke o sukobu nadležnosti nema ni žalbe ni upravnog spora
 
 ### 1.4. Suradnja javnopravnih tijela i jedinstveno upravno mjesto
 
 Bitno:
-- kada u rjesavanju sudjeluje vise tijela, moraju postupiti sva tijela ako je to propisano
-- suglasnost, potvrdu, odobrenje ili misljenje drugo tijelo treba dati ili odbiti u roku od `30 dana`
-- ako u tom roku ne odluci, smatra se da je akt izdan u korist stranke, ako nije drukcije propisano
+- kada u rješavanju sudjeluje više tijela, moraju postupiti sva tijela ako je to propisano
+- suglasnost, potvrdu, odobrenje ili mišljenje drugo tijelo treba dati ili odbiti u roku od `30 dana`
+- ako u tom roku ne odluči, smatra se da je akt izdan u korist stranke, ako nije drukčije propisano
 
 Jedinstveno upravno mjesto:
-- omogucuje predaju vise zahtjeva na jednom mjestu
-- ne utjece na stvarnu i mjesnu nadleznost
+- omogućuje predaju više zahtjeva na jednom mjestu
+- ne utjeće na stvarnu i mjesnu nadležnost
 
-Moguca pitanja:
-- Koji je rok za izdavanje suglasnosti, potvrde, odobrenja ili misljenja?  
+Moguća pitanja:
+- Koji je rok za izdavanje suglasnosti, potvrde, odobrenja ili mišljenja?  
   `30 dana.`
 
 ### 1.5. Sudionici upravnog postupka
 
 Sudionici:
 - `stranka`
-- `sluzbena osoba`
+- `službena osoba`
 - `kolegijalno tijelo`, kad je tako ustrojeno
 
-Stranka moze biti:
-- fizicka osoba
+Stranka može biti:
+- fizička osoba
 - pravna osoba
-- tijelo drzavne uprave i drugo drzavno tijelo
-- tijelo jedinice lokalne i podrucne samouprave
-- drugo javnopravno tijelo bez pravne osobnosti ili skupina osoba povezanih zajednickim interesom, ako moze biti nositelj prava ili obveza
+- tijelo državne uprave i drugo državno tijelo
+- tijelo jediniće lokalne i područne samouprave
+- drugo javnopravno tijelo bez pravne osobnosti ili skupina osoba povezanih zajedničkim interesom, ako može biti nositelj prava ili obveza
 
 Zastupanje:
 - zakonski zastupnik
 - privremeni zastupnik
-- zajednicki predstavnik
-- opunomocenik
-- zajednicki opunomocenik
+- zajednički predstavnik
+- opunomoćenik
+- zajednički opunomoćenik
 
 Bitno:
-- ako nema ovlastene sluzbene osobe, rjesenje donosi `celnik tijela`
+- ako nema ovlaštene službene osobe, rješenje donosi `čelnik tijela`
 
-Moguca pitanja:
-- Tko moze biti stranka u upravnom postupku?
-- Tko donosi rjesenje ako nema ovlastene sluzbene osobe?  
-  `Celnik tijela.`
+Moguća pitanja:
+- Tko može biti stranka u upravnom postupku?
+- Tko donosi rješenje ako nema ovlaštene službene osobe?  
+  `Čelnik tijela.`
 
 ---
 
@@ -187,31 +187,31 @@ Moguca pitanja:
 
 ### 2.1. Pokretanje postupka
 
-Postupak se pokrece:
+Postupak se pokreće:
 - `na zahtjev stranke`
-- `po sluzbenoj duznosti`
+- `po službenoj dužnosti`
 
 Na zahtjev:
 - postupak je pokrenut predajom `urednog zahtjeva`
 
-Po sluzbenoj duznosti:
+Po službenoj dužnosti:
 - kad to propisuje materijalni propis
-- ili radi zastite javnog interesa
-- smatra se pokrenutim kad sluzbena osoba poduzme bilo koju radnju u svrhu vodenja postupka
+- ili radi zaštite javnog interesa
+- smatra se pokrenutim kad službena osoba poduzme bilo koju radnju u svrhu vođenja postupka
 
 Ako nema uvjeta za pokretanje:
-- zahtjev se `odbacuje rjesenjem`
+- zahtjev se `odbacuje rješenjem`
 
-Predstavka za pokretanje po sluzbenoj duznosti:
-- ako nema uvjeta, podnositelja treba obavijestiti sto prije, a najkasnije u roku od `30 dana`
-- protiv takve obavijesti ili sutnje moze se izjaviti `prigovor` u roku od `8 dana`
+Predstavka za pokretanje po službenoj dužnosti:
+- ako nema uvjeta, podnositelja treba obaviještiti što prije, a najkasnije u roku od `30 dana`
+- protiv takve obavijesti ili šutnje može se izjaviti `prigovor` u roku od `8 dana`
 
 Javna objava:
 - kad su stranke nepoznate ili je tako propisano zakonom
 - rok za odaziv najmanje `30 dana`
 
-Moguca pitanja:
-- Kako se pokrece upravni postupak?
+Moguća pitanja:
+- Kako se pokreće upravni postupak?
 - Koji je rok za odgovor podnositelju predstavke?  
   `30 dana.`
 
@@ -221,54 +221,54 @@ Trik pitanja:
 ### 2.2. Spajanje, razdvajanje, izmjena zahtjeva i odustanak
 
 Spajanje stvari:
-- moguce ako se prava ili obveze temelje na istoj pravnoj osnovi i istom ili slicnom cinjenicnom stanju
-- tijelo mora biti stvarno i mjesno nadlezno za sve
+- moguće ako se prava ili obveze temelje na istoj pravnoj osnovi i istom ili slicnom činjeničnom stanju
+- tijelo mora biti stvarno i mjesno nadležno za sve
 
 Razdvajanje:
 - kad se promijene okolnosti zbog kojih su stvari spojene
 
 Izmjena zahtjeva:
-- moguca do donosenja prvostupanjskog rjesenja
-- ako se novi ili izmijenjeni zahtjev u bitnim pretpostavkama temelji na istom cinjenicnom stanju
+- moguća do donošenja prvostupanjskog rješenja
+- ako se novi ili izmijenjeni zahtjev u bitnim pretpostavkama temelji na istom činjeničnom stanju
 
 Odustanak:
-- moguc tijekom cijelog postupka
-- u pisanom obliku, usmeno na zapisnik ili elektronicno
-- posljedica je rjesenje o `obustavi postupka`
+- moguć tijekom cijelog postupka
+- u pisanom obliku, usmeno na zapisnik ili elektronično
+- posljedica je rješenje o `obustavi postupka`
 
 Bitno:
-- postupak se ipak nastavlja ako je to u javnom interesu ili trazi protivna stranka
+- postupak se ipak nastavlja ako je to u javnom interesu ili traži protivna stranka
 
 ### 2.3. Sudjelovanje stranke
 
-Stranci se mora omoguciti izjasnjavanje o:
-- svim cinjenicama
+Stranci se mora omogućiti izjašnjavanje o:
+- svim činjenicama
 - okolnostima
-- pravnim pitanjima vaznim za rjesavanje stvari
+- pravnim pitanjima vaznim za rješavanje stvari
 
-Bez izjasnjavanja stranke postupak se moze provesti samo:
+Bez izjasnjavanja stranke postupak se može provesti samo:
 - ako se usvaja njezin zahtjev
-- ako odluka nema negativan ucinak na njezine pravne interese
+- ako odluka nema negativan učinak na njezine pravne interese
 - kad je tako propisano zakonom
 
-Moguca pitanja:
-- Kada se moze odluciti bez prethodnog izjasnjavanja stranke?
+Moguća pitanja:
+- Kada se može odlučiti bez prethodnog izjasnjavanja stranke?
 
 ### 2.4. Podnesak
 
-Podnesak je opci naziv za obracanja stranke tijelu.
+Podnesak je opći naziv za obraćanja stranke tijelu.
 
 Podnesci su npr.:
 - zahtjevi
 - prijedlozi
 - prijave
 - molbe
-- zalbe
+- žalbe
 - predstavke
 - prigovori
 - obavijesti
 
-Mora sadrzavati:
+Mora sadržavati:
 - naziv tijela
 - naznaku upravne stvari
 - ime ili naziv i adresu stranke
@@ -277,20 +277,20 @@ Mora sadrzavati:
 - potpis stranke
 
 Ako je podnesak:
-- nerazumljiv ili nepotpun, sluzbena osoba ce zakljuckom pozvati stranku da ga dopuni
-- ako nedostatke ne otkloni, a po podnesku se ne moze postupiti, podnesak se `odbacuje rjesenjem`
+- nerazumljiv ili nepotpun, službena osoba će zaključkom pozvati stranku da ga dopuni
+- ako nedostatke ne otkloni, a po podnesku se ne može postupiti, podnesak se `odbacuje rješenjem`
 
-Moguca pitanja:
-- Sto mora sadrzavati podnesak?
+Moguća pitanja:
+- Što mora sadržavati podnesak?
 
 Trik pitanja:
-- nepotpun podnesak se ne odbija odmah, nego se najprije trazi dopuna
+- nepotpun podnesak se ne odbija odmah, nego se najprije traži dopuna
 
 ### 2.5. Zapisnik
 
 Zapisnik se sastavlja o:
 - usmenoj raspravi
-- ocevidu
+- očevidu
 - drugoj vaznijoj radnji
 - vaznijim usmenim izjavama
 
@@ -298,62 +298,79 @@ Ako je pravilno sastavljen:
 - ima karakter `javne isprave`
 
 Bitno:
-- prije zakljucenja cita se nazocnima
+- prije zaključenja cita se nazocnima
 - potpisuju ga propisane osobe
-- u zakljuceni zapisnik ne smije se nista dodavati ni mijenjati
+- u zaključeni zapisnik ne smije se nista dodavati ni mijenjati
 
-Moguca pitanja:
+Moguća pitanja:
 - Kakvu dokaznu snagu ima pravilno sastavljen zapisnik?  
   `Karakter javne isprave.`
 
-### 2.6. Utvrdivanje cinjenicnog stanja
+### 2.6. Utvrdivanje činjeničnog stanja
 
-Javnopravno tijelo mora utvrditi sve pravno relevantne cinjenice.
+Javnopravno tijelo mora utvrditi sve pravno relevantne činjeniće.
 
 Bitno:
-- podatke iz sluzbenih evidencija pribavlja `po sluzbenoj duznosti`
-- sluzbena osoba nije vezana cinjenicama i dokazima koje je stranka navela
-- stranka je duzna iznijeti tocno i istinito cinjenicno stanje i ponuditi dokaze
+- podatke iz službenih evidencija pribavlja `po službenoj dužnosti`
+- službena osoba nije vezana činjenicama i dokazima koje je stranka navela
+- stranka je dužna iznijeti točno i istinito činjenično stanje i ponuditi dokaze
 
-Ako stranka ne dostavi trazene dokaze:
-- poziva se zakljuckom
-- ako bez njih nije moguce udovoljiti zahtjevu, zahtjev se `odbija rjesenjem`
+Ako stranka ne dostavi tražene dokaze:
+- poziva se zaključkom
+- ako bez njih nije moguće udovoljiti zahtjevu, zahtjev se `odbija rješenjem`
 
-Neposredno rjesavanje:
-- kad se stanje moze utvrditi iz sluzbenih podataka, opcepoznatih cinjenica ili dostavljenih dokaza
+Neposredno rješavanje:
+- kad se stanje može utvrditi iz službenih podataka, općepoznatih činjenica ili dostavljenih dokaza
 
 Ispitni postupak:
-- kad je to nuzno radi utvrdivanja cinjenica
-- kad sudjeluje vise stranaka s protivnim interesima
-- radi zastite prava i interesa stranaka
+- kad je to nužno radi utvrđivanja činjenica
+- kad sudjeluje više stranaka s protivnim interesima
+- radi zaštite prava i interesa stranaka
 
-Moguca pitanja:
+Moguća pitanja:
 - Kada se provodi ispitni postupak?
-- Kada se stvar moze rijesiti neposredno?
+- Kada se stvar može riješiti neposredno?
+
+### 2.6.1. Dokazna sredstva
+
+Najčešća dokazna sredstva:
+- `isprave`
+- `svjedoci`
+- `vještaci`
+- `očevid`
+- `izjava stranke`, kad je to dopušteno
+
+Bitno:
+- službena osoba slobodno cijeni dokaze
+- javne isprave imaju posebnu dokaznu snagu dok se ne dokaze suprotno
+
+Trik pitanja:
+- nijedno dokazno sredstvo nema automatsku prednost u svakom postupku
+- izjava stranke nije uvijek dovoljna ako je potrebno drukčije dokazivanje
 
 ### 2.7. Usmena rasprava, prethodno pitanje i nagodba
 
-Usmena rasprava se odreduje:
-- kad sudjeluju dvije ili vise stranaka s protivnim interesima
-- kad treba provesti ocevid ili saslusati svjedoke ili vjestake
-- kad je korisna za rjesavanje stvari
+Usmena rasprava se određuje:
+- kad sudjeluju dvije ili više stranaka s protivnim interesima
+- kad treba provesti očevid ili saslušati svjedoke ili vještake
+- kad je korisna za rješavanje stvari
 
 Bitno:
-- javna je, ali se moze iskljuciti javnost zakljuckom
+- javna je, ali se može isključiti javnost zaključkom
 
 Prethodno pitanje:
-- nerijeseno pravno pitanje bez cijeg rjesenja nije moguce rijesiti upravnu stvar
-- sluzbena osoba ga moze sama rijesiti ili prekinuti postupak
+- neriješeno pravno pitanje bez čijeg rješenja nije moguće riješiti upravnu stvar
+- službena osoba ga može sama riješiti ili prekinuti postupak
 
 Mora prekinuti postupak kad se prethodno pitanje odnosi na:
 - postojanje kaznenog djela
 - postojanje braka
-- utvrdivanje ocinstva ili majcinstva
-- drugi zakonom propisani slucaj
+- utvrđivanje očinstva ili majčinstva
+- drugi zakonom propisani slučaj
 
-Moguca pitanja:
-- Sto je prethodno pitanje?
-- Kada sluzbena osoba mora prekinuti postupak?
+Moguća pitanja:
+- Što je prethodno pitanje?
+- Kada službena osoba mora prekinuti postupak?
 
 ---
 
@@ -363,232 +380,248 @@ Moguca pitanja:
 
 Vrste rokova:
 - `zakonski`
-- `sluzbeni`
+- `službeni`
 
 Bitno:
-- kad zadnji dan roka pada u nedjelju, blagdan ili neradni dan, rok istjece prvog sljedeceg radnog dana
+- kad zadnji dan roka pada u nedjelju, blagdan ili neradni dan, rok istjeće prvog sljedećeg radnog dana
 
-### 3.2. Odluke i rokovi za njihovo donosenje
+### 3.2. Odluke i rokovi za njihovo donošenje
 
 Odluke u upravnom postupku su osobito:
-- `rjesenje`
-- `zakljucak`
+- `rješenje`
+- `zaključak`
 
-Rokovi za donosenje rjesenja:
-- u postupku neposrednog rjesavanja najkasnije `30 dana` od podnosenja urednog zahtjeva
-- u ispitnom postupku najkasnije `60 dana` od podnosenja urednog zahtjeva
+Rokovi za donošenje rješenja:
+- u postupku neposrednog rješavanja najkasnije `30 dana` od podnošenja urednog zahtjeva
+- u ispitnom postupku najkasnije `60 dana` od podnošenja urednog zahtjeva
 
-Ako tijelo ne donese rjesenje u roku:
-- stranka ima pravo izjaviti `zalbu`
+Ako tijelo ne donese rješenje u roku:
+- stranka ima pravo izjaviti `žalbu`
 - odnosno pokrenuti `upravni spor` ako se radi o drugostupanjskom tijelu
 
-Moguca pitanja:
-- Koji su rokovi za donosenje rjesenja?  
+Moguća pitanja:
+- Koji su rokovi za donošenje rješenja?  
   `30 dana u neposrednom, 60 dana u ispitnom postupku.`
 
-### 3.3. Sadrzaj rjesenja
+### 3.3. Sadržaj rješenja
 
-Rjesenje sadrzi:
+Rješenje sadržaj:
 - zaglavlje
 - uvod
 - izreku
-- obrazlozenje
+- obrazloženje
 - uputu o pravnom lijeku
-- potpis sluzbene osobe
-- pecat ili odgovarajucu elektronsku ovjeru prema pravilima
+- potpis službene osobe
+- pečat ili odgovarajuću elektronsku ovjeru prema pravilima
 
 Bitno:
-- kad zalba ne odgada izvrsenje, to se navodi u posebnoj tocki izreke
-- troskovi postupka navode se u posebnoj tocki izreke
+- kad žalba ne odgađa izvršenje, to se navodi u posebnoj točki izreke
+- troškovi postupka navode se u posebnoj točki izreke
 
-### 3.4. Zalba i prigovor
+### 3.4. Žalba i prigovor
 
-`Zalba`
-- redovni pravni lijek protiv prvostupanjskog rjesenja
-- i kod sutnje uprave
+`Žalba`
+- redovni pravni lijek protiv prvostupanjskog rješenja
+- i kod šutnje uprave
 
 Rok:
-- `15 dana` od dostave rjesenja, ako posebnim zakonom nije drukcije
+- `15 dana` od dostave rješenja, ako posebnim zakonom nije drukčije
 
 Bitno:
-- zalba u pravilu odgada izvrsenje
-- ali zakon moze propisati ili tijelo odrediti da ne odgada izvrsenje u propisanim slucajevima
+- žalba u pravilu odgađa izvršenje
+- ali zakon može propisati ili tijelo odrediti da ne odgađa izvršenje u propisanim slučajevima
 
 `Prigovor`
-- pravni lijek protiv drugog postupanja javnopravnog tijela ili pruzatelja javnih usluga
-- i protiv upravnog ugovora u odredenim slucajevima
+- pravni lijek protiv drugog postupanja javnopravnog tijela ili pružatelja javnih usluga
+- i protiv upravnog ugovora u određenim slučajevima
 
-O prigovoru odlucuje:
-- `celnik tijela`
+O prigovoru odlučuje:
+- `čelnik tijela`
 
 Rok za odluku o prigovoru:
 - `8 dana` od izjavljivanja
 
-Moguca pitanja:
-- Kada se izjavljuje zalba, a kada prigovor?
-- Tko odlucuje o prigovoru?  
-  `Celnik tijela.`
+Moguća pitanja:
+- Kada se izjavljuje žalba, a kada prigovor?
+- Tko odlučuje o prigovoru?  
+  `Čelnik tijela.`
 
 Trik pitanja:
-- prigovor nije isto sto i zalba
-- prigovor ide protiv `postupanja`, ne klasicno samo protiv prvostupanjskog rjesenja
+- prigovor nije isto što i žalba
+- prigovor ide protiv `postupanja`, ne klasicno samo protiv prvostupanjskog rješenja
 
 ### 3.5. Izvanredni pravni lijekovi
 
 Najbitnije:
 - `obnova postupka`
-- ponistavanje, ukidanje i oglasavanje rjesenja nistavim u zakonskim slucajevima
+- poništavanje, ukidanje i oglašavanje rješenja nistavim u zakonskim slučajevima
 
 Obnova postupka:
-- moze se pokrenuti na zahtjev stranke ili po sluzbenoj duznosti
+- može se pokrenuti na zahtjev stranke ili po službenoj dužnosti
 
 Objektivni rok:
-- `3 godine` od dostave rjesenja stranci
+- `3 godine` od dostave rješenja stranci
 
 Subjektivni rok:
-- `30 dana` od saznanja za razloge obnove ili od stjecanja mogucnosti uporabe novih dokaza
+- `30 dana` od saznanja za razloge obnove ili od stjecanja mogućnosti uporabe novih dokaza
 
-Bez vremenskog ogranicenja:
-- u zakonom posebno propisanim slucajevima
+Bez vremenskog ograničenja:
+- u zakonom posebno propisanim slučajevima
 
-Moguca pitanja:
+Moguća pitanja:
 - Koji su rokovi za obnovu postupka?
 
-### 3.6. Zastita od postupanja javnopravnih tijela i pruzatelja javnih usluga
+### 3.6. Zastita od postupanja javnopravnih tijela i pružatelja javnih usluga
 
 Ako zainteresirana osoba smatra da je postupanjem javnopravnog tijela povrijedeno njezino pravo:
 - tijelo mora odgovoriti u roku od `15 dana`
-- protiv odgovora ili sutnje moze se izjaviti `prigovor` u roku od `8 dana`
-- o prigovoru odlucuje celnik tijela u roku od `8 dana`
+- protiv odgovora ili šutnje može se izjaviti `prigovor` u roku od `8 dana`
+- o prigovoru odlučuje čelnik tijela u roku od `8 dana`
 
-Kod pruzatelja javnih usluga:
-- nadlezno tijelo mora bez odgode, a najkasnije u roku od `30 dana`, obavijestiti korisnika o poduzetim mjerama
-- ako nije zadovoljan ili nema odgovora, korisnik moze pokrenuti `upravni spor`
+Kod pružatelja javnih usluga:
+- nadležno tijelo mora bez odgode, a najkasnije u roku od `30 dana`, obavijestiti korisnika o poduzetim mjerama
+- ako nije zadovoljan ili nema odgovora, korisnik može pokrenuti `upravni spor`
 
-Moguca pitanja:
-- Koji su rokovi kod zastite od postupanja javnopravnog tijela?
-- Sto ako pruzatelj javne usluge ne odgovori u roku?  
-  `Moze se pokrenuti upravni spor.`
+Moguća pitanja:
+- Koji su rokovi kod zaštite od postupanja javnopravnog tijela?
+- Što ako pružatelj javne usluge ne odgovori u roku?  
+  `Može se pokrenuti upravni spor.`
 
-### 3.7. Izvrsenje upravnog akta, upravni ugovor i troskovi
+### 3.7. Izvršenje upravnog akta, upravni ugovor i troškovi
 
-Izvrsenje:
-- rjesenje postaje izvrsno u zakonom propisanim situacijama, npr. istekom roka za zalbu ako zalba nije izjavljena ili nema odgodni ucinak
+Izvršenje:
+- rješenje postaje izvršno u zakonom propisanim situacijama, npr. istekom roka za žalbu ako žalba nije izjavljena ili nema odgodni učinak
 
-Opci rok izvrsenja:
-- `5 godina` od dana izvrsnosti rjesenja, ako posebnim zakonom nije drukcije
+Opći rok izvršenja:
+- `5 godina` od dana izvršnosti rješenja, ako posebnim zakonom nije drukčije
 
 Upravni ugovor:
-- sklapa se o izvrsenju prava i obveza utvrdenih rjesenjem
-- protiv rjesenja o raskidu upravnog ugovora moze se pokrenuti `upravni spor`
-- stranka moze izjaviti `prigovor` zbog neispunjavanja ugovornih obveza
+- sklapa se o izvršenju prava i obveza utvrđenih rješenjem
+- protiv rješenja o raskidu upravnog ugovora može se pokrenuti `upravni spor`
+- stranka može izjaviti `prigovor` zbog neispunjavanja ugovornih obveza
 
 Troskovi:
-- o troskovima se odlucuje rjesenjem o upravnoj stvari
-- ako svi troskovi nisu poznati, moze se odluciti posebnim rjesenjem
+- o troškovima se odlučuje rješenjem o upravnoj stvari
+- ako svi troškovi nisu poznati, može se odlučiti posebnim rješenjem
 
-Moguca pitanja:
-- Sto je upravni ugovor?
-- Kako se odlucuje o troskovima upravnog postupka?
+Moguća pitanja:
+- Što je upravni ugovor?
+- Kako se odlučuje o troškovima upravnog postupka?
 
 ---
 
 ## 4. ZUS: Upravni spor
 
-### 4.1. Sto je upravni spor
+### 4.1. Što je upravni spor
 
 Upravni spor je:
-- sudska zastita zakonitosti pojedinacnih odluka i postupanja javnopravnih tijela
+- sudska zaštita zakonitosti pojedinačnih odluka i postupanja javnopravnih tijela
 
 Cilj:
-- osigurati sudsku zastitu prava i pravnih interesa stranaka i zakonitost postupanja javne vlasti
+- osigurati sudsku zaštitu prava i pravnih interesa stranaka i zakonitost postupanja javne vlasti
 
 Predmet spora su osobito:
-- pojedinacne odluke javnopravnih tijela
+- pojedinačne odluke javnopravnih tijela
 - postupanje javnopravnih tijela
-- propustanje donosenja odluke ili postupanja u roku
-- upravni ugovori i izvrsavanje upravnih ugovora
+- propuštanje donošenja odluke ili postupanja u roku
+- upravni ugovori i izvršavanje upravnih ugovora
 
-Moguca pitanja:
-- Sto je predmet upravnog spora?
+Moguća pitanja:
+- Što je predmet upravnog spora?
 
-### 4.2. Na cemu se temelji pokretanje spora
+### 4.1.1. Temeljna načela upravnog spora
 
-Spor se pokrece:
-- `tuzbom`
-
-Tuzbeni zahtjev moze traziti npr.:
-- ponistavanje ili oglasavanje nistavom pojedinacne odluke
-- donosenje odluke koja nije donesena u roku
-- odlucivanje o pravu, obvezi ili pravnom interesu u slucajevima predvidenim zakonom
-
-Moguca pitanja:
-- Kako se pokrece upravni spor?  
-  `Tuzbom.`
-
-### 4.3. Rokovi za podnosenje tuzbe
-
-Opci rok:
-- `30 dana` od dostave osporene pojedinacne odluke ili odluke o prigovoru
-
-Posebni slucajevi:
-- `90 dana` u odredenim slucajevima pogresne upute ili kad odluka nije uredno dostavljena prema pravilima iz prirucnika
-- kod sutnje uprave tuzba se podnosi `najranije 8 dana nakon proteka propisanog roka`
+Pamti:
+- zakonitost
+- učinkovita sudska zaštita
+- usmena, neposredna i javna rasprava kao pravilo
+- razumna duljina trajanja postupka
 
 Bitno:
-- smatra se pravodobnom i kad je u roku predana nenadleznom sudu
+- sud u upravnom sporu ne štiti samo objektivnu zakonitost nego i subjektivna prava i pravne interese tužitelja
+- rasprava se može izostaviti samo u zakonom propisanim slučajevima
 
-Moguca pitanja:
-- Koji je opci rok za tuzbu u upravnom sporu?  
+### 4.2. Na čemu se temelji pokretanje spora
+
+Spor se pokreće:
+- `tužbom`
+
+Tužbeni zahtjev može tražiti npr.:
+- poništavanje ili oglašavanje ništavom pojedinačne odluke
+- donošenje odluke koja nije donesena u roku
+- odlučivanje o pravu, obvezi ili pravnom interesu u slučajevima predviđenim zakonom
+
+Moguća pitanja:
+- Kako se pokreće upravni spor?  
+  `Tužbom.`
+
+Iznimke:
+- protiv nekih akata i radnji upravni spor nije dopušten ako ZUS ili poseban zakon isključuje sudsku zaštitu u tom obliku
+- upravni spor ne vodi se protiv akata koji nisu upravni akti ili drugo postupanje u smislu ZUS-a
+
+### 4.3. Rokovi za podnošenje tužbe
+
+Opći rok:
+- `30 dana` od dostave osporene pojedinačne odluke ili odluke o prigovoru
+
+Posebni slučajevi:
+- `90 dana` u određenim slučajevima pogrešne upute ili kad odluka nije uredno dostavljena prema pravilima iz priručnika
+- kod šutnje uprave tužba se podnosi `najranije 8 dana nakon proteka propisanog roka`
+
+Bitno:
+- smatra se pravodobnom i kad je u roku predana nenadležnom sudu
+
+Moguća pitanja:
+- Koji je opći rok za tužbu u upravnom sporu?  
   `30 dana.`
-- Kada se podnosi tuzba zbog sutnje uprave?  
+- Kada se podnosi tužba zbog šutnje uprave?  
   `Najranije osam dana nakon proteka propisanog roka.`
 
 Trik pitanja:
-- ovdje se lako brka `15 dana` iz zalbe i `30 dana` iz tuzbe
+- ovdje se lako brka `15 dana` iz žalbe i `30 dana` iz tužbe
 
-### 4.4. Nadlezni sudovi
+### 4.4. Nadležni sudovi
 
-Nadlezni su:
+Nadležni su:
 - `upravni sudovi`
 - `Visoki upravni sud RH`
 
-Upravni sudovi odlucuju o:
-- tuzbama protiv odluka
-- tuzbama protiv postupanja
-- tuzbama zbog sutnje uprave
-- tuzbama protiv upravnih ugovora
+Upravni sudovi odlučuju o:
+- tužbama protiv odluka
+- tužbama protiv postupanja
+- tužbama zbog šutnje uprave
+- tužbama protiv upravnih ugovora
 
-Visoki upravni sud odlucuje:
-- o zalbama protiv presuda upravnih sudova
-- o odredenim pitanjima zakonitosti opcih akata prema ZUS-u
+Visoki upravni sud odlučuje:
+- o žalbama protiv presuda upravnih sudova
+- o određenim pitanjima zakonitosti općih akata prema ZUS-u
 
 Bitno:
-- Visoki upravni sud u pravilu odlucuje u vijecu od `tri suca`
+- Visoki upravni sud u pravilu odlučuje u vijeću od `tri suca`
 
-Moguca pitanja:
-- Tko odlucuje o zalbi protiv presude upravnog suda?  
+Moguća pitanja:
+- Tko odlučuje o žalbi protiv presude upravnog suda?  
   `Visoki upravni sud RH.`
 
-### 4.5. Postupanje suda po tuzbi i rasprava
+### 4.5. Postupanje suda po tužbi i rasprava
 
-Ako tuzba nema propisane dijelove ili je nerazumljiva:
-- sud poziva tuzitelja da otkloni nedostatke
+Ako tužba nema propisane dijelove ili je nerazumljiva:
+- sud poziva tužitelja da otkloni nedostatke
 
-Rok za odgovor na tuzbu:
-- odreduje sud
-- ne moze biti kraci od `30` niti dulji od `60 dana`
+Rok za odgovor na tužbu:
+- određuje sud
+- ne može biti kraci od `30` niti dulji od `60 dana`
 
-Sud moze rijesiti spor i `bez rasprave` u zakonom propisanim slucajevima
+Sud može riješiti spor i `bez rasprave` u zakonom propisanim slučajevima
 
-Moguca pitanja:
-- U kojem rasponu sud odreduje rok za odgovor na tuzbu?  
+Moguća pitanja:
+- U kojem rasponu sud određuje rok za odgovor na tužbu?  
   `Od 30 do 60 dana.`
 
-### 4.6. Zalba protiv presude u upravnom sporu
+### 4.6. Žalba protiv presude u upravnom sporu
 
 Protiv presude upravnog suda:
-- u pravilu je dopustena `zalba`
+- u pravilu je dopuštena `žalba`
 
 Rok:
 - `15 dana` od dostave presude
@@ -596,21 +629,21 @@ Rok:
 Podnosi se:
 - upravnom sudu koji je donio presudu
 
-Odlucuje:
+Odlučuje:
 - `Visoki upravni sud RH`
 
-Razlozi za zalbu:
+Razlozi za žalbu:
 - bitna povreda odredaba upravnog spora
-- pogresno ili nepotpuno utvrdeno cinjenicno stanje
-- pogresna primjena materijalnog prava
+- pogrešno ili nepotpuno utvrđeno činjenično stanje
+- pogrešna primjena materijalnog prava
 
 Bitno:
-- protiv nekih rjesenja zalba je dopustena samo kad to propisuje ZUS
+- protiv nekih rješenja žalba je dopuštena samo kad to propisuje ZUS
 
-Moguca pitanja:
-- Koji je rok za zalbu protiv presude u upravnom sporu?  
+Moguća pitanja:
+- Koji je rok za žalbu protiv presude u upravnom sporu?  
   `15 dana.`
-- Tko odlucuje o toj zalbi?  
+- Tko odlučuje o toj žalbi?  
   `Visoki upravni sud RH.`
 
 ---
@@ -622,27 +655,27 @@ Moguca pitanja:
 Temeljni propis:
 - `Uredba o uredskom poslovanju`
 
-Uredsko poslovanje obuhvaca:
+Uredsko poslovanje obuhvaća:
 - primitak, pregled i razvrstavanje pismena
 - evidentiranje i dostavu u rad
-- administrativno-tehnicku obradu akta
+- administrativno-tehničku obradu akta
 - otpremu
 - rokovnik
 - pismohranu i arhiv
 
-Moguca pitanja:
+Moguća pitanja:
 - Koji je temeljni propis uredskog poslovanja?
 
 ### 5.2. Temeljni pojmovi
 
 Bitno:
-- `podnesak` je zahtjev, prijedlog, prijava, molba, zalba, predstavka, prigovor i drugo obracanje stranke
-- `akt` je pismeno kojim tijelo odlucuje ili sluzbeno komunicira
-- `klasifikacijska oznaka` oznacava sadrzaj i predmet
-- `urudzbeni broj` odreduje stvaratelja akta
+- `podnesak` je zahtjev, prijedlog, prijava, molba, žalba, predstavka, prigovor i drugo obraćanje stranke
+- `akt` je pismeno kojim tijelo odlučuje ili službeno komunicira
+- `klasifikacijska oznaka` označava sadržaj i predmet
+- `urudžbeni broj` određuje stvaratelja akta
 
 Trik pitanja:
-- `klasifikacijska oznaka` i `urudzbeni broj` nisu isto
+- `klasifikacijska oznaka` i `urudžbeni broj` nisu isto
 
 ### 5.3. Primitak i obrada pismena
 
@@ -650,207 +683,207 @@ Po primitku pismena radi se:
 - otvaranje i pregled
 - obrada i razvrstavanje
 - klasifikacija
-- dodjela urudzbenog broja
+- dodjela urudžbenog broja
 - dostava u rad
 
 Ako pismeno ima nedostatke:
-- moze se pozvati posiljatelja da ih otkloni u odredenom roku
-- ako to ne ucini, smatrat ce se da pismeno nije zaprimljeno u slucajevima iz uredskih pravila
+- može se pozvati pošiljatelja da ih otkloni u određenom roku
+- ako to ne učini, smatrat će se da pismeno nije zaprimljeno u slučajevima iz uredskih pravila
 
-### 5.4. Klasifikacija i urudzbeni broj
+### 5.4. Klasifikacija i urudžbeni broj
 
 `Klasifikacijska oznaka`
-- oznacava sadrzaj predmeta
+- označava sadržaj predmeta
 
 `Urudzbeni broj`
-- oznacava stvaratelja akta
+- označava stvaratelja akta
 
 Bitno:
-- urudzbeni broj moze sadrzavati i dodatne brojcane oznake prema ustrojstvenim jedinicama, sluzbenim osobama i godini
+- urudžbeni broj može sadržavati i dodatne brojčane oznake prema ustrojstvenim jedinicama, službenim osobama i godini
 
-Moguca pitanja:
-- Sto oznacava klasifikacijska oznaka?
-- Sto oznacava urudzbeni broj?
+Moguća pitanja:
+- Što označava klasifikacijska oznaka?
+- Što označava urudžbeni broj?
 
 ### 5.5. Rokovnik, pismohrana i arhiv
 
 Rokovnik:
-- sluzi pracenju predmeta i rokova
-- informacijski sustav moze automatski odrediti rokove kada je rijec o propisanim rokovima
+- služi praćenju predmeta i rokova
+- informacijski sustav može automatski odrediti rokove kada je riječ o propisanim rokovima
 
 Pismohrana:
-- rijeseni predmeti upucuju se u pismohranu
-- informacijski sustav automatski dodaje datum upucivanja i oznaku `a.a.`
+- riješeni predmeti upućuju se u pismohranu
+- informacijski sustav automatski dodaje datum upućivanja i oznaku `a.a.`
 
 Bitno:
 - izuzimanje predmeta iz pismohrane mora se evidentirati
 
-Moguca pitanja:
-- Koja se oznaka dodaje predmetu pri upucivanju u pismohranu?  
+Moguća pitanja:
+- Koja se oznaka dodaje predmetu pri upućivanju u pismohranu?  
   `a.a.`
 
-### 5.6. Administrativno-tehnicka obrada i otprema akta
+### 5.6. Administrativno-tehnička obrada i otprema akta
 
 Akt mora imati propisane elemente, ovisno o vrsti tijela i obliku akta.
 
-Zaglavlje akta obicno sadrzi:
+Zaglavlje akta obično sadržaj:
 - naziv tijela
 - klasifikacijsku oznaku
-- urudzbeni broj
+- urudžbeni broj
 - mjesto i datum izrade akta
 
-Kod fizicke otpreme:
-- omotnica sadrzi naziv i adresu posiljatelja, klasifikacijsku oznaku i urudzbeni broj akta
+Kod fizičke otpreme:
+- omotnica sadržaj naziv i adresu pošiljatelja, klasifikacijsku oznaku i urudžbeni broj akta
 
-Moguca pitanja:
-- Sto sadrzi zaglavlje akta?
+Moguća pitanja:
+- Što sadržaj zaglavlje akta?
 
 ---
 
-## 6. Upravne pristojbe, pecat, zig i natpisne ploce
+## 6. Upravne pristojbe, pečat, žig i natpisne ploće
 
 ### 6.1. Upravne pristojbe
 
 Bitno:
-- pristojbena obveza i naplata uredene su posebnim pravilima iz prirucnika i pristojbenim propisima
-- postupak za povrat pristojbe pokrece se na zahtjev stranke u roku od `90 dana`
+- pristojbena obveza i naplata uređene su posebnim pravilima iz priručnika i pristojbenim propisima
+- postupak za povrat pristojbe pokreće se na zahtjev stranke u roku od `90 dana`
 
-Protiv rjesenja:
-- `nije dopustena zalba`
-- ali se moze pokrenuti `upravni spor`
+Protiv rješenja:
+- `nije dopuštena žalba`
+- ali se može pokrenuti `upravni spor`
 
-Moguca pitanja:
-- U kojem roku se trazi povrat pristojbe?  
+Moguća pitanja:
+- U kojem roku se traži povrat pristojbe?  
   `90 dana.`
 
-### 6.2. Pecat i zig s grbom RH
+### 6.2. Pečat i žig s grbom RH
 
 Rabe ih:
-- drzavna tijela
-- tijela jedinica lokalne i podrucne samouprave u propisanom okviru
+- državna tijela
+- tijela jedinica lokalne i područne samouprave u propisanom okviru
 - pravne osobe s javnim ovlastima pod uvjetima iz zakona
 
 Bitno:
-- broj pecata i zigova odreduje celnik odnosno odgovorna osoba korisnika
-- ako ih ima vise istog promjera, oznacavaju se `rednim brojem`
+- broj pečata i žigova određuje čelnik odnosno odgovorna osoba korisnika
+- ako ih ima više istog promjera, označavaju se `rednim brojem`
 
 Promjer:
 - u pravilu `38 mm`
-- moze biti `25 mm` ili `18 mm` u propisanim slucajevima
+- može biti `25 mm` ili `18 mm` u propisanim slučajevima
 
-Moguca pitanja:
-- Tko odreduje broj pecata i zigova?
-- Kako se razlikuju pecati istog promjera?
+Moguća pitanja:
+- Tko određuje broj pečata i žigova?
+- Kako se razlikuju pečati istog promjera?
 
-### 6.3. Uporaba, evidencija i nestanak pecata
+### 6.3. Uporaba, evidencija i nestanak pečata
 
 Bitno:
-- celnik pismeno odreduje kojem ce djelatniku povjeriti pecat i zig
-- mora se voditi evidencija o pecatima i zigovima
+- čelnik pismeno određuje kojem će djelatniku povjeriti pečat i žig
+- mora se voditi evidencija o pečatima i žigovima
 - nestanak se mora prijaviti
-- nestanak se oglasava u `Narodnim novinama` u roku od `8 dana` od saznanja
+- nestanak se oglašava u `Narodnim novinama` u roku od `8 dana` od saznanja
 
 Unistenje:
-- pecati i zigovi dostavljaju se nadleznom tijelu radi unistenja najkasnije u roku od `7 dana` od nastupanja razloga za unistenje
+- pečati i žigovi dostavljaju se nadležnom tijelu radi uništenja najkasnije u roku od `7 dana` od nastupanja razloga za uništenje
 
-Moguca pitanja:
-- U kojem roku se oglasava nestanak pecata?  
+Moguća pitanja:
+- U kojem roku se oglašava nestanak pečata?  
   `U roku od 8 dana od saznanja.`
-- U kojem roku se pecat dostavlja radi unistenja?  
+- U kojem roku se pečat dostavlja radi uništenja?  
   `U roku od 7 dana od nastupanja razloga.`
 
 Trik pitanja:
 - `8 dana` je za nestanak
-- `7 dana` je za dostavu radi unistenja
+- `7 dana` je za dostavu radi uništenja
 
-### 6.4. Elektronski pecat
+### 6.4. Elektronički pečat
 
 Bitno:
-- kvalificirani elektronski pecat koristi se za ovjeru elektronskih dokumenata
-- akt potpisan kvalificiranim elektronskim potpisom ne mora uvijek sadrzavati i elektronski pecat, prema pravilima iz uredbe
+- kvalificirani elektronički pečat koristi se za ovjeru elektroničkih dokumenata
+- akt potpisan kvalificiranim elektroničkim potpisom ne mora uvijek sadržavati i elektronički pečat, prema pravilima iz uredbe
 
-### 6.5. Natpisne ploce i zaglavlje akta
+### 6.5. Natpisne ploće i zaglavlje akta
 
-Natpisna ploca:
-- sadrzi propisani naziv tijela ili ustrojstvene jedinice
-- izgled i nacin isticanja su propisani
+Natpisna ploča:
+- sadržaj propisani naziv tijela ili ustrojstvene jediniće
+- izgled i način isticanja su propisani
 
 Ako je zgrada kulturno dobro:
-- prije isticanja natpisne ploce treba pribaviti prethodno odobrenje nadleznog tijela za zastitu kulturnih dobara
+- prije isticanja natpisne ploće treba pribaviti prethodno odobrenje nadležnog tijela za zaštitu kulturnih dobara
 
-Moguca pitanja:
-- Sto sadrzi zaglavlje akta?
-- Sto treba pribaviti za natpisnu plocu na zgradi koja je kulturno dobro?
+Moguća pitanja:
+- Što sadržaj zaglavlje akta?
+- Što treba pribaviti za natpisnu ploču na zgradi koja je kulturno dobro?
 
 ---
 
-## 7. Najcesce zamke
+## 7. Najćesće zamke
 
-- `zalba` i `prigovor` nisu isto
-- `tuzba` u upravnom sporu ide sudu, ne drugostupanjskom upravnom tijelu
-- rok za zalbu u ZUP-u je tipicno `15 dana`
-- rok za tuzbu u ZUS-u je tipicno `30 dana`
-- kod sutnje uprave u sporu tuzba ide `najranije 8 dana` nakon proteka roka
-- rjesenje u neposrednom rjesavanju: `30 dana`
-- rjesenje u ispitnom postupku: `60 dana`
-- o prigovoru u ZUP-u odlucuje `celnik tijela` u roku `8 dana`
+- `žalba` i `prigovor` nisu isto
+- `tužba` u upravnom sporu ide sudu, ne drugostupanjskom upravnom tijelu
+- rok za žalbu u ZUP-u je tipično `15 dana`
+- rok za tužbu u ZUS-u je tipično `30 dana`
+- kod šutnje uprave u sporu tužba ide `najranije 8 dana` nakon proteka roka
+- rješenje u neposrednom rješavanju: `30 dana`
+- rješenje u ispitnom postupku: `60 dana`
+- o prigovoru u ZUP-u odlučuje `čelnik tijela` u roku `8 dana`
 - obnova postupka: `30 dana subjektivni`, `3 godine objektivni`
-- klasifikacijska oznaka nije isto sto i urudzbeni broj
-- `a.a.` ide kod upucivanja u pismohranu
-- nestanak pecata: `8 dana`
-- dostava pecata radi unistenja: `7 dana`
-- protiv odluke o sukobu nadleznosti nema ni zalbe ni upravnog spora
+- klasifikacijska oznaka nije isto što i urudžbeni broj
+- `a.a.` ide kod upućivanja u pismohranu
+- nestanak pečata: `8 dana`
+- dostava pečata radi uništenja: `7 dana`
+- protiv odluke o sukobu nadležnosti nema ni žalbe ni upravnog spora
 
 ---
 
 ## 8. Brzi mini-test
 
-1. Koliko nacela ima upravni postupak?  
+1. Koliko načela ima upravni postupak?  
    `10.`
 
-2. Koje su dvije vrste nadleznosti?  
+2. Koje su dvije vrste nadležnosti?  
    `Stvarna i mjesna.`
 
-3. U kojem roku se donosi rjesenje u neposrednom rjesavanju?  
+3. U kojem roku se donosi rješenje u neposrednom rješavanju?  
    `30 dana.`
 
-4. U kojem roku se donosi rjesenje u ispitnom postupku?  
+4. U kojem roku se donosi rješenje u ispitnom postupku?  
    `60 dana.`
 
-5. Koji je tipican rok za zalbu protiv prvostupanjskog rjesenja?  
+5. Koji je tipican rok za žalbu protiv prvostupanjskog rješenja?  
    `15 dana.`
 
-6. Tko odlucuje o prigovoru u upravnom postupku?  
-   `Celnik tijela.`
+6. Tko odlučuje o prigovoru u upravnom postupku?  
+   `Čelnik tijela.`
 
-7. Koji je opci rok za tuzbu u upravnom sporu?  
+7. Koji je opći rok za tužbu u upravnom sporu?  
    `30 dana.`
 
-8. Tko odlucuje o zalbi protiv presude upravnog suda?  
+8. Tko odlučuje o žalbi protiv presude upravnog suda?  
    `Visoki upravni sud RH.`
 
-9. Sto oznacava klasifikacijska oznaka?  
-   `Sadrzaj i predmet.`
+9. Što označava klasifikacijska oznaka?  
+   `Sadržaj i predmet.`
 
-10. U kojem roku se u Narodnim novinama oglasava nestanak pecata?  
+10. U kojem roku se u Narodnim novinama oglašava nestanak pečata?  
    `8 dana od saznanja.`
 
 ---
 
-## 9. Sto nauciti vecer prije ispita
+## 9. Što naučiti večer prije ispita
 
-Ako imas malo vremena, nauci napamet:
-- 10 nacela ZUP-a
-- `stvarna / mjesna nadleznost`
-- `zahtjev / po sluzbenoj duznosti`
-- `zalba / prigovor / tuzba`
+Ako imaš malo vremena, nauči napamet:
+- 10 načela ZUP-a
+- `stvarna / mjesna nadležnost`
+- `zahtjev / po službenoj dužnosti`
+- `žalba / prigovor / tužba`
 - rokove `8`, `15`, `30`, `60`, `90 dana`, `3 godine`
-- `30 dana` za suglasnost, potvrdu, odobrenje ili misljenje
-- `30 dana` tuzba u ZUS-u, `15 dana` zalba protiv presude
-- `klasifikacijska oznaka / urudzbeni broj / a.a.`
-- `pecat / zig / elektronski pecat`
+- `30 dana` za suglasnost, potvrdu, odobrenje ili mišljenje
+- `30 dana` tužba u ZUS-u, `15 dana` žalba protiv presude
+- `klasifikacijska oznaka / urudžbeni broj / a.a.`
+- `pečat / žig / elektronički pečat`
 
-Ako to znas sigurno, pokrio si vecinu klasicnih pitanja i trik zamki iz ovog predmeta.
+Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog predmeta.
 
 ---
 
@@ -858,127 +891,127 @@ Ako to znas sigurno, pokrio si vecinu klasicnih pitanja i trik zamki iz ovog pre
 
 ### Najbitniji rokovi i trajanja
 
-- suglasnost, potvrda, odobrenje ili misljenje drugog tijela: `30 dana`
-  Logika: drugo tijelo ne smije svojim odugovlacenjem blokirati rjesavanje upravne stvari.
-- odgovor podnositelju predstavke za pokretanje postupka po sluzbenoj duznosti: `30 dana`
-  Logika: podnositelj mora u razumnom roku znati hoce li tijelo reagirati radi javnog interesa.
-- prigovor protiv obavijesti ili sutnje u tom slucaju: `8 dana`
-  Logika: pravna zastita mora brzo slijediti nakon sutnje ili negativne obavijesti.
+- suglasnost, potvrda, odobrenje ili mišljenje drugog tijela: `30 dana`
+  Logika: drugo tijelo ne smije svojim odugovlaćenjem blokirati rješavanje upravne stvari.
+- odgovor podnositelju predstavke za pokretanje postupka po službenoj dužnosti: `30 dana`
+  Logika: podnositelj mora u razumnom roku znati hoće li tijelo reagirati radi javnog interesa.
+- prigovor protiv obavijesti ili šutnje u tom slučaju: `8 dana`
+  Logika: pravna zaštita mora brzo slijediti nakon šutnje ili negativne obavijesti.
 - rok za odaziv na javnu objavu: najmanje `30 dana`
-  Logika: osobama obuhvacenima javnom objavom mora se ostaviti stvarna mogucnost da saznaju i reagiraju.
-- rjesenje u neposrednom rjesavanju: `30 dana`
-  Logika: jednostavnije stvari trebaju se rijesiti brzo jer ne traze puni dokazni postupak.
-- rjesenje u ispitnom postupku: `60 dana`
-  Logika: slozeniji postupak trazi vise vremena zbog utvrdivanja cinjenica i dokaza.
-- zalba protiv prvostupanjskog rjesenja: `15 dana`
-  Logika: daje se razumno vrijeme za reakciju stranke, ali bez odugovlacenja pravomocnosti.
-- rok za dostavu zalbe protivnoj stranci ili tijelu u odredenim situacijama: `8 dana`
-  Logika: drugostupanjski postupak mora brzo krenuti nakon podnosenja zalbe.
+  Logika: osobama obuhvaćenima javnom objavom mora se ostaviti stvarna mogućnost da saznaju i reagiraju.
+- rješenje u neposrednom rješavanju: `30 dana`
+  Logika: jednostavnije stvari trebaju se riješiti brzo jer ne traže puni dokazni postupak.
+- rješenje u ispitnom postupku: `60 dana`
+  Logika: složeniji postupak traži više vremena zbog utvrđivanja činjenica i dokaza.
+- žalba protiv prvostupanjskog rješenja: `15 dana`
+  Logika: daje se razumno vrijeme za reakciju stranke, ali bez odugovlaćenja pravomoćnosti.
+- rok za dostavu žalbe protivnoj stranci ili tijelu u određenim situacijama: `8 dana`
+  Logika: drugostupanjski postupak mora brzo krenuti nakon podnošenja žalbe.
 - obnova postupka: subjektivni rok `30 dana`, objektivni rok `3 godine`
-  Logika: stiti se i interes stranke da reagira kad sazna razlog i interes pravne sigurnosti da postupak ne ostane vjecno otvoren.
-- zastita od postupanja javnopravnog tijela: odgovor `15 dana`, prigovor `8 dana`, odluka celnika `8 dana`
-  Logika: kod nepravilnog postupanja trazena je brza unutarnja korekcija tijela.
-- zastita korisnika javnih usluga: obavijest o poduzetim mjerama najkasnije `30 dana`
-  Logika: korisnik mora dobiti povratnu informaciju o tome je li pruzatelj usluge uklonio povredu.
-- opci rok izvrsenja rjesenja: `5 godina`
-  Logika: izvrsenje ne moze prijetiti neograniceno dugo jer to narusava pravnu sigurnost.
-- opci rok za tuzbu u upravnom sporu: `30 dana`
+  Logika: štiti se i interes stranke da reagira kad sazna razlog i interes pravne sigurnosti da postupak ne ostane vječno otvoren.
+- zaštita od postupanja javnopravnog tijela: odgovor `15 dana`, prigovor `8 dana`, odluka čelnika `8 dana`
+  Logika: kod nepravilnog postupanja tražena je brza unutarnja korekcija tijela.
+- zaštita korisnika javnih usluga: obavijest o poduzetim mjerama najkasnije `30 dana`
+  Logika: korisnik mora dobiti povratnu informaciju o tome je li pružatelj usluge uklonio povredu.
+- opći rok izvršenja rješenja: `5 godina`
+  Logika: izvršenje ne može prijetiti neogranićeno dugo jer to narušava pravnu sigurnost.
+- opći rok za tužbu u upravnom sporu: `30 dana`
   Logika: sudska kontrola mora biti pravodobna, a upravni akti ne mogu ostati dugo neizvjesni.
-- posebni rok za tuzbu u nekim slucajevima pogresne upute ili dostave: `90 dana`
-  Logika: stranka ne smije izgubiti sudsku zastitu zbog tudje pogresne upute ili neuredne dostave.
-- kod sutnje uprave tuzba ide najranije `8 dana` nakon proteka propisanog roka
-  Logika: tijelu se ostavlja jos kratka prilika da odluci prije sudske intervencije.
-- rok za odgovor na tuzbu: `30 do 60 dana`
-  Logika: sud odreduje rok prema slozenosti stvari, ali unutar zakonskog raspona.
-- zalba protiv presude u upravnom sporu: `15 dana`
-  Logika: drugostupanjska sudska kontrola mora biti dostupna, ali i vremenski ogranicena.
+- posebni rok za tužbu u nekim slučajevima pogrešne upute ili dostave: `90 dana`
+  Logika: stranka ne smije izgubiti sudsku zaštitu zbog tuđe pogrešne upute ili neuredne dostave.
+- kod šutnje uprave tužba ide najranije `8 dana` nakon proteka propisanog roka
+  Logika: tijelu se ostavlja još kratka prilika da odluči prije sudske intervencije.
+- rok za odgovor na tužbu: `30 do 60 dana`
+  Logika: sud određuje rok prema složenosti stvari, ali unutar zakonskog raspona.
+- žalba protiv presude u upravnom sporu: `15 dana`
+  Logika: drugostupanjska sudska kontrola mora biti dostupna, ali i vremenski ogranićena.
 - povrat pristojbe: `90 dana`
-  Logika: povrat se mora traziti u razumnom roku nakon preplate ili saznanja o neosnovanosti placanja.
-- oglasavanje nestanka pecata u Narodnim novinama: `8 dana od saznanja`
-  Logika: nestanak pecata treba brzo javno objaviti radi sprjecavanja zlouporabe.
-- dostava pecata radi unistenja: `7 dana od nastupanja razloga`
-  Logika: pecat koji vise ne smije biti u uporabi mora se brzo ukloniti iz opticaja.
-- izvijestiti MUP o statusnoj promjeni vezanoj uz pecat i zig: `30 dana`
-  Logika: evidencije o pecatima i zigovima moraju ostati tocne i azurne.
+  Logika: povrat se mora tražiti u razumnom roku nakon preplate ili saznanja o neosnovanosti plaćanja.
+- oglašavanje nestanka pečata u Narodnim novinama: `8 dana od saznanja`
+  Logika: nestanak pečata treba brzo javno objaviti radi sprječavanja zlouporabe.
+- dostava pečata radi uništenja: `7 dana od nastupanja razloga`
+  Logika: pečat koji više ne smije biti u uporabi mora se brzo ukloniti iz opticaja.
+- izviještiti MUP o statusnoj promjeni vezanoj uz pečat i žig: `30 dana`
+  Logika: evidencije o pečatima i žigovima moraju ostati točne i ažurne.
 
 ### Navedene iznimke
 
-- ako drugo tijelo ne odluci o suglasnosti/potvrdi/odobrenju/misljenju u roku, smatra se da je akt izdan u korist stranke, `ako nije drukcije propisano`
-  Logika: sutnja drugog tijela ne bi smjela paralizirati pravo stranke.
-- stvarna i mjesna nadleznost ne mogu se mijenjati dogovorom
-  Logika: nadleznost je pitanje zakonitosti i javnog poretka, ne volje stranaka.
-- protiv odluke o sukobu nadleznosti `nema` zalbe ni upravnog spora
-  Logika: sukob nadleznosti mora se brzo i konacno rijesiti da bi postupak mogao teci dalje.
-- u ZUP-u se zalba moze iskljuciti samo `iznimno` zakonom
-  Logika: pravo na pravni lijek je pravilo, a odstupanje mora biti izricito i usko.
-- javnopravno tijelo moze `iznimno` odmah poduzeti hitne mjere radi zastite javnog interesa
-  Logika: nekad bi cekanje redovnog postupka ugrozilo sigurnost, zdravlje ili drugi vazan javni interes.
+- ako drugo tijelo ne odluči o suglasnosti/potvrdi/odobrenju/misljenju u roku, smatra se da je akt izdan u korist stranke, `ako nije drukčije propisano`
+  Logika: šutnja drugog tijela ne bi smjela paralizirati pravo stranke.
+- stvarna i mjesna nadležnost ne mogu se mijenjati dogovorom
+  Logika: nadležnost je pitanje zakonitosti i javnog poretka, ne volje stranaka.
+- protiv odluke o sukobu nadležnosti `nema` žalbe ni upravnog spora
+  Logika: sukob nadležnosti mora se brzo i konačno riješiti da bi postupak mogao teći dalje.
+- u ZUP-u se žalba može isključiti samo `iznimno` zakonom
+  Logika: pravo na pravni lijek je pravilo, a odstupanje mora biti izričito i usko.
+- javnopravno tijelo može `iznimno` odmah poduzeti hitne mjere radi zaštite javnog interesa
+  Logika: nekad bi ćekanje redovnog postupka ugrozilo sigurnost, zdravlje ili drugi važan javni interes.
 - obnova postupka je `izvanredni` pravni lijek nakon isteka redovnih rokova
-  Logika: sluzi ispravljanju tezih manjkavosti ili novih cinjenica nakon sto je redovni put iscrpljen.
-- rjesenje postaje izvrsno `iznimno` istekom ostavljenog roka ako je u samom rjesenju odredeno da se radnja moze izvrsiti u tom roku
-  Logika: sama odluka moze vezati izvrsnost uz protek dodatno ostavljenog roka za dobrovoljno ispunjenje.
-- upravni spor se ne vodi u svim stvarima; prirucnik posebno navodi `iznimke od vodenja upravnog spora`
-  Logika: sudska kontrola u upravnom sporu vezana je uz upravne stvari i zakonom odredene akte, ne uz svaku javnopravnu radnju.
-- natpisna ploca tijela ide na desnu stranu ulaza, a `iznimno` na lijevu ako nema prostorne mogucnosti
-  Logika: pravilo osigurava standardizaciju, a iznimka omogucuje prilagodbu stvarnim prostornim uvjetima.
+  Logika: služi ispravljanju težih manjkavosti ili novih činjenica nakon što je redovni put iscrpljen.
+- rješenje postaje izvršno `iznimno` istekom ostavljenog roka ako je u samom rješenju određeno da se radnja može izvršiti u tom roku
+  Logika: sama odluka može vezati izvršnost uz protek dodatno ostavljenog roka za dobrovoljno ispunjenje.
+- upravni spor se ne vodi u svim stvarima; priručnik posebno navodi `iznimke od vođenja upravnog spora`
+  Logika: sudska kontrola u upravnom sporu vezana je uz upravne stvari i zakonom određene akte, ne uz svaku javnopravnu radnju.
+- natpisna ploča tijela ide na desnu stranu ulaza, a `iznimno` na lijevu ako nema prostorne mogućnosti
+  Logika: pravilo osigurava standardizaciju, a iznimka omogućuje prilagodbu stvarnim prostornim uvjetima.
 
 ### Mini-zamke
 
-- `zalba` nije isto sto i `prigovor`
-- `prigovor` nije isto sto i `tuzba`
-- `ZUP` nije isto sto i `ZUS`
-- `rjesenje` nije isto sto i `presuda`
-- `klasifikacijska oznaka` nije isto sto i `urudzbeni broj`
-- `pecat` nije isto sto i `zig`
+- `žalba` nije isto što i `prigovor`
+- `prigovor` nije isto što i `tužba`
+- `ZUP` nije isto što i `ZUS`
+- `rješenje` nije isto što i `presuda`
+- `klasifikacijska oznaka` nije isto što i `urudžbeni broj`
+- `pečat` nije isto što i `žig`
 
 ### Pravilo / iznimka
 
-- Pravilo: protiv prvostupanjskog rjesenja dopustena je zalba.  
-  Iznimka: moze se iskljuciti samo izricito zakonom.
-- Pravilo: tijelo mora odluciti u zakonskom roku.  
-  Iznimka: ako suti, stranka dobiva posebne mehanizme pravne zastite.
-- Pravilo: upravni spor vodi se protiv upravnih akata i postupanja predvidenih zakonom.  
+- Pravilo: protiv prvostupanjskog rješenja dopuštena je žalba.  
+  Iznimka: može se isključiti samo izričito zakonom.
+- Pravilo: tijelo mora odlučiti u zakonskom roku.  
+  Iznimka: ako suti, stranka dobiva posebne mehanizme pravne zaštite.
+- Pravilo: upravni spor vodi se protiv upravnih akata i postupanja predviđenih zakonom.  
   Iznimka: ne vodi se u svim javnopravnim stvarima, jer zakon navodi iznimke.
-- Pravilo: rjesenje postaje izvrsno kad se ispune zakonski uvjeti.  
-  Iznimka: moze postati izvrsno i istekom posebno ostavljenog roka u samom rjesenju.
-- Pravilo: natpisna ploca ide na desnu stranu ulaza.  
-  Iznimka: moze na lijevu ako nema prostorne mogucnosti.
+- Pravilo: rješenje postaje izvršno kad se ispune zakonski uvjeti.  
+  Iznimka: može postati izvršno i istekom posebno ostavljenog roka u samom rješenju.
+- Pravilo: natpisna ploča ide na desnu stranu ulaza.  
+  Iznimka: može na lijevu ako nema prostorne mogućnosti.
 
 ### Rok + posljedica
 
-- `30 dana` za suglasnost / potvrdu / odobrenje / misljenje.  
-  Posljedica: ako drugo tijelo suti, moze nastupiti zakonska fikcija da je akt izdan u korist stranke.
-- `30 dana` neposredno rjesavanje i `60 dana` ispitni postupak.  
-  Posljedica: nakon sutnje otvara se pravna zastita stranke.
-- `15 dana` zalba.  
-  Posljedica: propuštanjem roka rjesenje ide prema pravomocnosti.
+- `30 dana` za suglasnost / potvrdu / odobrenje / mišljenje.  
+  Posljedica: ako drugo tijelo suti, može nastupiti zakonska fikcija da je akt izdan u korist stranke.
+- `30 dana` neposredno rješavanje i `60 dana` ispitni postupak.  
+  Posljedica: nakon šutnje otvara se pravna zaštita stranke.
+- `15 dana` žalba.  
+  Posljedica: propuštanjem roka rješenje ide prema pravomoćnosti.
 - `30 dana` za obnovu od saznanja i `3 godine` objektivno.  
-  Posljedica: nakon proteka objektivnog roka obnova vise nije dopustena.
-- `30 dana` opci rok za tuzbu u upravnom sporu.  
+  Posljedica: nakon proteka objektivnog roka obnova više nije dopuštena.
+- `30 dana` opći rok za tužbu u upravnom sporu.  
   Posljedica: po isteku roka gubi se redovita sudska kontrola.
-- `15 dana` zalba protiv presude upravnog suda.  
-  Posljedica: nakon toga presuda ide prema pravomocnosti.
+- `15 dana` žalba protiv presude upravnog suda.  
+  Posljedica: nakon toga presuda ide prema pravomoćnosti.
 - `90 dana` povrat pristojbe.  
-  Posljedica: nakon toga stranka vise ne moze uredno traziti povrat po toj osnovi.
-- `8 dana` za oglasavanje nestanka pecata i `7 dana` za dostavu na unistenje.  
+  Posljedica: nakon toga stranka više ne može uredno tražiti povrat po toj osnovi.
+- `8 dana` za oglašavanje nestanka pečata i `7 dana` za dostavu na uništenje.  
   Posljedica: brzo se sprjecava daljnja zlouporaba.
 
 ### Tko odlučuje
 
-- `prvostupanjsko javnopravno tijelo`: vodi upravni postupak i donosi rjesenje
-- `drugostupanjsko tijelo`: odlucuje o zalbi kada je zalba dopustena
-- `celnik tijela`: odlucuje o prigovoru u propisanim slucajevima
-- `upravni sud`: odlucuje u upravnom sporu
-- `Visoki upravni sud RH`: odlucuje o zalbi protiv presude upravnog suda
-- `sluzbena osoba`: vodi postupak, odreduje rokove, poduzima procesne radnje
+- `prvostupanjsko javnopravno tijelo`: vodi upravni postupak i donosi rješenje
+- `drugostupanjsko tijelo`: odlučuje o žalbi kada je žalba dopuštena
+- `čelnik tijela`: odlučuje o prigovoru u propisanim slučajevima
+- `upravni sud`: odlučuje u upravnom sporu
+- `Visoki upravni sud RH`: odlučuje o žalbi protiv presude upravnog suda
+- `službena osoba`: vodi postupak, određuje rokove, poduzima proćesne radnje
 
 ### Brojke koje se miješaju
 
-- `8 dana`: prigovor, pojedine procesne reakcije, nestanak pecata
-- `15 dana`: zalba u ZUP-u, zalba protiv presude u ZUS-u
-- `30 dana`: neposredno rjesavanje, opca tuzba u ZUS-u, mnogi drugi procesni rokovi
+- `8 dana`: prigovor, pojedine proćesne reakcije, nestanak pečata
+- `15 dana`: žalba u ZUP-u, žalba protiv presude u ZUS-u
+- `30 dana`: neposredno rješavanje, opća tužba u ZUS-u, mnogi drugi proćesni rokovi
 - `60 dana`: ispitni postupak
-- `90 dana`: posebni slucajevi tuzbe i povrat pristojbe
+- `90 dana`: posebni slučajevi tužbe i povrat pristojbe
 - `3 godine`: objektivni rok za obnovu
-- `5 godina`: opci rok izvrsenja rjesenja
-- `7 dana` i `8 dana`: unistenje pecata nasuprot oglasavanju nestanka
+- `5 godina`: opći rok izvršenja rješenja
+- `7 dana` i `8 dana`: uništenje pečata nasuprot oglasavanju nestanka
