@@ -897,11 +897,11 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 - godišnje ocjenjivanje provodi se najkasnije do `28. veljače`
   Logika: prethodna radna godina mora biti ocijenjena dovoljno rano za napredovanje i druge odluke.
 - žalba protiv rješenja za laku povredu je `15 dana`, a Službenički sud odlučuje u `15 dana`
-  Logika: disciplinski postupak mora biti brz jer neposredno utjeće na službenički status.
+  Logika: disciplinski postupak mora biti brz jer neposredno utječe na službenički status.
 - poslodavcu se zahtjev za zaštitu prava podnosi u roku od `15 dana`, pa sudu opet `15 dana`
   Logika: prvo se daje prilika poslodavcu da ispravi povredu, a zatim slijedi brza sudska zaštita.
 - etička pritužba podnosi se u roku od `60 dana` od saznanja, a najkasnije `6 mjeseci` od događaja
-  Logika: postupak traži svjezinu činjenica, ali i konacnu vremensku granicu.
+  Logika: postupak traži svježinu činjenica, ali i konačnu vremensku granicu.
 - povjerenik za etiku postupa u roku od `15 dana`, a više etičkih postupaka u priručniku vezano je uz rokove `30`, `60` i `90 dana`
   Logika: etičke povrede trebaju se rješavati brzo kako bi se zaštitilo radno okruženje i povjerenje u službu.
 

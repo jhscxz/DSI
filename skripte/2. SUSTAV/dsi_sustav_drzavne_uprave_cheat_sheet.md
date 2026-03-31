@@ -464,7 +464,7 @@ Moguća pitanja:
 
 ### 4.2. Provedba državne politike
 
-To su poslovi usmjeravanja i oblikovanja načina provodenja zakona i javnih politika.
+To su poslovi usmjeravanja i oblikovanja načina provođenja zakona i javnih politika.
 
 Primjeri:
 - izrada strategija
@@ -712,10 +712,10 @@ Osnivački akt u pravilu uređuje:
 - djelatnost
 - tijela ustanove i njihove ovlasti
 - sredstva za rad
-- međusobna prava i obveze osnivaca i ustanove
+- međusobna prava i obveze osnivača i ustanove
 
 Moguća pitanja:
-- Tko može biti osnivac javne ustanove?
+- Tko može biti osnivač javne ustanove?
 
 Trik pitanja:
 - javna ustanova nije tijelo državne uprave

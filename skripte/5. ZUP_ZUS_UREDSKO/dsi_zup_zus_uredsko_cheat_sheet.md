@@ -186,7 +186,7 @@ Bitno:
 
 Jedinstveno upravno mjesto:
 - omogućuje predaju više zahtjeva na jednom mjestu
-- ne utjeće na stvarnu i mjesnu nadležnost
+- ne utječe na stvarnu i mjesnu nadležnost
 
 Moguća pitanja:
 - Koji je rok za izdavanje suglasnosti, potvrde, odobrenja ili mišljenja?  
@@ -1018,7 +1018,7 @@ Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog 
 - zaštita korisnika javnih usluga: obavijest o poduzetim mjerama najkasnije `30 dana`
   Logika: korisnik mora dobiti povratnu informaciju o tome je li pružatelj usluge uklonio povredu.
 - opći rok izvršenja rješenja: `5 godina`
-  Logika: izvršenje ne može prijetiti neogranićeno dugo jer to narušava pravnu sigurnost.
+  Logika: izvršenje ne može prijetiti neograničeno dugo jer to narušava pravnu sigurnost.
 - opći rok za tužbu u upravnom sporu: `30 dana`
   Logika: sudska kontrola mora biti pravodobna, a upravni akti ne mogu ostati dugo neizvjesni.
 - posebni rok za tužbu u nekim slučajevima pogrešne upute ili dostave: `90 dana`
@@ -1028,7 +1028,7 @@ Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog 
 - rok za odgovor na tužbu: `30 do 60 dana`
   Logika: sud određuje rok prema složenosti stvari, ali unutar zakonskog raspona.
 - žalba protiv presude u upravnom sporu: `15 dana`
-  Logika: drugostupanjska sudska kontrola mora biti dostupna, ali i vremenski ogranićena.
+  Logika: drugostupanjska sudska kontrola mora biti dostupna, ali i vremenski ograničena.
 - povrat pristojbe: `90 dana`
   Logika: povrat se mora tražiti u razumnom roku nakon preplate ili saznanja o neosnovanosti plaćanja.
 - oglašavanje nestanka pečata u Narodnim novinama: `8 dana od saznanja`
@@ -1040,7 +1040,7 @@ Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog 
 
 ### Navedene iznimke
 
-- ako drugo tijelo ne odluči o suglasnosti/potvrdi/odobrenju/misljenju u roku, smatra se da je akt izdan u korist stranke, `ako nije drukčije propisano`
+- ako drugo tijelo ne odluči o suglasnosti/potvrdi/odobrenju/mišljenju u roku, smatra se da je akt izdan u korist stranke, `ako nije drukčije propisano`
   Logika: šutnja drugog tijela ne bi smjela paralizirati pravo stranke.
 - stvarna i mjesna nadležnost ne mogu se mijenjati dogovorom
   Logika: nadležnost je pitanje zakonitosti i javnog poretka, ne volje stranaka.
@@ -1098,7 +1098,7 @@ Ako to znaš sigurno, pokrio si većinu klasičnih pitanja i trik zamki iz ovog 
 - `90 dana` povrat pristojbe.  
   Posljedica: nakon toga stranka više ne može uredno tražiti povrat po toj osnovi.
 - `8 dana` za oglašavanje nestanka pečata i `7 dana` za dostavu na uništenje.  
-  Posljedica: brzo se sprjecava daljnja zlouporaba.
+  Posljedica: brzo se sprječava daljnja zlouporaba.
 
 ### Tko odlučuje
 

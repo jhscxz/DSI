@@ -37,15 +37,15 @@ Posebno pazi na ove razlike:
 ## 190 mogućih pitanja
 
 1. Koji je glavni povijesni motiv europske integracije nakon Drugog svjetskog rata?  
-   `Ocuvanje mira i sprjecavanje novih ratova.`
+   `Očuvanje mira i sprječavanje novih ratova.`
 
 2. Kojeg datuma je Schumanova deklaracija?  
    `9. svibnja 1950.`
 
 3. Koja je prva europska zajednica?  
-   `Europska zajednica za ugljen i celik.`
+   `Europska zajednica za ugljen i čelik.`
 
-4. Koje su države osnivacice prvih zajednica?  
+4. Koje su države osnivačice prvih zajednica?  
    `Francuska, Njemačka, Italija, Belgija, Nizozemska i Luksemburg.`
 
 5. Kojim ugovorom nastaje Europska unija?  
@@ -70,7 +70,7 @@ Posebno pazi na ove razlike:
    `Ne.`
 
 12. Tko čini Europsko vijeće?  
-   `Sefovi država ili vlada država članica, njegov predsjednik i predsjednik Komisije.`
+   `Šefovi država ili vlada država članica, njegov predsjednik i predsjednik Komisije.`
 
 13. Tko zajedno s Europskim parlamentom donosi zakonodavne akte?  
    `Vijeće Europske unije.`
@@ -121,7 +121,7 @@ Posebno pazi na ove razlike:
    `Mjere EU ne smiju prelaziti ono što je potrebno za postizanje ciljeva ugovora.`
 
 29. Koje su tri vrste nadležnosti EU koje se tipično pitaju?  
-   `Iskljuciva, podijeljena i dopunjujuća.`
+   `Isključiva, podijeljena i dopunjujuća.`
 
 30. Navedi primjer isključive nadležnosti EU.  
    `Carinska unija ili zajednicka trgovinska politika.`
@@ -135,7 +135,7 @@ Posebno pazi na ove razlike:
 33. Koje su cetiri slobode unutarnjeg trzista?  
    `Sloboda kretanja robe, osoba, usluga i kapitala.`
 
-34. Koji je akt obvezujući u cijelosti i izravno se primjenjuje u svim državama clanicama?  
+34. Koji je akt obvezujući u cijelosti i izravno se primjenjuje u svim državama članicama?  
    `Uredba.`
 
 35. Koji akt obvezuje države članice glede rezultata koji treba postici?  
