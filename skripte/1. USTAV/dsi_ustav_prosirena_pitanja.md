@@ -1,6 +1,6 @@
-# DSI USTAV Proširena pitanja + 215 Pitanja
+# DSI USTAV Proširena pitanja (215)
 
-Proširena radna verzija uz `dsi_ustav_sazetak.md`.
+Prošireni skup pitanja i kratkih odgovora uz `dsi_ustav_sazetak.md`.
 
 ## Namjena
 
@@ -86,10 +86,10 @@ Posebno razlikuj:
 18. Što je Ustavni sud RH?  
    `Najviše ustavno tijelo koje jamči poštivanje i primjenu Ustava.`
 
-19. Odlucuje li Ustavni sud o suglasnosti zakona s Ustavom?  
+19. Odlučuje li Ustavni sud o suglasnosti zakona s Ustavom?  
    `Da.`
 
-20. Rjesava li Ustavni sud sukob nadležnosti između zakonodavne, izvršne i sudbene vlasti?  
+20. Rješava li Ustavni sud sukob nadležnosti između zakonodavne, izvršne i sudbene vlasti?  
    `Da.`
 
 21. Tko donosi zakone u RH?  
@@ -215,10 +215,10 @@ Posebno razlikuj:
    `Na 4 godine.`
 
 61. Tko bira suce?  
-   `Drzavno sudbeno vijeće, osim sudaca Ustavnog suda.`
+   `Državno sudbeno vijeće bira suce, osim sudaca Ustavnog suda; predsjednika Vrhovnog suda RH ne bira DSV.`
 
 62. Tko odlučuje o stegovnoj odgovornosti sudaca?  
-   `Drzavno sudbeno vijeće.`
+   `Državno sudbeno vijeće.`
 
 63. Na koliko se godina biraju članovi DSV-a?  
    `Na 4 godine.`
@@ -322,14 +322,14 @@ Posebno razlikuj:
 96. Tko može tražiti izvanredno zasjedanje Sabora prema ustavnom okviru?  
    `Predsjednik Republike, Vlada ili većina zastupnika parlamentarnih stranaka prema pravilima iz priručnika.`
 
-97. Tko donosi odluku o promjeni Ustava u zavrsnoj fazi?  
+97. Tko donosi odluku o promjeni Ustava u završnoj fazi?  
    `Hrvatski sabor dvotrećinskom većinom svih zastupnika.`
 
 98. Jesu li potvrđeni i objavljeni međunarodni ugovori dio unutarnjeg pravnog poretka RH?  
    `Da.`
 
 99. Što je najčešća zamka kod pitanja o Vladi i Predsjedniku RH?  
-   `Miješanje predstavljanja države s vodenjem politike i odgovornoscu Saboru.`
+   `Miješanje predstavljanja države s vođenjem politike i odgovornošću Saboru.`
 
 100. Što je najčešća zamka kod pitanja o pravima i njihovim ograničenjima?  
    `Pretpostavka da su sva prava apsolutna i da se nikad ne mogu ograničiti.`

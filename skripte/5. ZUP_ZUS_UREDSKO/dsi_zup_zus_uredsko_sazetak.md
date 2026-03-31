@@ -1,6 +1,6 @@
-# DSI ZUP ZUS Uredsko Cheat Sheet
+# DSI ZUP ZUS Uredsko Sažetak
 
-Sažeta verzija priručnika `Priručnik_e-učenje_ZUP_II_razina_srpanj_2024.pdf`, složena za pripremu ispita iz osnova upravnog postupka, upravnog spora i uredskog poslovanja.
+Sažetak prema priručniku `Priručnik_e-učenje_ZUP_II_razina_srpanj_2024.pdf`, prilagođen pripremi ispita iz osnova upravnog postupka, upravnog spora i uredskog poslovanja.
 
 Namjena:
 - brzo ponavljanje po poglavljima
@@ -29,7 +29,7 @@ Ako znaš bez greške:
 - rokove za rješenje i pravne lijekove u ZUP-u
 - kada ide žalba, kada prigovor, a kada tužba
 - rokove i tijela u upravnom sporu
-- klasifikaciju, urudžbeni broj, pismohranu, pristojbe, pečat i natpisne ploće
+- klasifikaciju, urudžbeni broj, pismohranu, pristojbe, pečat i natpisne ploče
 
 onda imaš jezgru predmeta.
 
@@ -808,7 +808,7 @@ Moguća pitanja:
 
 ---
 
-## 6. Upravne pristojbe, pečat, žig i natpisne ploće
+## 6. Upravne pristojbe, pečat, žig i natpisne ploče
 
 ### 6.1. Upravne pristojbe
 
@@ -851,7 +851,7 @@ Bitno:
 - nestanak se mora prijaviti
 - nestanak se oglašava u `Narodnim novinama` u roku od `8 dana` od saznanja
 
-Unistenje:
+Uništenje:
 - pečati i žigovi dostavljaju se nadležnom tijelu radi uništenja najkasnije u roku od `7 dana` od nastupanja razloga za uništenje
 
 Moguća pitanja:
@@ -870,14 +870,14 @@ Bitno:
 - kvalificirani elektronički pečat koristi se za ovjeru elektroničkih dokumenata
 - akt potpisan kvalificiranim elektroničkim potpisom ne mora uvijek sadržavati i elektronički pečat, prema pravilima iz uredbe
 
-### 6.5. Natpisne ploće i zaglavlje akta
+### 6.5. Natpisne ploče i zaglavlje akta
 
 Natpisna ploča:
 - sadržaj propisani naziv tijela ili ustrojstvene jediniće
 - izgled i način isticanja su propisani
 
 Ako je zgrada kulturno dobro:
-- prije isticanja natpisne ploće treba pribaviti prethodno odobrenje nadležnog tijela za zaštitu kulturnih dobara
+- prije isticanja natpisne ploče treba pribaviti prethodno odobrenje nadležnog tijela za zaštitu kulturnih dobara
 
 Moguća pitanja:
 - Što sadržaj zaglavlje akta?

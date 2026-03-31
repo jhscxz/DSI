@@ -1,6 +1,6 @@
-# DSI USTAV Cheat Sheet
+# DSI USTAV Sažetak
 
-Sažeta verzija priručnika `Priručnik e-učenje_Ustavno_ustrojstvo_II_razina_listopad 2023._final.pdf`, složena za pripremu ispita iz ustavnog ustrojstva, pristupa informacijama, zaštite osobnih podataka i zabrane diskriminacije.
+Sažetak prema priručniku `Priručnik e-učenje_Ustavno_ustrojstvo_II_razina_listopad 2023._final.pdf`, prilagođen pripremi ispita iz ustavnog ustrojstva, pristupa informacijama, zaštite osobnih podataka i zabrane diskriminacije.
 
 Namjena:
 - brzo ponavljanje po poglavljima
@@ -590,7 +590,8 @@ Ključno za ispit:
 - mandatar `predlaže članove Vlade`
 - Vlada mora uživati povjerenje većine svih zastupnika
 - Sabor nadzire rad Vlade
-- rješenje o imenovanju predsjednika Vlade i članova Vlade donosi `Predsjednik Republike uz supotpis predsjednika Hrvatskog sabora`
+- rješenje o imenovanju `predsjednika Vlade` donosi `Predsjednik Republike`, uz `supotpis predsjednika Hrvatskog sabora`
+- rješenje o imenovanju `članova Vlade` donosi `predsjednik Vlade`, uz `supotpis predsjednika Hrvatskog sabora`
 
 Trik pitanja:
 - Vlada ne odgovara predsjedniku Republike, nego Saboru
@@ -615,6 +616,7 @@ Državno sudbeno vijeće:
 - samostalno i neovisno tijelo
 - osigurava samostalnost i neovisnost sudbene vlasti
 - ima `11 članova`
+- samostalno odlučuje o imenovanju, napredovanju, premještaju, razrješenju i stegovnoj odgovornosti sudaca te predsjednika sudova, osim predsjednika Vrhovnog suda RH
 
 Moguća pitanja:
 - Tko obavlja sudbenu vlast?  

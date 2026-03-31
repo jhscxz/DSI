@@ -1,6 +1,6 @@
-# DSI LPRS Proširena pitanja + 195 Pitanja
+# DSI LPRS Proširena pitanja (195)
 
-Proširena radna verzija uz `dsi_lprs_sazetak.md`.
+Prošireni skup pitanja i kratkih odgovora uz `dsi_lprs_sazetak.md`.
 
 ## Namjena
 - dodatno širenje po poglavljima
@@ -184,7 +184,7 @@ Posebno razlikuj:
 
 
 51. Tko provodi lokalne izbore?  
-   `Nadležna izborna povjerenstva.`
+   `Izborno povjerenstvo Grada Zagreba te županijska, gradska i općinska izborna povjerenstva, uz biračke odbore.`
 
 52. U kojem roku od raspisivanja do održavanja lokalnih izbora se izbori moraju održati?  
    `U roku od 30 do 60 dana.`

@@ -1,6 +1,6 @@
-# DSI Sustav Državne Uprave Cheat Sheet
+# DSI Sustav Državne Uprave Sažetak
 
-Sažeta verzija priručnika `Priručnik e-učenje - SDU II_razina_rujan 2024.pdf`, složena za pripremu ispita iz sustava državne uprave.
+Sažetak prema priručniku `Priručnik e-učenje - SDU II_razina_rujan 2024.pdf`, prilagođen pripremi ispita iz sustava državne uprave.
 
 Namjena:
 - brzo ponavljanje po poglavljima
@@ -480,7 +480,7 @@ To su konkretni poslovi primjene zakona na pojedinačne slučajeve.
 
 Primjeri:
 - rješavanje u upravnim stvarima
-- vodenje evidencija
+- vođenje evidencija
 - izdavanje potvrda i drugih akata
 
 Moguća pitanja:
@@ -935,7 +935,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 ### Najbitniji rokovi i trajanja
 
-- podnesak pogrešno dostavljen nenadležnom tijelu mora se proslijediti nadležnom tijelu u roku od `30 dana`
+- podnesak pogrešno dostavljen nenadležnom tijelu mora se bez odgode ustupiti nadležnom tijelu
   Logika: stranka ne smije trpjeti štetu samo zato što je podnesak završio kod pogrešnog tijela.
 - provedbeni propisi tijela državne uprave u pravilu stupaju na snagu `osmoga dana od objave`
   Logika: ostavlja se vrijeme da adresati saznaju za propis prije nego počne obvezivati.
@@ -949,7 +949,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 ### Navedene iznimke
 
 - javnost rada tijela državne uprave može se isključiti samo `iznimno`, kada je to propisano zakonom ili pravnom stečevinom EU
-  Logika: javnost je pravilo, a ograničenje mora imati pravnu osnovu zbog zaštite jacih interesa.
+  Logika: javnost je pravilo, a ograničenje mora imati pravnu osnovu zbog zaštite jačih interesa.
 - državnom upravnom organizacijom u pravilu upravlja `državni dužnosnik`, ali `iznimno` poseban zakon može odrediti rukovodećeg državnog službenika
   Logika: pravilo prati političku odgovornost prema Vladi, a iznimka se dopušta kad posao traži izraženu stručnost i kontinuitet.
 - upravnom organizacijom u sastavu ministarstva u pravilu rukovodi `rukovodeći državni službenik`, ali postoje zakonske iznimke
@@ -980,7 +980,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 - Pravilo: državnom upravnom organizacijom upravlja državni dužnosnik.  
   Iznimka: poseban zakon može odrediti rukovodećeg državnog službenika.
 - Pravilo: rad tijela državne uprave je javan.  
-  Iznimka: javnost se može isključiti samo kad to dopusta zakon ili pravo EU.
+  Iznimka: javnost se može isključiti samo kad to dopušta zakon ili pravo EU.
 - Pravilo: provedbeni propis stupa na snagu osmoga dana od objave.  
   Iznimka: može i prvoga dana od objave zbog osobito opravdanih razloga.
 - Pravilo: javne ovlasti povjeravaju se zakonom.  
@@ -988,10 +988,10 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 ### Rok + posljedica
 
-- `30 dana` za prosljeđivanje podneska stvarno nadležnom tijelu.  
+- `bez odgode` za ustupanje podneska stvarno nadležnom tijelu.  
   Posljedica: štiti se stranka od štete zbog pogrešnog zaprimanja podneska.
 - `do kraja tekuće godine` za godišnji plan rada za iduću godinu.  
-  Posljedica: tijelo mora u novu godinu uci s planom poslova.
+  Posljedica: tijelo mora u novu godinu ući s planom poslova.
 - `8. dan od objave` kao pravilo stupanja na snagu provedbenih propisa.  
   Posljedica: adresati dobivaju vrijeme da se upoznaju s obvezama.
 
@@ -1007,7 +1007,7 @@ Ako to znaš sigurno, proći ćeš većinu klasičnih pitanja i zamki iz ovog pr
 
 - `najmanje 2 upravne organizacije` u svakom ministarstvu
 - `najmanje 2 sektora` kao opće pravilo u više ustrojstvenih situacija
-- `30 dana`: prosljeđivanje podneska
+- `bez odgode`: ustupanje podneska
 - `8. dan`: tipično stupanje na snagu propisa
 - `1. dan od objave`: iznimno stupanje na snagu
 - `8 sati`: dnevno radno vrijeme

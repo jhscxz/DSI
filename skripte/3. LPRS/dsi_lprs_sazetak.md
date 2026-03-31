@@ -1,6 +1,6 @@
-# DSI LPRS Cheat Sheet
+# DSI LPRS Sažetak
 
-Sažeta verzija priručnika `Priručnik_e-učenje_LPRS_II_razina_listopad_2023__.pdf`, složena za učenje za ispit iz sustava lokalne i područne (regionalne) samouprave.
+Sažetak prema priručniku `Priručnik_e-učenje_LPRS_II_razina_listopad_2023__.pdf`, prilagođen pripremi ispita iz sustava lokalne i područne (regionalne) samouprave.
 
 Namjena:
 - brzo ponavljanje po poglavljima

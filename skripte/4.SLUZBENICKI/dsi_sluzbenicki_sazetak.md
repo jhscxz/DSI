@@ -1,6 +1,6 @@
-# DSI Službenički Odnosi Cheat Sheet
+# DSI Službenički Odnosi Sažetak
 
-Sažeta verzija priručnika `Priručnik e-učenje - Službenički odnosi i službenička etika II_razina_ožujak_2025.pdf`, složena za pripremu ispita iz službeničkih odnosa i službeničke etike.
+Sažetak prema priručniku `Priručnik e-učenje - Službenički odnosi i službenička etika II_razina_ožujak_2025.pdf`, prilagođen pripremi ispita iz službeničkih odnosa i službeničke etike.
 
 Namjena:
 - brzo ponavljanje po poglavljima
@@ -715,32 +715,44 @@ Trik pitanja:
 ```text
 ETIČKA PRITUŽBA
 |
-+-- prvo
++-- u pravilu
 |   +-- povjerenik za etiku
+|   |   +-- ispitivanje osnovanosti: 30 dana
+|   |   +-- odgovor čelnika tijela: 60 dana
+|   |   +-- nezadovoljna strana -> Etičko povjerenstvo: 30 dana
 |
-+-- ako treba mišljenje
++-- iznimno
     +-- Etičko povjerenstvo
+        +-- pritužba na povjerenika za etiku
+        +-- pritužba na čelnika koji je državni službenik
+        +-- pritužba na rukovodećeg službenika kojeg imenuje Vlada
+        +-- odgovor: 90 dana
 ```
 
 Po pritužbama u pravilu postupa:
 - `povjerenik za etiku`
 
-Rok:
-- `15 dana od primitka pritužbe`
+Rokovi:
+- podnošenje pritužbe: `60 dana od saznanja`, a najkasnije `6 mjeseci` od ponašanja
+- povjerenik za etiku ispituje osnovanost pritužbe: `30 dana od primitka`
+- čelnik tijela daje odgovor podnositelju: `60 dana od zaprimanja pritužbe`
+- pritužba Etičkom povjerenstvu: `30 dana` od isteka roka za odgovor ili od primitka odgovora
+- kada iznimno postupa Etičko povjerenstvo, odgovor daje u roku od `90 dana od primitka pritužbe`
 
 Ako povjerenik nije siguran radi li se o povredi Etičkog kodeksa:
 - može pribaviti mišljenje `Etičkog povjerenstva`
 
 Bitno:
 - članove Etičkog povjerenstva imenuje `Vlada` na `4 godine`
-- povjerenik za etiku prima pritužbe, vodi postupak ispitivanja i daje odgovor podnositelju
+- povjerenik za etiku prima pritužbe, vodi postupak ispitivanja te priprema izvješće i prijedlog odgovora
 - Etičko povjerenstvo prati primjenu Etičkog kodeksa i daje mišljenja o njegovoj provedbi
+- zamjenik povjerenika za etiku preuzima postupanje kod duže odsutnosti ili sukoba interesa povjerenika
 
 Moguća pitanja:
 - Tko u pravilu postupa po pritužbama zbog povrede Etičkog kodeksa?  
   `Povjerenik za etiku.`
 - Koliki je rok za postupanje?  
-  `15 dana od primitka pritužbe.`
+  `Povjerenik za etiku ispituje pritužbu u roku od 30 dana, a čelnik odgovara u roku od 60 dana od zaprimanja pritužbe.`
 
 ---
 
@@ -902,7 +914,7 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
   Logika: prvo se daje prilika poslodavcu da ispravi povredu, a zatim slijedi brza sudska zaštita.
 - etička pritužba podnosi se u roku od `60 dana` od saznanja, a najkasnije `6 mjeseci` od događaja
   Logika: postupak traži svježinu činjenica, ali i konačnu vremensku granicu.
-- povjerenik za etiku postupa u roku od `15 dana`, a više etičkih postupaka u priručniku vezano je uz rokove `30`, `60` i `90 dana`
+- povjerenik za etiku ispituje pritužbu u `30 dana`, čelnik odgovara u `60 dana`, a Etičko povjerenstvo u iznimnim slučajevima odgovara u `90 dana`
   Logika: etičke povrede trebaju se rješavati brzo kako bi se zaštitilo radno okruženje i povjerenje u službu.
 
 ### Navedene iznimke
@@ -927,7 +939,7 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
   Logika: ne može se pouzdano ocjenjivati rad bez dovoljno stvarnog radnog razdoblja.
 - rasprava za povredu službene dužnosti je javna, ali se može `iznimno` isključiti javnost
   Logika: javnost je pravilo, ali se može ograničiti radi zaštite drugih zakonom priznatih interesa.
-- Etičko povjerenstvo `iznimno` preuzima postupanje u slučajevima navedenima u priručniku kada povjerenik za etiku ne postupa
+- Etičko povjerenstvo `iznimno` postupa po pritužbama na povjerenika za etiku, čelnika tijela koji je državni službenik i rukovodećeg službenika kojeg imenuje Vlada
   Logika: mora postojati rezervni mehanizam kad redovni nositelj postupka nije prikladan ili ne može postupati.
 
 ### Mini-zamke

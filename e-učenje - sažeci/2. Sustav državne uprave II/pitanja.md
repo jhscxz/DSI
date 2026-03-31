@@ -342,7 +342,7 @@
 - Državno ravnateljstvo  
 
 **Čime se osnivaju državne upravne organizacije?**  
-- Zakonom ili uredbom, ovisno o vrsti organizacije.
+- Isključivo zakonom.
 
 **Tko je čelnik središnjeg državnog ureda?**  
 - Državni tajnik središnjeg državnog ureda.

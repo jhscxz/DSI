@@ -93,7 +93,7 @@
   - od **15. rujna do 15. prosinca**
 
 **Tko može zatražiti izvanredno zasjedanje Hrvatskog sabora?**  
-- Predsjednik Republike Hrvatske, predsjednik Vlade Republike Hrvatske ili većina zastupnika.
+- Predsjednik Republike Hrvatske, Vlada Republike Hrvatske ili većina zastupnika.
 
 **Tko još može sazvati izvanredno zasjedanje Sabora?**  
 - Predsjednik Hrvatskog sabora, uz prethodno pribavljeno mišljenje klubova zastupnika.

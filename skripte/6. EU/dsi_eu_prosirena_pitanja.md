@@ -1,6 +1,6 @@
-# DSI EU Proširena pitanja + 196 Pitanja
+# DSI EU Proširena pitanja (196)
 
-Proširena radna verzija uz `dsi_eu_sazetak.md`.
+Prošireni skup pitanja i kratkih odgovora uz `dsi_eu_sazetak.md`.
 
 ## Namjena
 - širenje osnovnog sažetka
@@ -124,24 +124,24 @@ Posebno pazi na ove razlike:
    `Isključiva, podijeljena i dopunjujuća.`
 
 30. Navedi primjer isključive nadležnosti EU.  
-   `Carinska unija ili zajednicka trgovinska politika.`
+   `Carinska unija ili zajednička trgovinska politika.`
 
 31. Navedi primjer podijeljene nadležnosti EU.  
-   `Unutarnje trziste ili okolis.`
+   `Unutarnje tržište ili okoliš.`
 
-32. Navedi primjer dopunjujuce nadležnosti EU.  
+32. Navedi primjer dopunjujuće nadležnosti EU.  
    `Kultura, turizam ili obrazovanje.`
 
-33. Koje su cetiri slobode unutarnjeg trzista?  
+33. Koje su četiri slobode unutarnjeg tržišta?  
    `Sloboda kretanja robe, osoba, usluga i kapitala.`
 
 34. Koji je akt obvezujući u cijelosti i izravno se primjenjuje u svim državama članicama?  
    `Uredba.`
 
-35. Koji akt obvezuje države članice glede rezultata koji treba postici?  
+35. Koji akt obvezuje države članice glede rezultata koji treba postići?  
    `Direktiva.`
 
-36. Koji akt može biti obvezujući, ali samo za one kojima je upucen?  
+36. Koji akt može biti obvezujući, ali samo za one kojima je upućen?  
    `Odluka.`
 
 37. Koji akti nisu pravno obvezujući?  
@@ -172,7 +172,7 @@ Posebno pazi na ove razlike:
    `Politicke, gospodarske i pravne uvjete za članstvo.`
 
 46. Tko odlučuje o otvaranju i zatvaranju pregovarackih poglavlja u pristupnom procesu?  
-   `Drzave članice kroz Vijeće, na temelju procesa proširenja EU.`
+   `Države članice kroz Vijeće, na temelju procesa proširenja EU.`
 
 47. Koji je položaj RH u odnosu na EU od 1. srpnja 2013.?  
    `Republika Hrvatska je država članica Europske unije.`
@@ -197,10 +197,10 @@ Posebno pazi na ove razlike:
 53. Tko predstavlja Uniju u vanjskim odnosima kao pravilo, osim u ZVSP-u?  
    `Europska komisija.`
 
-54. Tko vodi i koordinira zajednicku vanjsku i sigurnosnu politiku EU?  
+54. Tko vodi i koordinira zajedničku vanjsku i sigurnosnu politiku EU?  
    `Visoki predstavnik za vanjske poslove i sigurnosnu politiku.`
 
-55. Tko predsjeda Vijecem za vanjske poslove?  
+55. Tko predsjeda Vijećem za vanjske poslove?  
    `Visoki predstavnik.`
 
 56. Tko pregovara međunarodne sporazume u ime EU?  
@@ -225,10 +225,10 @@ Posebno pazi na ove razlike:
    `U Bruxellesu.`
 
 63. Gdje je sjedište Suda Europske unije?  
-   `U Luxembourgu.`
+   `U Luksemburgu.`
 
 64. Gdje je sjedište Europskog revizorskog suda?  
-   `U Luxembourgu.`
+   `U Luksemburgu.`
 
 65. Gdje je sjedište Europske središnje banke?  
    `U Frankfurtu.`
@@ -251,10 +251,10 @@ Posebno pazi na ove razlike:
 71. Tko je glas građana EU u redovnom zakonodavnom postupku?  
    `Europski parlament.`
 
-72. Što je kvalificirana većina u Vijecu EU?  
+72. Što je kvalificirana većina u Vijeću EU?  
    `55% država članica koje predstavljaju 65% stanovnistva EU.`
 
-73. Kada se u Vijecu EU odlučuje jednoglasno?  
+73. Kada se u Vijeću EU odlučuje jednoglasno?  
    `U određenim osjetljivim područjima propisanima ugovorima.`
 
 74. Što je Europsko građanstvo?  
@@ -263,11 +263,11 @@ Posebno pazi na ove razlike:
 75. Jesu li građani država članica automatski i građani EU?  
    `Da.`
 
-76. Koje se cetiri slobode unutarnjeg trzista tipično pitaju?  
+76. Koje se četiri slobode unutarnjeg tržišta tipično pitaju?  
    `Sloboda kretanja robe, osoba, usluga i kapitala.`
 
-77. Koja je najstarija zajednicka politika EU?  
-   `Zajednicka poljoprivredna politika.`
+77. Koja je najstarija zajednička politika EU?  
+   `Zajednička poljoprivredna politika.`
 
 78. Što je acquis communautaire odnosno acquis EU?  
    `Pravna stečevina Europske unije.`
@@ -318,7 +318,7 @@ Posebno pazi na ove razlike:
    `Da, mora ispuniti kriterije za uvođenje eura.`
 
 94. Što je najčešća zamka kod institucija EU?  
-   `Miješanje Europskog vijeća i Vijeca EU.`
+   `Miješanje Europskog vijeća i Vijeća EU.`
 
 95. Što je najčešća zamka kod akata EU?  
    `Miješanje uredbe i direktive.`

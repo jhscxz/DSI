@@ -1,6 +1,6 @@
-# DSI EU Cheat Sheet
+# DSI EU Sažetak
 
-Sažeta verzija priručnika `Priručnik e-učenje_EU_II_razina_listopad 2023..pdf`, složena za učenje za ispit.
+Sažetak prema priručniku `Priručnik e-učenje_EU_II_razina_listopad 2023..pdf`, prilagođen pripremi ispita iz osnova Europske unije.
 
 Namjena:
 - brzo ponavljanje po poglavljima
@@ -388,7 +388,7 @@ Zapamti:
 Gdje je:
 - `Strasbourg` = plenarne sjednice
 - `Bruxelles` = odbori i velik dio rada
-- `Luxembourg` = dio administracije
+- `Luksemburg` = dio administracije
 
 Moguća pitanja:
 - Koja je jedina izravno izabrana institucija EU?  
@@ -407,12 +407,12 @@ Trik pitanja:
 Sud EU:
 - osigurava poštovanje prava EU
 - odlučuje o prethodnim pitanjima, povredi prava EU, tužbi radi poništenja i tužbi zbog propusta
-- sjedište: `Luxembourg`
+- sjedište: `Luksemburg`
 
 Europski revizorski sud:
 - kontrolira zakonitost prihoda i rashoda proračuna EU
 - revizijska funkcija, ne donosi presude kao sud za sporove građana
-- sjedište: `Luxembourg`
+- sjedište: `Luksemburg`
 
 ESB:
 - monetarna politika europodručja
@@ -458,7 +458,7 @@ Brza matrica:
 - `tko daje suglasnost / pristanak kada je potrebno`: Europski parlament
 - `Bruxelles`: Europsko vijeće, Komisija, Vijeće EU
 - `Strasbourg`: plenarne sjednice Europskog parlamenta
-- `Luxembourg`: Sud EU, Revizorski sud, dio administracije EP-a
+- `Luksemburg`: Sud EU, Revizorski sud, dio administracije EP-a
 - `Frankfurt`: ESB
 
 ### 2.8. Ostala tijela i agencije
@@ -476,7 +476,7 @@ Trik pitanja:
 - ombudsman nije sud
 
 Za ispit vrijedi znati i tipične primjere agencija:
-- `Frontex` = europska granicna i obalna straza
+- `Frontex` = europska granična i obalna straža
 - `Europol` = policijska suradnja
 - `Eurojust` = pravosudna suradnja u kaznenim stvarima
 - `EMA` = lijekovi
@@ -951,7 +951,7 @@ Praktično za građane RH:
 
 Važno:
 - građanstvo EU ne stvara posebne osobne fiskalne obveze građana prema EU
-- građanstvo EU ne zamjenjuje hrvatsko drzavljanstvo, nego ga nadopunjuje
+- građanstvo EU ne zamjenjuje hrvatsko državljanstvo, nego ga nadopunjuje
 - prava građana EU ostvaruju se u okviru uvjeta iz ugovora i sekundarnog prava
 
 Moguća pitanja:

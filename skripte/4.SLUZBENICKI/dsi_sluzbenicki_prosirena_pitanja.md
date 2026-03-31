@@ -1,6 +1,6 @@
-# DSI Službenički Proširena pitanja + 190 Pitanja
+# DSI Službenički Proširena pitanja (190)
 
-Proširena radna verzija uz `dsi_sluzbenicki_sazetak.md`.
+Prošireni skup pitanja i kratkih odgovora uz `dsi_sluzbenicki_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva
@@ -310,10 +310,10 @@ Posebno razlikuj:
    `Najkasnije u roku od 6 mjeseci.`
 
 93. Tko može iznimno postupati po etičkoj pritužbi umjesto povjerenika za etiku?  
-   `Etičko povjerenstvo, u propisanim slučajevima.`
+   `Etičko povjerenstvo, kada je riječ o pritužbi na povjerenika za etiku, čelnika tijela koji je državni službenik ili rukovodećeg službenika kojeg imenuje Vlada.`
 
 94. Tko postupa kada povjerenik za etiku ne može ili ne treba postupati u pojedinim slučajevima?  
-   `Etičko povjerenstvo.`
+   `Zamjenik povjerenika za etiku kod duže odsutnosti ili sukoba interesa, a Etičko povjerenstvo u iznimnim slučajevima propisanima priručnikom.`
 
 95. Na koliko godina Vlada imenuje članove Etičkog povjerenstva?  
    `Na 4 godine.`
@@ -460,7 +460,7 @@ Posebno razlikuj:
    `Povjerenik za etiku.`
 
 143. U kojem roku povjerenik za etiku postupa po pritužbi?  
-   `U roku od 15 dana od primitka pritužbe.`
+   `Osnovanost pritužbe ispituje u roku od 30 dana od primitka pritužbe.`
 
 144. Tko imenuje članove Etičkog povjerenstva?  
    `Vlada RH.`
@@ -529,7 +529,7 @@ Posebno razlikuj:
    `Povjerenik za etiku.`
 
 166. U kojem roku povjerenik za etiku postupa po pritužbi?  
-   `U roku od 15 dana od primitka pritužbe.`
+   `Osnovanost pritužbe ispituje u roku od 30 dana od primitka pritužbe.`
 
 167. Na koliko godina se imenuju članovi Etičkog povjerenstva?  
    `Na četiri godine.`

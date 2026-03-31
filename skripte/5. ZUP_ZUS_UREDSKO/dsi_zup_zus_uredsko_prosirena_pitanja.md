@@ -1,6 +1,6 @@
-# DSI ZUP ZUS Uredsko Proširena pitanja + 196 Pitanja
+# DSI ZUP ZUS Uredsko Proširena pitanja (196)
 
-Proširena radna verzija uz `dsi_zup_zus_uredsko_sazetak.md`.
+Prošireni skup pitanja i kratkih odgovora uz `dsi_zup_zus_uredsko_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva
@@ -68,7 +68,7 @@ Posebno razlikuj:
    `Predajom urednog zahtjeva.`
 
 13. Kada se postupak smatra pokrenutim po službenoj dužnosti?  
-   `Kad službena osoba poduzme bilo koju radnju sa svrhom vodenja postupka.`
+   `Kad službena osoba poduzme bilo koju radnju sa svrhom vođenja postupka.`
 
 14. U kojem roku treba obavijestiti podnositelja predstavke da nema uvjeta za pokretanje postupka po službenoj dužnosti?  
    `Najkasnije u roku od 30 dana.`
@@ -167,7 +167,7 @@ Posebno razlikuj:
    `a.a.`
 
 46. U kojem roku se pokreće postupak za povrat upravne pristojbe?  
-   `U roku od 90 dana od dana placanja odnosno nastanka pretpostavki za povrat prema pravilima iz priručnika.`
+   `U roku od 90 dana od dana plaćanja odnosno nastanka pretpostavki za povrat prema pravilima iz priručnika.`
 
 47. Je li protiv rješenja o povratu pristojbe dopuštena žalba?  
    `Ne, ali se može pokrenuti upravni spor.`
@@ -292,7 +292,7 @@ Posebno razlikuj:
    `Podatke o stvaratelju akta i njegovu evidencijskom slijedu.`
 
 87. Što označava `a.a.`?  
-   `Da je predmet upucen u pismohranu.`
+   `Da je predmet upućen u pismohranu.`
 
 88. Što je rokovnik predmeta?  
    `Evidencija ili funkcionalnost za praćenje rokova u predmetima.`
