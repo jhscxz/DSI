@@ -45,6 +45,42 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+ZUP / ZUS / UREDSKO
+|
++-- ZUP
+|   +-- nacela
+|   |   +-- zakonitost, razmjernost, pomoc stranci
+|   |   +-- materijalna istina, slobodna ocjena dokaza
+|   |   +-- ucinkovitost, podaci, pravni lijek
+|   |   +-- stecena prava, jezik i pismo
+|   +-- nadleznost i sudionici
+|   +-- pokretanje postupka i dokazivanje
+|   +-- rjesenje, zakljucak, zalba, prigovor
+|
++-- ZUS
+|   +-- tuzba i upravni spor
+|   +-- upravni sud i Visoki upravni sud
+|   +-- presuda, zalba, sutnja uprave
+|
++-- rokovi i pravna zastita
+|   +-- 30 / 60 / 15 / 8 / 90 dana
+|   +-- redovni i izvanredni pravni lijekovi
+|
++-- uredsko poslovanje
+|   +-- klasifikacijska oznaka i urudzbeni broj
+|   +-- zapisnik, omotnica, rokovnik, pismohrana
+|
++-- pecat, zig i pristojbe
+    +-- fizicki i elektronicki pecat
+    +-- natpisna ploca
+    +-- upravne pristojbe
+```
+
+---
+
 ## 1. ZUP: Upravni postupak
 
 ### 1.1. Što je ZUP i kada se primjenjuje
@@ -82,13 +118,41 @@ NAČELA
 |
 +-- zakonitost
 |   +-- rješavanje na temelju zakona i propisa
+|   +-- tijelo postupa u granicama ovlasti
+|
++-- razmjernost u zaštiti prava stranaka i javnog interesa
+|   +-- mjera ne smije biti teža od potrebne
+|   +-- štiti i javni interes i prava stranke
+|
++-- pomoć stranci
+|   +-- stranku treba poučiti o ostvarivanju prava
+|   +-- ne znači zastupanje stranke
 |
 +-- učinkovitost i ekonomičnost
 |   +-- bez odgode
 |   +-- sa što manje troškova
 |
 +-- materijalna istina
-    +-- utvrditi pravo stanje stvari
+|   +-- utvrditi pravo stanje stvari
+|   +-- nije dovoljno samo ono što stranka tvrdi
+|
++-- samostalnost i slobodna ocjena dokaza
+|   +-- službena osoba samostalno vodi dokazni postupak
+|   +-- dokaze cijeni po uvjerenju, ali obrazloženo
+|
++-- pristup podacima i zaštita podataka
+|   +-- pribavljanje podataka po službenoj dužnosti
+|   +-- zaštita osobnih i zakonom zaštićenih podataka
+|
++-- pravo stranke na pravni lijek
+|   +-- žalba, prigovor i druga zaštita kad je propisana
+|
++-- zaštita stečenih prava stranaka
+|   +-- ne zadirati bez zakonske osnove u već stečena prava
+|
++-- službena uporaba jezika i pisma
+    +-- postupak se vodi na službenom jeziku i pismu
+    +-- posebna prava prema Ustavu, zakonima i međunarodnim ugovorima
 ```
 
 Deset načela:
@@ -130,8 +194,12 @@ NADLEŽNOST
 |   +-- ako ne može -> po naravi upravne stvari
 |
 +-- mjesna
-    +-- po području
-    +-- po prebivalištu / boravištu / mjestu stvari
+|   +-- po području
+|   +-- po prebivalištu / boravištu / mjestu stvari
+|
++-- sukob nadleznosti
+    +-- pozitivan / negativan
+    +-- protiv odluke nema zalbe ni upravnog spora
 ```
 
 Vrste nadležnosti:
@@ -231,6 +299,8 @@ Moguća pitanja:
 POKRETANJE POSTUPKA
 |
 +-- na zahtjev stranke
+|   +-- predajom urednog zahtjeva
+|   +-- nema uvjeta -> odbacivanje rjesenjem
 |
 +-- po službenoj dužnosti
     +-- po zakonu
@@ -241,19 +311,6 @@ POKRETANJE POSTUPKA
 Bitno:
 - prvostupanjski upravni postupak pokreće se `na zahtjev stranke` ili `po službenoj dužnosti`
 - ako nema uvjeta za pokretanje postupka po zahtjevu stranke, zahtjev se `rješenjem odbacuje`
-
-```text
-POKRETANJE
-|
-+-- zahtjev stranke
-|   +-- uredan -> postupak ide dalje
-|   +-- nema uvjeta -> odbacivanje rješenjem
-|
-+-- po službenoj dužnosti
-    +-- po zakonu
-    +-- po predstavci
-    +-- po saznanju tijela
-```
 
 Postupak se pokreće:
 - `na zahtjev stranke`

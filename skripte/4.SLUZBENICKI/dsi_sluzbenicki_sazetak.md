@@ -46,6 +46,41 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+SLUŽBENIČKI ODNOSI I ETIKA
+|
++-- popunjavanje radnih mjesta
+|   +-- plan zapošljavanja
+|   +-- javni natječaj i centralizirani sustav
+|   +-- prijam, raspored, premještaj, napredovanje
+|
++-- uvjeti i zapreke
+|   +-- opći i posebni uvjeti
+|   +-- zapreke za prijam
+|
++-- probni rad i ispit
+|   +-- probni rad
+|   +-- vježbenik
+|   +-- državni ispit i rokovi
+|
++-- status službenika
+|   +-- prava i dužnosti
+|   +-- ocjenjivanje, izobrazba, plaće
+|
++-- odgovornost i prestanak službe
+|   +-- laka i teška povreda
+|   +-- udaljenje, šteta, prestanak
+|
++-- etika
+    +-- Etički kodeks
+    +-- povjerenik za etiku
+    +-- Etičko povjerenstvo
+```
+
+---
+
 ## 1. Popunjavanje radnih mjesta u državnim tijelima
 
 ### 1.1. Načini popunjavanja
@@ -120,12 +155,18 @@ Trik pitanja:
 NATJEČAJNI TIJEK
 |
 +-- objava
+|   +-- centralizirani sustav
+|   +-- rok prijave 15 dana
 +-- prijava
-+-- testiranje
-+-- intervju
-+-- izbor kandidata
-+-- rješenje o prijmu
-+-- rješenje o rasporedu
+|   +-- elektronicnim putem
++-- provjera kandidata
+|   +-- testiranje
+|   +-- intervju
++-- odluka
+|   +-- izbor kandidata
+|   +-- rjesenje o prijmu
++-- pocetak rada
+    +-- rjesenje o rasporedu
 ```
 
 Bitno:
@@ -233,9 +274,12 @@ PROBNI RAD / VJEŽBENIK
 |
 +-- prijam na neodređeno
 |   +-- probni rad 3 mjeseca
+|   +-- ako ne zadovolji -> prestanak službe
 |
 +-- vježbenik
 |   +-- staž 12 mjeseci
+|   +-- mentor
+|   +-- državni ispit prije isteka staža
 |
 +-- određeno >= 6 mjeseci
     +-- probni rad 2 mjeseca
@@ -309,7 +353,11 @@ DRŽAVNI ISPIT
 |   +-- viša razina nakon rasporeda/premještaja = 6 mjeseci
 |
 +-- iznimka
-    +-- pravosudni ispit -> nema obveze
+|   +-- pravosudni ispit -> nema obveze
+|
++-- polaganje
+    +-- najviše 3 puta po razini
+    +-- prvo plaća tijelo, drugo i treće službenik
 ```
 
 Temeljno pravilo:
@@ -353,6 +401,9 @@ AKO ISPIT NIJE POLOŽEN
 +-- viša razina nakon rasporeda
     +-- raspored na odgovarajuće mjesto
     +-- ako nema mjesta -> raspolaganje
+|
++-- produljenje roka
+    +-- samo iz opravdanih razloga
 ```
 
 Ako službenik:
@@ -381,6 +432,7 @@ Zahtjev:
 PREMJEŠTAJ
 |
 +-- isto tijelo / drugo mjesto
+|   +-- prema potrebama sluzbe i zakonu
 |
 +-- bez suglasnosti ne može
 |   +-- > 50 km
@@ -460,6 +512,9 @@ NAPREDOVANJE
     +-- dvostruko više iskustva
     +-- 2 godine neprekidno u istom tijelu
     +-- ne za rukovodeće mjesto
+|
++-- rezultat
+    +-- raspored na vise ili slozenije radno mjesto
 ```
 
 Napredovanje se ostvaruje:
@@ -606,20 +661,47 @@ Za ispit pamti:
 POVREDE DUŽNOSTI
 |
 +-- lake
-|   +-- odlučuje čelnik tijela
+|   +-- propisuju se zakonom, uredbom i pravilnikom
+|   +-- tipično: kašnjenje, neopravdan izostanak 1 dan, neuredno čuvanje spisa
+|   +-- čelnik tijela odlučuje u prvom stupnju
 |   +-- žalba službeničkom sudu
 |
 +-- teške
+    +-- propisuju se isključivo zakonom
+    +-- tipično: zlouporaba ovlasti, nezakonit rad, povreda tajnosti, korupcija
     +-- 1. stupanj službenički sud
     +-- 2. stupanj viši službenički sud
+    +-- teže statusne posljedice i kazne
 ```
 
 `Lake povrede`
+- propisuju se `zakonom`, `uredbom Vlade RH` i `pravilnikom o unutarnjem redu`
 - o njima u pravilu odlučuje `čelnik tijela`
+- tipično obuhvaćaju lakše povrede radne discipline i urednog obavljanja poslova, primjerice:
+  - učestalo kašnjenje ili raniji odlazak s posla
+  - neopravdan izostanak s posla `jedan dan`
+  - neuredno čuvanje spisa, podataka ili dokumentacije
+  - neobavješćivanje o spriječenosti dolaska na posao
+  - ponašanje protivno Etičkom kodeksu koje `ne nanosi štetu ugledu službe`
+  - nepravodobno ili nemarno izvršenje službene zadaće bez težih posljedica
 
 `Teške povrede`
+- propisuju se `isključivo zakonom`
 - o njima u prvom stupnju odlučuje `Službenički sud`
 - u drugom stupnju `Viši službenički sud`
+- tipično obuhvaćaju ozbiljna kršenja zakonitosti, ovlasti i ugleda službe, primjerice:
+  - nezakonit rad ili propuštanje mjera radi sprječavanja nezakonitosti
+  - davanje netočnih podataka koji utječu na odluku ili uzrokuju štetu
+  - zlouporabu položaja ili prekoračenje ovlasti
+  - neovlašteno otkrivanje klasificiranih podataka
+  - ponašanje protivno Etičkom kodeksu koje `nanosi štetu ugledu službe`
+  - neopravdan izostanak s posla od `dva do četiri dana` uzastopno
+  - dolazak na posao pod utjecajem alkohola ili odbijanje testiranja
+
+Za ispit posebno pamti:
+- `lake povrede` mogu biti uređene i podzakonski
+- `teške povrede` uređuju se samo `zakonom`
+- ista činjenica može povlačiti i disciplinsku i drugu odgovornost ako su za to ispunjene pretpostavke
 
 Bitno:
 - službeničke sudove i viši službenički sud ustrojava `Vlada RH`
@@ -627,6 +709,10 @@ Bitno:
 Moguća pitanja:
 - Tko odlučuje o teškim povredama službene dužnosti?  
   `Službenički sud u prvom, Viši službenički sud u drugom stupnju.`
+- Čime se propisuju lake, a čime teške povrede službene dužnosti?  
+  `Lake zakonom, uredbom i pravilnikom; teške isključivo zakonom.`
+- Koja je brza ispitna razlika između lake i teške povrede?  
+  `Laka ide uz blaže povrede radne discipline i odlučuje o njoj čelnik, a teška uz ozbiljnije povrede zakonitosti i statusa te o njoj odlučuje službenički sud.`
 
 ### 7.2. Kazne i posljedice
 
@@ -727,6 +813,9 @@ ETIČKA PRITUŽBA
         +-- pritužba na čelnika koji je državni službenik
         +-- pritužba na rukovodećeg službenika kojeg imenuje Vlada
         +-- odgovor: 90 dana
+|
++-- temelj
+    +-- Eticki kodeks donosi Vlada RH
 ```
 
 Po pritužbama u pravilu postupa:
@@ -877,25 +966,25 @@ Ako to znaš sigurno, pokrio si većinu standardnih pitanja i zamki iz ovog pred
 - rezultati testiranja vrijede `3 godine`
   Logika: time se izbjegava nepotrebno ponavljanje istih provjera sposobnosti.
 - izbor kandidata obavlja se najkasnije u roku od `3 mjeseca`
-  Logika: postupak zapošljavanja ne smije ostati otvoren neograniceno dugo.
+  Logika: postupak zapošljavanja ne smije ostati otvoren neograničeno dugo.
 - dostava rješenja smatra se obavljenom istekom `osmoga dana` od objave
-  Logika: javna objava omogućuje ekonomicniju dostavu većem broju kandidata.
+  Logika: javna objava omogućuje ekonomičniju dostavu većem broju kandidata.
 - žalba Odboru za državnu službu podnosi se u roku od `15 dana`
   Logika: daje se razumno vrijeme za pravnu zaštitu bez zastoja postupka.
 - zapreke za prijam traju `4 godine` ili `2 godine`, ovisno o razlogu
-  Logika: teže povrede i tezi načini prestanka službe povlaće dulju zabranu novog prijma.
+  Logika: teže povrede i teži načini prestanka službe povlače dulju zabranu novog prijma.
 - probni rad je `3 mjeseca`
   Logika: u tom razdoblju tijelo provjerava odgovara li službenik stvarnim zahtjevima radnog mjesta.
 - vježbenički staž traje `12 mjeseci`
-  Logika: Vježbenik tek stjeće prakticno iskustvo pa treba dulje uvodno razdoblje.
+  Logika: vježbenik tek stječe praktično iskustvo pa treba dulje uvodno razdoblje.
 - za prijam na određeno vrijeme od najmanje `6 mjeseci`, probni rad je `2 mjeseca`
-  Logika: kod kraceg radnog odnosa provjera mora biti kraca i prilagodena trajanju službe.
+  Logika: kod kraćeg radnog odnosa provjera mora biti kraća i prilagođena trajanju službe.
 - rješenje o prestanku zbog nezadovoljavanja na probnom radu mora se donijeti najkasnije u `15 dana` od isteka probnog rada
-  Logika: ocjena probnog rada mora biti donesena odmah nakon zavrsetka probnog razdoblja.
+  Logika: ocjena probnog rada mora biti donesena odmah nakon završetka probnog razdoblja.
 - državni ispit se u pravilu mora položiti u roku od `1 godine` od početka rada
   Logika: službenik mora u razumnom roku steći formalnu potvrdu znanja za rad u službi.
 - kod rasporeda ili premještaja na mjesto više razine ispita rok je `6 mjeseci`
-  Logika: službenik vec radi u sustavu pa se od njega traži brze uskladivanje s visim zahtjevima mjesta.
+  Logika: službenik već radi u sustavu pa se od njega traži brže usklađivanje s višim zahtjevima mjesta.
 - zahtjev za produženje roka za državni ispit podnosi se najkasnije do isteka roka
   Logika: produljenje služi opravdanom odgađanju, a ne naknadnom saniranju propusta.
 - nakon novog pravilnika rok za raspored ili stavljanje na raspolaganje je `2 mjeseca`

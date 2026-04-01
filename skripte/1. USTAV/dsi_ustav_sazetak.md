@@ -45,6 +45,43 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+USTAV
+|
++-- temeljna ustavna određenja
+|   +-- Ustav, Izvorišne osnove, najviše vrednote
+|   +-- narod, suverenitet, dioba vlasti, ustavnost i zakonitost
+|
++-- ustavni sustav i međunarodni odnosi
+|   +-- Ustavni sud
+|   +-- međunarodni ugovori, savezi, EU
+|
++-- tijela državne vlasti
+|   +-- Hrvatski sabor
+|   +-- Predsjednik Republike
+|   +-- Vlada RH
+|   +-- sudovi i DORH
+|
++-- ljudska prava i slobode
+|   +-- osobna i politička prava
+|   +-- gospodarska, socijalna i kulturna prava
+|   +-- ograničenja prava i razmjernost
+|
++-- posebna zaštitna područja
+|   +-- nacionalne manjine
+|   +-- pristup informacijama
+|   +-- zaštita osobnih podataka
+|   +-- zabrana diskriminacije i ravnopravnost spolova
+|
++-- izbori i referendum
+    +-- izborni sustav, birači i izborne jedinice
+    +-- državni i lokalni referendum
+```
+
+---
+
 ## 1. Temeljna ustavna određenja
 
 ### 1.1. Što je Ustav
@@ -432,13 +469,20 @@ REFERENDUM
 |   +-- promjena Ustava
 |   +-- zakon
 |   +-- drugo pitanje iz djelokruga
+|   +-- odluka obvezuje ako vecina glasovalih glasa za
 |
 +-- raspisuje Predsjednik RH
 |   +-- prijedlog Vlade
 |   +-- supotpis predsjednika Vlade
+|   +-- promjena Ustava ili pitanje vazno za opstojnost RH
 |
 +-- mora raspisati Sabor
-    +-- ako traži 10 % birača
+|   +-- ako trazi 10 % ukupnog broja biraca
+|
++-- drzavni referendum
+    +-- neposredno odlucivanje gradana
+    +-- vecina biraca koji su glasovali
+    +-- odluka je obvezatna
 ```
 
 Državni referendum mogu raspisati:
@@ -493,19 +537,23 @@ Trik pitanja:
 PREDSJEDNIK RH
 |
 +-- samostalno
+|   +-- raspisuje izbore za Sabor i saziva prvo zasjedanje
 |   +-- mandat za sastavljanje Vlade
 |   +-- pomilovanja
 |   +-- odlikovanja i priznanja
+|   +-- vrhovni zapovjednik OSRH
 |
 +-- uz prijedlog / supotpis
 |   +-- referendum
 |   +-- raspuštanje Sabora
 |   +-- uredbe sa zakonskom snagom
 |   +-- diplomatske misije i šefovi misija
+|   +-- dio akata u obrani i vanjskoj politici
 |
 +-- spriječenost
     +-- kraća -> predsjednik Sabora po povjeri
     +-- duža -> predsjednik Sabora po odluci Ustavnog suda
+    +-- smrt / ostavka / prestanak -> predsjednik Sabora po sili Ustava
 ```
 
 Položaj:
@@ -821,10 +869,15 @@ NACIONALNE MANJINE
 +-- vijeće
 |   +-- 1,5 % stanovništva ili >200 u općini/gradu
 |   +-- >500 u županiji
+|   +-- opcina 10 / grad 15 / zupanija 25 clanova
 |
 +-- predstavnik
 |   +-- ako nema uvjeta za vijeće
 |   +-- najmanje 100 pripadnika manjine
+|
++-- Savjet za nacionalne manjine
+|   +-- imenuje ga Vlada RH
+|   +-- mandat 4 godine
 |
 +-- Sabor, XII. jedinica
     +-- 3 srpska
@@ -1105,6 +1158,7 @@ IZBORNE JEDINICE
 +-- I. - X.
 |   +-- teritorijalne jedinice u RH
 |   +-- po 14 zastupnika
+|   +-- proporcionalni sustav + prag 5 %
 |
 +-- XI.
 |   +-- birači bez prebivališta u RH
@@ -1113,6 +1167,7 @@ IZBORNE JEDINICE
 +-- XII.
     +-- pripadnici nacionalnih manjina
     +-- 8 zastupnika
+    +-- posebna manjinska mjesta
 ```
 
 Raspisuje:
@@ -1209,10 +1264,12 @@ IZBORNA TIJELA
 |
 +-- gradska i općinska izborna povjerenstva
 |   +-- obavljaju poslove koje im povjere povjerenstva izbornih jedinica
+|   +-- posebice na lokalnoj razini
 |
 +-- birački odbori
     +-- neposredno provode glasovanje
     +-- osiguravaju pravilnost i tajnost glasovanja
+    +-- utvrduju rezultat na birackom mjestu
 ```
 
 Bitno:

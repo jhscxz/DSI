@@ -44,6 +44,43 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+LPRS
+|
++-- sustav i izvori
+|   +-- Ustav, povelja, zakoni
+|   +-- opcina, grad, zupanija, Grad Zagreb
+|
++-- djelokrug i akti
+|   +-- samoupravni djelokrug
+|   +-- povjereni poslovi
+|   +-- statut, poslovnik, proracun, opci akti
+|
++-- tijela jedinica
+|   +-- predstavnicko tijelo
+|   +-- izvrsno tijelo
+|   +-- upravna tijela i pročelnik
+|
++-- izbori i mandati
+|   +-- lokalni izbori
+|   +-- mandat, mirovanje, prestanak
+|   +-- prijevremeni izbori i povjerenik
+|
++-- gradani i mjesna samouprava
+|   +-- referendum i opoziv
+|   +-- zbor gradana, peticije, inicijative
+|   +-- mjesni odbori i drugi oblici
+|
++-- nadzor
+    +-- nadzor zakonitosti
+    +-- raspustanje predstavnickog tijela
+    +-- sudska zastita i zastita prava jedinica
+```
+
+---
+
 ## 1. Sustav lokalne i područne (regionalne) samouprave
 
 ### 1.1. Ustavni i zakonski temelj
@@ -553,6 +590,9 @@ POVJERAVANJE POSLOVA
 +-- kad županija povjerava poslove
     +-- treba propisana suglasnost
     +-- nadzor ostaje po zakonu
+|
++-- financiranje
+    +-- za povjerene drzavne poslove sredstva u pravilu iz drzavnog proracuna
 ```
 
 Bitno:
@@ -566,9 +606,16 @@ LOKALNI IZBORI
 |
 +-- predstavničko tijelo
 |   +-- razmjerni sustav
+|   +-- izborni prag 5 %
 |
 +-- izvršno tijelo
 |   +-- većinski sustav
+|   +-- drugi krug za 14 dana ako nema potrebne vecine
+|
++-- raspisivanje i rokovi
+|   +-- raspisuje Vlada RH
+|   +-- od raspisivanja do izbora 30 do 60 dana
+|   +-- redovni izbori treca nedjelja u svibnju svake cetvrte godine
 |
 +-- iznimka koju pamtiš
     +-- Grad Zagreb = grad i županija

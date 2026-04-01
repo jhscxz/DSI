@@ -1,11 +1,12 @@
-# DSI Sustav Državne Uprave Proširena pitanja (196)
+# DSI Sustav Državne Uprave Proširena pitanja (209)
 
 Prošireni skup pitanja i kratkih odgovora uz `dsi_sustav_drzavne_uprave_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva
-- 196 mogućih pitanja s kratkim odgovorima
+- 209 mogućih pitanja s kratkim odgovorima
 - fine formulacije i klasične zamke
+- zadnji blok pitanja širi gradivo na odnose između akata, nadzora i ustrojstva
 
 ## Što dodatno učiti
 
@@ -31,7 +32,7 @@ Posebno razlikuj:
 - `načelnik` vodi sektor, a `voditelj` gotovo sve druge niže jedinice
 - posebne ustrojstvene jedinice nisu isto što i redovna hijerarhija `sektor / služba / odjel`
 
-## 190 mogućih pitanja
+## 209 mogućih pitanja
 
 1. Koja su dva temeljna zakona sustava državne uprave?  
    `Zakon o ustrojstvu i djelokrugu tijela državne uprave i Zakon o sustavu državne uprave.`
@@ -491,8 +492,8 @@ Posebno razlikuj:
 152. Tko donosi uredbu o unutarnjem ustrojstvu tijela državne uprave?  
    `Vlada Republike Hrvatske.`
 
-153. Tko donosi pravilnik o unutarnjem redu ministarstva?  
-   `Ministar.`
+153. Tko donosi pravilnik o unutarnjem redu u ministarstvu i čemu taj akt služi?  
+   `Ministar, a pravilnik sluzi razradi radnih mjesta, poslova, broja izvrsitelja i uvjeta za raspored.`
 
 154. Jesu li područne jedinice samostalna tijela državne uprave?  
    `Ne.`
@@ -506,8 +507,8 @@ Posebno razlikuj:
 157. Kada se u pravilu ustrojava državna upravna organizacija?  
    `Kad upravno područje traži osobitu samostalnost ili posebne uvjete rada.`
 
-158. Tko upravlja ministarstvom?  
-   `Ministar.`
+158. Tko upravlja državnom upravnom organizacijom kao samostalnim tijelom državne uprave?  
+   `Njezin celnik, koji je u pravilu drzavni duznosnik.`
 
 159. Tko može zamjenjivati ministra u slučaju odsutnosti ili spriječenosti?  
    `Državni tajnik, ako je tako određeno.`
@@ -515,8 +516,8 @@ Posebno razlikuj:
 160. Što je osnovna razlika između dužnosnika i državnog službenika?  
    `Dužnosnik obnaša političku ili javnu dužnost, a državni službenik obavlja stručne poslove u državnoj upravi.`
 
-161. Jesu li namještenici službene osobe?  
-   `Ne.`
+161. Mogu li namještenici obavljati poslove službene osobe u upravnom postupanju?  
+   `Ne, jer sluzbene osobe u pravilu nisu namjestenici.`
 
 162. Koja je osnovna razlika između upravnog i inspekcijskog nadzora?  
    `Upravni nadzor prati zakonitost rada i akata, a inspekcijski nadzor neposredno provjerava provedbu propisa kod nadziranih subjekata.`
@@ -524,8 +525,8 @@ Posebno razlikuj:
 163. Što je javna ustanova?  
    `Ustanova osnovana za trajno obavljanje javne službe.`
 
-164. Je li javna ustanova tijelo državne uprave?  
-   `Ne.`
+164. Po čemu se javna ustanova najlakše razlikuje od tijela državne uprave?  
+   `Javna ustanova obavlja javnu sluzbu kao ustanova, a tijelo drzavne uprave obavlja poslove drzavne uprave u okviru drzavne organizacije.`
 
 165. Tko vodi unutarnju i vanjsku politiku RH?  
    `Vlada Republike Hrvatske.`
@@ -536,8 +537,8 @@ Posebno razlikuj:
 167. Koji se akti Vlade RH najčešće pitaju na ispitu?  
    `Uredbe, odluke, rješenja i zaključci.`
 
-168. Što je Uži kabinet Vlade?  
-   `Uži radni sastav Vlade za usklađivanje i pripremu njezina rada.`
+168. Koja je praktična uloga Užeg kabineta Vlade u sustavu rada Vlade RH?  
+   `Uskladivanje stajalista i priprema pitanja prije rasprave i odlucivanja Vlade na sjednici.`
 
 169. Što je najčešća pogreška kod pitanja o unutarnjem ustrojstvu?  
    `Miješanje uredbe o unutarnjem ustrojstvu s pravilnikom o unutarnjem redu.`
@@ -605,20 +606,59 @@ Posebno razlikuj:
 190. Što rukovoditelji ustrojstvenih jedinica predlažu i što supotpisuju?  
    `Predlažu raspored i plan rada te supotpisuju nacrte akata iz svog djelokruga.`
 
-191. U kojem roku nadležno tijelo državne uprave mora odgovoriti na predstavku?  
+191. Kako izgleda puni lanac od zakona do rada pojedinog radnog mjesta u tijelu državne uprave?  
+   `Zakon određuje ustrojstvo i djelokrug, uredba unutarnje ustrojstvo, a pravilnik o unutarnjem redu konkretna radna mjesta, uvjete i opis poslova.`
+
+192. Koje su tipične ovlasti tijela koje provodi upravni nadzor nad drugim tijelom?  
+   `Može tražiti izvješća i podatke, pregledavati akte i postupanje te narediti otklanjanje utvrđenih nezakonitosti i nedostataka u okviru zakona.`
+
+193. Koja je bitna razlika između provedbenog propisa, naredbe i internog općeg akta?  
+   `Provedbeni propis razrađuje zakon ili preuzima obvezujuće pravo EU, naredba zapovijeda određeno postupanje u okviru ovlasti, a interni opći akt vrijedi unutar tijela.`
+
+194. Koje se funkcije u sustavu državne uprave najčešće miješaju na ispitu kad se pita tko rukovodi, a tko politički vodi?  
+   `Ministar ili drugi čelnik politički vodi tijelo, a glavni tajnik, ravnatelj, načelnik i voditelj rukovode pojedinim dijelovima sustava prema razini ustroja.`
+
+195. Koje se poslove državne uprave ne smije poistovjetiti s povjerenim poslovima ili s internim poslovima tijela?  
+   `Provedbu državne politike, neposrednu provedbu zakona, inspekcijski nadzor i upravni nadzor, jer su to jezgreni poslovi državne uprave.`
+
+196. Što treba znati kao cjelinu o pravilniku o unutarnjem redu?  
+   `Njime se razrađuju unutarnje ustrojstvo, nazivi radnih mjesta, opisi poslova, broj izvršitelja i uvjeti za raspored, ali ne osniva tijelo niti utvrđuje njegov djelokrug.`
+
+197. Što znači obveza pribavljanja podataka iz službenih evidencija po službenoj dužnosti?  
+   `Da tijela državne uprave ne smiju nepotrebno tražiti od stranaka podatke koje mogu sama pribaviti iz službenih evidencija.`
+
+198. Tko odgovara za štetu nastalu nezakonitim ili nepravilnim obavljanjem poslova državne uprave prema trećima?  
+   `Republika Hrvatska.`
+
+199. U kojem roku nadležno tijelo državne uprave odgovara na predstavku građana?  
    `U roku od 30 dana od zaprimanja predstavke.`
 
-192. Što tijelo koje provodi upravni nadzor može narediti nadziranom tijelu?  
-   `Otklanjanje utvrđenih nedostataka, uz druge mjere propisane zakonom.`
+200. Koja je razlika između upravnog i inspekcijskog nadzora u najširem smislu?  
+   `Upravni nadzor prati zakonitost rada tijela i akata, a inspekcijski nadzor neposredno provjerava provedbu propisa kod nadziranih subjekata.`
 
-193. Tko ne može biti ovlašten za donošenje provedbenog propisa kojim se preuzima pravno obvezujući akt Europske unije?  
-   `Ravnatelj.`
+201. Tko može biti ovlašten donijeti provedbeni propis kojim se preuzima pravno obvezujući akt EU?  
+   `Čelnik tijela državne uprave ako za to postoji izričita zakonska ovlast, ali ne ravnatelj kao takav bez takve ovlasti.`
 
-194. Koji podzakonski propis nije provedbeni propis?  
-   `Naredba.`
+202. Koja je osnovna zadaća glavnog tajništva ministarstva?  
+   `Obavljanje zajedničkih, organizacijskih, kadrovskih, financijskih i drugih potpornih poslova za rad ministarstva.`
 
-195. Koji akt može najranije stupiti na snagu danom donošenja?  
-   `Naredba, u zakonom dopuštenoj iznimci.`
+203. Što su područne jedinice tijela državne uprave?  
+   `Organizacijski oblici rada izvan sjedišta tijela radi obavljanja poslova na terenu, ali nisu zasebna tijela državne uprave.`
 
-196. Što se pravilnikom o unutarnjem redu ne uređuje?  
-   `Način upravljanja ustrojstvenim jedinicama kao klasična pogrešna tvrdnja u oglednim pitanjima.`
+204. Što treba povezati kad se na ispitu zajedno pitaju uredba o unutarnjem ustrojstvu i pravilnik o unutarnjem redu?  
+   `Uredba postavlja unutarnju strukturu tijela, a pravilnik konkretizira radna mjesta, poslove i uvjete unutar te strukture.`
+
+205. Koja je uloga stalnih radnih tijela Vlade RH?  
+   `Trajno pripremati prijedloge i razmatrati pitanja iz određenih područja prije odlučivanja Vlade.`
+
+206. Kako kao cjelinu gledati odnos tijela državne uprave, javnih ustanova i pravnih osoba s javnim ovlastima?  
+   `To su različiti oblici javnog djelovanja: tijela državne uprave obavljaju poslove državne uprave, javne ustanove javne službe, a pravne osobe s javnim ovlastima pojedine javne ovlasti na temelju zakona.`
+
+207. Kako kao cjelinu treba povezati ustrojstvo tijela, njihove akte i poslove koje obavljaju?  
+   `Zakon određuje tijelo i djelokrug, uredba unutarnji ustroj, pravilnik radna mjesta, a poslovi se zatim obavljaju kroz upravne i stručne funkcije koje zakon prepoznaje.`
+
+208. Koje se tri razine najčešće moraju razlikovati u pitanjima o državnoj upravi?  
+   `Političko vođenje tijela, rukovođenje unutarnjim ustrojstvenim jedinicama i neposredno obavljanje upravnih poslova.`
+
+209. Kako najšire povezati državnu upravu, Vladu RH i javne ovlasti izvan državnih tijela?  
+   `Vlada usmjerava i vodi sustav, tijela državne uprave obavljaju jezgrene upravne poslove, a dio javnih ovlasti može se zakonom povjeriti drugim nositeljima.`

@@ -45,6 +45,38 @@ onda imaš jezgru za prolaz i dobar dio pitanja koja ruše ispit.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+EU
+|
++-- povijest i razvoj
+|   +-- EZUC, EEZ, EURATOM
+|   +-- Maastricht, Nica, Lisabon
+|   +-- prosirenja
+|
++-- institucije i pravo
+|   +-- Europsko vijece, Vijece EU, Komisija, Parlament
+|   +-- Sud EU, ESB, Revizorski sud
+|   +-- primarno i sekundarno pravo
+|
++-- nadleznosti i politike
+|   +-- iskljuciva, podijeljena, dopunjujuca
+|   +-- unutarnje trziste i 4 slobode
+|   +-- proracun, fondovi, eurozona
+|
++-- vanjski odnosi i pristupanje
+|   +-- medunarodni sporazumi
+|   +-- Kopenhaski kriteriji, screening, acquis
+|
++-- RH i EU
+    +-- clanstvo, Schengen, euro
+    +-- koordinacija europskih poslova u RH
+    +-- prava gradana RH kao gradana EU
+```
+
+---
+
 ## 1. Povijest i razvoj Europske unije
 
 ### 1.1. Nastanak i razvoj
@@ -97,10 +129,20 @@ UGOVORI
 |   +-- EEZ
 |   +-- Euratom
 |
++-- Maastricht
+|   +-- nastaje EU
+|   +-- gradanstvo EU
+|   +-- EMU i ZVSP
+|
++-- Nica
+|   +-- institucionalne pripreme za prosirenje
+|
 +-- Lisabon
     +-- pravna osobnost EU
     +-- predsjednik Europskog vijeća
     +-- visoki predstavnik
+    +-- Europsko vijece postaje institucija
+    +-- dvostruka vecina
 ```
 
 Obavezno znati:
@@ -179,9 +221,14 @@ PRISTUPANJE EU
 |   +-- Europsko vijeće -> kandidat
 |
 +-- pregovori i završetak
-    +-- screening
-    +-- pregovori po poglavljima
-    +-- EP suglasnost + Vijeće EU jednoglasno
+|   +-- screening
+|   +-- pregovori po poglavljima
+|   +-- Ugovor o pristupanju
+|   +-- EP suglasnost + Vijeće EU jednoglasno
+|
++-- ulazak u clanstvo
+    +-- ratifikacija
+    +-- stupanje ugovora na snagu
 ```
 
 Kriteriji:
@@ -257,16 +304,20 @@ INSTITUCIJE
 |
 +-- Europsko vijeće
 |   +-- politički smjer
+|   +-- sefovi drzava ili vlada
 |
 +-- Komisija
 |   +-- prijedlog akata
 |   +-- čuvar ugovora
+|   +-- opci interes Unije
 |
 +-- Vijeće EU
 |   +-- države članice
+|   +-- ministri drzava clanica
 |
 +-- Parlament
     +-- građani EU
+    +-- izravno izabrana institucija
 ```
 
 4 institucije koje moraš razlikovati bez greške:
@@ -516,9 +567,11 @@ SEKUNDARNO PRAVO
 |
 +-- uredba
 |   +-- vrijedi neposredno
+|   +-- obvezuje u cijelosti
 |
 +-- direktiva
 |   +-- traži prenošenje
+|   +-- obvezuje glede rezultata
 |
 +-- odluka
 |   +-- obvezuje adresata

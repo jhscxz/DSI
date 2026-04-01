@@ -1,11 +1,12 @@
-# DSI EU Proširena pitanja (196)
+# DSI EU Proširena pitanja (209)
 
 Prošireni skup pitanja i kratkih odgovora uz `dsi_eu_sazetak.md`.
 
 ## Namjena
 - širenje osnovnog sažetka
 - dodatne fine formulacije koje se lako miješaju
-- 196 mogućih pitanja s kratkim odgovorima
+- 209 mogućih pitanja s kratkim odgovorima
+- završna pitanja šire gradivo na odnose institucija, prava i pristupanje, a ne samo na kratke definicije
 
 ## Što dodatno učiti
 
@@ -34,7 +35,7 @@ Posebno pazi na ove razlike:
 - Kad pitanje glasi `gdje sjede šefovi država ili vlada`, odgovor je `Europsko vijeće`
 - Kad pitanje glasi `koji sud štiti poštivanje prava EU`, odgovor je `Sud Europske unije`
 
-## 190 mogućih pitanja
+## 209 mogućih pitanja
 
 1. Koji je glavni povijesni motiv europske integracije nakon Drugog svjetskog rata?  
    `Očuvanje mira i sprječavanje novih ratova.`
@@ -371,8 +372,8 @@ Posebno pazi na ove razlike:
 111. U kojem tijelu sjede ministri država članica kada odlučuju o zakonodavstvu EU?  
    `U Vijeću Europske unije.`
 
-112. Što je kvalificirana većina u Vijeću EU?  
-   `55% država članica koje predstavljaju najmanje 65% stanovništva EU.`
+112. Na kojem se načelu u biti temelji kvalificirana većina u Vijeću EU?  
+   `Na dvostrukoj vecini drzava clanica i stanovnistva Europske unije.`
 
 113. Koja su savjetodavna tijela EU koja se često pitaju?  
    `Europski gospodarski i socijalni odbor i Odbor regija.`
@@ -422,8 +423,8 @@ Posebno pazi na ove razlike:
 128. Što je provedbeni akt?  
    `Nezakonodavni akt kojim se osiguravaju ujednačeni uvjeti provedbe obvezujućih akata EU.`
 
-129. Koje su četiri slobode unutarnjeg tržišta?  
-   `Sloboda kretanja robe, osoba, usluga i kapitala.`
+129. Kako se četiri slobode povezuju s jedinstvenim unutarnjim tržištem EU?  
+   `One cine njegovu jezgru jer omogucuju slobodno kretanje robe, osoba, usluga i kapitala medu drzavama clanicama.`
 
 130. Što je Schengensko područje?  
    `Područje bez unutarnjih graničnih kontrola.`
@@ -452,8 +453,8 @@ Posebno pazi na ove razlike:
 138. Što je višegodišnji financijski okvir?  
    `Sedmogodišnji okvir planiranja rashoda EU.`
 
-139. Koja je najstarija zajednička politika EU?  
-   `Zajednička poljoprivredna politika.`
+139. Zašto se zajednička poljoprivredna politika često ističe kao temeljna i najstarija zajednička politika EU?  
+   `Zato sto je medu prvim potpuno razvijenim zajednickim politikama i tradicionalno zauzima vazno mjesto u proracunu i funkcioniranju Unije.`
 
 140. Koji fond podupire regionalni razvoj?  
    `Europski fond za regionalni razvoj.`
@@ -563,8 +564,8 @@ Posebno pazi na ove razlike:
 175. Tko nadzire zakonitost trošenja proračuna EU-a?  
    `Europski revizorski sud.`
 
-176. Što je višegodišnji financijski okvir?  
-   `Okvir planiranja rashoda EU koji traje sedam godina.`
+176. Kako se višegodišnji financijski okvir razlikuje od godišnjeg proračuna EU?  
+   `Visegodisnji financijski okvir postavlja dugorocne granice i prioritete rashoda, a godisnji proracun konkretizira prihode i rashode za pojedinu godinu.`
 
 177. Koliko traje višegodišnji financijski okvir prema priručniku?  
    `Sedam godina.`
@@ -581,11 +582,11 @@ Posebno pazi na ove razlike:
 181. Koliko građana najmanje treba za europsku građansku inicijativu?  
    `Najmanje milijun građana.`
 
-182. Što je screening u pristupnom procesu?  
-   `Analitički pregled usklađenosti nacionalnog zakonodavstva s pravnom stečevinom EU.`
+182. Kada u postupku pristupanja dolazi screening i čemu služi?  
+   `Dolazi nakon otvaranja pristupnog procesa kao analiticki pregled uskladenosti nacionalnog zakonodavstva s pravnom stecevinom EU.`
 
-183. Što je acquis communautaire?  
-   `Pravna stečevina Europske unije.`
+183. Što sve obuhvaća acquis communautaire osim pisanih propisa EU?  
+   `Obuhvaca i nacela prava EU, sudsku praksu, politike, medunarodne sporazume i druge obveze koje drzave clanice prihvacaju.`
 
 184. Kada je Hrvatska ušla u Schengen?  
    `1. siječnja 2023.`
@@ -593,20 +594,20 @@ Posebno pazi na ove razlike:
 185. Kada je Hrvatska uvela euro?  
    `1. siječnja 2023.`
 
-186. Što je najčešća pogreška kod pitanja o proračunu EU?  
-   `Miješanje institucije koja predlaže proračun s institucijama koje ga donose i tijelom koje nadzire trošenje.`
+186. Kako kao cjelinu povezati proračun EU, višegodišnji financijski okvir i nadzor trošenja?  
+   `Komisija predlaže proračun, Parlament i Vijeće EU ga donose u okviru višegodišnjeg financijskog okvira, a zakonitost i pravilnost rashoda nadzire Revizorski sud.`
 
-187. Što je najčešća pogreška kod pitanja o koordinaciji europskih poslova u RH?  
-   `Podcjenjivanje uloge Odbora za europske poslove i odnosa Sabora i Vlade u europskim poslovima.`
+187. Kako Republika Hrvatska unutar svog ustavnog sustava sudjeluje u europskim poslovima?  
+   `Kroz suradnju Vlade RH i Hrvatskog sabora, osobito preko Odbora za europske poslove i nacionalnih mehanizama za usklađivanje stajališta prema institucijama EU.`
 
-188. Što je najčešća pogreška kod pitanja o eurozoni i Schengenu?  
-   `Pretpostavka da su to isti integracijski krugovi, iako se odnose na različita područja.`
+188. Kako najjednostavnije razlikovati Schengen, europodručje i članstvo u Europskoj uniji?  
+   `Članstvo u EU je najviši integracijski okvir, Schengen se odnosi na područje bez unutarnjih graničnih kontrola, a europodručje na zajedničku valutu euro.`
 
-189. Što je najčešća pogreška kod pitanja o acquisu i screeningu?  
-   `Miješanje pravne stečevine kao sadržaja s screeningom kao postupkom provjere usklađenosti.`
+189. Kako treba povezati acquis, screening i pregovaračka poglavlja u postupku pristupanja?  
+   `Acquis je sadržaj prava EU koji kandidat mora preuzeti, screening provjerava stupanj usklađenosti, a pregovaračka poglavlja strukturiraju put prilagodbe i zatvaranja obveza.`
 
-190. Što je najčešća pogreška kod pitanja o građanstvu EU?  
-   `Pretpostavka da građanstvo EU zamjenjuje nacionalno državljanstvo, a ne da ga nadopunjuje.`
+190. Što građanstvo EU daje građaninu države članice u najširem smislu?  
+   `Dodatni skup prava uz nacionalno državljanstvo, poput slobodnog kretanja, političkih prava na europskoj i lokalnoj razini te konzularne i predstavničke zaštite u okviru EU.`
 
 191. Što je bio cilj osnivanja Europske ekonomske zajednice 1957. godine?  
    `Izgradnja šireg zajedničkog tržišta.`
@@ -625,3 +626,42 @@ Posebno pazi na ove razlike:
 
 196. Kada se uredba EU izravno primjenjuje ako sama ne određuje drukčiji datum početka primjene?  
    `Dvadesetog dana od objave u Službenom listu Europske unije.`
+
+197. Što je prethodni postupak pred Sudom Europske unije u najširem smislu?  
+   `Postupak u kojem nacionalni sud traži tumačenje ili ocjenu valjanosti prava EU od Suda Europske unije.`
+
+198. Što je postupak zbog povrede prava EU protiv države članice?  
+   `Postupak kojim se ispituje je li država članica povrijedila obveze iz prava EU, najčešće na inicijativu Komisije.`
+
+199. Koja je uloga nacionalnih parlamenata u nadzoru supsidijarnosti?  
+   `Mogu upozoriti da prijedlog akta EU nije u skladu s načelom supsidijarnosti u roku propisanom ugovorima.`
+
+200. Što znači da je Europska komisija čuvarica ugovora?  
+   `Da nadzire primjenu prava EU i pokreće odgovarajuće postupke kada države članice ne ispunjavaju obveze.`
+
+201. Kako se razlikuju Europsko vijeće i Vijeće Europske unije po sastavu?  
+   `Europsko vijeće čine šefovi država ili vlada, a Vijeće EU ministri država članica prema predmetnom području.`
+
+202. Što treba znati o odnosu Europske središnje banke i europodručja?  
+   `ESB vodi monetarnu politiku europodručja, a ne cijele EU ako neka država članica nije uvela euro.`
+
+203. Koja je uloga Odbora regija u institucionalnom sustavu EU?  
+   `To je savjetodavno tijelo koje predstavlja lokalnu i regionalnu razinu vlasti u postupcima EU.`
+
+204. Što građaninu EU u praksi znači pravo slobodnog kretanja?  
+   `Pravo putovanja, boravka, rada i preseljenja u druge države članice pod uvjetima prava EU.`
+
+205. Kako su povezani proširenje EU, screening i zatvaranje pregovaračkih poglavlja?  
+   `Screening pokazuje stupanj usklađenosti, poglavlja strukturiraju pregovore, a njihovo zatvaranje označava da je kandidat dovoljno usklađen u pojedinom području.`
+
+206. Kako kao cjelinu treba gledati odnos prava EU i nacionalnog prava država članica?  
+   `Pravo EU ima načela nadređenosti i izravnog učinka u područjima svoje primjene, ali se uvijek promatra kroz ovlasti dodijeljene ugovorima i nacionalnu provedbu ondje gdje je potrebna.`
+
+207. Kako kao cjelinu povezati institucije EU, pravne akte i zakonodavni postupak?  
+   `Institucije imaju podijeljene uloge predlaganja, odlučivanja, nadzora i tumačenja, a pravni akti nastaju kroz postupke koji odražavaju te institucionalne odnose.`
+
+208. Što najšire povezuje unutarnje tržište, Schengen, europodručje i građanstvo EU?  
+   `Riječ je o različitim slojevima europske integracije koji zajedno oblikuju slobodno kretanje, gospodarsku povezanost i prava građana Unije.`
+
+209. Kako najšire povezati pristupanje EU, acquis i položaj Republike Hrvatske kao članice?  
+   `Pristupanje traži prihvaćanje i provedbu acquisa, a članstvo znači trajno sudjelovanje RH u institucijama, pravima i obvezama europskog pravnog i političkog sustava.`

@@ -1,11 +1,12 @@
-# DSI ZUP ZUS Uredsko Proširena pitanja (196)
+# DSI ZUP ZUS Uredsko Proširena pitanja (209)
 
 Prošireni skup pitanja i kratkih odgovora uz `dsi_zup_zus_uredsko_sazetak.md`.
 
 ## Namjena
 - dodatno širenje gradiva
-- 196 mogućih pitanja s kratkim odgovorima
+- 209 mogućih pitanja s kratkim odgovorima
 - fine formulacije i tipične zamke
+- završna pitanja povezuju načela, rokove, pravne lijekove i uredsko poslovanje u šire cjeline
 
 ## Što dodatno učiti
 
@@ -29,7 +30,7 @@ Posebno razlikuj:
 - klasifikacijska oznaka označava sadržaj predmeta, a urudžbeni broj stvaratelja akta
 - nestanak pečata ima svoj poseban rok od 8 dana
 
-## 190 mogućih pitanja
+## 209 mogućih pitanja
 
 1. Što je ZUP?  
    `Opći propis upravnog postupka.`
@@ -429,11 +430,11 @@ Posebno razlikuj:
 132. Pokreće li se upravni spor tužbom ili žalbom?  
    `Tužbom.`
 
-133. Koji je opći rok za podnošenje tužbe u upravnom sporu?  
-   `30 dana.`
+133. Što se u upravnom sporu najčešće osporava tužbom?  
+   `Pojedinacna odluka, postupanje ili propust javnopravnog tijela kojim su povrijedena prava ili pravni interesi tuzitelja.`
 
-134. Kada se podnosi tužba zbog šutnje uprave?  
-   `Najranije osam dana nakon proteka propisanog roka za odlučivanje.`
+134. Protiv koje vrste povrede šutnjom uprave se podnosi tužba u upravnom sporu?  
+   `Protiv propustanja javnopravnog tijela da donese odluku ili postupi u zakonom propisanom roku kada je sudska zastita predvidena ZUS-om.`
 
 135. Tko odlučuje o zakonitosti općih akata prema ZUS-u u propisanim slučajevima?  
    `Visoki upravni sud RH.`
@@ -492,11 +493,11 @@ Posebno razlikuj:
 153. Čime se pokreće upravni spor?  
    `Tužbom.`
 
-154. Tko odlučuje o žalbi protiv presude upravnog suda?  
+154. Koji je žalbeni sud u upravnom sporu kad je žalba protiv presude dopuštena?  
    `Visoki upravni sud Republike Hrvatske.`
 
-155. Koji je rok za žalbu protiv presude upravnog suda?  
-   `15 dana od dostave presude.`
+155. U kojem se roku podnosi žalba protiv presude upravnog suda kada je dopuštena?  
+   `U roku od 15 dana od dostave presude.`
 
 156. Što je zaključak u upravnom postupku?  
    `Akt kojim se odlučuje o pitanjima postupka.`
@@ -555,8 +556,8 @@ Posebno razlikuj:
 174. Što ako zadnji dan roka pada na nedjelju, blagdan ili drugi neradni dan?  
    `Rok istječe prvog sljedećeg radnog dana.`
 
-175. Što je rokovnik predmeta?  
-   `Evidencija za praćenje rokova postupanja po predmetima.`
+175. Čemu u praksi služi rokovnik predmeta u uredskom poslovanju?  
+   `Pracenju aktivnih predmeta i rokova po kojima se u njima mora postupati.`
 
 176. Ostaje li fizički predmet u rokovniku ili kod službene osobe do isteka roka?  
    `Kod službene osobe do isteka roka.`
@@ -585,23 +586,23 @@ Posebno razlikuj:
 184. Mogu li pečati biti i drugih promjera?  
    `Da, 25 mm ili 18 mm u propisanim slučajevima.`
 
-185. Je li protiv rješenja o povratu pristojbe dopuštena žalba?  
-   `Ne, ali se može pokrenuti upravni spor.`
+185. Koje pravno sredstvo ostaje protiv rješenja o povratu pristojbe ako žalba nije dopuštena?  
+   `Upravni spor.`
 
-186. Koja je najčešća pogreška kod pitanja o rokovima?  
-   `Pogrešno računanje početka i isteka roka, posebno kad zadnji dan pada na neradni dan.`
+186. Kako kao cjelinu računati rokove u upravnom postupku i upravnom sporu?  
+   `Ne računa se dan dostave ili događaja od kojeg rok teče, rok u danima istječe protekom zadnjeg dana, a ako zadnji dan pada na neradni dan pomiče se na prvi idući radni dan.`
 
-187. Koja je najčešća pogreška kod pitanja o rokovniku i pismohrani?  
-   `Miješanje praćenja aktivnog roka s odlaganjem dovršenog predmeta.`
+187. Kako razlikovati rokovnik i pismohranu u životnom ciklusu predmeta?  
+   `Rokovnik služi praćenju aktivnog predmeta do isteka određenog roka, a pismohrana čuva dovršene predmete nakon što više nisu u aktivnom radu.`
 
-188. Koja je najčešća pogreška kod pitanja o natpisnoj ploči?  
-   `Zaboraviti oblik ploče i potrebu posebnog odobrenja za kulturno dobro.`
+188. Što kao cjelinu treba znati o natpisnoj ploči, zaglavlju akta i vanjskim oznakama javnopravnog tijela?  
+   `To su elementi službenog identiteta i prepoznavanja tijela, a kod kulturnog dobra treba poštovati i posebna pravila zaštite prije isticanja ploče.`
 
-189. Koja je najčešća pogreška kod pitanja o pečatu?  
-   `Miješanje evidencije i uporabe pečata s pravilima o elektroničkom pečatu.`
+189. Kako povezati fizički pečat, žig i kvalificirani elektronički pečat u istom pitanju?  
+   `Svi služe ovjeri i identifikaciji u službenom poslovanju, ali imaju različita pravila evidencije, uporabe i tehničkog oblika ovisno o fizičkom ili elektroničkom okruženju.`
 
-190. Koja je najčešća pogreška kod pitanja o pravnim lijekovima u ZUS-u?  
-   `Miješanje tužbe kao sredstva pokretanja spora sa žalbom protiv presude upravnog suda.`
+190. Kako razlikovati pravne lijekove u ZUP-u od pravne zaštite u ZUS-u?  
+   `U ZUP-u se protiv prvostupanjskog rješenja u pravilu koristi žalba ili u posebnim slučajevima prigovor, dok se ZUS pokreće tužbom, a žalba je vezana uz presudu upravnog suda kad je dopuštena.`
 
 191. Na temelju kojeg načela javnopravno tijelo rješava upravnu stvar na temelju zakona i drugih propisa?  
    `Na temelju načela zakonitosti.`
@@ -620,3 +621,42 @@ Posebno razlikuj:
 
 196. Kako će službena osoba postupiti ako ne postoje uvjeti za pokretanje postupka po zahtjevu stranke?  
    `Rješenjem će odbaciti zahtjev stranke.`
+
+197. Što je jedinstveno upravno mjesto u smislu ZUP-a?  
+   `Mjesto na kojem stranka može dobiti informacije i podnijeti zahtjeve za više upravnih postupaka.`
+
+198. Kada službena osoba mora biti izuzeta iz postupka?  
+   `Kad postoje zakonom propisane okolnosti koje dovode u pitanje njezinu nepristranost ili objektivnost.`
+
+199. Koja je osnovna razlika između zahtjeva stranke i postupka po službenoj dužnosti?  
+   `U prvom slučaju postupak pokreće stranka svojim urednim zahtjevom, a u drugom tijelo samo poduzima radnju radi vođenja postupka.`
+
+200. Što je izreka rješenja i zašto je posebno važna?  
+   `To je dio rješenja koji sadrži odluku o upravnoj stvari i kao takav je ključan za prava i obveze stranke.`
+
+201. Kada žalba u upravnom postupku nema odgodni učinak?  
+   `Kad je to posebnim zakonom propisano ili kad je u skladu sa zakonom isključen odgodni učinak.`
+
+202. Što treba povezati kad se zajedno pitaju žalba, prigovor i tužba?  
+   `Žalba ide protiv prvostupanjskog rješenja, prigovor protiv drugog postupanja u propisanim slučajevima, a tužba pokreće upravni spor pred sudom.`
+
+203. Koja je osnovna svrha upravnog ugovora?  
+   `Urediti izvršenje prava i obveza utvrđenih rješenjem ili na drugi zakonom dopušten način u upravnoj stvari.`
+
+204. Što kao cjelinu treba znati o klasifikacijskoj oznaci, urudžbenom broju i oznaci `a.a.`?  
+   `Klasifikacijska oznaka označava sadržaj, urudžbeni broj stvaratelja i slijed akta, a a.a. označava odlaganje predmeta u pismohranu.`
+
+205. Kako su povezani pečat, žig i natpisna ploča u uredskom poslovanju?  
+   `Služe službenoj identifikaciji i ovjeri javnopravnog tijela, ali svaki institut ima posebna pravila uporabe, evidencije i izgleda.`
+
+206. Kako kao cjelinu treba razlikovati ZUP i ZUS?  
+   `ZUP uređuje upravni postupak pred javnopravnim tijelima, a ZUS sudsku kontrolu zakonitosti tih odluka i postupanja pred upravnim sudovima.`
+
+207. Kako kao cjelinu povezati načela, dokazivanje i rješenje u upravnom postupku?  
+   `Načela usmjeravaju postupanje tijela, dokazivanje služi utvrđivanju stvarnog stanja, a rješenje je završni akt kojim se na toj osnovi odlučuje o upravnoj stvari.`
+
+208. Što najšire povezuje ZUP, ZUS i zaštitu od drugog postupanja javnopravnih tijela?  
+   `Riječ je o povezanom sustavu upravne i sudske zaštite u kojem se prava stranke štite najprije pred tijelom, a zatim po potrebi i pred upravnim sudom.`
+
+209. Kako najšire povezati uredsko poslovanje s upravnim postupkom?  
+   `Uredsko poslovanje osigurava pravilno evidentiranje, označavanje, praćenje i otpremu akata bez čega upravni postupak ne može uredno i dokazivo funkcionirati.`

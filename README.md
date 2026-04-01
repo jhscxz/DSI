@@ -79,10 +79,12 @@ U mapi `skripte/` nalaze se dvije glavne vrste pomoćnih datoteka:
   - dopunjuje se i prema oglednim pitanjima kada ona otkrivaju tipične rupe ili zamke
 
 Preporučeni redoslijed:
-1. prvo proći izvornu temu iz odgovarajuće mape s bilješkama iz sustava e-Učenje
-2. zatim ponoviti cjelinu kroz pripadni `sazetak`
-3. na kraju provjeriti znanje kroz `prosirena_pitanja`
+1. prvo proći službeni `priručnik` ili `priručnike` za predmet
+2. zatim koristiti materijale iz ovog repozitorija komplementarno uz priručnik i e-Učenje, radi lakšeg povezivanja gradiva i uočavanja ispitnih zamki
+3. potom ponoviti cjelinu kroz pripadni `sazetak`
+4. na kraju provjeriti znanje kroz `prosirena_pitanja`
 
 Napomena o izvorima:
+- `sazetak` i `prosirena_pitanja` služe kao komplementarni materijal uz službene priručnike, a ne kao njihova zamjena
 - `sazetak` i `prosirena_pitanja` usklađuju se s priručnicima, ali se po potrebi dopunjuju bitnim detaljima iz bilješki iz sustava e-Učenje kada oni pomažu boljem razumijevanju ili ističu česte ispitne zamke
 - gdje postoje ogledna pitanja, skripte i proširena pitanja dodatno se prilagođavaju i njihovoj logici formulacije

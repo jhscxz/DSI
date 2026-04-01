@@ -1,12 +1,13 @@
-# DSI USTAV Proširena pitanja (215)
+# DSI USTAV Proširena pitanja (228)
 
 Prošireni skup pitanja i kratkih odgovora uz `dsi_ustav_sazetak.md`.
 
 ## Namjena
 
 - dodatno širenje po temama
-- 215 mogućih pitanja s kratkim odgovorima
+- 228 mogućih pitanja s kratkim odgovorima
 - fine formulacije koje ruše bodove
+- završna pitanja namjerno šire predmet na nadležnosti, odnose i tipične kombinacije tema
 
 ## Što dodatno učiti
 
@@ -30,7 +31,7 @@ Posebno razlikuj:
 - `pravo na pristup informacijama` nije apsolutno
 - `zabrana diskriminacije` obuhvaća više zabranjenih osnova
 
-## 215 mogućih pitanja
+## 228 mogućih pitanja
 
 1. Što je Ustav Republike Hrvatske?  
    `Najviši pravni i politički akt Republike Hrvatske.`
@@ -337,8 +338,8 @@ Posebno razlikuj:
 101. Tko može raspisati referendum za promjenu Ustava prema ustavnom okviru?  
    `Hrvatski sabor, a birači mogu neposredno odlučiti na referendumu pod ustavnim uvjetima.`
 
-102. Što su Izvorišne osnove Ustava?  
-   `Preambula Ustava s povijesnim, državotvornim i suverenitetskim uporištima.`
+102. Kako najkraće razlikovati Izvorišne osnove od normativnog dijela Ustava?  
+   `Izvorisne osnove su preambula s povijesnim i drzavotvornim uporistima, a normativni dio sadrzi obvezujuce ustavne odredbe.`
 
 103. Kakav je suverenitet Republike Hrvatske prema Ustavu?  
    `Neotuđiv, nedjeljiv i neprenosiv.`
@@ -484,8 +485,8 @@ Posebno razlikuj:
 150. Što je najčešća zamka kod prava na pristup informacijama i zaštite osobnih podataka?  
    `Pretpostavka da jedno pravo automatski potpuno isključuje drugo bez zakonskog vaganja.`
 
-151. Tko raspisuje izbore za Hrvatski sabor?  
-   `Predsjednik Republike Hrvatske.`
+151. Kada u ustavnom ciklusu Predsjednik Republike raspisuje izbore za Hrvatski sabor?  
+   `Kad su za to ispunjeni ustavni i zakonski uvjeti, a sam akt raspisivanja donosi Predsjednik Republike.`
 
 152. Tko raspisuje izbore za Predsjednika Republike Hrvatske?  
    `Vlada Republike Hrvatske.`
@@ -505,8 +506,8 @@ Posebno razlikuj:
 157. Tko je nadzorno tijelo za zaštitu osobnih podataka u RH?  
    `Agencija za zaštitu osobnih podataka.`
 
-158. Što je osobni podatak?  
-   `Svaka informacija koja se odnosi na osobu čiji je identitet utvrđen ili se može utvrditi.`
+158. Tko je ispitanik u smislu zaštite osobnih podataka?  
+   `Fizicka osoba na koju se osobni podaci odnose i ciji je identitet utvrden ili se moze utvrditi.`
 
 159. Što su posebne kategorije osobnih podataka?  
    `Osjetljivi podaci za koje vrijedi stroži režim obrade, poput podataka o zdravlju, rasnom ili etničkom podrijetlu, političkim stajalištima ili vjerskim uvjerenjima.`
@@ -523,11 +524,11 @@ Posebno razlikuj:
 163. Tko je poseban pravobraniteljski mehanizam za ravnopravnost spolova?  
    `Pravobranitelj za ravnopravnost spolova.`
 
-164. Tko štiti ustavnost i zakonitost izbora i državnog referenduma?  
-   `Ustavni sud Republike Hrvatske.`
+164. Koje posebno izborno područje nadzire Ustavni sud kad štiti ustavnost i zakonitost izbora i referenduma?  
+   `Nadzire ustavnost i zakonitost izbornog i referendumskog postupka te o tome odlucuje u okviru svojih ovlasti.`
 
-165. Jesu li potvrđeni i objavljeni međunarodni ugovori dio unutarnjeg pravnog poretka RH?  
-   `Da.`
+165. Imaju li potvrđeni i objavljeni međunarodni ugovori neposredno mjesto u unutarnjem pravnom poretku RH?  
+   `Da, dio su unutarnjeg pravnog poretka i po pravnoj su snazi iznad zakona ako su sklopljeni u skladu s Ustavom.`
 
 166. Jesu li međunarodni ugovori iznad Ustava RH?  
    `Ne.`
@@ -592,17 +593,17 @@ Posebno razlikuj:
 186. Čime se uređuju pitanja teksta, glazbe, izvođenja i čuvanja himne?  
    `Zakonom.`
 
-187. Što je najčešća pogreška kod pitanja o Predsjedniku Republike i Vladi?  
-   `Miješanje povjeravanja mandata s predlaganjem članova Vlade i miješanje samostalnih predsjedničkih ovlasti s ovlastima koje traže prijedlog ili supotpis Vlade.`
+187. Kako najlakše razlikovati ključne ustavne uloge Sabora, Predsjednika Republike i Vlade RH?  
+   `Sabor donosi zakone i nadzire Vladu, Predsjednik predstavlja državu i ima posebne ustavne ovlasti, a Vlada vodi unutarnju i vanjsku politiku te izvršava zakone.`
 
-188. Što je najčešća pogreška kod pitanja o Vladi RH?  
-   `Miješanje tijela koje daje mandat, tijela koje iskazuje povjerenje i tijela koje donosi rješenja o imenovanju.`
+188. Koje se teme najčešće povezuju kad ispit spaja Vladu RH i Hrvatski sabor u istom pitanju?  
+   `Povjerenje Vladi, državni proračun, predlaganje zakona, nadzor rada Vlade i politička odgovornost Hrvatskom saboru.`
 
-189. Što je najčešća pogreška kod pitanja o državnim znamenjima?  
-   `Zaboraviti da su znamenja grb, zastava i himna, a ne svi državni simboli općenito.`
+189. Kako u jednoj slici povezati državna znamenja, službeni jezik i pismo te ustavni identitet RH?  
+   `To su ustavne oznake državnosti i identiteta: grb, zastava i himna kao znamenja, hrvatski jezik i latinično pismo kao službeni izraz državne vlasti.`
 
-190. Što je najčešća pogreška kod pitanja o supotpisu?  
-   `Pretpostavka da Predsjednik Republike sve akte donosi samostalno, iako Ustav za dio akata traži prijedlog Vlade ili supotpis predsjednika Vlade.`
+190. U kojim vrstama ustavnih pitanja treba odmah provjeriti postoji li prijedlog Vlade ili supotpis predsjednika Vlade?  
+   `Kod dijela akata Predsjednika Republike u području obrane, sigurnosti, vanjske politike, raspuštanja Sabora i uredbi sa zakonskom snagom, kad Ustav to izrijekom traži.`
 
 191. Koja se temeljna načela najčešće ispituju uz temeljne odredbe Ustava RH?  
    `Narodni suverenitet, dioba vlasti, ustavnost i zakonitost te poštivanje prava čovjeka.`
@@ -613,7 +614,7 @@ Posebno razlikuj:
 193. Kojih se pet povijesnih grbova nalazi u kruni grba RH?  
    `Najstariji hrvatski grb, grb Dubrovačke Republike, grb Dalmacije, grb Istre i grb Slavonije.`
 
-194. Koje su najčešće ispitivane nadležnosti Hrvatskoga sabora koje studenti znaju nepotpuno?  
+194. Koje su najčešće ispitivane nadležnosti Hrvatskoga sabora koje polaznici stručnog ispita znaju nepotpuno?  
    `Donošenje i promjena Ustava, donošenje zakona i proračuna, odlučivanje o ratu i miru, referendum, promjena granica, izbori i imenovanja, nadzor rada Vlade te amnestija.`
 
 195. Donosi li Hrvatski sabor strategiju nacionalne sigurnosti i strategiju obrane Republike Hrvatske?  
@@ -676,5 +677,44 @@ Posebno razlikuj:
 214. Kako su raspoređena zastupnička mjesta nacionalnih manjina u XII. izbornoj jedinici?  
    `Srpska manjina bira 3 zastupnika, mađarska 1, talijanska 1, češka i slovačka zajedno 1, austrijska-bugarska-njemačka-poljska-romska-rumunjska-rusinska-ruska-turska-ukrajinska-vlaška-židovska zajedno 1 te albanska-bošnjačka-crnogorska-makedonska-slovenska zajedno 1.`
 
-215. Što je najčešća pogreška kod pitanja o manjinskim zastupnicima?  
-   `Miješanje svih priznatih manjina s izbornim skupinama koje u XII. jedinici zajednički biraju jednog zastupnika.`
+215. Kako najšire povezati političku zastupljenost nacionalnih manjina s njihovim drugim oblicima sudjelovanja u javnom životu?  
+   `Kroz posebne zastupnike u Saboru, vijeća i predstavnike nacionalnih manjina u jedinicama samouprave te Savjet za nacionalne manjine.`
+
+216. Što je ustavna tužba u sustavu zaštite ljudskih prava?  
+   `Posebno pravno sredstvo pred Ustavnim sudom zbog povrede ustavnih prava nakon iscrpljivanja drugih pravnih sredstava, kada je to propisano.`
+
+217. Kada se Ustavni sud najčešće veže uz zaštitu pojedinca, a kada uz zaštitu objektivnog ustavnog poretka?  
+   `Uz ustavnu tužbu kada štiti pojedinačna ustavna prava, a uz ocjenu suglasnosti zakona i drugih propisa kada štiti objektivni ustavni poredak.`
+
+218. O čemu još Ustavni sud odlučuje osim o suglasnosti zakona s Ustavom?  
+   `I o suglasnosti drugih propisa s Ustavom i zakonom, ustavnim tužbama, sukobu nadležnosti te ustavnosti i zakonitosti izbora i referenduma.`
+
+219. Koja je osnovna uloga Državnog sudbenog vijeća u sustavu sudbene vlasti?  
+   `Brinuti o izboru, imenovanju, napredovanju i stegovnoj odgovornosti sudaca u okviru ustavnog i zakonskog sustava.`
+
+220. Koja je osnovna zadaća Agencije za zaštitu osobnih podataka?  
+   `Nadzor zakonitosti obrade osobnih podataka i zaštita prava ispitanika u području zaštite podataka.`
+
+221. Što znači proaktivna objava informacija u sustavu prava na pristup informacijama?  
+   `Obvezu tijela javne vlasti da određene informacije objavljuju i bez pojedinačnog zahtjeva korisnika.`
+
+222. Kada razlika u postupanju prema osobi ne predstavlja zabranjenu diskriminaciju?  
+   `Kad ima zakonit cilj, propisano uporište i razmjerna je naravi situacije ili se temelji na dopuštenoj posebnoj mjeri.`
+
+223. Što su posebne mjere u sustavu ravnopravnosti i zabrane diskriminacije?  
+   `Mjere usmjerene postizanju stvarne jednakosti skupina koje su u nepovoljnijem položaju i ne smatraju se diskriminacijom kad su zakonom dopuštene.`
+
+224. Koja je ustavna uloga političkih stranaka u demokratskom poretku RH?  
+   `One pridonose oblikovanju političke volje građana i djeluju u okviru demokratskog ustavnog poretka.`
+
+225. Kako su povezani referendum, izbori i registar birača u ustavnom sustavu?  
+   `Sva tri instituta oslanjaju se na utvrđen krug birača, zakonit postupak glasovanja i ustavnu zaštitu izbornog i referendumskog procesa.`
+
+226. Kako kao cjelinu povezati Ustav, organske zakone i obične zakone u ustavnom poretku RH?  
+   `Ustav je najviši akt, organski zakoni razrađuju posebno važna ustavna područja po strožim pravilima, a obični zakoni uređuju ostala pitanja u skladu s Ustavom.`
+
+227. Koje se institucije najčešće povezuju kad se pita o zaštiti prava građana u RH?  
+   `Sudovi, Ustavni sud, pučki pravobranitelj, Povjerenik za informiranje i AZOP, svatko u okviru svojih posebnih ovlasti.`
+
+228. Kako najšire povezati ljudska prava, pristup informacijama, zaštitu podataka i zabranu diskriminacije?  
+   `To su različiti, ali povezani mehanizmi zaštite dostojanstva, jednakosti, privatnosti i transparentnosti u ustavnom poretku RH.`

@@ -1,11 +1,12 @@
-# DSI LPRS Proširena pitanja (195)
+# DSI LPRS Proširena pitanja (208)
 
 Prošireni skup pitanja i kratkih odgovora uz `dsi_lprs_sazetak.md`.
 
 ## Namjena
 - dodatno širenje po poglavljima
-- 195 ispitnih pitanja s kratkim odgovorima
+- 208 ispitnih pitanja s kratkim odgovorima
 - fine formulacije i zamke koje se lako miješaju
+- završna pitanja dodatno spajaju ustrojstvo, izbore, financiranje i nadzor
 
 ## Što dodatno učiti
 
@@ -29,7 +30,7 @@ Posebno razlikuj:
 - nadzor je prvenstveno `nadzor zakonitosti`
 - mjesna samouprava nije posebna jedinica lokalne samouprave
 
-## 190 mogućih pitanja
+## 208 mogućih pitanja
 
 1. Koji je ustavni temelj lokalne i područne samouprave u RH?  
    `Ustav Republike Hrvatske.`
@@ -519,8 +520,8 @@ Posebno razlikuj:
 162. Koliko vremena mora proteći od raspisivanja do održavanja lokalnih izbora?  
    `Od 30 do 60 dana.`
 
-163. Kada se održava drugi krug izbora za izvršno tijelo?  
-   `Za 14 dana.`
+163. Kako se određuje drugi krug izbora za izvršno tijelo jedinice?  
+   `Održava se ako u prvom krugu nitko ne dobije potrebnu većinu, i to za 14 dana.`
 
 164. Koliko traje mandat vijeća mjesnog odbora?  
    `Četiri godine.`
@@ -531,8 +532,8 @@ Posebno razlikuj:
 166. Je li pročelnik izvršno tijelo jedinice?  
    `Ne.`
 
-167. Je li mjesni odbor jedinica lokalne samouprave?  
-   `Ne.`
+167. Što je mjesna samouprava u odnosu na jedinicu lokalne samouprave?  
+   `Oblik sudjelovanja građana unutar općine ili grada, a ne posebna jedinica lokalne samouprave.`
 
 168. Što je najčešća pogreška kod pitanja o statutu?  
    `Miješanje statuta kao temeljnog općeg akta s poslovnikom predstavničkog tijela.`
@@ -546,8 +547,8 @@ Posebno razlikuj:
 171. Tko je jedini ovlašteni predlagatelj proračuna jedinice?  
    `Općinski načelnik, gradonačelnik odnosno župan.`
 
-172. Tko donosi proračun jedinice?  
-   `Predstavničko tijelo.`
+172. Tko izvršava proračun jedinice nakon što ga predstavničko tijelo donese?  
+   `Izvršno tijelo jedinice.`
 
 173. Što proračun jedinice sadrži osim plana za proračunsku godinu?  
    `Projekcije za sljedeće dvije godine.`
@@ -555,8 +556,8 @@ Posebno razlikuj:
 174. U kojem se roku proračun i njegove izmjene dostavljaju Ministarstvu financija?  
    `U roku od 15 dana od stupanja na snagu.`
 
-175. Koliko često se mora održati sjednica predstavničkog tijela?  
-   `Najmanje jednom u tri mjeseca.`
+175. Koja je osnovna uloga predsjednika predstavničkog tijela u radu vijeća ili skupštine?  
+   `Sazivati i voditi sjednice predstavničkog tijela te brinuti o organizaciji njegova rada prema poslovniku.`
 
 176. Tko može sazvati sjednicu ako je predsjednik predstavničkog tijela ne sazove na zahtjev trećine članova?  
    `Općinski načelnik, gradonačelnik ili župan u roku od 8 dana.`
@@ -564,11 +565,11 @@ Posebno razlikuj:
 177. Kojom se većinom donose statut, proračun i godišnji izvještaj o izvršenju proračuna?  
    `Većinom glasova svih članova predstavničkog tijela.`
 
-178. Tko raspisuje lokalne izbore?  
-   `Vlada Republike Hrvatske.`
+178. Kako najkraće razlikovati redovne od prijevremenih lokalnih izbora?  
+   `Redovni se održavaju u redovitom četverogodišnjem ciklusu, a prijevremeni kada mandat tijela prestane prije isteka vremena.`
 
-179. Kada se održavaju redovni lokalni izbori?  
-   `Treće nedjelje u svibnju svake četvrte godine.`
+179. Koliko traje redovni mandat općinskog načelnika, gradonačelnika i župana?  
+   `Četiri godine.`
 
 180. Koliki je izborni prag za raspodjelu mandata u predstavničkom tijelu?  
    `5 %.`
@@ -585,8 +586,8 @@ Posebno razlikuj:
 184. Kada se referendum za opoziv ne može raspisati?  
    `Prije isteka 6 mjeseci od održanih izbora ni prije isteka 6 mjeseci od ranije održanog referenduma za opoziv.`
 
-185. Tko upravlja upravnim tijelom jedinice?  
-   `Pročelnik.`
+185. Kako najkraće razlikovati upravna tijela jedinice od predstavničkog i izvršnog tijela?  
+   `Upravna tijela obavljaju stručne i upravne poslove, a predstavničko i izvršno tijelo nose političko odlučivanje i upravljanje jedinicom.`
 
 186. Je li pročelnik tijelo jedinice lokalne ili područne samouprave?  
    `Ne.`
@@ -594,14 +595,14 @@ Posebno razlikuj:
 187. Tko dodjeljuje javna priznanja jedinice?  
    `Predstavničko tijelo.`
 
-188. Što je najčešća pogreška kod pitanja o proračunu i financiranju?  
-   `Miješanje predlaganja proračuna, njegova donošenja i privremenog financiranja.`
+188. Kako kao cjelinu povezati proračun, njegovo donošenje i privremeno financiranje u jedinici?  
+   `Izvršno tijelo predlaže proračun, predstavničko tijelo ga donosi, a ako nije donesen na vrijeme mogu nastupiti privremeno financiranje i druge zakonske posljedice.`
 
-189. Što je najčešća pogreška kod pitanja o lokalnim izborima?  
-   `Miješanje razmjernog sustava za predstavničko tijelo s većinskim sustavom za izvršno tijelo.`
+189. Kako najkraće razlikovati izbor predstavničkog tijela od izbora izvršnog tijela jedinice?  
+   `Predstavničko tijelo bira se razmjernim sustavom, a općinski načelnik, gradonačelnik i župan većinskim sustavom.`
 
-190. Što je najčešća pogreška kod pitanja o povjereniku Vlade?  
-   `Pretpostavka da povjerenik ima puni politički mandat, iako samo privremeno obavlja nužne poslove do izbora.`
+190. Koja je stvarna uloga povjerenika Vlade Republike Hrvatske u lokalnom sustavu?  
+   `To je privremeno rješenje za obavljanje nužnih poslova i osiguranje funkcioniranja jedinice do izbora ili uspostave redovitog rada tijela.`
 
 191. Kakve trebaju biti nadležnosti lokalnih jedinica prema Europskoj povelji o lokalnoj samoupravi?  
    `Pune i cjelovite, odnosno jasne i u pravilu neograničive osim zakonom.`
@@ -615,5 +616,44 @@ Posebno razlikuj:
 194. Čija je suglasnost potrebna da županija povjeri obavljanje poslova iz svoga samoupravnog djelokruga?  
    `Tijela državne uprave nadležnog za poslove lokalne i područne (regionalne) samouprave.`
 
-195. Tko u Gradu Zagrebu obavlja povjerene poslove državne uprave?  
-   `Nadležna upravna tijela Grada Zagreba. Za obavljanje poslova iz djelokruga Grada ustrojavaju se upravna tijela Grada Zagreba, a to su gradski uredi, zavodi i službe.`
+195. Kako kao cjelinu treba gledati poseban položaj Grada Zagreba u sustavu lokalne i područne samouprave?  
+   `Grad Zagreb istodobno ima položaj grada i županije, ima poseban zakon i vlastita upravna tijela, a u tom okviru obavlja i poslove koji proizlaze iz njegova dvojnog statusa.`
+
+196. Što je veliki grad u sustavu lokalne samouprave?  
+   `Grad s više od 35.000 stanovnika koji je gospodarsko i društveno središte šireg okruženja, uz zakonske pretpostavke.`
+
+197. Koja je osnovna razlika između samoupravnog djelokruga i povjerenih poslova?  
+   `Samoupravni djelokrug pripada jedinici po njezinoj ustavnoj i zakonskoj autonomiji, a povjereni poslovi obavljaju se u ime države na temelju zakona.`
+
+198. Tko nadzire zakonitost općih akata jedinica lokalne i područne samouprave?  
+   `Nadležna tijela državne uprave u okviru nadzora zakonitosti, uz druge zakonom predviđene mehanizme zaštite.`
+
+199. Mogu li se jedinice lokalne i područne samouprave udruživati i surađivati?  
+   `Da, imaju pravo na međusobnu suradnju i udruživanje u skladu sa zakonom i Europskom poveljom o lokalnoj samoupravi.`
+
+200. Što znači da su jedinice lokalne i područne samouprave pravne osobe?  
+   `Da imaju vlastita prava i obveze, imovinu, proračun i mogu nastupati u pravnom prometu u okviru zakona.`
+
+201. Koji je temeljni značaj statuta jedinice?  
+   `On je temeljni opći akt kojim se uređuju osnovna pitanja ustrojstva, djelokruga i rada jedinice.`
+
+202. Tko može predložiti raspisivanje lokalnog referenduma u okviru zakona?  
+   `Predstavničko tijelo, izvršno tijelo i građani pod uvjetima propisanim zakonom i statutom.`
+
+203. Koja je uloga zbora građana u lokalnom sustavu?  
+   `To je oblik neposrednog sudjelovanja građana u raspravi i davanju prijedloga o lokalnim poslovima.`
+
+204. Što treba znati o imovini i prihodima jedinice kao cjelini?  
+   `Jedinica ima vlastitu imovinu i prihode kojima samostalno raspolaže u okviru zakona i proračunskog sustava.`
+
+205. Kako su povezani mjesna samouprava, referendum i drugi oblici sudjelovanja građana?  
+   `Svi služe uključivanju građana u lokalno odlučivanje, ali imaju različitu pravnu snagu, postupak i područje primjene.`
+
+206. Kako kao cjelinu treba razlikovati općinu, grad, veliki grad, županiju i Grad Zagreb?  
+   `Riječ je o različitim vrstama jedinica i statusa s različitim djelokrugom, tijelima i posebnim zakonskim obilježjima.`
+
+207. Što najšire povezuje proračun, privremeno financiranje i odgovornost tijela jedinice?  
+   `Predlaganje, donošenje i izvršenje proračuna raspoređeni su između izvršnog i predstavničkog tijela, a neuspjeh u tom slijedu može izazvati ozbiljne statusne posljedice.`
+
+208. Kako najšire povezati lokalne izbore, mandat i nadzor zakonitosti rada jedinice?  
+   `Izbori daju demokratski legitimitet tijelima jedinice, mandat određuje trajanje njihovih ovlasti, a nadzor zakonitosti ograničava i kontrolira njihovo postupanje.`

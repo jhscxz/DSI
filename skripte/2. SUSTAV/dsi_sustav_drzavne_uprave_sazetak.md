@@ -45,6 +45,42 @@ onda imaš jezgru predmeta.
 
 ---
 
+## Mentalna mapa cjeline
+
+```text
+SUSTAV DRZAVNE UPRAVE
+|
++-- temeljni propisi
+|   +-- ustrojstvo i djelokrug tijela
+|   +-- sustav drzavne uprave
+|
++-- tijela drzavne uprave
+|   +-- ministarstva
+|   +-- drzavne upravne organizacije
+|   +-- upravne organizacije u sastavu ministarstva
+|
++-- akti i unutarnje ustrojstvo
+|   +-- zakon, uredba, pravilnik
+|   +-- provedbeni propis, naredba, interni opci akt
+|   +-- sektor, sluzba, odjel, odsjek, pododsjek
+|
++-- poslovi i nacin rada
+|   +-- provedba politike i zakona
+|   +-- inspekcijski i upravni nadzor
+|   +-- predstavke, odgovornost za stetu
+|
++-- sluzbene osobe i rukovodenje
+|   +-- duznosnici
+|   +-- rukovodeci drzavni sluzbenici
+|   +-- ovlastene sluzbene osobe
+|
++-- Vlada RH
+    +-- ustrojstvo, uzi kabinet, radna tijela
+    +-- strucne sluzbe i nacin rada
+```
+
+---
+
 ## 1. Ustrojstvo državne uprave
 
 ### 1.1. Temeljni propisi
@@ -497,10 +533,12 @@ NADZOR
 +-- inspekcijski
 |   +-- primjena propisa
 |   +-- mjere, zabrane, otklanjanje nezakonitosti
+|   +-- prema nadziranim subjektima
 |
 +-- upravni
     +-- zakonitost i pravilnost rada
     +-- prema tijelima i nositeljima javnih ovlasti
+    +-- moze dati upute i narediti otklanjanje nedostataka
 ```
 
 `Inspekcijski nadzor`
@@ -531,10 +569,14 @@ POVJERAVANJE
 +-- može se povjeriti
 |   +-- JLPRS
 |   +-- pravnim osobama s javnim ovlastima
+|   +-- posebnim zakonom
 |
 +-- ne može se povjeriti
-    +-- provedba državne politike
-    +-- upravni nadzor
+|   +-- provedba državne politike
+|   +-- upravni nadzor
+|
++-- sredstva
+    +-- u pravilu drzavni proracun
 ```
 
 Pojedini poslovi državne uprave mogu se posebnim zakonom povjeriti:
@@ -581,6 +623,7 @@ NORMATIVNI AKTI
 +-- provedbeni propisi
 |   +-- pravilnik
 |   +-- naputak
+|   +-- samo uz izricitu zakonsku ovlast
 |
 +-- nisu provedbeni propisi
     +-- uredba
