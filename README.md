@@ -79,7 +79,7 @@ U mapi `skripte/` nalaze se dvije glavne vrste pomoćnih datoteka:
   - dopunjuje se i prema oglednim pitanjima kada ona otkrivaju tipične rupe ili zamke
 
 Preporučeni redoslijed:
-1. prvo proći službeni `priručnik` ili `priručnike` za predmet
+1. prvo proći službene `priručnike`
 2. zatim koristiti materijale iz ovog repozitorija komplementarno uz priručnik i e-Učenje, radi lakšeg povezivanja gradiva i uočavanja ispitnih zamki
 3. potom ponoviti cjelinu kroz pripadni `sazetak`
 4. na kraju provjeriti znanje kroz `prosirena_pitanja`
