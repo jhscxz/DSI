@@ -75,7 +75,7 @@ U mapi `skripte/` nalaze se dvije glavne vrste pomoćnih datoteka:
 
 - `*_prosirena_pitanja.md`
   - prošireni skup pitanja i kratkih odgovora za ponavljanje
-  - služi za aktivno preslišavanje nakon učenja iz bilješki i sažetka
+  - služi za aktivno prelistavanje nakon učenja iz bilješki i sažetka
   - dopunjuje se i prema oglednim pitanjima kada ona otkrivaju tipične rupe ili zamke
 
 Preporučeni redoslijed:
